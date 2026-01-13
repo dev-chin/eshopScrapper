@@ -40,7 +40,7 @@ def addToNSUIDs(region: str):
 
     if (len(NSUIDs) == 0): 
         print("Not even one valid NSUID was found for %s! Error" % region)
-        continue
+        return
     file = open("ValidNsuIds/%s.json" % region, "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
@@ -48,4 +48,5 @@ def addToNSUIDs(region: str):
 os.makedirs("ValidNsuIds", exist_ok=True)
 with ThreadPoolExecutor(max_workers=2) as executor:
     executor.map(addToNSUIDs, REGIONS)
+
 
