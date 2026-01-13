@@ -27,6 +27,13 @@ jobs:
       - name: Download titledb file
         run: |
           wget https://github.com/blawar/titledb/raw/refs/heads/master/US.en.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/BR.pt.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/CA.en.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/AR.es.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/CL.es.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/CO.es.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/PE.es.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/MX.es.json
       
       # 5. Run your Python script
       - name: Install libraries
