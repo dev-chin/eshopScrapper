@@ -72,5 +72,4 @@ def scrapEshop(region: str, lang: str):
         print(f"\nScraping {region} completed!")
 
 with ThreadPoolExecutor(max_workers=2) as executor:
-    executor.map(addToNSUIDs, REGIONS, LANGS)
-
+    executor.map(scrapEshop, REGIONS, LANGS)
