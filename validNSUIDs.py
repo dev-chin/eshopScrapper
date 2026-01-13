@@ -13,8 +13,10 @@ url = "https://api.ec.nintendo.com/v1/price"
 
 base_nsuid = 70010000000000
 
-REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX"]
-#REGIONS += ["GB", "KR", "FR", "DE", "ES", "IT", "NL", "PT", "RU"] //Main regions that we currently don't know how to extract titleids from
+REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ"]
+
+#Regions that we currently don't know how to extract titleids from
+#REGIONS += ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB"]
 
 params = {
     "country": "HK",
@@ -55,10 +57,3 @@ for a in range(len(REGIONS)):
     file = open("ValidNsuIds/%s.json" % REGIONS[a], "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
-
-
-
-
-
-
-
