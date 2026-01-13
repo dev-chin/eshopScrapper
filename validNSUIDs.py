@@ -65,3 +65,4 @@ for region in REGIONS:
 for thread in threads:
     thread.join()
 
+
