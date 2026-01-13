@@ -3,6 +3,8 @@ import re
 import requests
 import os
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
+import threading
 
 REGIONS = ["HK", "AU", "NZ"]
 LANGS = ["zh", "en", "en"]
@@ -71,3 +73,4 @@ def scrapEshop(region: str, lang: str):
 
 with ThreadPoolExecutor(max_workers=2) as executor:
     executor.map(addToNSUIDs, REGIONS, LANGS)
+
