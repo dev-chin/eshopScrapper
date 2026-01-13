@@ -1,5 +1,3 @@
-# This can take up to 3 hours on github servers
-
 import requests
 import json
 import os
@@ -50,3 +48,4 @@ def addToNSUIDs(region: str):
 os.makedirs("ValidNsuIds", exist_ok=True)
 with ThreadPoolExecutor(max_workers=2) as executor:
     executor.map(addToNSUIDs, REGIONS)
+
