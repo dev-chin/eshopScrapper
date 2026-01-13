@@ -7,13 +7,13 @@ REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ
 #Regions that we currently don't know how to extract titleids from
 #REGIONS += ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB"]
 
-check_at_once = 50 # Max before site returns "Over ids limit number"
 
 semaphore = threading.Semaphore(2)
 threads = []
 
 def addToNSUIDs(region: str):
     m_region = region
+    check_at_once = 50 # Max before site returns "Over ids limit number"
     base_nsuid = 70010000000000
     url = "https://api.ec.nintendo.com/v1/price"
     NSUIDs = []
@@ -64,3 +64,4 @@ for region in REGIONS:
 # Wait for all to complete
 for thread in threads:
     thread.join()
+
