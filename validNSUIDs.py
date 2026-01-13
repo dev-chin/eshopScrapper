@@ -11,19 +11,17 @@ REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ
 check_at_once = 50 # Max before site returns "Over ids limit number"
 
 def addToNSUIDs(region: str):
+    m_region = region
     base_nsuid = 70010000000000
     url = "https://api.ec.nintendo.com/v1/price"
-    params = {
-        "country": region,
-        "ids": [],
-        "lang": "jp"
-    }
     NSUIDs = []
     print("Processing %s eshop" % region)
     for i in range(0, 200000, check_at_once):
-        params["ids"] = []
-        for x in range(check_at_once):
-            params["ids"].append(str(base_nsuid + i + x))
+        params = {
+            "country": m_region,
+            "ids": [str(base_nsuid + i + x) for x in range(check_at_once)],
+            "lang": "jp"
+        }
     
         try:
             response = requests.get(url, params=params, timeout=10)
@@ -41,12 +39,10 @@ def addToNSUIDs(region: str):
     if (len(NSUIDs) == 0): 
         print("Not even one valid NSUID was found for %s! Error" % region)
         return
-    file = open("ValidNsuIds/%s.json" % region, "w", encoding="UTF-8")
+    file = open(f"ValidNsuIds/{region}.json", "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
 
 os.makedirs("ValidNsuIds", exist_ok=True)
 with ThreadPoolExecutor(max_workers=2) as executor:
     executor.map(addToNSUIDs, REGIONS)
-
-
