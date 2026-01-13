@@ -44,5 +44,5 @@ def addToNSUIDs(region: str):
     file.close()
 
 os.makedirs("ValidNsuIds", exist_ok=True)
-with ThreadPoolExecutor(max_workers=2) as executor:
+with ThreadPoolExecutor(max_workers=1) as executor:
     executor.map(addToNSUIDs, REGIONS)
