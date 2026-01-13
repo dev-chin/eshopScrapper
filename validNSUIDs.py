@@ -8,7 +8,7 @@ REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ
 #REGIONS += ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB"]
 
 
-semaphore = threading.Semaphore(2)
+semaphore = threading.Semaphore(1)
 threads = []
 
 def addToNSUIDs(region: str):
@@ -64,5 +64,6 @@ for region in REGIONS:
 # Wait for all to complete
 for thread in threads:
     thread.join()
+
 
 
