@@ -1,7 +1,6 @@
 import requests
 import json
 import os
-from concurrent.futures import ThreadPoolExecutor
 import threading
 
 REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ"]
@@ -9,6 +8,9 @@ REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ
 #REGIONS += ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB"]
 
 check_at_once = 50 # Max before site returns "Over ids limit number"
+
+semaphore = threading.Semaphore(2)
+threads = []
 
 def addToNSUIDs(region: str):
     m_region = region
@@ -43,6 +45,22 @@ def addToNSUIDs(region: str):
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
 
+def wrapper(region):
+    with semaphore:  # Acquire semaphore, blocks if 2 threads already running
+        print(f"Thread {threading.current_thread().name} processing {region}")
+        try:
+            addToNSUIDs(region)
+            print(f"✓ {region} completed by {threading.current_thread().name}")
+        except Exception as e:
+            print(f"✗ {region} failed: {e}")
+
 os.makedirs("ValidNsuIds", exist_ok=True)
-with ThreadPoolExecutor(max_workers=1) as executor:
-    executor.map(addToNSUIDs, REGIONS)
+# Create all threads but semaphore limits concurrent execution
+for region in REGIONS:
+    thread = threading.Thread(target=wrapper, args=(region,), name=f"Thread-{region}")
+    thread.start()
+    threads.append(thread)
+
+# Wait for all to complete
+for thread in threads:
+    thread.join()
