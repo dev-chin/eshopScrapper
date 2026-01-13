@@ -3,6 +3,8 @@
 import requests
 import json
 import os
+from concurrent.futures import ThreadPoolExecutor
+import threading
 
 # Authorization token
 glob_headers = {}
@@ -18,21 +20,18 @@ REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ
 #Regions that we currently don't know how to extract titleids from
 #REGIONS += ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB"]
 
-params = {
-    "country": "HK",
-    "ids": [],
-    "lang": "jp"
-}
-
 os.makedirs("ValidNsuIds", exist_ok=True)
 
 check_at_once = 50 # Max before site returns "Over ids limit number"
 
-NSUIDs = []
-for a in range(len(REGIONS)):
+def addToNSUIDs(region: str):
+    params = {
+        "country": region,
+        "ids": [],
+        "lang": "jp"
+    }
     NSUIDs = []
-    params["country"] = REGIONS[a]
-    print("Processing %s eshop" % REGIONS[a])
+    print("Processing %s eshop" % region)
     for i in range(0, 200000, check_at_once):
         params["ids"] = []
         for x in range(check_at_once):
@@ -52,8 +51,11 @@ for a in range(len(REGIONS)):
                     NSUIDs.append(data[x]["title_id"])
 
     if (len(NSUIDs) == 0): 
-        print("Not even one valid NSUID was found! Error")
+        print("Not even one valid NSUID was found for %s! Error" % region)
         continue
-    file = open("ValidNsuIds/%s.json" % REGIONS[a], "w", encoding="UTF-8")
+    file = open("ValidNsuIds/%s.json" % region, "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
+
+with ThreadPoolExecutor(max_workers=2) as executor:
+    executor.map(addToNSUIDs, REGIONS)
