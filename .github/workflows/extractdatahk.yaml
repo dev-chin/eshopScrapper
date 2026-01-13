@@ -27,11 +27,13 @@ jobs:
       - name: Download titledb file
         run: |
           wget https://github.com/blawar/titledb/raw/refs/heads/master/HK.zh.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/AU.en.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/NZ.en.json
       
       # 5. Run your Python script
       - name: Install libraries
         run: |
-          pip install requests selenium webdriver-manager
+          pip install requests
 
       - name: Run Python script
         run: |
