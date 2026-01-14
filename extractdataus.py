@@ -36,7 +36,7 @@ def scrapEshop(nsu_id: int):
             json_line = match.group(1).strip()
 
             # Check if that line contains valid title data
-            if json_line.find("\"title_id\"") == -1:
+            if json_line.find("\"applicationId\"") == -1:
                 return
             
             # Parse and re-save as proper JSON to ensure it's valid
@@ -90,4 +90,5 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=1) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
