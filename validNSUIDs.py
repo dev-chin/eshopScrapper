@@ -4,24 +4,16 @@ import requests
 import json
 import os
 
-# Authorization token
-glob_headers = {}
-
-callcount = 0
-
 url = "https://api.ec.nintendo.com/v1/price"
-
 base_nsuid = 70010000000000
+check_at_once = 50 # Max before site returns "Over ids limit number"
 
 REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ"]
-
 #Regions that we currently don't know how to extract titleids from
 #REGIONS += ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB"]
 
+
 os.makedirs("ValidNsuIds", exist_ok=True)
-
-check_at_once = 50 # Max before site returns "Over ids limit number"
-
 for a in range(len(REGIONS)):
     NSUIDs = []
     print("Processing %s eshop" % REGIONS[a])
