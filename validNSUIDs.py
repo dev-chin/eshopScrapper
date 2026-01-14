@@ -42,5 +42,3 @@ for a in range(len(REGIONS)):
     file = open("ValidNsuIds/%s.json" % REGIONS[a], "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
-
-
