@@ -3,26 +3,13 @@ import re
 import requests
 import os
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
+import threading
 
-# Create output directory if it doesn't exist
-Path("scrap/JP").mkdir(parents=True, exist_ok=True)
-
-# Load the JSON file with NSU IDs
-with open("ValidNsuIds/JP.json", "r", encoding="utf-8") as f:
-    nsu_ids = json.load(f)
-
-# Load the JSON file with NSU IDs
-with open("JP.ja.json", "r", encoding="utf-8") as f:
-    titledb_IDs = list(json.load(f).keys())
-    titledb_IDs[:] = [int(s) for s in titledb_IDs if s.startswith("7001")]
-
-# Iterate through each ID
-for nsu_id in nsu_ids:
-    if (nsu_id in titledb_IDs):
-        continue
+def scrapEshop(nsu_id: int):
     # Create the URL
     if (os.path.isfile("scrap/JP/%d.json" % nsu_id) == True):
-        continue
+        return
     url = f"https://ec.nintendo.com/JP/ja/titles/{nsu_id}"
     
     print(f"Processing {nsu_id}...")
@@ -42,7 +29,7 @@ for nsu_id in nsu_ids:
 
             # Check if that line contains valid title data
             if json_line.find("c_applicationId") == -1:
-                continue
+                return
             
             # Parse and re-save as proper JSON to ensure it's valid
             json_data = json.loads(json_line)
@@ -63,5 +50,19 @@ for nsu_id in nsu_ids:
     except Exception as e:
         print(f"✗ Unexpected error for {nsu_id}: {e}")
 
+# Create output directory if it doesn't exist
+Path("scrap/JP").mkdir(parents=True, exist_ok=True)
 
-print("\nScraping completed!")
+# Load the JSON file with NSU IDs
+with open("ValidNsuIds/JP.json", "r", encoding="utf-8") as f:
+    nsu_ids = json.load(f)
+
+# Load the JSON file with NSU IDs
+with open("JP.ja.json", "r", encoding="utf-8") as f:
+    titledb_IDs = list(json.load(f).keys())
+    titledb_IDs[:] = [int(s) for s in titledb_IDs if s.startswith("7001")]
+
+nsu_ids_filtered = [s for s in nsu_ids if s not in titleidb_IDs]
+
+with ThreadPoolExecutor(max_workers=2) as executor:
+    executor.map(scrapEshop, nsu_ids_filtered)
