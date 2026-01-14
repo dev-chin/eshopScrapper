@@ -95,6 +95,5 @@ for x in range(len(REGIONS)):
     base_url = f"https://ec.nintendo.com/{REGIONS[x]}/{LANGS[x]}/titles/"
     region = REGIONS[x]
 
-    with ThreadPoolExecutor(max_workers=1) as executor: #Setting more is risky because rate limits can kick in
+    with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
-
