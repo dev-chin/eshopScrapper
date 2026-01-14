@@ -17,7 +17,7 @@ os.makedirs("ValidNsuIds", exist_ok=True)
 for a in range(len(REGIONS)):
     print("Processing %s eshop" % REGIONS[a])
     try:
-        file = open(f"ValidNsuIds/{REGIONS[a]}.json", "w", encoding="UTF-8")
+        file = open(f"ValidNsuIds/{REGIONS[a]}.json", "r", encoding="UTF-8")
     except:
         NSUIDs = []
     else:
@@ -50,4 +50,5 @@ for a in range(len(REGIONS)):
     file = open(f"ValidNsuIds/{REGIONS[a]}.json", "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
+
 
