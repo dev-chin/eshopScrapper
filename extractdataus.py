@@ -12,14 +12,15 @@ LANGS = ["en", "pt", "en", "es", "es", "es", "es", "es"]
 DEFAULT_PAGES = ["us", "pt-br", "en-ca", "es-ar", "es-cl", "es-co", "es-pe", "es-mx"]
 
 itr = 0
+default_page = ""
 
 def scrapEshop(nsu_id: int):
     global itr
+    global default_page
     region = REGIONS[itr]
     lang = LANGS[itr]
     # Create the URL
     url = f"https://ec.nintendo.com/{region}/{lang}/titles/{nsu_id}"
-    default_page = f
     
     print(f"Processing {region} {nsu_id}...")
 
@@ -27,7 +28,7 @@ def scrapEshop(nsu_id: int):
         # Download the HTML page
         response = requests.get(url, timeout=30, stream=True)
         response.raise_for_status()
-        if (response.url == f"https://www.nintendo.com/{DEFAULT_PAGES[itr]}/store/games/"):
+        if (response.url == default_page):
             return
         html_content = response.text
         
@@ -91,6 +92,8 @@ for x in range(len(REGIONS)):
     print(f"nsu_ids_filtered {REGIONS[x]} count: {len(nsu_ids_filtered)}")
 
     itr = x
+    default_page = f"https://www.nintendo.com/{DEFAULT_PAGES[x]}/store/games/"
 
     with ThreadPoolExecutor(max_workers=1) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
+
