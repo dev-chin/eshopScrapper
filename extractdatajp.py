@@ -64,5 +64,5 @@ with open("JP.ja.json", "r", encoding="utf-8") as f:
 
 nsu_ids_filtered = [s for s in nsu_ids if s not in titledb_IDs]
 
-with ThreadPoolExecutor(max_workers=3) as executor:
+with ThreadPoolExecutor(max_workers=2) as executor:
     executor.map(scrapEshop, nsu_ids_filtered)
