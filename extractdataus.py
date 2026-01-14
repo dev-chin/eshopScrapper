@@ -11,16 +11,15 @@ REGIONS = ["US", "BR", "CA", "AR", "CL", "CO", "PE", "MX"]
 LANGS = ["en", "pt", "en", "es", "es", "es", "es", "es"]
 DEFAULT_PAGES = ["us", "pt-br", "en-ca", "es-ar", "es-cl", "es-co", "es-pe", "es-mx"]
 
-itr = 0
 default_page = ""
+base_url = ""
+region = ""
 
 def scrapEshop(nsu_id: int):
-    global itr
     global default_page
-    region = REGIONS[itr]
-    lang = LANGS[itr]
+    global base_url
     # Create the URL
-    url = f"https://ec.nintendo.com/{region}/{lang}/titles/{nsu_id}"
+    url = f"{base_url}{nsu_id}"
     
     print(f"Processing {region} {nsu_id}...")
 
@@ -91,9 +90,9 @@ for x in range(len(REGIONS)):
     nsu_ids_filtered = [s for s in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/{REGIONS[x]}/{s}.json") == False)]
     print(f"nsu_ids_filtered {REGIONS[x]} count: {len(nsu_ids_filtered)}")
 
-    itr = x
     default_page = f"https://www.nintendo.com/{DEFAULT_PAGES[x]}/store/games/"
+    base_url = f"https://ec.nintendo.com/{REGIONS[x]}/{LANGS[x]}/titles/"
+    region = REGIONS[x]
 
     with ThreadPoolExecutor(max_workers=1) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
-
