@@ -15,12 +15,20 @@ REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ
 
 os.makedirs("ValidNsuIds", exist_ok=True)
 for a in range(len(REGIONS)):
-    NSUIDs = []
     print("Processing %s eshop" % REGIONS[a])
+    try:
+        file = open(f"ValidNsuIds/{REGIONS[a]}.json", "w", encoding="UTF-8")
+    except:
+        NSUIDs = []
+    else:
+        NSUIDs = json.load(file)
+        file.close()
+    
     for i in range(0, 200000, check_at_once):
+        values = [(base_nsuid + i + x) for x in range(check_at_once)]
         params = {
             "country": REGIONS[a],
-            "ids": [str(base_nsuid + i + x) for x in range(check_at_once)],
+            "ids": [str(s) in s in values if s not in NSUIDs],
             "lang": "jp"
         }
         try:
@@ -39,6 +47,6 @@ for a in range(len(REGIONS)):
     if (len(NSUIDs) == 0): 
         print("Not even one valid NSUID was found! Error")
         continue
-    file = open("ValidNsuIds/%s.json" % REGIONS[a], "w", encoding="UTF-8")
+    file = open(f"ValidNsuIds/{REGIONS[a]}.json", "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
