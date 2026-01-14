@@ -9,6 +9,7 @@ import sys
 
 REGIONS = ["US", "BR", "CA", "AR", "CL", "CO", "PE", "MX"]
 LANGS = ["en", "pt", "en", "es", "es", "es", "es", "es"]
+DEFAULT_PAGES = ["us", "pt-br", "en-ca", "es-ar", "es-cl", "es-co", "es-pe", "es-mx"]
 
 itr = 0
 
@@ -18,13 +19,16 @@ def scrapEshop(nsu_id: int):
     lang = LANGS[itr]
     # Create the URL
     url = f"https://ec.nintendo.com/{region}/{lang}/titles/{nsu_id}"
+    default_page = f
     
     print(f"Processing {region} {nsu_id}...")
 
     try:
         # Download the HTML page
-        response = requests.get(url, timeout=30)
+        response = requests.get(url, timeout=30, stream=True)
         response.raise_for_status()
+        if (response.url == f"https://www.nintendo.com/{DEFAULT_PAGES[itr]}/store/games/"):
+            return
         html_content = response.text
         
         # Find the line containing "NXSTORE.titleDetail.jsonData ="
@@ -90,5 +94,3 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=1) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
-
-
