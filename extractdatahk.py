@@ -67,11 +67,12 @@ for x in range(len(REGIONS)):
         titledb_IDs = list(json.load(f).keys())
         titledb_IDs[:] = [int(s) for s in titledb_IDs if s.startswith("7001")]
     
-    nsu_ids_filtered_temp = [s for s in nsu_ids if s not in titledb_IDs]
-    nsu_ids_filtered = [s for s in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/{REGIONS[x]}/{s}.json") == False)]
+    nsu_ids_filtered = [s for s in nsu_ids if s not in titledb_IDs]
+    #nsu_ids_filtered = [s for s in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/{REGIONS[x]}/{s}.json") == False)]
 
     scrapEshop.itr = x
 
     with ThreadPoolExecutor(max_workers=2) as executor:
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
