@@ -53,8 +53,9 @@ def scrapEshop(nsu_id: int):
             else:
                 print(f"✗ Could not find jsonData in {region} {nsu_id}")
 
-        except requests.exceptions.HTTPError:
-            if (requests. == 403):
+        except requests.exceptions.HTTPError as httperror:
+            http_err = httperror.response.status_code
+            if (http_err == 403):
                 print(f"✗ Rate exhaustion reached, wait 10 seconds before continuing.")
                 time.sleep(10)
                 continue
@@ -94,4 +95,5 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=2) as executor:
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
