@@ -52,8 +52,8 @@ def scrapEshop(nsu_id: int):
         print(f"✗ Error parsing JSON for {region} {nsu_id}: {e}")
     except Exception as e:
         print(f"✗ Unexpected error for {region} {nsu_id}: {e}")
-scrapEshop.itr = 0
 
+scrapEshop.itr = 0
 for x in range(len(REGIONS)):
     # Create output directory if it doesn't exist
     Path(f"scrap/{REGIONS[x]}").mkdir(parents=True, exist_ok=True)
@@ -67,10 +67,11 @@ for x in range(len(REGIONS)):
         titledb_IDs = list(json.load(f).keys())
         titledb_IDs[:] = [int(s) for s in titledb_IDs if s.startswith("7001")]
 
-    print(f"nsu_ids count: {len(nsu_ids)}")
-    nsu_ids_filtered = [s for s in nsu_ids if s not in titledb_IDs]
-    print(f"nsu_ids_filtered count: {len(nsu_ids_filtered)}")
-    #nsu_ids_filtered = [s for s in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/{REGIONS[x]}/{s}.json") == False)]
+    print(f"nsu_ids {REGIONS[x]} count: {len(nsu_ids)}")
+    nsu_ids_filtered_temp = [s for s in nsu_ids if s not in titledb_IDs]
+    print(f"nsu_ids_filtered_temp {REGIONS[x]} count: {len(nsu_ids_filtered_temp)}")
+    nsu_ids_filtered = [s for s in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/{REGIONS[x]}/{s}.json") == False)]
+    print(f"nsu_ids_filtered {REGIONS[x]} count: {len(nsu_ids_filtered)}")
 
     scrapEshop.itr = x
 
