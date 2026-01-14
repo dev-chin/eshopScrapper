@@ -9,7 +9,6 @@ import sys
 
 REGIONS = ["US", "BR", "CA", "AR", "CL", "CO", "PE", "MX"]
 LANGS = ["en", "pt", "en", "es", "es", "es", "es", "es"]
-itr = 0
 
 itr = 0
 
@@ -91,3 +90,4 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=1) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
+
