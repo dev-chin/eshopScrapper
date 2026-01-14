@@ -1,0 +1,4352 @@
+{
+  "props": {
+    "pageProps": {
+      "content": {
+        "searchContent": {
+          "trendingTopics": {
+            "__contentType": "moduleListCtas",
+            "__entryId": "7LLMZ4WHb0bBKegaMYt7hi",
+            "list": [
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
+                "campaignId": "",
+                "label": "Noticias",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "url": "/whatsnew/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "4VcpYQgEpQqh50NoXrCGZE",
+                "campaignId": "",
+                "label": "Nintendo Switch Online",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "url": "/online/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "DRAGON QUEST VII Reimagined Descargar la versión de prueba",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "url": "/store/products/dragon-quest-vii-reimagined-switch-2/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "4qmzaoEKuKdtkuoCJmv0d",
+                "campaignId": "",
+                "label": "Nintendo GameCube™ – Nintendo Classics",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "url": "/store/products/nintendo-gamecube-nintendo-classics-switch-2/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "7IIthBeKjqr22b9sax6Vbr",
+                "campaignId": "",
+                "label": "Títulos elegibles para los cupones para juegos de Nintendo Switch",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "url": "/store/games/game-voucher-eligible/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "MOdYBimZFEuFwAUqfQfVZ",
+                "campaignId": "",
+                "label": "Guía de Nintendo Switch 2 para principiantes",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "url": "/gaming-systems/switch-2/welcome-center/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "4NMwlAucFhNczxL6eZal6T",
+                "campaignId": "",
+                "label": "Ventas y ofertas",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "url": "/store/sales-and-deals/"
+              }
+            ]
+          },
+          "topProducts": [
+            "7500064914",
+            "7100105869",
+            "7100107421",
+            "7100098845"
+          ]
+        },
+        "navContent": {
+          "__contentType": "menu",
+          "__entryId": "1voUpNe9ARvIpu1CRoPGpD",
+          "items": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7KGZckMClPiwKBjmGfmLfN",
+              "label": "Explorar",
+              "caption": "",
+              "url": "",
+              "icon": {
+                "__contentType": "icon",
+                "__entryId": "5KeMKsR4w2kYSYV29OoSC2",
+                "id": "CompassIcon"
+              },
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3jnxlCGjAbSub71vOEv3Xv",
+                  "label": "Inicio",
+                  "caption": "",
+                  "url": "/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "1dVHgNq2bEH9MOfE7JIOFa",
+                    "id": "MyNintendoHomeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "home",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4EnWzlXHwhasWdK2OKIxR7",
+                  "label": "Nintendo Switch 2",
+                  "caption": "",
+                  "url": "/gaming-systems/switch-2/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "55M6zbrWD7G4hCeGXaW630",
+                    "id": "NintendoSwitch2TileIcon"
+                  },
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1743547392/ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/Global%20Nav/Explore/Nintendo-Switch-2.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 170664,
+                    "width": 616,
+                    "format": "png",
+                    "height": 400,
+                    "version": 1743547392,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/Global Nav/Explore/Nintendo-Switch-2",
+                    "created_at": "2025-04-01T22:43:12Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1743547392/ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/Global%20Nav/Explore/Nintendo-Switch-2.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "24m1WBQFipwSBp1BqPpKdj",
+                  "label": "Nintendo Switch",
+                  "caption": "",
+                  "url": "/gaming-systems/switch/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "7Dn8O54uAA7sW1Z2JZRxOL",
+                    "id": "NintendoSwitchTileIcon"
+                  },
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741994235/Global%20Nav/Explore/Explore-Nintendo-Switch-alt.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 180087,
+                    "width": 616,
+                    "format": "png",
+                    "height": 400,
+                    "version": 1741994235,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Explore-Nintendo-Switch-alt",
+                    "created_at": "2025-03-14T23:17:15Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741994235/Global%20Nav/Explore/Explore-Nintendo-Switch-alt.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "nintendo_switch",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2Qh28Sjam1b9ngd9Nf2klk",
+                  "label": "Juegos",
+                  "caption": "",
+                  "url": "/gaming-systems/switch-2/featured-games/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "74cit2fMRShtPSrIQPCeRx",
+                    "id": "DPadIcon"
+                  },
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1743547392/ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/Global%20Nav/Explore/Games.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 434565,
+                    "width": 616,
+                    "format": "png",
+                    "height": 400,
+                    "version": 1743547392,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/Global Nav/Explore/Games",
+                    "created_at": "2025-04-01T22:43:12Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1743547392/ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/Global%20Nav/Explore/Games.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "games",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5oiUFMN18EbDxyW6kULodz",
+                  "label": "Juegos",
+                  "caption": "",
+                  "url": "/store/games/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "74cit2fMRShtPSrIQPCeRx",
+                    "id": "DPadIcon"
+                  },
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909895/Global%20Nav/Explore/Explore-Games.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 414455,
+                    "width": 546,
+                    "format": "png",
+                    "height": 432,
+                    "version": 1741909895,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Explore-Games",
+                    "created_at": "2025-03-13T23:51:35Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909895/Global%20Nav/Explore/Explore-Games.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "games",
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "12lZeKQdb8Hhx9FZbq1LVW",
+                  "label": "Nintendo Switch Online",
+                  "caption": "",
+                  "url": "/online/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "7DtstH2jNZaDkuBf6rYwSy",
+                    "id": "NsoIcon"
+                  },
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909884/Global%20Nav/Explore/Explore-Nintendo-Switch-Online.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 5637,
+                    "width": 560,
+                    "format": "png",
+                    "height": 400,
+                    "version": 1741909884,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Explore-Nintendo-Switch-Online",
+                    "created_at": "2025-03-13T23:51:24Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909884/Global%20Nav/Explore/Explore-Nintendo-Switch-Online.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "offers",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5lJpmvrdqMkVzY14V6WGYy",
+                  "label": "Noticias y eventos",
+                  "caption": "",
+                  "url": "/whatsnew/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "5M8C4qkk5RZkWm0ytkUQ1n",
+                    "id": "NewsIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "news-and-events",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4XOu6EfwYdps8nSl5pjlfL",
+                  "label": "Play Nintendo",
+                  "caption": "",
+                  "url": "https://play.nintendo.com",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "7iNtvxKXopuykGWgRwXRyi",
+                    "id": "StarPlayNintendoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "play-nintendo",
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4sz5BEOCzcMevnZzr4eLMa",
+                  "label": "My Nintendo",
+                  "caption": "",
+                  "url": "https://my.nintendo.com/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "2JIzSOTMB06K5tJ2XXp1bA",
+                    "id": "MyNintendoTileIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "my-nintendo",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "63qHa2NuWaPzvNCFmgClM1",
+                  "label": "Aplicaciones",
+                  "caption": "",
+                  "url": "/mobile-apps/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "1TA6PGfLl9HEDKrN9MUoM6",
+                    "id": "MobileIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "apps",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3yxYtKK6cBttMdVyVliyqh",
+                  "label": "Super Mario",
+                  "caption": "",
+                  "url": "https://mario.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4d6s92mXmGmi0pcsFogaFo",
+                  "label": "Super Mario",
+                  "caption": "",
+                  "url": "https://mario.nintendo.com/es",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
+                  "label": "Super Mario",
+                  "caption": "",
+                  "url": "https://mario.nintendo.com/fr",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
+                  "label": "The Legend of Zelda",
+                  "caption": "",
+                  "url": "https://zelda.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 20793,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909888,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-The-Legend-of-Zelda",
+                    "created_at": "2025-03-13T23:51:28Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "zelda",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "6KWMRhygPtYV0pcn4mq1ba",
+                  "label": "Splatoon",
+                  "caption": "",
+                  "url": "https://splatoon.nintendo.com/base/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909891/Global%20Nav/Explore/Characters-Splatoon.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18070,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909891,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Splatoon",
+                    "created_at": "2025-03-13T23:51:31Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909891/Global%20Nav/Explore/Characters-Splatoon.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "splatoon",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5MP6C4tPzXfAm5PHIxPIiY",
+                  "label": "Splatoon",
+                  "caption": "",
+                  "url": "https://splatoon.nintendo.com/fr/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909891/Global%20Nav/Explore/Characters-Splatoon.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18070,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909891,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Splatoon",
+                    "created_at": "2025-03-13T23:51:31Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909891/Global%20Nav/Explore/Characters-Splatoon.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "splatoon",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3Sti786kbbTfxllxI7WkOd",
+                  "label": "Splatoon",
+                  "caption": "",
+                  "url": "https://splatoon.nintendo.com/es/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909891/Global%20Nav/Explore/Characters-Splatoon.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18070,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909891,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Splatoon",
+                    "created_at": "2025-03-13T23:51:31Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909891/Global%20Nav/Explore/Characters-Splatoon.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "splatoon",
+                  "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "7w65JWkPOUUFkG5Dvz8x8J",
+                  "label": "Splatoon",
+                  "caption": "",
+                  "url": "https://splatoon.nintendo.com/pt/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909891/Global%20Nav/Explore/Characters-Splatoon.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18070,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909891,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Splatoon",
+                    "created_at": "2025-03-13T23:51:31Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909891/Global%20Nav/Explore/Characters-Splatoon.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "splatoon",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "MS8cxgcAbgaxJm4CZHyMo",
+                  "label": "Kirby",
+                  "caption": "",
+                  "url": "https://kirby.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909885/Global%20Nav/Explore/Characters-Kirby.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 13109,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909885,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Kirby",
+                    "created_at": "2025-03-13T23:51:25Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909885/Global%20Nav/Explore/Characters-Kirby.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "kirby",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2UfR5gq0GNhZrCYgiI1iDS",
+                  "label": "Pikmin",
+                  "caption": "",
+                  "url": "https://pikmin.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909893/Global%20Nav/Explore/Characters-Pikmin.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 1933,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909893,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Pikmin",
+                    "created_at": "2025-03-13T23:51:33Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909893/Global%20Nav/Explore/Characters-Pikmin.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "pikmin",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5mCL6bvTmSK4PcjrjjEbzu",
+                  "label": "Pikmin",
+                  "caption": "",
+                  "url": "https://pikmin.nintendo.com/es/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909893/Global%20Nav/Explore/Characters-Pikmin.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 1933,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909893,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Pikmin",
+                    "created_at": "2025-03-13T23:51:33Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909893/Global%20Nav/Explore/Characters-Pikmin.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "pikmin",
+                  "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "7hTPNbdFrr4mCtGvj9F231",
+                  "label": "Pikmin",
+                  "caption": "",
+                  "url": "https://pikmin.nintendo.com/pt/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909893/Global%20Nav/Explore/Characters-Pikmin.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 1933,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909893,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Pikmin",
+                    "created_at": "2025-03-13T23:51:33Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909893/Global%20Nav/Explore/Characters-Pikmin.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "pikmin",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2PeSj3kvd71Qj1skF7UvNI",
+                  "label": "Pikmin",
+                  "caption": "",
+                  "url": "https://pikmin.nintendo.com/fr/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909893/Global%20Nav/Explore/Characters-Pikmin.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 1933,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909893,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Pikmin",
+                    "created_at": "2025-03-13T23:51:33Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909893/Global%20Nav/Explore/Characters-Pikmin.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "pikmin",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3YtBsZ9flRbGn7C0mbjw9I",
+                  "label": "Animal Crossing",
+                  "caption": "",
+                  "url": "https://animalcrossing.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909883/Global%20Nav/Explore/Characters-Animal-Crossing.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 13862,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909883,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Animal-Crossing",
+                    "created_at": "2025-03-13T23:51:23Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909883/Global%20Nav/Explore/Characters-Animal-Crossing.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "animal-crossing",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "6NC8Vu6KMdbHOJUBWNgkkF",
+                  "label": "Animal Crossing",
+                  "caption": "",
+                  "url": "https://animalcrossing.nintendo.com/es/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909883/Global%20Nav/Explore/Characters-Animal-Crossing.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 13862,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909883,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Animal-Crossing",
+                    "created_at": "2025-03-13T23:51:23Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909883/Global%20Nav/Explore/Characters-Animal-Crossing.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "animal-crossing",
+                  "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "61UM7v2YmeWmrVR1lA6LJG",
+                  "label": "Animal Crossing",
+                  "caption": "",
+                  "url": "https://animalcrossing.nintendo.com/fr/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909883/Global%20Nav/Explore/Characters-Animal-Crossing.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 13862,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909883,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Animal-Crossing",
+                    "created_at": "2025-03-13T23:51:23Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909883/Global%20Nav/Explore/Characters-Animal-Crossing.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "animal-crossing",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4UkAF9F6xPxe9QpiCSLtM6",
+                  "label": "Metroid",
+                  "caption": "",
+                  "url": "https://metroid.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909887/Global%20Nav/Explore/Characters-Metroid.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 19046,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909887,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Metroid",
+                    "created_at": "2025-03-13T23:51:27Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909887/Global%20Nav/Explore/Characters-Metroid.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "metroid",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "pVpacpZkuoZX2ciul6MZ5",
+                  "label": "Metroid",
+                  "caption": "",
+                  "url": "https://metroid.nintendo.com/es/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909887/Global%20Nav/Explore/Characters-Metroid.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 19046,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909887,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Metroid",
+                    "created_at": "2025-03-13T23:51:27Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909887/Global%20Nav/Explore/Characters-Metroid.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "metroid",
+                  "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4nzoDvYOW3DioyN5XIcADd",
+                  "label": "Metroid",
+                  "caption": "",
+                  "url": "https://metroid.nintendo.com/fr/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909887/Global%20Nav/Explore/Characters-Metroid.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 19046,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909887,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Metroid",
+                    "created_at": "2025-03-13T23:51:27Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909887/Global%20Nav/Explore/Characters-Metroid.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "metroid",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2YFuSwIX6XmCPCvBZkAzWF",
+                  "label": "Metroid",
+                  "caption": "",
+                  "url": "https://metroid.nintendo.com/pt/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909887/Global%20Nav/Explore/Characters-Metroid.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 19046,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909887,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Metroid",
+                    "created_at": "2025-03-13T23:51:27Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909887/Global%20Nav/Explore/Characters-Metroid.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "metroid",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": "explore",
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "6QtPjhGy8xjgue8kKOAZtj",
+              "label": "Comprar",
+              "caption": "",
+              "url": "",
+              "icon": {
+                "__contentType": "icon",
+                "__entryId": "1sHq84KRyibJrwgF6khTJo",
+                "id": "EshopFilledIcon"
+              },
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "39kZkTBl8u760m6i2Qc13A",
+                  "label": "Juegos",
+                  "caption": "Ver todo",
+                  "url": "/store/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "5Y4oHJT5KL8h67NTw91d9v",
+                    "id": "MyNintendoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": {
+                    "CONTENT_TYPE": "background",
+                    "backgroundType": "url(\"https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\")",
+                    "backgroundCss": [
+                      "background-image:",
+                      "url(\"https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\")",
+                      ";background-color:",
+                      "initial",
+                      ";background-repeat:",
+                      "no-repeat",
+                      ";background-size:",
+                      "cover",
+                      ";"
+                    ],
+                    "backgroundTiled": false,
+                    "color": "",
+                    "repeat": "",
+                    "position": "",
+                    "parallax": false,
+                    "textColor": "Dark",
+                    "bottomDivider": null,
+                    "dividerRepeat": "",
+                    "dividerPosition": "center",
+                    "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "images": [
+                      "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
+                    ],
+                    "gradient": [],
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                  }
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5DVFsPIvZMddHjCqiWw8E9",
+                  "label": "Juegos",
+                  "caption": "Ver todo",
+                  "url": "/store/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "74cit2fMRShtPSrIQPCeRx",
+                    "id": "DPadIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": {
+                    "CONTENT_TYPE": "background",
+                    "backgroundType": "url(\"https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\")",
+                    "backgroundCss": [
+                      "background-image:",
+                      "url(\"https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\")",
+                      ";background-color:",
+                      "initial",
+                      ";background-repeat:",
+                      "no-repeat",
+                      ";background-size:",
+                      "cover",
+                      ";"
+                    ],
+                    "backgroundTiled": false,
+                    "color": "",
+                    "repeat": "",
+                    "position": "",
+                    "parallax": false,
+                    "textColor": "Dark",
+                    "bottomDivider": null,
+                    "dividerRepeat": "",
+                    "dividerPosition": "center",
+                    "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "images": [
+                      "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
+                    ],
+                    "gradient": [],
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                  }
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2OO1qf0D9HpC3uOrJ4FlzF",
+                  "label": "Juegos",
+                  "caption": "",
+                  "url": "/store/games/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "74cit2fMRShtPSrIQPCeRx",
+                    "id": "DPadIcon"
+                  },
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1740676641/global-nav-games.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 395613,
+                    "width": 546,
+                    "format": "png",
+                    "height": 432,
+                    "version": 1740676641,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "global-nav-games",
+                    "created_at": "2025-02-27T17:17:21Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1740676641/global-nav-games.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "games",
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3exrrjJ8Q4QcwNfjpTJuuQ",
+                  "label": "Consolas y accesorios",
+                  "caption": "",
+                  "url": "/store/hardware/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "yKlN5VtAXcTpCitCr2ui6",
+                    "id": "ControllerIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1MSmttRVOFSD2s6lalApMF",
+                  "label": "Mercancía",
+                  "caption": "",
+                  "url": "/store/merchandise/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "6ZWaXuFqtMHtRJf1SELvOM",
+                    "id": "TShirtIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "18cCoHXvW4dd0TEGnCj0qz",
+                  "label": "Ofertas y ventas",
+                  "caption": "",
+                  "url": "/store/sales-and-deals/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "2ypflPy1IMOhsv4fIMrLsz",
+                    "id": "SalesTagIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "6XDSlZoVrsycuFokfuzmKI",
+                  "label": "Productos exclusivos",
+                  "caption": "",
+                  "url": "/store/exclusives/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "XLXdVYSrW23952UYRiEp1",
+                    "id": "StarFilledIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3RK5uw5OPgHKmM7l4d9OJr",
+                  "label": "Personajes",
+                  "caption": "",
+                  "url": "/store/characters/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
+                    "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "/store",
+              "id": "shop",
+              "hideOnLocale": true,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7ALF0ctH36ODwQi9RjAko1",
+              "label": "Asistencia",
+              "caption": "",
+              "url": "https://es-americas-support.nintendo.com/",
+              "icon": {
+                "__contentType": "icon",
+                "__entryId": "4LuQ6yMaNZtvQYOhX4baB4",
+                "id": "SupportShieldIcon"
+              },
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "u4s08Qdf3L37zlNvG0huo",
+                  "label": "Página de inicio de Asistencia",
+                  "caption": "",
+                  "url": "https://support.nintendo.com",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "4LuQ6yMaNZtvQYOhX4baB4",
+                    "id": "SupportShieldIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "csSupportHome",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "25BfwxYPDxb9PppscFc66c",
+                  "label": "My Support Dashboard",
+                  "caption": "",
+                  "url": "https://mysupport.nintendo.com/es-mx",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "9hHspcu236JyWtqkQ1TWO",
+                    "id": "MySupportDashboardIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "csMySupportDashboard",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Phwkh8PHHAWTspMi7IUhX",
+                  "label": "Cuentas y compras",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/accounts-purchases/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "24E4qbADIvjLakzP8qN3kS",
+                    "id": "SupportAccountsPurchasesIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "csAccountsAndPurchases",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "51mvpbISuzELepVharS0Kc",
+                  "label": "Nintendo Switch 2",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/switch2/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "4Lyz9IfERiyWzCj6aOGtSB",
+                    "id": "SupportNintendoSwitch2LogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "csNintendoSwitch2",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2L60UFux4N6OQOpS7TxKzW",
+                  "label": "Nintendo Switch",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/switch/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Ls0hqoR26HxRfKANzPQZK",
+                    "id": "SupportNintendoSwitchLogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "csNintendoSwitch",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5ERy1PehtE4tiwi6SbH1Lo",
+                  "label": "Nintendo Switch Online",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/nso/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "7DtstH2jNZaDkuBf6rYwSy",
+                    "id": "NsoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "csNso",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "7qrRrOsdHhZ4wRyPo7PTT4",
+                  "label": "Apps y otros productos",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/apps-other-products",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "48ZwKwza1K8U7FtbhqkSjB",
+                    "id": "SupportAppsOtherProductsIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "csAppsAndOtherProducts",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3cmI3Zge9oLQSm6z9xlK9H",
+                  "label": "Reparación",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/repair/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
+                    "id": "SupportRepairIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "csRepair",
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": "csSupport",
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ]
+        },
+        "navContentExtra": {
+          "__contentType": "menu",
+          "__entryId": "27mK1xi5VDqGttxFLGWf2r",
+          "items": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "5hFGRDq844XM3soNEAk4nX",
+              "label": "My Support Dashboard",
+              "caption": "",
+              "url": "https://mysupport.nintendo.com/es-mx",
+              "icon": {
+                "__contentType": "icon",
+                "__entryId": "9hHspcu236JyWtqkQ1TWO",
+                "id": "MySupportDashboardIcon"
+              },
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": "csDashboard",
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "6cvravkirxao4rCnfYET6X",
+              "label": "Contáctanos",
+              "caption": "",
+              "url": "https://support.nintendo.com/contactus",
+              "icon": {
+                "__contentType": "icon",
+                "__entryId": "3plxlGycR7BHwa9tgQXxp5",
+                "id": "NavContactUsIcon"
+              },
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": "csContact",
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "43Pf3y2QxUT0qm6EPzCQvj",
+              "label": "Asistencia",
+              "caption": "",
+              "url": "https://support.nintendo.com",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": "csSupport",
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ]
+        },
+        "footerContent": {
+          "__contentType": "menu",
+          "__entryId": "2mKBQbzGWj7cIKDAM7avx8",
+          "items": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
+              "label": "Acerca de Nintendo  (en inglés)",
+              "caption": "",
+              "url": "/about/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5zu4CQZGrgZgIcTDW2rzqu",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "7FRKUQGXufpEgbOdwpqIxE",
+                  "label": "Responsabilidad social corporativa",
+                  "caption": "",
+                  "url": "https://www.nintendo.co.jp/csr/en-us/index.html",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "lSTYlfN6wMdaVoReVAPXW",
+              "label": "Tienda",
+              "caption": "",
+              "url": "/store/games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos",
+                  "caption": "",
+                  "url": "/store/games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4OiYl4ghth0BUCtzFoYQ58",
+                  "label": "Equipo",
+                  "caption": "",
+                  "url": "/switch/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "686jvUewOCI26mXHrbmgIo",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1UcIDcOFnMoO0qBy0YCx5t",
+                  "label": "Ofertas y ventas",
+                  "caption": "",
+                  "url": "/store/sales-and-deals/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "HzWxF7eeBG4ZjXVnbWEEY",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "7By6b3CAFQxyFhwhxuWqEI",
+                  "label": "Nintendo Switch Online",
+                  "caption": "",
+                  "url": "/online/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5nP7cNMyPjQDfrXFAKdP6e",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "P0sCA1SsJUKdtMWrpKgHP",
+              "label": "",
+              "caption": "",
+              "url": "",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "6IKAeXkk8nFEYnl9Wol3Vp",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2CMVSFJk7dEmQ9A1mh6BpY",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2LUza2xN5eIPVCzOS7Y70p",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2TF3gbxq4KRvq1GOypkshc",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2BY2eG7Ld2nsfpJInxqV8o",
+              "label": "Asistencia",
+              "caption": "",
+              "url": "https://support.nintendo.com/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1xtswHgM7cMZcqd6DB3p2C",
+                  "label": "Nintendo Switch 2",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/switch2/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1shbZHfSr5qWt1vJdtuDaN",
+                  "label": "Nintendo Switch",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/switch/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3z9lTODkPTWDH7SBCH7UVe",
+                  "label": "Cuenta Nintendo",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/account/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "29KVeppmV9KUuFSP4lrOCM",
+                  "label": "Apps y otros productos",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/apps-other-products/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "wW0gr3RFIYqOxHHp0ZHWN",
+                  "label": "Otras consolas",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/other-systems/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4nlcdUscecWAYCFlWxnLT1",
+                  "label": "Reparación",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/repair/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1hWFlDQvBOSEKCRMVA3dvK",
+                  "label": "Reciclaje de productos Nintendo",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/recycle/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "3SIxMdPIAb0NjarZ6wFoHQ",
+                  "label": "Garantía",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/warranty",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "10saDoV8CiFfNS8hifQ191",
+                  "label": "Información de los productos de socios autorizados",
+                  "caption": "",
+                  "url": "/licensed-product-information/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "468S7CNu00EbjagjqbipV6",
+                  "label": "Reembolsos y devoluciones",
+                  "caption": "",
+                  "url": "/refund-return-policy/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "1w5SIaVa0hURZlb0n49IRu",
+              "label": "Padres",
+              "caption": "",
+              "url": "https://support.nintendo.com/parents/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "6q7kOP1hOPvfoxl6LHmOc1",
+                  "label": "Información para padres",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/app/answers/detail/a_id/26900",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2Ck99VbtuPRfktYFPefGrA",
+                  "label": "Control parental",
+                  "caption": "",
+                  "url": "/mobile-apps/parental-controls/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2tSjA2eIgSkrG6T9x3kJis",
+              "label": "Privacidad",
+              "caption": "",
+              "url": "/privacy-policy/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "uFgk6mlcpCKwwGBf76wP9",
+                  "label": "Política de privacidad",
+                  "caption": "",
+                  "url": "/privacy-policy/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2hrNT5A50yWZifAsRtQn2R",
+                  "label": "Cookies y anuncios basados en intereses",
+                  "caption": "",
+                  "url": "/privacy-request/#cookies",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2BFt8cBNqEHDvmFMQxeMuD",
+              "label": "Comunidad",
+              "caption": "",
+              "url": "/community-guidelines/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Se80WGpPrxpvP0EdFny07",
+                  "label": "Directrices de la comunidad",
+                  "caption": "",
+                  "url": "/community-guidelines/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2qeVNCxLPkHvfOP6h2TX3t",
+                  "label": "Seguridad en línea",
+                  "caption": "",
+                  "url": "/online-safety/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "6bi37Jw2tQ7mopTJm7fk3m",
+              "label": "Documentos y Política",
+              "caption": "",
+              "url": "https://support.nintendo.com/documents-policies/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "6hjV6DYhYLMe8BDVN5xTlE",
+                  "label": "Precauciones de salud y seguridad",
+                  "caption": "",
+                  "url": "https://support.nintendo.com/healthsafety/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4yemgp3AEXThPi9LMwFLZt",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "6THy6BQsXjUvnmhm6eNDmG",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                }
+              ],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ]
+        },
+        "storeNotificationContent": {
+          "__contentType": "moduleSection",
+          "__entryId": "5A0b3XqHxo1QSmQsR9Xcox",
+          "modules": [
+            {
+              "__contentType": "moduleRichText",
+              "__entryId": "4zMeb5A4rjR5mNGqRkBUT0",
+              "richText": null
+            },
+            {
+              "__contentType": "moduleRichText",
+              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "richText": null
+            }
+          ],
+          "heading": "",
+          "cta": {
+            "__contentType": "moduleCta",
+            "__entryId": null,
+            "campaignId": "",
+            "label": "",
+            "successLabel": "",
+            "requiresMembership": false,
+            "membershipRequiredLabel": "",
+            "disableSignUps": false,
+            "signUpsDisabledLabel": "",
+            "url": ""
+          },
+          "deepLink": "",
+          "hide": false,
+          "sectionType": "",
+          "background": ""
+        }
+      },
+      "priorityRouteInfo": {
+        "priorityRoutes": [
+          "/",
+          "/regionselector",
+          "/region-selector"
+        ],
+        "priorityDirectories": [
+          "/switch",
+          "/store/products",
+          "/whatsnew",
+          "/switch/online",
+          "/store/games",
+          "/online",
+          "/gaming-systems"
+        ],
+        "naLocalesForHrefLang": [
+          "en-us",
+          "en-ca",
+          "fr-ca",
+          "default"
+        ],
+        "naOnlyPriorityRoutes": [
+          "/retail-offers",
+          "/retail-offers/[[...slug]]",
+          "/store",
+          "/switch/choose-your-joy-con-color"
+        ]
+      },
+      "meta": {
+        "title": "Cookie Clicker para Nintendo Switch - Sitio Oficial de Nintendo para Chile",
+        "description": "Compra Cookie Clicker y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial My Nintendo Chile.",
+        "canonicalUrl": "https://www.nintendo.com/es-cl/store/products/cookie-clicker-switch/"
+      },
+      "analytics": {
+        "pageType": "Game Detail Page",
+        "pageName": "Cookie Clicker",
+        "pageCategory": "Store:Products",
+        "product": {
+          "name": "Cookie Clicker",
+          "sku": "7100066299",
+          "nsuid": "70010000066299"
+        }
+      },
+      "bestSellerProducts": [],
+      "localeAlternates": [
+        {
+          "locale": "en-us",
+          "href": null
+        },
+        {
+          "locale": "en-ca",
+          "href": null
+        },
+        {
+          "locale": "fr-ca",
+          "href": null
+        },
+        {
+          "locale": "es-mx",
+          "href": null
+        },
+        {
+          "locale": "pt-br",
+          "href": null
+        },
+        {
+          "locale": "es-ar",
+          "href": null
+        },
+        {
+          "locale": "es-co",
+          "href": null
+        },
+        {
+          "locale": "es-pe",
+          "href": null
+        }
+      ],
+      "removeGoldPoints": true,
+      "returnPartialData": true,
+      "showLendableRow": true,
+      "campaigns": [],
+      "isEcApp": false,
+      "openGraph": {
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/432bf350e866b2544f9a5cd80de83e0c24f4efddfd7811016c4aa33e48c5df7c"
+      },
+      "linkedData": [
+        {
+          "@type": [
+            "VideoGame",
+            "Product"
+          ],
+          "name": "Cookie Clicker",
+          "description": "Compra Cookie Clicker y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial My Nintendo Chile.",
+          "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000066299/432bf350e866b2544f9a5cd80de83e0c24f4efddfd7811016c4aa33e48c5df7c",
+          "offers": {
+            "@type": "Offer",
+            "url": "/es-cl/store/products/cookie-clicker-switch/",
+            "priceCurrency": "CLP",
+            "price": "3000.00",
+            "seller": {
+              "@type": "Organization",
+              "name": "Nintendo"
+            },
+            "shippingDetails": null,
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition"
+          },
+          "brand": null,
+          "category": "Juegos",
+          "sku": "7100066299",
+          "gamePlatform": "Nintendo Switch",
+          "genre": null,
+          "gameEdition": "Standard Edition",
+          "applicationCategory": "Game",
+          "playMode": [
+            "TV mode",
+            "Tabletop mode",
+            "Handheld mode"
+          ],
+          "numberOfPlayers": {
+            "@type": "QuantitativeValue",
+            "minValue": 1,
+            "maxValue": null,
+            "unitText": "players"
+          },
+          "contentRating": "Todos",
+          "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000066299/432bf350e866b2544f9a5cd80de83e0c24f4efddfd7811016c4aa33e48c5df7c",
+          "publisher": {
+            "@type": "Organization",
+            "name": "DashNet"
+          }
+        },
+        [
+          {
+            "@type": "ImageObject",
+            "name": "Cookie Clicker gallery item 0",
+            "description": "Cookie Clicker gallery item 0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/432bf350e866b2544f9a5cd80de83e0c24f4efddfd7811016c4aa33e48c5df7c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/432bf350e866b2544f9a5cd80de83e0c24f4efddfd7811016c4aa33e48c5df7c",
+            "uploadDate": null
+          },
+          {
+            "@type": "VideoObject",
+            "name": "Cookie Clicker gallery item 1",
+            "description": "Cookie Clicker gallery item 1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch/70010000066299/Video/92e9514e74fbae0785ed484cdae37d946d93477cc4cc022102be1ac1992cdecb",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch/70010000066299/Video/92e9514e74fbae0785ed484cdae37d946d93477cc4cc022102be1ac1992cdecb",
+            "uploadDate": null
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cookie Clicker gallery item 2",
+            "description": "Cookie Clicker gallery item 2",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/7416b471ee6f5722b47ce582260d2a4ba824ddef081ce980bf3137165495510c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/7416b471ee6f5722b47ce582260d2a4ba824ddef081ce980bf3137165495510c",
+            "uploadDate": null
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cookie Clicker gallery item 3",
+            "description": "Cookie Clicker gallery item 3",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/3077b0956ec6ecb42cd104f185c5d54e5567a0fc1a1b2612c314574a4b93e052",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/3077b0956ec6ecb42cd104f185c5d54e5567a0fc1a1b2612c314574a4b93e052",
+            "uploadDate": null
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cookie Clicker gallery item 4",
+            "description": "Cookie Clicker gallery item 4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/3f4cb0c9c4edcccb0d42c63983587f34817e50ad9ed6064a4d4b98bd80c3b7ce",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/3f4cb0c9c4edcccb0d42c63983587f34817e50ad9ed6064a4d4b98bd80c3b7ce",
+            "uploadDate": null
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cookie Clicker gallery item 5",
+            "description": "Cookie Clicker gallery item 5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/b8511d740247cbfa305dc72dd299f6024cf303d53ff09d671aaed5cf74ddd35b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/b8511d740247cbfa305dc72dd299f6024cf303d53ff09d671aaed5cf74ddd35b",
+            "uploadDate": null
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cookie Clicker gallery item 6",
+            "description": "Cookie Clicker gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/e3daef958230375561377bb29448966f32ca56805d9bfdbf77c54c242db2ced5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/e3daef958230375561377bb29448966f32ca56805d9bfdbf77c54c242db2ced5",
+            "uploadDate": null
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cookie Clicker gallery item 7",
+            "description": "Cookie Clicker gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/4cf222d8d27c3c20fc8979df1bd7d4b9fc22ea2ad74101485153bd472562c55a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000066299/4cf222d8d27c3c20fc8979df1bd7d4b9fc22ea2ad74101485153bd472562c55a",
+            "uploadDate": null
+          }
+        ],
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 0,
+              "name": "Store",
+              "item": "https://nintendo.com/es-cl/store/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Juegos",
+              "item": "https://nintendo.com/es-cl/store/juegos/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Cookie Clicker",
+              "item": null
+            }
+          ]
+        }
+      ],
+      "initialApolloState": {
+        "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "390PoEPj7B3hb5HzJNJpg3",
+          "locale": "es_CL",
+          "label": "Compras dentro del juego",
+          "type": "INTERACTIVE_ELEMENT"
+        },
+        "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentRating",
+          "id": "3PUsVpTIBTxVxmzL362ZkB",
+          "locale": "es_CL",
+          "code": "e",
+          "label": "Todos",
+          "requiresAgeGate": false,
+          "system": "ESRB",
+          "order": 6,
+          "highestRating": null
+        },
+        "Product:{\"sku\":\"7100066196\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_CL\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Dig Deep",
+          "nsuid": "70010000066196",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 4500,
+            "finalPrice": 4500,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000066196/cee2961a62c7c58227b087c32b0810476ede692daa37b17306df92bcfc3f302b",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/19681b6547f84777ad3c905ae41ba2c6_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2023-04-28T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100066196",
+          "softwarePublisher": "QubicGames",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "dig-deep-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000066196/Video/f690da080a6de92986df0d1adfb42ba755ca190506700b3d8178c778773678f1",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066196/afe6848095edbe9c706a876cc2352b7dabc9a2c7e2e9c9b0e069488d24226705",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066196/94005f337c61d9991bb558e7e787cf9d4a762e2b5471ba72867cecf6f78b97c8",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066196/41f387dd87928efc31c627d2831ea226da4a83fa020560c4e5675ec459be2a5b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066196/8d92fdaf4011bec1b609dd7add63d25657ac457dc7a10d884a2819ee70af303b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066196/18dcf6aaa9621aaefa4e0118191d597758c49fe162d32d9c28af8b33cc72d501",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066196/0b18a4de29497424ed151e757df0416f993a6cf88e4a3db4e694c5d42987d772",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100071062\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_CL\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Farm Land",
+          "nsuid": "70010000071062",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 4500,
+            "finalPrice": 4500,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000071062/9d193e4489f64b72d99069c9ff2af3b6050a835178083015eb288459e101cac6",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/a09f6c92ca6243edbf6649522e6d0fea_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2023-09-22T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100071062",
+          "softwarePublisher": "QubicGames",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "farm-land-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000071062/Video/d37d61a3e6d18f032438888f3881f9dd768ed524a1f9cc89b041c494cb0a3b60",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000071062/6d75c8c70ada89c30cdbe3d6fb974d2c8996cdf23c6ab6a328dafe9dd376e22b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000071062/62beeacf16348bceabbe1d3f71ed9c8f639e74ad34de1893c9aef2132f4430b4",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000071062/8b2fe318b5da8b1163d41f95c2130aa133dce7c0f0c11397416b673b7909abc3",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000071062/6b59de5a8358f38d42acfccef76ebf19b9c6c8f7e09c35bf968825adf8af2eb1",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000071062/062b8cf2bb2fdbed68e316b067d892cbaf64c7463e3424c566955b556298cf8b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000071062/63db757ebb3f8b084529a34467edb46d928f1a4b30d2bfdda4bf8762e1f3a9e5",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100066194\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_CL\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Amaze!",
+          "nsuid": "70010000066194",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 3400,
+            "finalPrice": 3400,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000066194/47f306dc79ff03da5fe7bd3b335c398d9d0d2098e1e055d3f872f20b2dd48012",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ba4d81a8a5374e43a889522b5bccf0ff_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2023-04-28T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100066194",
+          "softwarePublisher": "QubicGames",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "PUZZLE",
+                "label": "Rompecabezas"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "amaze-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000066194/Video/225eec4cf761df9ec765d0d08abf3f418cbf1577e8f890632eff6afa778f7dc0",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066194/4bcb8daaadfcceb6faeb3bc56852193933887c9fd957a2dee2a29970074a4184",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066194/45706891212150f27933006f50ac0f225554d02ad7461f01414921d3ffe6e057",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066194/48e95c0bf17c380da8517d1c4fb63821dd2f56e5d38945b47bd2a3d7bfced7a7",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066194/3a6438cc8477f8b96feee53105191cfd6e1a1e52404804fb6ce18e4b6436573a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066194/edf59ff05ea19afb8c96e993de33932a4be6d86afdb45013f1bf1c7e65a16ce0",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066194/ca4fc2f4f8fc82c2c9d434f6a0b433709ee0859a70f7b7b46026ebe134885849",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100058461\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "nOS new Operating System",
+          "nsuid": "70010000058461",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 35589,
+            "finalPrice": 35589,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000058461/5b61624647dbd28010bcef1754eebd6195a8215a1cd70d79890d40820786cd62",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0aec3b65e60a425d8811f9960e1f8733_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2023-01-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100058461",
+          "softwarePublisher": "REDDEER.GAMES",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "TOOL",
+                "label": "Aplicaciones"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "nos-new-operating-system-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000058461/Video/b2071bca770b513643b87cfe9ace988a87cde5e9a05750d40eeaf4f85f4e3cc6",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058461/3380c3b69fb84771af17e579dbccaca8b02a996a358afbb616d9a06b5ba7d65e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058461/89239af3db1a3ee4f90ee6957b7c0d5cb13657a60d12b8b26f3b0ec00ad086e5",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058461/32fbbde6a0b674de5f36f3878270f8407baf4a4a5a23b1ae04047fd3fd6b2962",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058461/84e29639ad30de2cab8dcfaa3fd2edb7d71dd87f67fc54f56b6a6b114d64abb7",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058461/6c2e8d5b0f76a7cc3a0e94eb5efcb093297a4a1030422bcfea89cbe9b693adf9",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058461/fc5518caf05e444b6dba22a929894b0a7bfc5668badcecaefff7f84af7383f83",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "48NMszDk1XdHSyTR5xenri",
+          "locale": "es_CL",
+          "label": "Violencia moderada de fantasía",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100068359\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_CL\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_CL\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Paper io 2",
+          "nsuid": "70010000068359",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 4500,
+            "finalPrice": 4500,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000068359/73341197ab2f46b0b68c46bd610bcd65ba490045423c918e4a9f199cd7584e20",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/9bf3da0873af46eba8e70c3ea3a112fc_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2023-09-01T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100068359",
+          "softwarePublisher": "QubicGames",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "paper-io-2-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000068359/Video/d8c6b37230159e684ca39b80adca768cd0b72771506bbc5ae4b45d95e146456b",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068359/adb43d4ad5f8119bdc87c5d82edb7c773501b6cafa2b519a3e853a5a7ececdc0",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068359/e7a17c98e0362a3030408d0cb1f15c378295ae59393a4e912c369ab75437258d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068359/ec159f0a55d2bb61866a9b82599ccc89368f73d8b503e036b146debb4311ce6b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068359/d45e9e3b59de324dfe414de79a0d455c0f8a9907b954da3213f7295305e1c9da",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068359/a08954beb56bdd739deb5b22ae6e9f731817160f03882709fe9075cc8c9c0716",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068359/a8371830043362914a1828cceaeec12bc06cce175acc70a1d8c1eb40df9a07bf",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100039421\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Toree 3D",
+          "nsuid": "70010000039421",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 799,
+            "finalPrice": 799,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000039421/a2362b28b8c7ada0af354b02f279b34eca9ac10cfd22e2a79e5b845b014e28b8",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/29abf284e72a490fbb7505ba99ed7e5a_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-02-10T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100039421",
+          "softwarePublisher": "Diplodocus Games",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "toree-3d-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000039421/Video/ca3bedd62f0c6b35a3d3eeb392455199d7304123ed8c460f3e8108825c4d3591",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039421/c65140ae2c7108d54e283c0bb3ae625a932e96367b1fb568e8ecda3c2f0ee5ee",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039421/c8b0a71a2ec18257489061473f9ec4dd8dc04981b73f9e6614b02b5464782599",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039421/55993c3ee4ab0c192dc127520e0ad82c03c25956992bfd01d69f235059739131",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039421/4cbdc29417cf56d8ef527dff8c8385bd7f4f69398eb0121f37883b50b6b5c250",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039421/0845f654e98208d5091fc0a6a9b8b5539c71d5906181943a7a858b31a883e19b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039421/032e87cd7a54b25fe661e697a96f5d20ff86d049f1766c6e9c58dcc433f9c6c6",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100045037\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": "70030000020450",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "PowerWash Simulator",
+          "nsuid": "70010000045037",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 22500,
+            "finalPrice": 22500,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000045037/050db8610fa9593b531cd2b7d563b5115bbe5431ea3db42962da435f70edb39c",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/24c38ac2f1034f9d90930e9d05df1854_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2023-01-31T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100045037",
+          "softwarePublisher": "Square Enix Europe LTD",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperativo en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "powerwash-simulator-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000045037/Video/0716711d9533581b5141bc513936138aa50d67eaccbb1da13da680b511c5f2a1",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000045037/Video/b2d637e51bc209a20c6c6c718b686d5103bd75aa21b4e2eb703f9682b2308e13",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000045037/Video/ab838e77df20f991f5346489a783dffe215cf57c501b98d453521b630954beec",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000045037/Video/f121abdea3be2179c4ac621c4beb7affa59fccf78ef4661e22a6c4eee6e7e30e",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000045037/Video/c7c3e6c78f3db7495cc245a91332b93fdb2b081b02bd588bde413e6fcaff8f3a",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045037/95409805fd35adbb30cc29e6b382cccbdf7774497eb0571a50e66198e7410e32",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045037/d6d9429e5a5ce9691056e5bd6ab5992d5427e108d5e0fad67561e75f0c563e97",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045037/fe2a5f002cf134cedf60a49e793fa1ba626a67e7d03841d367a16630ea2350a9",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045037/c99f00602fcb7621b46a774cee3a79dd7e2dac53dee0101c9c665bedd4a4c95e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045037/6f5969a3b446526450199428b093e806723805386030370dfc9f4cb29e64da3e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045037/af2e4fcdf8ddb0e22edf19b0cf494384deb0d3e8f2ea28b2220f326a4f214ce9",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100080664\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_CL\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_CL\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Nintendo World Championships: NES™ Edition",
+          "nsuid": "70010000080664",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 34990,
+            "finalPrice": 34990,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000080664/aa0f9e570ce4b3907d2544376d1da43959e4bf0a7825e1377376a448f41b24e0",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/f6a41b55966047f6a33b491b382da6ff_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2024-07-18T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100080664",
+          "softwarePublisher": "Nintendo",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "VARIOUS_GAMES",
+                "label": "Minijuegos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Rompe récords de tiempo"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PARTY",
+                "label": "Fiesta"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "nintendo-world-championships-nes-edition-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000080664/Video/e0b6ebb1c634d94beb28bbdd68d91a809750164b2022208d9bafeea9f6177179",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000080664/Video/a3053931cc42eb3d35cd0fe0933e9c63918ada30082090784fc6f163e454bf38",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000080664/Video/4691485ad182385df2a42cedb3a9c5dc0cdb49c7c1f1bb55ed47258115c148a0",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000080664/Video/f2f5c440007f668d9f9a9a7142472569d8b9259774289e570487bfc2df15769b",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000080664/103939e2d317a66ab4d7fec0cdeb8a53557080c544104e5c4ec464293a1be8fa",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000080664/1776a653ed31a079a04d9e9518ba08cf997271f66c55306d2da387e777492f64",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000080664/ab3653c2ee7711e9ce02371146dd018a47e674773461c1c8c31088dd5e8cbd46",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000080664/a5f0d920684247dda5bb3e8f84dc02a95c820ac3818f19339442b10d947949cb",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000080664/6f2d96bee63db22d741c74f9fdc886e138591fa036142bb737a0e5b610146bef",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000080664/d7e163ff29b42018775319c5b2c976e0460b960209fce817d0e6e88f517c94f1",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "PuUlZqXPrK4WzWD2LWYLV",
+          "locale": "es_CL",
+          "label": "Interacción de usuarios",
+          "type": "INTERACTIVE_ELEMENT"
+        },
+        "Product:{\"sku\":\"7100037336\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_CL\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_CL\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_CL\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "ASTRONEER",
+          "nsuid": "70010000037336",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 15500,
+            "finalPrice": 15500,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000037336/27b7c212e9900ebbf3fba4c6cb0d0d137e7d0be05f86ab5a954bb7d161e7fb64",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/eb69cb5715324601b66e91e212e3f269_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-01-13T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100037336",
+          "softwarePublisher": "System Era Softworks",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CRAFT_PLAY",
+                "label": "Crea y juega"
+              },
+              {
+                "__typename": "Tag",
+                "code": "RUN_AROUND",
+                "label": "Libertad de movimiento"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperativo en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "LOCAL_CONNECTION",
+                "label": "Juntos en varias consolas"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "astroneer-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000037336/Video/ac5d838b6804553cf75a85b6d4e196b7b21fd8691e7c4452b7ef12492ad9b58f",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000037336/ce11c79b6d0523ab4ce0f38f5f0c8dbe70c03cac9aa6aa45e27b1d4935014e56",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000037336/18e4d6333dfaa703b25d6d692b203e86ec84c055b98554ecaf9aa599f256541c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000037336/ce0565142166bc738de12d0356bc806d042565d935cc3270c49fdcad8301b797",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000037336/0f698cabdbf629522debb6b604ee0d8b201453983d862d248929a57ad35bcc83",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000037336/e0ebae601ec5e793877c7f3c31bc3120714717afd4a4acfefdc434b749a5c0b3",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000037336/6008b943a2bca81f37c18fbc38423a6dc3c7c83bf243d45b5530112f47d5413c",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"tJACbQjMzqwwY40TBCy1x\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "tJACbQjMzqwwY40TBCy1x",
+          "locale": "es_CL",
+          "label": "Travesuras cómicas",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentDescriptor:{\"id\":\"6r16wBrvpV4xHMjYdXvGv9\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "6r16wBrvpV4xHMjYdXvGv9",
+          "locale": "es_CL",
+          "label": "Violencia moderada en caricaturas",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100051254\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"tJACbQjMzqwwY40TBCy1x\",\"locale\":\"es_CL\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"6r16wBrvpV4xHMjYdXvGv9\",\"locale\":\"es_CL\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "PAC-MAN MUSEUM+",
+          "nsuid": "70010000051254",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 15500,
+            "finalPrice": 15500,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000051254/d041433f1ccd69d32f87ca0b04d7889a5e9f99d286e825facad822749033e636",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/8488f431c33640f8810eae4676be463e_1024"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-05-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "sku": "7100051254",
+          "softwarePublisher": "BANDAI NAMCO Entertainment",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "VARIOUS_GAMES",
+                "label": "Minijuegos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Rompe récords"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "pac-man-museum-plus-switch",
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000051254/Video/0a96639d70ef2bdada25a7302a22d4aea25b37283bcb83d3361462a2cdf3e6a9",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000051254/76185f25679f9454acb139c84efbadcdae684681718dbd98bab91249d400d194",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000051254/5e7a053d1311b5fbc279e1895c3f6b91db260b06adbc31a2ca726ab9b47051c1",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000051254/db9d51b8ec0bfefd28e3b10698653856a0bda76c9cb91cf0d1b0c910c86dbf5d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000051254/3b365f9a6f2963cf2c2ebd8019e2f6be0811b359500ae3d6a86a8a1d50476766",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000051254/f3fd04557007c186df48acedf07c08a5ef5b50c3776677546ea71c02d81e9c7e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000051254/77be6ce14eb60db83c497dbc63bd90cd602496a929ffd10b00308d90fc5c5fb4",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100066299\"}": {
+          "__typename": "Product",
+          "compatibility": {
+            "__typename": "Compatibility",
+            "status": "PLAYABLE",
+            "caption": "Compatible – El comportamiento del juego es coherente con Nintendo Switch.",
+            "captionNote": null,
+            "details": []
+          },
+          "nsuid": "70010000066299",
+          "name": "Cookie Clicker",
+          "urlKey": "cookie-clicker-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_CL",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 3000,
+            "finalPrice": 3000,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000066299/432bf350e866b2544f9a5cd80de83e0c24f4efddfd7811016c4aa33e48c5df7c",
+            "resourceType": "image",
+            "type": "upload",
+            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000066299/432bf350e866b2544f9a5cd80de83e0c24f4efddfd7811016c4aa33e48c5df7c"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7100066299",
+          "url({\"relative\":true})": "/es-cl/store/products/cookie-clicker-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "applicationId": "01002ca01b18a000",
+          "appStoreUrl": null,
+          "availability": [
+            "Disponible ya"
+          ],
+          "baseSoftware": [],
+          "capacity": null,
+          "consumerLaunchHoldDate": null,
+          "containsBattery": null,
+          "crossSellProducts": [
+            {
+              "__ref": "Product:{\"sku\":\"7100066196\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100071062\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100066194\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100058461\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100068359\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100039421\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100045037\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100080664\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100037336\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100051254\"}"
+            }
+          ],
+          "countryOfOrigin": null,
+          "demoNsuid": null,
+          "description({\"html\":true})": "<p>Cookie Clicker es un juego que consiste en hacer una cantidad obscena de galletas. Para ayudarte en esta empresa, reclutarás a una amplia variedad de serviciales fabricantes, como las entrañables abuelas, las granjas, las fábricas y los portales sobrenaturales.<br><br>Cookie Clicker se publicó en 2013 en la web, pero se ha desarrollado muy activamente desde entonces. ¡Si has jugado alguna vez, echa un vistazo a las nuevas funciones!<br><br> * Acumula galletas y gástalas para hacer aún más galletas<br> * Más de 600 mejoras<br> * Mima a tu dragón<br> * Minijuegos<br> * Desbloquea mejoras celestiales permanentes<br> * Música de C418<br></p>",
+          "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) para utilizar la función de guardado de datos en la nube.</p><p>© Orteil, 2025 - DashNet</p>",
+          "displayChokingHazard": null,
+          "displayProp65": null,
+          "dlcType": null,
+          "edition": "Standard Edition",
+          "enableRetailCrawler": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "isPreorderable": false,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000066299&v_loggedin=false&v_currency=CLP&v_price=3000.00&v_country=CL",
+            "discountPriceEnd": null
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "freeWithExNso": null,
+          "gamesShown": null,
+          "googlePlayUrl": null,
+          "includesDigitalLicense": null,
+          "inviteRequired": null,
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "metaDescription": null,
+          "metaTitle": null,
+          "miscDescriptions": null,
+          "miscNetworkDescriptions": null,
+          "miscPeripheralDescriptions": null,
+          "numberOfPlayers": {
+            "__typename": "NumberOfPlayers",
+            "system": {
+              "__typename": "PlayerCount",
+              "max": null,
+              "min": 1,
+              "label": "Un jugador"
+            },
+            "local": null,
+            "online": null
+          },
+          "description": "Cookie Clicker es un juego que consiste en hacer una cantidad obscena de galletas. Para ayudarte en esta empresa, reclutarás a una amplia variedad de serviciales fabricantes, como las entrañables abuelas, las granjas, las fábricas y los portales sobrenaturales.\n\nCookie Clicker se publicó en 2013 en la web, pero se ha desarrollado muy activamente desde entonces. ¡Si has jugado alguna vez, echa un vistazo a las nuevas funciones!\n\n * Acumula galletas y gástalas para hacer aún más galletas\n * Más de 600 mejoras\n * Mima a tu dragón\n * Minijuegos\n * Desbloquea mejoras celestiales permanentes\n * Música de C418\n",
+          "playerCountDescription": null,
+          "platinumPoints": null,
+          "prePurchase": null,
+          "productCode": "HACPBCQDA",
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/23beb854a7df412fa3095ee85ca5fb9c_1024"
+          },
+          "publisherNotifications({\"html\":true})": null,
+          "relatedArticles": [],
+          "qtyAllowedPerCustomer": null,
+          "downloadableContents": [],
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "seo": {
+            "__typename": "SEO",
+            "canonicalUrl": "https://www.nintendo.com/es-cl/store/products/cookie-clicker-switch/"
+          },
+          "shipDateDisplay": null,
+          "softwareDetails": {
+            "__typename": "SoftwareDetails",
+            "rights": [
+              {
+                "__typename": "Rights",
+                "isLendable": true,
+                "titleId": "01002ca01b18a000"
+              }
+            ],
+            "romSizes": [
+              {
+                "__typename": "RomSize",
+                "estimatedRomSize": null,
+                "totalRomSize": "281018368",
+                "platform": "HAC"
+              },
+              {
+                "__typename": "RomSize",
+                "estimatedRomSize": null,
+                "totalRomSize": "281018368",
+                "platform": "BEE"
+              }
+            ]
+          },
+          "softwareDeveloper": "DashNet",
+          "startShippingDate": null,
+          "topLegalDisclaimer": null,
+          "upc": null,
+          "upsellProducts": null,
+          "variations": [
+            {
+              "__typename": "ProductVariation",
+              "label": "Standard Edition",
+              "value": "Standard Edition",
+              "type": "Edition",
+              "product": {
+                "__ref": "Product:{\"sku\":\"7100066299\"}"
+              }
+            }
+          ],
+          "voucherNsuid": null,
+          "backgroundColor": "043b70",
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_CL\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+          },
+          "headline": "¡Un juego idle sobre hacer galletas! Lanzado originalmente en la web en 2013 y desarrollado activamente desde entonces.",
+          "id": "70010000066299",
+          "localeAlternates": [],
+          "nsoFeatures": [
+            {
+              "__typename": "NsoFeature",
+              "code": "SAVE_DATA_CLOUD",
+              "label": "Guardado de datos en la nube"
+            }
+          ],
+          "officialSite": "https://cookieclicker.com/",
+          "playModes": [
+            {
+              "__typename": "PlayMode",
+              "code": "TV_MODE",
+              "label": "TV mode"
+            },
+            {
+              "__typename": "PlayMode",
+              "code": "TABLETOP_MODE",
+              "label": "Tabletop mode"
+            },
+            {
+              "__typename": "PlayMode",
+              "code": "HANDHELD_MODE",
+              "label": "Handheld mode"
+            }
+          ],
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000066299/Video/92e9514e74fbae0785ed484cdae37d946d93477cc4cc022102be1ac1992cdecb",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066299/7416b471ee6f5722b47ce582260d2a4ba824ddef081ce980bf3137165495510c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066299/3077b0956ec6ecb42cd104f185c5d54e5567a0fc1a1b2612c314574a4b93e052",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066299/3f4cb0c9c4edcccb0d42c63983587f34817e50ad9ed6064a4d4b98bd80c3b7ce",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066299/b8511d740247cbfa305dc72dd299f6024cf303d53ff09d671aaed5cf74ddd35b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066299/e3daef958230375561377bb29448966f32ca56805d9bfdbf77c54c242db2ced5",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000066299/4cf222d8d27c3c20fc8979df1bd7d4b9fc22ea2ad74101485153bd472562c55a",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ],
+          "releaseDate": "2025-05-22T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "softwareContents": [],
+          "softwarePublisher": "DashNet",
+          "supportedLanguages": [
+            "Japanese",
+            "French",
+            "German",
+            "Italian",
+            "Korean",
+            "Dutch",
+            "Portuguese",
+            "Russian",
+            "Simplified Chinese",
+            "Latin American Spanish",
+            "Brazilian Portuguese",
+            "American English"
+          ],
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          }
+        },
+        "ROOT_QUERY": {
+          "__typename": "Query",
+          "product({\"input\":{\"urlKey\":\"cookie-clicker-switch\"}})": {
+            "__ref": "Product:{\"sku\":\"7100066299\"}"
+          },
+          "features({\"ids\":[\"wdev-1692-meta-description-update\"],\"project\":\"ncom\"})": [
+            {
+              "__ref": "Feature:wdev-1692-meta-description-update"
+            }
+          ]
+        },
+        "Feature:wdev-1692-meta-description-update": {
+          "__typename": "Feature",
+          "id": "wdev-1692-meta-description-update",
+          "impressionData": false,
+          "stale": false,
+          "strategies": [
+            {
+              "__typename": "FeatureStrategy",
+              "constraints": [],
+              "name": "flexibleRollout",
+              "parameters": {
+                "__typename": "FeatureStrategyParameters",
+                "groupId": "wdev-1692-meta-description-update",
+                "hostNames": null,
+                "rollout": 100,
+                "stickiness": "DEFAULT",
+                "userIds": null
+              }
+            }
+          ],
+          "type": "RELEASE",
+          "variants": []
+        }
+      }
+    },
+    "__N_SSP": true
+  },
+  "page": "/store/products/[slug]",
+  "query": {
+    "slug": "cookie-clicker-switch"
+  },
+  "buildId": "vWdSHqAhywDoZtLPOkH5X",
+  "assetPrefix": "/us",
+  "isFallback": false,
+  "gssp": true,
+  "customServer": true,
+  "appGip": true,
+  "locale": "es-cl",
+  "locales": [
+    "default",
+    "us",
+    "en-ca",
+    "fr-ca",
+    "es-mx",
+    "pt-br",
+    "es-ar",
+    "es-cl",
+    "es-co",
+    "es-pe"
+  ],
+  "defaultLocale": "default",
+  "scriptLoader": []
+}
