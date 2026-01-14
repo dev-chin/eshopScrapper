@@ -10,7 +10,7 @@ check_at_once = 50 # Max before site returns "Over ids limit number"
 
 REGIONS = ["JP", "US", "HK", "BR", "CA", "AR", "CL", "CO", "PE", "MX", "AU", "NZ"]
 #Regions that we currently don't know how to extract titleids from
-#REGIONS += ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB"]
+#REGIONS += ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB", "TH"]
 
 
 os.makedirs("ValidNsuIds", exist_ok=True)
@@ -42,3 +42,4 @@ for a in range(len(REGIONS)):
     file = open("ValidNsuIds/%s.json" % REGIONS[a], "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
+
