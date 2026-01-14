@@ -27,7 +27,7 @@ def scrapEshop(nsu_id: int):
         
         # Find the line containing "NXSTORE.titleDetail.jsonData ="
         pattern = r'NXSTORE\.titleDetail\.jsonData = (.+)'
-        match = re.search(pattern, html_content, re.DOTALL)
+        match = re.search(pattern, html_content)
         
         if match:
             # Extract the JSON data (everything after the = sign, removing trailing semicolon)
@@ -81,5 +81,6 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=2) as executor:
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
 
