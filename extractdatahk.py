@@ -66,13 +66,16 @@ for x in range(len(REGIONS)):
     with open(f"{REGIONS[x]}.{LANGS[x]}.json", "r", encoding="utf-8") as f:
         titledb_IDs = list(json.load(f).keys())
         titledb_IDs[:] = [int(s) for s in titledb_IDs if s.startswith("7001")]
-    
+
+    printf(f"nsu_ids count: {len(nsu_ids}")
     nsu_ids_filtered = [s for s in nsu_ids if s not in titledb_IDs]
+    printf(f"nsu_ids_filtered count: {len(nsu_ids_filtered}")
     #nsu_ids_filtered = [s for s in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/{REGIONS[x]}/{s}.json") == False)]
 
     scrapEshop.itr = x
 
     with ThreadPoolExecutor(max_workers=2) as executor:
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
 
