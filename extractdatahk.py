@@ -93,7 +93,5 @@ for x in range(len(REGIONS)):
 
     itr = x
 
-    with ThreadPoolExecutor(max_workers=2) as executor:
+    with ThreadPoolExecutor(max_workers=1) as executor:
         executor.map(scrapEshop, nsu_ids_filtered)
-
-
