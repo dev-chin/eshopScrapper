@@ -26,14 +26,17 @@ def scrapEshop(nsu_id: int):
         html_content = response.text
         
         # Find the line containing "NXSTORE.titleDetail.jsonData ="
-        pattern = r'<script id="mobify-data" type="application/json">(.+?)(?:</script>)'
+        pattern = r'NXSTORE\.titleDetail\.jsonData = (.+)'
         match = re.search(pattern, html_content, re.DOTALL)
         
         if match:
+            # Extract the JSON data (everything after the = sign, removing trailing semicolon)
             json_line = match.group(1).strip()
+            if json_line.endswith(';'):
+                json_line = json_line[:-1].strip()
 
             # Check if that line contains valid title data
-            if json_line.find("c_applicationId") == -1:
+            if json_line.find("\"title_id\"") == -1:
                 return
             
             # Parse and re-save as proper JSON to ensure it's valid
@@ -78,4 +81,5 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=2) as executor:
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
