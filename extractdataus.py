@@ -25,10 +25,11 @@ def scrapEshop(nsu_id: int):
 
     try:
         # Download the HTML page
-        response = requests.get(url, timeout=30, stream=True)
-        response.raise_for_status()
+        response = requests.head(url, timeout=30, stream=True)
         if (response.url == default_page):
             return
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
         html_content = response.text
         
         # Find the line containing "NXSTORE.titleDetail.jsonData ="
@@ -96,3 +97,4 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=1) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
+
