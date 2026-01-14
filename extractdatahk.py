@@ -8,8 +8,10 @@ import threading
 
 REGIONS = ["HK", "AU", "NZ"]
 LANGS = ["zh", "en", "en"]
+itr = 0
 
 def scrapEshop(nsu_id: int):
+    global itr
     region = REGIONS[itr]
     lang = LANGS[itr]
     # Create the URL
@@ -53,7 +55,6 @@ def scrapEshop(nsu_id: int):
     except Exception as e:
         print(f"✗ Unexpected error for {region} {nsu_id}: {e}")
 
-scrapEshop.itr = 0
 for x in range(len(REGIONS)):
     # Create output directory if it doesn't exist
     Path(f"scrap/{REGIONS[x]}").mkdir(parents=True, exist_ok=True)
@@ -73,7 +74,8 @@ for x in range(len(REGIONS)):
     nsu_ids_filtered = [s for s in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/{REGIONS[x]}/{s}.json") == False)]
     print(f"nsu_ids_filtered {REGIONS[x]} count: {len(nsu_ids_filtered)}")
 
-    scrapEshop.itr = x
+    itr = x
 
     with ThreadPoolExecutor(max_workers=2) as executor:
         executor.map(scrapEshop, nsu_ids_filtered)
+
