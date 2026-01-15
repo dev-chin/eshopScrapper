@@ -24,6 +24,10 @@ jobs:
         with:
           python-version: '3.14'
 
+      - name: Install libraries
+        run: |
+          pip install requests
+
       - name: Run Python script
         run: |
           python -u region_check.py
