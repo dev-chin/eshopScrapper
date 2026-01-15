@@ -184,7 +184,7 @@ def processCat3():
 				json.dump(entry, f, indent="\t", ensure_ascii=True)
 
 try:
-	file = open(f"output/main_regions.json", "r", encoding="UTF-8")
+	file = open(f"output/main_regions_alt.json", "r", encoding="UTF-8")
 except:
 	pass
 else:
@@ -196,5 +196,5 @@ processCat3()
 processCat2()
 processCat1()
 
-with open(f"output/main_regions.json", "w", encoding="UTF-8") as f:
+with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=True)
