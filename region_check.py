@@ -3,7 +3,7 @@ import requests
 from concurrent.futures import ThreadPoolExecutor
 import sys
 
-REGIONS = ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB", "TH", "KR"]
+REGIONS = ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "RU", "ZA", "SE", "IT", "FR", "DE", "GB", "TH", "KR", "SG", "MY", "TW"]
 
 region = ""
 
@@ -44,4 +44,5 @@ for m_region in REGIONS:
         executor.map(checkTitleid, titleids)
 
 with open("output/main_regions_alt2.json", "w", encoding="UTF-8") as f:
+
     json.dump(OUTPUT, f)
