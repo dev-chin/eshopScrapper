@@ -1,4 +1,4 @@
-name: Scrap eshops
+name: Scrap eshops & process
 
 # Controls when the action will run.
 on:
@@ -49,6 +49,8 @@ jobs:
           python -u extractdatajp.py
           python -u extractdatahk.py
           python -u extractdataus.py
+          python -u ProcessToTitleids.py
+          python -u region_check.py
 
       # 6. Commit and push the files from the "output" folder
       - name: Push new files to repository
@@ -56,5 +58,6 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add --ignore-removal scrap/
+          git add --ignore-removal output/
           git commit -m "Update" || exit 0
           git push
