@@ -61,7 +61,7 @@ with open("JP.ja.json", "r", encoding="utf-8") as f:
     titledb_IDs[:] = [int(s) for s in titledb_IDs if s.startswith("7001")]
 
 nsu_ids_filtered_temp = [s for s in nsu_ids if s not in titledb_IDs]
-nsu_ids_filtered = [s for s in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/JP/{nsu_id}.json") == False)]
+nsu_ids_filtered = [nsu_id for nsu_id in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/JP/{nsu_id}.json") == False)]
 
 with ThreadPoolExecutor(max_workers=2) as executor:
     executor.map(scrapEshop, nsu_ids_filtered)
