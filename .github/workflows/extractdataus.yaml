@@ -1,4 +1,4 @@
-name: Scrap US eshop
+name: Scrap eshops
 
 # Controls when the action will run.
 on:
@@ -22,7 +22,7 @@ jobs:
       - name: Set up Python 3
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.14'
 
       - name: Download titledb file
         run: |
@@ -34,6 +34,10 @@ jobs:
           wget https://github.com/blawar/titledb/raw/refs/heads/master/CO.es.json
           wget https://github.com/blawar/titledb/raw/refs/heads/master/PE.es.json
           wget https://github.com/blawar/titledb/raw/refs/heads/master/MX.es.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/HK.zh.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/AU.en.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/NZ.en.json
+          wget https://github.com/blawar/titledb/raw/refs/heads/master/JP.ja.json
       
       # 5. Run your Python script
       - name: Install libraries
@@ -42,6 +46,8 @@ jobs:
 
       - name: Run Python script
         run: |
+          python -u extractdatajp.py
+          python -u extractdatahk.py
           python -u extractdataus.py
 
       # 6. Commit and push the files from the "output" folder
