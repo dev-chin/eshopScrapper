@@ -27,7 +27,7 @@ with open("output/main_regions_alt.json", "r", encoding="UTF-8") as f:
 
 try:
     with open("output/main_regions_alt2.json", "r", encoding="UTF-8") as f:
-        OUTPUT = list(json.load(f))
+        OUTPUT = json.load(f)
 except:
     pass
 
@@ -46,3 +46,4 @@ for m_region in REGIONS:
 with open("output/main_regions_alt2.json", "w", encoding="UTF-8") as f:
 
     json.dump(OUTPUT, f)
+
