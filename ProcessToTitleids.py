@@ -170,7 +170,7 @@ def processCat3():
 			size_temp = productSku["softwareDetails"]["romSizes"][0]["totalRomSize"] if titleid.startswith("0100") else productSku["softwareDetails"]["romSizes"][1]["totalRomSize"]
 			if (size_temp != None):
 				size = int(size_temp) / 1048576
-				entry["size"] = "%.2f MiB" % size if size < 1000 else "%.2f GiB" % (size / 1024)
+				entry["size"] = "%.0f MiB" % size if size < 1000 else "%.2f GiB" % (size / 1024)
 			else: entry["size"] = 0
 
 			try:
@@ -220,4 +220,5 @@ processCat1()
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
 
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=True)
+
 
