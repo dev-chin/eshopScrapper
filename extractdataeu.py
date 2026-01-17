@@ -141,5 +141,10 @@ with open("version_dump/version_dump.txt", "r", encoding="UTF-8") as f:
 
 titleids[:] = [x for x in titleids if (os.path.isfile(f"output/titleid/{x}.json") == False)]
 
+"""
 for titleid in titleids:
 	scrapEshop(titleid)
+"""
+
+with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
+	executor.map(scrapEshop, titleids)
