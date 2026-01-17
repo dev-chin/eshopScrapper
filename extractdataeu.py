@@ -130,10 +130,11 @@ def scrapEshop(titleid: str):
 					print(f"✗ Could not find screenshots in {region} {titleid}")
 
 	if ("name" not in DUMP.keys()):
-		print("No data was found!")
+		print(f"✗✗ {titleid} No data was found!")
 		return
 	with open(f"scrap/EU/{titleid}.json", "w", encoding="UTF-8") as f:
 		json.dump(DUMP, f, indent="\t", ensure_ascii=True)
+	print(f"✓✓ {titleid} saved!")
 
 os.makedirs("scrap/EU", exist_ok=True)
 
@@ -149,6 +150,7 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
 
 
 
