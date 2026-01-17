@@ -9,7 +9,6 @@ import sys
 REGIONS = ["GB", "DE", "FR", "IT", "BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "ZA", "SE"]
 
 LIST_REGION = {}
-EU_REJECTED = []
 
 def scrapEshop(titleid: str):
 	print(f"Processing {titleid}...")
@@ -132,7 +131,6 @@ def scrapEshop(titleid: str):
 
 	if ("name" not in DUMP.keys()):
 		print(f"✗✗ {titleid} No data was found!")
-		EU_REJECTED.append(titleid)
 		return
 	with open(f"scrap/EU/{titleid}.json", "w", encoding="UTF-8") as f:
 		json.dump(DUMP, f, indent="\t", ensure_ascii=True)
@@ -145,13 +143,6 @@ with open("version_dump/version_dump.txt", "r", encoding="UTF-8") as f:
 
 titleids[:] = [x for x in titleids if ((os.path.isfile(f"titledb_filtered/output/titleid/{x}.json") == False) and (os.path.isfile(f"titledb_filtered/output2/titleid/{x}.json") == False))]
 
-try:
-	with open("scrap/EU_REJECTED.json", "r", encoding="UTF-8") as f:
-		EU_REJECTED = json.load(f)
-except:
-	pass
-else: titleids[:] = [x for x in titleids if x not in EU_REJECTED]
-
 print(f"To check: {len(titleids)} titleids, expected lines: around {(len(REGIONS) * len(titleids)) + (len(titleids) * 2)}")
 
 """
@@ -161,6 +152,3 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
-
-with open("scrap/EU_REJECTED.json", "w", encoding="UTF-8") as f:
-	json.dump(EU_REJECTED, f, indent="\t")
