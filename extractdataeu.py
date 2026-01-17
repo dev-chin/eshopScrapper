@@ -18,7 +18,6 @@ def scrapEshop(titleid: str):
 	else: DUMP = {"Regions": {"True": [], "False": []}}
 
 	for region in REGIONS:
-		print(f"Checking {region}", end="\r")
 		if (region in DUMP["Regions"]["True"] or region in DUMP["Regions"]["False"]):
 			continue
 		# Create the URL
@@ -26,6 +25,7 @@ def scrapEshop(titleid: str):
 		response = requests.head(url, timeout=10, allow_redirects=False)
 		match(response.status_code):
 			case 404:
+				print(f"✗ {region} {titleid}")
 				DUMP["Regions"]["False"].append(region)
 				continue
 			case 403:
@@ -39,12 +39,14 @@ def scrapEshop(titleid: str):
 
 		response = requests.head(url, timeout=10, allow_redirects=True)
 		if (response.url.find("/404.html") != -1):
+			print(f"✗ {region} {titleid}")
 			DUMP["Regions"]["False"].append(region)
 			continue
 		
 		DUMP["Regions"]["True"].append(region)
 		try:
 			# Download the HTML page
+			print(f"✓ {region} {titleid}")
 			response = requests.get(url, timeout=30)
 			response.raise_for_status()
 			html_content = response.text
@@ -56,7 +58,6 @@ def scrapEshop(titleid: str):
 		except Exception as e:
 			print(f"✗ Unexpected error for {region} {titleid}: {e}")
 		else:
-			print(response.status_code)
 			# Find the line containing "NXSTORE.titleDetail.jsonData ="
 			pattern = r'gameTitle: "(.+?)(?:",)'
 			match = re.search(pattern, html_content)
@@ -148,5 +149,6 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
 
 
