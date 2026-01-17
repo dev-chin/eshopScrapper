@@ -45,5 +45,6 @@ for m_region in REGIONS:
         executor.map(checkTitleid, titleids)
 
 with open("output/main_regions_alt2.json", "w", encoding="UTF-8") as f:
-    json.dump(OUTPUT, f, indent="\t")
+    json.dump(OUTPUT, f)
+
 
