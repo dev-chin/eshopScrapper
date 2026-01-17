@@ -41,7 +41,7 @@ for a in range(len(REGIONS)):
         if response.status_code == 200:
             data = response.json()["prices"]
             for x in range(len(data)):
-                if (data[x]["sales_status"] not in ["not_found", "unreleased", "sales_termination"]):
+                if (data[x]["sales_status"] not in ["not_found", "sales_termination"]):
                     NSUIDs.append(data[x]["title_id"])
 
     if (len(NSUIDs) == 0): 
@@ -50,6 +50,3 @@ for a in range(len(REGIONS)):
     file = open(f"ValidNsuIds/{REGIONS[a]}.json", "w", encoding="UTF-8")
     json.dump(NSUIDs, file, indent="\t", ensure_ascii=False)
     file.close()
-
-
-
