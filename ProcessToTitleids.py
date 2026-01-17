@@ -88,7 +88,7 @@ def processCat2():
 			date_obj = datetime.strptime(DUMP["release_date_on_eshop"], "%Y-%m-%d")
 			entry["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
 			size = (DUMP["rom_size_infos"][0]["total_rom_size"] / 1048576) if titleid.startswith("0100") else (DUMP["rom_size_infos"][1]["total_rom_size"] / 1048576)
-			entry["size"] = "%.2f MiB" % size if size < 1000 else "%.2f GiB" % (size / 1024)
+			entry["size"] = "%.0f MiB" % size if size < 1000 else "%.2f GiB" % (size / 1024)
 
 
 			try:
@@ -197,4 +197,5 @@ processCat2()
 processCat1()
 
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
+
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=True)
