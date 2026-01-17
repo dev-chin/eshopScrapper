@@ -170,9 +170,5 @@ for titleid in titleids:
 	scrapEshop(titleid)
 """
 
-with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
+with ThreadPoolExecutor(max_workers=3) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
-
-
-
-
