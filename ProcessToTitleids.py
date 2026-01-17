@@ -42,6 +42,13 @@ def processCat1():
 			
 			titleid = entry["titleid"]
 			entry.pop("titleid")
+
+			if (titleid.startswith("0100") == True):
+				if (os.path.isfile(f"titledb_filtered/output/titleid/{titleid}.json") == True):
+					continue
+			else:
+				if (os.path.isfile(f"titledb_filtered/output2/titleid/{titleid}.json") == True):
+					continue
 			try:
 				file_old = open(f"output/titleid/{titleid}.json", "r", encoding="UTF-8")
 			except:
@@ -77,6 +84,13 @@ def processCat2():
 				sys.exit(1)
 			titleid = DUMP["applications"][0]["id"].upper()
 
+			if (titleid.startswith("0100") == True):
+				if (os.path.isfile(f"titledb_filtered/output/titleid/{titleid}.json") == True):
+					continue
+			else:
+				if (os.path.isfile(f"titledb_filtered/output2/titleid/{titleid}.json") == True):
+					continue
+			
 			entry = {}
 			entry["name"] = [DUMP["formal_name"]]
 			entry["publisher"] = DUMP["publisher"]["name"]
@@ -132,6 +146,13 @@ def processCat3():
 			productSku = DUMP["props"]["pageProps"]["initialApolloState"]["Product:{\"sku\":\"%s\"}" % sku]
 
 			titleid = productSku["applicationId"].upper()
+
+			if (titleid.startswith("0100") == True):
+				if (os.path.isfile(f"titledb_filtered/output/titleid/{titleid}.json") == True):
+					continue
+			else:
+				if (os.path.isfile(f"titledb_filtered/output2/titleid/{titleid}.json") == True):
+					continue
 
 			entry = {}
 			entry["name"] = [DUMP["props"]["pageProps"]["analytics"]["product"]["name"]]
@@ -199,3 +220,4 @@ processCat1()
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
 
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=True)
+
