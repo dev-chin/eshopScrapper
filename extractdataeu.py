@@ -31,7 +31,6 @@ def scrapEshop(titleid: str):
 	else: DUMP = {"Regions": {"True": [], "False": []}}
 
 	for region in REGIONS:
-		time.sleep(0.1)
 		if (region in DUMP["Regions"]["True"] or region in DUMP["Regions"]["False"]):
 			continue
 		# Create the URL
@@ -41,6 +40,7 @@ def scrapEshop(titleid: str):
 			case 404:
 				print(f"✗ {region} {titleid}")
 				DUMP["Regions"]["False"].append(region)
+				time.sleep(0.1)
 				continue
 			case 403:
 				print("Hit rate limit, aborting...")
@@ -51,18 +51,17 @@ def scrapEshop(titleid: str):
 				print(f"UNEXPECTED HTTP CODE: {response.status_code}, aborting...")
 				os._exit(2)
 
-		time.sleep(0.1)
 		response = requests.head(url, timeout=10, allow_redirects=True)
 		if (response.url.find("/404.html") != -1):
 			print(f"✗ {region} {titleid}")
 			DUMP["Regions"]["False"].append(region)
+			time.sleep(0.1)
 			continue
 		
 		DUMP["Regions"]["True"].append(region)
 		try:
 			# Download the HTML page
 			print(f"✓ {region} {titleid}")
-			time.sleep(0.1)
 			response = requests.get(url, timeout=30)
 			response.raise_for_status()
 			html_content = response.text
@@ -173,6 +172,7 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
 
 
 
