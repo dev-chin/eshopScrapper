@@ -145,6 +145,13 @@ with open("version_dump/version_dump.txt", "r", encoding="UTF-8") as f:
 
 titleids[:] = [x for x in titleids if ((os.path.isfile(f"titledb_filtered/output/titleid/{x}.json") == False) and (os.path.isfile(f"titledb_filtered/output2/titleid/{x}.json") == False))]
 
+try:
+	with open("scrap/EU_REJECTED.json", "r", encoding="UTF-8") as f:
+		EU_REJECTED = json.load(f)
+except:
+	pass
+else: titleids[:] = [x for x in titleids if x not in EU_REJECTED]
+
 print(f"To check: {len(titleids)} titleids, expected lines: around {(len(REGIONS) * len(titleids)) + (len(titleids) * 2)}")
 
 """
