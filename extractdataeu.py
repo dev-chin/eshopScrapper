@@ -30,12 +30,12 @@ def scrapEshop(titleid: str):
 				continue
 			case 403:
 				print("Hit rate limit, aborting...")
-				sys.exit(1)
+				os._exit(1)
 			case 303:
 				pass
 			case _:
 				print(f"UNEXPECTED HTTP CODE: {response.status_code}, aborting...")
-				sys.exit(2)
+				os._exit(2)
 
 		response = requests.head(url, timeout=10, allow_redirects=True)
 		if (response.url.find("/404.html") != -1):
@@ -148,4 +148,5 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
 
