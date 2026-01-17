@@ -16,6 +16,10 @@ checked_titleids = 0
 to_check = 0
 
 def scrapEshop(titleid: str):
+	global sun_time
+	global checked_titleids
+	global to_check
+	
 	if (checked_titleids > 0): 
 		execution_time = ((to_check - checked_titleids) * (sum_time / checked_titleids)) / 60
 		print(f"Time left: {execution_time:.2f} minutes")
@@ -166,3 +170,4 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
