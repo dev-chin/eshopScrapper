@@ -5,12 +5,21 @@ import os
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 import sys
+import time
 
 REGIONS = ["GB", "DE", "FR", "IT", "BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "ZA", "SE"]
 
 LIST_REGION = {}
 
+sum_time = 0
+checked_titleids = 0
+to_check = 0
+
 def scrapEshop(titleid: str):
+	if (checked_titleids > 0): 
+		execution_time = ((to_check - checked_titleids) * (sum_time / checked_titleids)) / 60
+		print(f"Time left: {execution_time:.2f} minutes")
+	time_1 = time.perf_counter()
 	print(f"Processing {titleid}...")
 	if (os.path.isfile(f"scrap/EU/{titleid}.json") == True):
 		with open(f"scrap/EU/{titleid}.json", "r", encoding="UTF-8") as f:
@@ -131,10 +140,14 @@ def scrapEshop(titleid: str):
 
 	if ("name" not in DUMP.keys()):
 		print(f"✗✗ {titleid} No data was found!")
+		sum_time += time.perf_counter() - time_1 
+		checked_titleids += 1
 		return
 	with open(f"scrap/EU/{titleid}.json", "w", encoding="UTF-8") as f:
 		json.dump(DUMP, f, indent="\t", ensure_ascii=True)
 	print(f"✓✓ {titleid} saved!")
+	sum_time += time.perf_counter() - time_1
+	checked_titleids += 1
 
 os.makedirs("scrap/EU", exist_ok=True)
 
@@ -143,7 +156,8 @@ with open("version_dump/version_dump.txt", "r", encoding="UTF-8") as f:
 
 titleids[:] = [x for x in titleids if ((os.path.isfile(f"titledb_filtered/output/titleid/{x}.json") == False) and (os.path.isfile(f"titledb_filtered/output2/titleid/{x}.json") == False))]
 
-print(f"To check: {len(titleids)} titleids, expected lines: around {(len(REGIONS) * len(titleids)) + (len(titleids) * 2)}")
+to_check = len(titleids)
+print(f"To check: {to_check} titleids, expected lines: around {(len(REGIONS) * to_check) + (to_check * 2)}")
 
 """
 for titleid in titleids:
