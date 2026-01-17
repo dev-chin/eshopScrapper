@@ -143,6 +143,8 @@ with open("version_dump/version_dump.txt", "r", encoding="UTF-8") as f:
 
 titleids[:] = [x for x in titleids if ((os.path.isfile(f"titledb_filtered/output/titleid/{x}.json") == False) and (os.path.isfile(f"titledb_filtered/output2/titleid/{x}.json") == False))]
 
+print(f"To check: {len(titleids)} titleids, expected lines: around {(len(REGIONS) * len(titleids)) + (len(titleids) * 2))")
+
 """
 for titleid in titleids:
 	scrapEshop(titleid)
@@ -150,3 +152,4 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
