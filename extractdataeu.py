@@ -103,10 +103,13 @@ def scrapEshop(titleid: str):
 				
 				if match:
 					captured_date = match.group(1).strip()
-					print(f"DEBUG: Captured date string: '{captured_date}' (repr: {repr(captured_date)})")
-					date_obj = datetime.strptime(captured_date, "%d/%m/%Y")
-					print("PING 5-1")
-					DUMP["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
+					try:
+						date_obj = datetime.strptime(captured_date, "%d/%m/%Y")
+					except Exception as e:
+						print(f"DEBUG: Captured date string: '{captured_date}' (repr: {repr(captured_date)})")
+						print(f"Exception: {e}")
+						os._exit(3)
+					else: DUMP["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
 
 				else:
 					print(f"✗ Could not find releaseDate in {region} {titleid}")
