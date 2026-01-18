@@ -2,7 +2,6 @@ import json
 import re
 import requests
 import os
-from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 import time
 import datetime
@@ -162,3 +161,4 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
