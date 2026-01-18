@@ -78,9 +78,10 @@ def scrapEshop(titleid: str):
 			match = re.search(pattern, html_content)
 			
 			if match:
+				name = match.group(1).strip()
 				if ("name" in DUMP.keys()):
-					DUMP["name"].append(match.group(1).strip())
-				else: DUMP["name"] = [match.group(1).strip()]
+					if (name not in DUMP["name"]): DUMP["name"].append(name)
+				else: DUMP["name"] = [name]
 
 			else:
 				print(f"✗ Could not find title in {region} {titleid}")
@@ -90,7 +91,7 @@ def scrapEshop(titleid: str):
 				match = re.search(pattern, html_content)
 				
 				if match:
-					DUMP["publisher"] = [match.group(1).strip()]
+					DUMP["publisher"] = match.group(1).strip()
 
 				else:
 					print(f"✗ Could not find publisher in {region} {titleid}")
@@ -100,7 +101,7 @@ def scrapEshop(titleid: str):
 				match = re.search(pattern, html_content)
 				
 				if match:
-					DUMP["bannerUrl"] = [match.group(1).strip()]
+					DUMP["bannerUrl"] = match.group(1).strip()
 
 				else:
 					print(f"✗ Could not find bannerUrl in {region} {titleid}")
@@ -113,23 +114,24 @@ def scrapEshop(titleid: str):
 				match = re.search(pattern, html_content)
 				
 				if match:
-					DUMP["releaseDate"] = [match.group(1).strip()]
+					date_obj = datetime.strptime(match.group(1).strip(), "%d/%m/%Y")
+					DUMP["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
 
 				else:
 					print(f"✗ Could not find releaseDate in {region} {titleid}")
 
 			if ("size" not in DUMP.keys()):
-				pattern = r'<p class="game_info_title">Download size</p>\n\t\t\t\t\t\t<p class="game_info_text">(.+?)(?:</p>)'
+				pattern = r'<p class="game_info_title">Download size</p>\n\s*<p class="game_info_text">(.+?)(?:</p>)'
 				match = re.search(pattern, html_content)
 				
 				if match:
-					DUMP["size"] = [match.group(1).strip().replace("GB", "GiB")]
+					DUMP["size"] = match.group(1).strip().replace("GB", "GiB").replace("MB", "MiB")
 
 				else:
 					print(f"✗ Could not find size in {region} {titleid}")
 
 			if ("screenshots" not in DUMP.keys()):
-				pattern = r"',\n\t\t\t\t\t\t'image_url': '(.+?)(?:')"
+				pattern = r"'image_url':\s*'([^']+\.jpg)'"
 				matches = re.finditer(pattern, html_content)
 
 				if len(list(matches)) > 0:
