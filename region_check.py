@@ -1,7 +1,7 @@
 import json
 import requests
 from concurrent.futures import ThreadPoolExecutor
-import sys
+import os
 
 REGIONS = ["BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "ZA", "SE", "IT", "FR", "DE", "GB", "TH", "KR", "SG", "MY", "TW"]
 
@@ -18,7 +18,7 @@ def checkTitleid(titleid: str):
             print(f"✓ {region} {titleid}")
         elif (status_code == 403):
             print("✗ Hit rate limit. Aborting...")
-            sys.exit(1)
+            os._exit(1)
         else: 
             print(f"✗ {region} {titleid}: {status_code}")
             OUTPUT[f"{titleid}"]["False"].append(region)
@@ -46,5 +46,6 @@ for m_region in REGIONS:
 
 with open("output/main_regions_alt2.json", "w", encoding="UTF-8") as f:
     json.dump(OUTPUT, f)
+
 
 
