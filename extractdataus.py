@@ -5,7 +5,6 @@ import os
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 import threading
-import sys
 
 REGIONS = ["US", "BR", "CA", "AR", "CL", "CO", "PE", "MX"]
 LANGS = ["en", "pt", "en", "es", "es", "es", "es", "es"]
@@ -97,4 +96,5 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
