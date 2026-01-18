@@ -64,7 +64,6 @@ def scrapEshop(titleid: str):
 			pattern = r'gameTitle: "(.+?)(?:",)'
 			match = re.search(pattern, html_content)
 
-			print("PING 1")
 			if match:
 				name = match.group(1).strip()
 				if ("name" in DUMP.keys()):
@@ -74,7 +73,6 @@ def scrapEshop(titleid: str):
 			else:
 				print(f"✗ Could not find title in {region} {titleid}")
 
-			print("PING 2")
 			if ("publisher" not in DUMP.keys()):
 				pattern = r'publisher: "(.+?)(?:",)'
 				match = re.search(pattern, html_content)
@@ -85,7 +83,6 @@ def scrapEshop(titleid: str):
 				else:
 					print(f"✗ Could not find publisher in {region} {titleid}")
 
-			print("PING 3")
 			if ("bannerUrl" not in DUMP.keys()):
 				pattern = r'<meta name="twitter:image" content="(.+?)(?:">)'
 				match = re.search(pattern, html_content)
@@ -96,17 +93,18 @@ def scrapEshop(titleid: str):
 				else:
 					print(f"✗ Could not find bannerUrl in {region} {titleid}")
 
-			print("PING 4")
 			if ("iconUrl" not in DUMP.keys()):
 				DUMP["iconUrl"] = ""
 
 			print("PING 5")
 			if ("releaseDate" not in DUMP.keys()):
-				pattern = r'releaseDate: "(.+?)(?:",)'
+				pattern = r'releaseDate: "(.+?)"'
 				match = re.search(pattern, html_content)
 				
 				if match:
-					date_obj = datetime.strptime(match.group(1).strip(), "%d/%m/%Y")
+					captured_date = match.group(1).strip()
+					print(f"DEBUG: Captured date string: '{captured_date}' (repr: {repr(captured_date)})")
+					date_obj = datetime.strptime(captured_date, "%d/%m/%Y")
 					DUMP["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
 
 				else:
@@ -161,4 +159,3 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
-
