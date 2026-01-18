@@ -4,7 +4,7 @@ import requests
 import os
 from concurrent.futures import ThreadPoolExecutor
 import time
-import datetime
+from datetime import datetime
 
 REGIONS = ["GB", "DE", "FR", "IT", "BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "ZA", "SE"]
 
@@ -96,7 +96,6 @@ def scrapEshop(titleid: str):
 			if ("iconUrl" not in DUMP.keys()):
 				DUMP["iconUrl"] = ""
 
-			print("PING 5")
 			if ("releaseDate" not in DUMP.keys()):
 				pattern = r'releaseDate: "(.+?)"'
 				match = re.search(pattern, html_content)
@@ -114,7 +113,6 @@ def scrapEshop(titleid: str):
 				else:
 					print(f"✗ Could not find releaseDate in {region} {titleid}")
 
-			print("PING 6")
 			if ("size" not in DUMP.keys()):
 				pattern = r'<p class="game_info_title">Download size</p>\n\s*<p class="game_info_text">(.+?)(?:</p>)'
 				match = re.search(pattern, html_content)
@@ -125,7 +123,6 @@ def scrapEshop(titleid: str):
 				else:
 					print(f"✗ Could not find size in {region} {titleid}")
 
-			print("PING 7")
 			if ("screenshots" not in DUMP.keys()):
 				pattern = r"'image_url':\s*'([^']+\.jpg)'"
 				matches = re.finditer(pattern, html_content)
