@@ -129,7 +129,7 @@ def scrapEshop(titleid: str):
 				pattern = r"'image_url':\s*'([^']+\.jpg)'"
 				matches = re.finditer(pattern, html_content)
 
-				if len(list(matches)) > 0:
+				if matches:
 					DUMP["screenshots"] = []
 				
 					for match in matches:
@@ -164,5 +164,6 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
 
 
