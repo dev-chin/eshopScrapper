@@ -60,7 +60,7 @@ def scrapEshop(nsu_id: int):
         http_err = httperror.response.status_code
         if (http_err == 403):
             print(f"✗ Rate exhaustion reached. Aborting...")
-            sys.exit(1)
+            os._exit(1)
         elif (http_err == 404):
             print(f"✗ Site not found for {region} {nsu_id}")
         else: 
@@ -97,3 +97,4 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
+
