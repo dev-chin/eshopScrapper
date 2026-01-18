@@ -133,7 +133,9 @@ def scrapEshop(titleid: str):
 					DUMP["screenshots"] = []
 				
 					for match in matches:
-						DUMP["screenshots"].append(match.group(1).strip())
+						link = match.group(1).strip()
+						print(f"Link scr: {link}")
+						DUMP["screenshots"].append(link)
 
 				else:
 					print(f"✗ Could not find screenshots in {region} {titleid}")
@@ -162,4 +164,5 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
 
