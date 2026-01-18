@@ -4,7 +4,6 @@ import requests
 import os
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
-import sys
 import time
 import datetime
 
@@ -65,7 +64,8 @@ def scrapEshop(titleid: str):
 			# Find the line containing "NXSTORE.titleDetail.jsonData ="
 			pattern = r'gameTitle: "(.+?)(?:",)'
 			match = re.search(pattern, html_content)
-			
+
+			print("PING 1")
 			if match:
 				name = match.group(1).strip()
 				if ("name" in DUMP.keys()):
@@ -75,6 +75,7 @@ def scrapEshop(titleid: str):
 			else:
 				print(f"✗ Could not find title in {region} {titleid}")
 
+			print("PING 2")
 			if ("publisher" not in DUMP.keys()):
 				pattern = r'publisher: "(.+?)(?:",)'
 				match = re.search(pattern, html_content)
@@ -85,6 +86,7 @@ def scrapEshop(titleid: str):
 				else:
 					print(f"✗ Could not find publisher in {region} {titleid}")
 
+			print("PING 3")
 			if ("bannerUrl" not in DUMP.keys()):
 				pattern = r'<meta name="twitter:image" content="(.+?)(?:">)'
 				match = re.search(pattern, html_content)
@@ -95,9 +97,11 @@ def scrapEshop(titleid: str):
 				else:
 					print(f"✗ Could not find bannerUrl in {region} {titleid}")
 
+			print("PING 4")
 			if ("iconUrl" not in DUMP.keys()):
 				DUMP["iconUrl"] = ""
 
+			print("PING 5")
 			if ("releaseDate" not in DUMP.keys()):
 				pattern = r'releaseDate: "(.+?)(?:",)'
 				match = re.search(pattern, html_content)
@@ -109,6 +113,7 @@ def scrapEshop(titleid: str):
 				else:
 					print(f"✗ Could not find releaseDate in {region} {titleid}")
 
+			print("PING 6")
 			if ("size" not in DUMP.keys()):
 				pattern = r'<p class="game_info_title">Download size</p>\n\s*<p class="game_info_text">(.+?)(?:</p>)'
 				match = re.search(pattern, html_content)
@@ -119,6 +124,7 @@ def scrapEshop(titleid: str):
 				else:
 					print(f"✗ Could not find size in {region} {titleid}")
 
+			print("PING 7")
 			if ("screenshots" not in DUMP.keys()):
 				pattern = r"'image_url':\s*'([^']+\.jpg)'"
 				matches = re.finditer(pattern, html_content)
@@ -127,10 +133,7 @@ def scrapEshop(titleid: str):
 					DUMP["screenshots"] = []
 				
 					for match in matches:
-						string = match.group(1).strip()
-						if (string.endswith(".jpg") == False):
-							continue
-						DUMP["screenshots"].append(string)
+						DUMP["screenshots"].append(match.group(1).strip())
 
 				else:
 					print(f"✗ Could not find screenshots in {region} {titleid}")
