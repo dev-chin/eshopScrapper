@@ -105,6 +105,7 @@ def scrapEshop(titleid: str):
 					captured_date = match.group(1).strip()
 					print(f"DEBUG: Captured date string: '{captured_date}' (repr: {repr(captured_date)})")
 					date_obj = datetime.strptime(captured_date, "%d/%m/%Y")
+					print("PING 5-1")
 					DUMP["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
 
 				else:
