@@ -102,6 +102,8 @@ def scrapEshop(titleid: str):
 				
 				if match:
 					captured_date = match.group(1).strip()
+					if (len(captured_date) == 4): 
+						captured_date = "01/01/" + captured_date
 					try:
 						date_obj = datetime.strptime(captured_date, "%d/%m/%Y")
 					except Exception as e:
@@ -160,3 +162,4 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
