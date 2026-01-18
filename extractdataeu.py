@@ -27,7 +27,7 @@ def scrapEshop(titleid: str):
 			case 404:
 				print(f"✗ {region} {titleid}")
 				DUMP["Regions"]["False"].append(region)
-				time.sleep(0.1)
+				time.sleep(0.15)
 				continue
 			case 403:
 				print("Hit rate limit, aborting...")
@@ -42,7 +42,7 @@ def scrapEshop(titleid: str):
 		if (response.url.find("/404.html") != -1):
 			print(f"✗ {region} {titleid}")
 			DUMP["Regions"]["False"].append(region)
-			time.sleep(0.1)
+			time.sleep(0.15)
 			continue
 		
 		DUMP["Regions"]["True"].append(region)
@@ -162,3 +162,4 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
