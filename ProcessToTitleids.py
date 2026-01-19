@@ -3,10 +3,12 @@ import glob
 import os
 import sys
 from datetime import datetime
+from pathlib import Path
 
 CATEGORY_1 = ["JP"]
 CATEGORY_2 = ["HK", "AU", "NZ"]
 CATEGORY_3 = ["US", "AR", "BR", "CA", "CL", "CO", "MX", "PE"]
+CATEGORY_4 = ["EU"]
 
 TITLEIDS_REGIONS = {}
 
@@ -204,6 +206,43 @@ def processCat3():
 			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
 				json.dump(entry, f, indent="\t", ensure_ascii=True)
 
+def processCat4():
+	for region in CATEGORY_4:
+		files = glob.glob(f"scrap/{region}/*.json")
+		print(f"Processing {region} {len(files)} files...")
+		for i in range(len(files)):
+			print(files[i])
+			with open(files[i], "r", encoding="UTF-8") as f:
+				DUMP = json.load(f)
+
+			titleid = Path(files[i]).stem
+
+			if (titleid.startswith("0100") == True):
+				if (os.path.isfile(f"titledb_filtered/output/titleid/{titleid}.json") == True):
+					continue
+			else:
+				if (os.path.isfile(f"titledb_filtered/output2/titleid/{titleid}.json") == True):
+					continue
+
+			entry = {}
+			entry["name"] = DUMP["name"]
+			entry["publisher"] = DUMP["publisher"]
+			entry["bannerUrl"] = DUMP["bannerUrl"]
+			entry["iconUrl"] =  DUMP["iconUrl"]
+			entry["screenshots"] = DUMP["screenshots"]
+			entry["releaseDate"] = DUMP["releaseDate"]
+			entry["size"] = DUMP["size"] if DUMP["size"].endswith("GiB") else DUMP["size"].replace(".0", "")
+			
+			if (titleid in TITLEIDS_REGIONS.keys()):
+				for x in DUMP["Regions"]["True"]:
+					if (x not in TITLEIDS_REGIONS[titleid]):
+						TITLEIDS_REGIONS[titleid].append(x)
+			else:
+				TITLEIDS_REGIONS[titleid] = DUMP["Regions"]["True"]
+			
+			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
+				json.dump(entry, f, indent="\t", ensure_ascii=True)
+
 try:
 	file = open(f"output/main_regions_alt.json", "r", encoding="UTF-8")
 except:
@@ -216,9 +255,7 @@ os.makedirs("output/titleid", exist_ok=True)
 processCat3()
 processCat2()
 processCat1()
+processCat4()
 
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
-
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=True)
-
-
