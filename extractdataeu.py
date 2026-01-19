@@ -17,6 +17,8 @@ def scrapEshop(titleid: str):
 			DUMP = json.load(f)
 	else: DUMP = {"Regions": {"True": [], "False": []}}
 
+	CLONE = DUMP
+
 	for region in REGIONS:
 		if (region in DUMP["Regions"]["True"] or region in DUMP["Regions"]["False"]):
 			continue
@@ -141,9 +143,12 @@ def scrapEshop(titleid: str):
 	if ("name" not in DUMP.keys()):
 		print(f"✗✗ {titleid} No data was found!")
 		return
+	if (DUMP == CLONE):
+		print(f"✗✓ {titleid} Nothing was changed!")
+		return
 	with open(f"scrap/EU/{titleid}.json", "w", encoding="UTF-8") as f:
 		json.dump(DUMP, f, indent="\t", ensure_ascii=True)
-	print(f"✓✓ {titleid} saved!")
+		print(f"✓✓ {titleid} saved!")
 
 os.makedirs("scrap/EU", exist_ok=True)
 
@@ -162,4 +167,5 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
 
