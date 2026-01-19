@@ -231,7 +231,10 @@ def processCat4():
 			entry["iconUrl"] =  DUMP["iconUrl"]
 			entry["screenshots"] = DUMP["screenshots"]
 			entry["releaseDate"] = DUMP["releaseDate"]
-			entry["size"] = DUMP["size"] if DUMP["size"].endswith("GiB") else DUMP["size"].replace(".0", "")
+			
+			if (size not in DUMP.keys() || DUMP["size"] == 0):
+				entry["size"] = 0
+			else: entry["size"] = DUMP["size"] if DUMP["size"].endswith("GiB") else DUMP["size"].replace(".0", "")
 			
 			if (titleid in TITLEIDS_REGIONS.keys()):
 				for x in DUMP["Regions"]["True"]:
@@ -259,3 +262,4 @@ processCat4()
 
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=True)
+
