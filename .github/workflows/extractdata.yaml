@@ -46,6 +46,7 @@ jobs:
       - name: Download titledb_filtered
         run: |
           git clone --depth 1 https://github.com/masagrator/titledb_filtered.git
+          git clone --depth 1 https://github.com/masagrator/version_dump.git
       
       # 5. Run your Python script
       - name: Install libraries
@@ -57,6 +58,7 @@ jobs:
           python -u extractdatajp.py
           python -u extractdatahk.py
           python -u extractdataus.py
+          python -u extractdataeu.py
           python -u ProcessToTitleids.py
           python -u region_check.py
 
