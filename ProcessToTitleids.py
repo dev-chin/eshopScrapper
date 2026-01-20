@@ -232,7 +232,7 @@ def processCat4():
 			entry["screenshots"] = DUMP["screenshots"]
 			entry["releaseDate"] = DUMP["releaseDate"]
 			
-			if (size not in DUMP.keys() or DUMP["size"] == 0):
+			if ("size" not in DUMP.keys() or DUMP["size"] == 0):
 				entry["size"] = 0
 			else: entry["size"] = DUMP["size"] if DUMP["size"].endswith("GiB") else DUMP["size"].replace(".0", "")
 			
@@ -262,5 +262,6 @@ processCat4()
 
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=True)
+
 
 
