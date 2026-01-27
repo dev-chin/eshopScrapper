@@ -10,6 +10,8 @@ REGIONS = ["GB", "DE", "FR", "IT", "BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU
 
 LIST_REGION = {}
 
+delay_in_s = 0.2
+
 def scrapEshop(titleid: str):
 	print(f"Processing {titleid}...")
 	if (os.path.isfile(f"scrap/EU/{titleid}.json") == True):
@@ -29,7 +31,7 @@ def scrapEshop(titleid: str):
 			case 404:
 				print(f"✗ {region} {titleid}")
 				DUMP["Regions"]["False"].append(region)
-				time.sleep(0.15)
+				time.sleep(delay_in_s)
 				continue
 			case 403:
 				print("Hit rate limit, aborting...")
@@ -44,7 +46,7 @@ def scrapEshop(titleid: str):
 		if (response.url.find("/404.html") != -1):
 			print(f"✗ {region} {titleid}")
 			DUMP["Regions"]["False"].append(region)
-			time.sleep(0.15)
+			time.sleep(delay_in_s)
 			continue
 		
 		DUMP["Regions"]["True"].append(region)
@@ -167,5 +169,6 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
 
 
