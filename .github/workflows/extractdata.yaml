@@ -30,18 +30,18 @@ jobs:
 
       - name: Download titledb file
         run: |
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/US.en.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/BR.pt.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/CA.en.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/AR.es.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/CL.es.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/CO.es.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/PE.es.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/MX.es.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/HK.zh.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/AU.en.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/NZ.en.json
-          wget https://github.com/blawar/titledb/raw/refs/heads/master/JP.ja.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/US.en.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/BR.pt.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/CA.en.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/AR.es.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/CL.es.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/CO.es.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/PE.es.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/MX.es.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/HK.zh.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/AU.en.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/NZ.en.json
+          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/JP.ja.json
 
       - name: Download titledb_filtered
         run: |
