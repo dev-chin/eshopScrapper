@@ -5,10 +5,12 @@ import os
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 import threading
+import time
 
 REGIONS = ["HK", "AU", "NZ"]
 LANGS = ["zh", "en", "en"]
 itr = 0
+delay_in_s = 0.2
 
 def scrapEshop(nsu_id: int):
     global itr
@@ -50,6 +52,8 @@ def scrapEshop(nsu_id: int):
             print(f"✓ Saved {region} {nsu_id}.json")
         else:
             print(f"✗ Could not find jsonData in {region} {nsu_id}")
+            time.sleep(delay_in_s)
+            
 
     except requests.exceptions.HTTPError as httperror:
         http_err = httperror.response.status_code
@@ -58,6 +62,7 @@ def scrapEshop(nsu_id: int):
             os._exit(1)
         elif (http_err == 404):
             print(f"✗ Site not found for {region} {nsu_id}")
+            time.sleep(delay_in_s)
         else: 
             print(f"✗ Error {http_err} downloading {region} {nsu_id}")
     except requests.exceptions.RequestException as e:
@@ -90,5 +95,6 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=1) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
 
