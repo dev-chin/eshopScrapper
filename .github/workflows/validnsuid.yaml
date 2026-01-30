@@ -4,7 +4,7 @@ name: Scrap valid NSUIDs
 on:
   schedule:
     # Runs at the top of every hour (e.g., 1:00, 2:00, 3:00)
-    - cron: '0 */4 * * *'
+    - cron: '0 */5 * * *'
   workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
 jobs:
