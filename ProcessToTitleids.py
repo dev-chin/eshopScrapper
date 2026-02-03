@@ -71,7 +71,7 @@ def processCat1():
 				TITLEIDS_REGIONS[titleid] = [region]
 			
 			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
-				json.dump(entry, f, indent="\t", ensure_ascii=True)
+				json.dump(entry, f, indent="\t", ensure_ascii=False)
 
 def processCat2():
 	for region in CATEGORY_2:
@@ -133,7 +133,7 @@ def processCat2():
 				TITLEIDS_REGIONS[titleid] = [region]
 			
 			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
-				json.dump(entry, f, indent="\t", ensure_ascii=True)
+				json.dump(entry, f, indent="\t", ensure_ascii=False)
 
 def processCat3():
 	for region in CATEGORY_3:
@@ -204,7 +204,7 @@ def processCat3():
 				TITLEIDS_REGIONS[titleid] = [region]
 			
 			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
-				json.dump(entry, f, indent="\t", ensure_ascii=True)
+				json.dump(entry, f, indent="\t", ensure_ascii=False)
 
 def processCat4():
 	for region in CATEGORY_4:
@@ -244,7 +244,7 @@ def processCat4():
 				TITLEIDS_REGIONS[titleid] = DUMP["Regions"]["True"]
 			
 			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
-				json.dump(entry, f, indent="\t", ensure_ascii=True)
+				json.dump(entry, f, indent="\t", ensure_ascii=False)
 
 try:
 	file = open(f"output/main_regions_alt.json", "r", encoding="UTF-8")
@@ -261,7 +261,8 @@ processCat1()
 processCat4()
 
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
-	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=True)
+	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=False)
+
 
 
 
