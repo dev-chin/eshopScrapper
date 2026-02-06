@@ -53,21 +53,29 @@ jobs:
         run: |
           pip install requests
 
-      - name: Run Python script
+      - name: Extract data from eshops
         run: |
           python -u extractdatajp.py
           python -u extractdatahk.py
           python -u extractdataus.py
           python -u extractdataeu.py
+      
+      - name: Push data to repo to so we can ignore huge commits with no new titles
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add --ignore-removal scrap/
+          git commit -m "Update data" || exit 0
+          git push
+
+      - name: Process new extracted data
+        run: |
           python -u ProcessToTitleids.py
           python -u region_check.py
 
       # 6. Commit and push the files from the "output" folder
       - name: Push new files to repository
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add --ignore-removal scrap/
           git add --ignore-removal output/
           git commit -m "Add new titles" || exit 0
           git push
