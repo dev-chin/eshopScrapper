@@ -81,7 +81,8 @@ for x in range(len(REGIONS)):
     
     # Load the JSON file with NSU IDs
     with open(f"{REGIONS[x]}.{LANGS[x]}.json", "r", encoding="utf-8") as f:
-        titledb_IDs = list(json.load(f).keys())
+        data = json.load(f)
+        titledb_IDs = [key for key in data.keys() if data[key].get("id") is not None]
         titledb_IDs[:] = [int(s) for s in titledb_IDs if s.startswith("7001")]
 
     print(f"nsu_ids {REGIONS[x]} count: {len(nsu_ids)}")
@@ -96,5 +97,6 @@ for x in range(len(REGIONS)):
 
     with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
         executor.map(scrapEshop, nsu_ids_filtered)
+
 
 
