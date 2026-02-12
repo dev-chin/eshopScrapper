@@ -57,7 +57,8 @@ with open("ValidNsuIds/JP.json", "r", encoding="utf-8") as f:
 
 # Load the JSON file with NSU IDs
 with open("JP.ja.json", "r", encoding="utf-8") as f:
-    titledb_IDs = list(json.load(f).keys())
+    data = json.load(f)
+    titledb_IDs = [key for key in data.keys() if data[key].get("id") is not None]    
     titledb_IDs[:] = [int(s) for s in titledb_IDs if s.startswith("7001")]
 
 nsu_ids_filtered_temp = [s for s in nsu_ids if s not in titledb_IDs]
