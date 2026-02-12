@@ -167,8 +167,10 @@ def processCat3():
 			for x in range(len(productGallery)):
 				if (productGallery[x]["resourceType"] == "image"):
 					entry["screenshots"].append("https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/" + productGallery[x]["publicId"] + ".jpg")
-			date_obj = datetime.strptime(productSku["releaseDate"][:10], "%Y-%m-%d")
-			entry["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
+			if (productSku["releaseDate"] != None):
+				date_obj = datetime.strptime(productSku["releaseDate"][:10], "%Y-%m-%d")
+				entry["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
+			else: entry["releaseDate"] = 0
 			size_temp = productSku["softwareDetails"]["romSizes"][0]["totalRomSize"] if titleid.startswith("0100") else productSku["softwareDetails"]["romSizes"][1]["totalRomSize"]
 			if (size_temp != None):
 				size = int(size_temp) / 1048576
@@ -262,6 +264,7 @@ processCat4()
 
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=False)
+
 
 
 
