@@ -38,6 +38,8 @@ def scrapEshop(titleid: str):
 				os._exit(1)
 			case 303:
 				pass
+			case 307:
+				pass
 			case _:
 				print(f"UNEXPECTED HTTP CODE: {response.status_code}, aborting...")
 				os._exit(2)
