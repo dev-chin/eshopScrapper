@@ -113,7 +113,7 @@ def scrapEshop(titleid: str):
 					try:
 						date_obj = datetime.strptime(captured_date, "%d/%m/%Y")
 					except Exception as e:
-						if (captured_date == "TBD"):
+						if (captured_date in ["TBD", "n. n. b."]):
 							print(f"✗ Release date in {region} {titleid} is TBD.")
 						else:
 							print(f"DEBUG: Captured date string: '{captured_date}' (repr: {repr(captured_date)})")
