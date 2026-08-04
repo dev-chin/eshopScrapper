@@ -171,7 +171,8 @@ def processCat3():
 				date_obj = datetime.strptime(productSku["releaseDate"][:10], "%Y-%m-%d")
 				entry["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
 			else: entry["releaseDate"] = 0
-			size_temp = productSku["softwareDetails"]["romSizes"][0]["totalRomSize"] if titleid.startswith("0100") else productSku["softwareDetails"]["romSizes"][1]["totalRomSize"]
+			size_temp = productSku["softwareDetails"]["romSizes"]
+			if (size_temp != None): size_temp = size_temp[0]["totalRomSize"] if titleid.startswith("0100") else size_temp[1]["totalRomSize"]
 			if (size_temp != None):
 				size = int(size_temp) / 1048576
 				entry["size"] = "%.0f MiB" % size if size < 1000 else "%.2f GiB" % (size / 1024)
