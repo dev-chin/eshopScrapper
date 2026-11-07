@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 import threading
+import scrap_refresh
 
 def scrapEshop(nsu_id: int):
     # Create the URL
@@ -37,6 +38,7 @@ def scrapEshop(nsu_id: int):
             with open(output_file, "w", encoding="utf-8") as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=2)
             
+            scrap_refresh.mark("JP", nsu_id)
             print(f"✓ Saved {nsu_id}.json")
         else:
             print(f"✗ Could not find jsonData in {nsu_id}")
@@ -63,6 +65,13 @@ with open("JP.ja.json", "r", encoding="utf-8") as f:
 
 nsu_ids_filtered_temp = [s for s in nsu_ids if s not in titledb_IDs]
 nsu_ids_filtered = [nsu_id for nsu_id in nsu_ids_filtered_temp if (os.path.isfile(f"scrap/JP/{nsu_id}.json") == False)]
+# Also re-download the oldest already-scraped entries so their data does not go stale
+nsu_ids_refresh = scrap_refresh.pick_stale("JP", [s for s in nsu_ids_filtered_temp if os.path.isfile(f"scrap/JP/{s}.json")])
+print(f"nsu_ids_filtered JP count: {len(nsu_ids_filtered)}, refresh count: {len(nsu_ids_refresh)}")
+nsu_ids_filtered += nsu_ids_refresh
 
 with ThreadPoolExecutor(max_workers=2) as executor:
     executor.map(scrapEshop, nsu_ids_filtered)
+# Mark refresh attempts even if the page is gone, so delisted titles don't block the queue
+for s in nsu_ids_refresh: scrap_refresh.mark("JP", s)
+scrap_refresh.save()

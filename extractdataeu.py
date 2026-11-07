@@ -5,10 +5,14 @@ import os
 from concurrent.futures import ThreadPoolExecutor
 import time
 from datetime import datetime
+import copy
+import scrap_refresh
 
 REGIONS = ["GB", "DE", "FR", "IT", "BG", "CH", "CY", "EE", "HR", "IE", "LT", "LU", "LV", "MT", "RO", "SI", "SK", "AT", "BE", "CZ", "DK", "ES", "FI", "GR", "HU", "NL", "NO", "PL", "PT", "ZA", "SE"]
 
 LIST_REGION = {}
+
+EU_REFRESH = set()
 
 delay_in_s = 0.2
 
@@ -19,7 +23,12 @@ def scrapEshop(titleid: str):
 			DUMP = json.load(f)
 	else: DUMP = {"Regions": {"True": [], "False": []}}
 
-	CLONE = DUMP
+	# Must be a copy: a plain assignment aliases DUMP, so "DUMP == CLONE" was always True and nothing got saved
+	CLONE = copy.deepcopy(DUMP)
+
+	# Stale entry: re-scrape every region from scratch (old file is kept if nothing is found)
+	if (titleid in EU_REFRESH):
+		DUMP = {"Regions": {"True": [], "False": []}}
 
 	for region in REGIONS:
 		if (region in DUMP["Regions"]["True"] or region in DUMP["Regions"]["False"]):
@@ -150,19 +159,29 @@ def scrapEshop(titleid: str):
 	if ("name" not in DUMP.keys()):
 		print(f"✗✗ {titleid} No data was found!")
 		return
+	# Refresh: keep any field the new scrape could not find
+	if (titleid in EU_REFRESH):
+		for key, value in CLONE.items():
+			if (key not in DUMP.keys()): DUMP[key] = value
 	if (DUMP == CLONE):
 		print(f"✗✓ {titleid} Nothing was changed!")
 		return
 	with open(f"scrap/EU/{titleid}.json", "w", encoding="UTF-8") as f:
 		json.dump(DUMP, f, indent="\t", ensure_ascii=True)
 		print(f"✓✓ {titleid} saved!")
+	scrap_refresh.mark("EU", titleid)
 
 os.makedirs("scrap/EU", exist_ok=True)
 
 with open("version_dump/version_dump.txt", "r", encoding="UTF-8") as f:
 	titleids = [(line.split('|')[0][:13] + "000") for line in f.readlines()[1:]]
 
-titleids[:] = [x for x in titleids if ((os.path.isfile(f"titledb_filtered/output/titleid/{x}.json") == False) and (os.path.isfile(f"titledb_filtered/output2/titleid/{x}.json") == False))]
+# titledb_filtered also imports this repo's own output, so keep titles we already scraped
+titleids[:] = [x for x in titleids if (os.path.isfile(f"scrap/EU/{x}.json") or ((os.path.isfile(f"titledb_filtered/output/titleid/{x}.json") == False) and (os.path.isfile(f"titledb_filtered/output2/titleid/{x}.json") == False)))]
+
+# Also re-scrape the oldest already-scraped entries so their data does not go stale
+EU_REFRESH.update(scrap_refresh.pick_stale("EU", [x for x in titleids if os.path.isfile(f"scrap/EU/{x}.json")], "REFRESH_PER_REGION_EU", 25))
+print(f"Refreshing {len(EU_REFRESH)} existing EU entries")
 
 to_check = len(titleids)
 print(f"To check: {to_check} titleids, expected lines: around {(len(REGIONS) * to_check) + (to_check * 2)}")
@@ -174,3 +193,10 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
+
+# Mark refresh attempts even if the page is gone, so delisted titles don't block the queue
+for x in EU_REFRESH: scrap_refresh.mark("EU", x)
+scrap_refresh.save()
+
+
+

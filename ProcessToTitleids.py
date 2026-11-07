@@ -12,9 +12,69 @@ CATEGORY_4 = ["EU"]
 
 TITLEIDS_REGIONS = {}
 
+# Entries built from this run's scrap files. Output files are only consulted at the end,
+# so newer scrap data replaces outdated values (links, dates, sizes...).
+ENTRIES = {}
+EU_TITLEIDS = set()
+
+def isCoveredByTitledb(titleid):
+	"""True if titledb already has this title, so we don't need to produce it.
+	titledb_filtered also imports this repo's own output, so a title we already
+	produced is never treated as covered - otherwise it would never be updated again."""
+	if (os.path.isfile(f"output/titleid/{titleid}.json")):
+		return False
+	folder = "output" if titleid.startswith("0100") else "output2"
+	return os.path.isfile(f"titledb_filtered/{folder}/titleid/{titleid}.json")
+
+def isEmpty(value):
+	return value is None or value == 0 or value == "" or value == []
+
+def mergeEntry(titleid, entry, override=False):
+	"""Combine entry with one built earlier this run. Earlier regions win unless override=True (EU)."""
+	if (override):
+		EU_TITLEIDS.add(titleid)
+	if (titleid not in ENTRIES):
+		ENTRIES[titleid] = entry
+		return
+	current = ENTRIES[titleid]
+	for key, value in entry.items():
+		if (key == "name" and not override):
+			for name in value:
+				if (name not in current["name"]):
+					current["name"].append(name)
+		elif (isEmpty(value)):
+			continue
+		elif (override or isEmpty(current.get(key))):
+			current[key] = value
+
+def writeEntries():
+	written = 0
+	for titleid, entry in ENTRIES.items():
+		path = f"output/titleid/{titleid}.json"
+		old_entry = None
+		try:
+			with open(path, "r", encoding="UTF-8") as f:
+				old_entry = json.load(f)
+		except (FileNotFoundError, json.JSONDecodeError):
+			pass
+		if (old_entry is not None):
+			# Keep previously known names (EU entries use the EU name list as before)
+			if (titleid not in EU_TITLEIDS):
+				entry["name"] = old_entry.get("name", []) + [name for name in entry["name"] if name not in old_entry.get("name", [])]
+			# Fall back to old values only where the fresh scrape has nothing
+			for key, value in old_entry.items():
+				if (key != "name" and isEmpty(entry.get(key)) and not isEmpty(value)):
+					entry[key] = value
+			if (entry == old_entry):
+				continue
+		with open(path, "w", encoding="UTF-8") as f:
+			json.dump(entry, f, indent="\t", ensure_ascii=False)
+		written += 1
+	print(f"Updated {written} of {len(ENTRIES)} titleid files")
+
 def processCat1():
 	for region in CATEGORY_1:
-		files = glob.glob(f"scrap/{region}/*.json")
+		files = sorted(glob.glob(f"scrap/{region}/*.json"))
 		print(f"Processing {region} {len(files)} files...")
 		for i in range(len(files)):
 			print(files[i])
@@ -45,24 +105,8 @@ def processCat1():
 			titleid = entry["titleid"]
 			entry.pop("titleid")
 
-			if (titleid.startswith("0100") == True):
-				if (os.path.isfile(f"titledb_filtered/output/titleid/{titleid}.json") == True):
-					continue
-			else:
-				if (os.path.isfile(f"titledb_filtered/output2/titleid/{titleid}.json") == True):
-					continue
-			try:
-				file_old = open(f"output/titleid/{titleid}.json", "r", encoding="UTF-8")
-			except:
-				pass
-			else:
-				old_entry = json.load(file_old)
-				file_old.close()
-
-				if (entry["name"][0] not in old_entry["name"]):
-					old_entry["name"].append(entry["name"][0])
-				
-				entry = old_entry
+			if (isCoveredByTitledb(titleid)):
+				continue
 
 			if (titleid in TITLEIDS_REGIONS.keys()):
 				if (region not in TITLEIDS_REGIONS[titleid]):
@@ -70,12 +114,11 @@ def processCat1():
 			else:
 				TITLEIDS_REGIONS[titleid] = [region]
 			
-			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
-				json.dump(entry, f, indent="\t", ensure_ascii=False)
+			mergeEntry(titleid, entry)
 
 def processCat2():
 	for region in CATEGORY_2:
-		files = glob.glob(f"scrap/{region}/*.json")
+		files = sorted(glob.glob(f"scrap/{region}/*.json"))
 		print(f"Processing {region} {len(files)} files...")
 		for i in range(len(files)):
 			print(files[i])
@@ -86,12 +129,8 @@ def processCat2():
 				sys.exit(1)
 			titleid = DUMP["applications"][0]["id"].upper()
 
-			if (titleid.startswith("0100") == True):
-				if (os.path.isfile(f"titledb_filtered/output/titleid/{titleid}.json") == True):
-					continue
-			else:
-				if (os.path.isfile(f"titledb_filtered/output2/titleid/{titleid}.json") == True):
-					continue
+			if (isCoveredByTitledb(titleid)):
+				continue
 			
 			entry = {}
 			entry["name"] = [DUMP["formal_name"]]
@@ -101,30 +140,15 @@ def processCat2():
 			entry["screenshots"] = []
 			for x in range(len(DUMP["screenshots"])):
 				entry["screenshots"].append(DUMP["screenshots"][x]["images"][0]["url"])
-			date_obj = datetime.strptime(DUMP["release_date_on_eshop"], "%Y-%m-%d")
-			entry["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
+			try:
+				date_obj = datetime.strptime(DUMP["release_date_on_eshop"], "%Y-%m-%d")
+			except (ValueError, TypeError):
+				entry["releaseDate"] = 0 # e.g. "TBD"
+			else: entry["releaseDate"] = int(date_obj.strftime("%Y%m%d"))
 			size = (DUMP["rom_size_infos"][0]["total_rom_size"] / 1048576) if titleid.startswith("0100") else (DUMP["rom_size_infos"][1]["total_rom_size"] / 1048576)
 			entry["size"] = "%.0f MiB" % size if size < 1000 else "%.2f GiB" % (size / 1024)
 
 
-			try:
-				file_old = open(f"output/titleid/{titleid}.json", "r", encoding="UTF-8")
-			except:
-				pass
-			else:
-				old_entry = json.load(file_old)
-				file_old.close()
-
-				if (entry["name"][0] not in old_entry["name"]):
-					old_entry["name"].append(entry["name"][0])
-
-				if (old_entry["releaseDate"] == 0):
-					old_entry["releaseDate"] = entry["releaseDate"]
-
-				if (old_entry["size"] == 0):
-					old_entry["size"] = entry["size"]
-				
-				entry = old_entry
 			
 			if (titleid in TITLEIDS_REGIONS.keys()):
 				if (region not in TITLEIDS_REGIONS[titleid]):
@@ -132,12 +156,11 @@ def processCat2():
 			else:
 				TITLEIDS_REGIONS[titleid] = [region]
 			
-			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
-				json.dump(entry, f, indent="\t", ensure_ascii=False)
+			mergeEntry(titleid, entry)
 
 def processCat3():
 	for region in CATEGORY_3:
-		files = glob.glob(f"scrap/{region}/*.json")
+		files = sorted(glob.glob(f"scrap/{region}/*.json"))
 		print(f"Processing {region} {len(files)} files...")
 		for i in range(len(files)):
 			print(files[i])
@@ -149,12 +172,8 @@ def processCat3():
 
 			titleid = productSku["applicationId"].upper()
 
-			if (titleid.startswith("0100") == True):
-				if (os.path.isfile(f"titledb_filtered/output/titleid/{titleid}.json") == True):
-					continue
-			else:
-				if (os.path.isfile(f"titledb_filtered/output2/titleid/{titleid}.json") == True):
-					continue
+			if (isCoveredByTitledb(titleid)):
+				continue
 
 			entry = {}
 			entry["name"] = [DUMP["props"]["pageProps"]["analytics"]["product"]["name"]]
@@ -178,27 +197,6 @@ def processCat3():
 				entry["size"] = "%.0f MiB" % size if size < 1000 else "%.2f GiB" % (size / 1024)
 			else: entry["size"] = 0
 
-			try:
-				file_old = open(f"output/titleid/{titleid}.json", "r", encoding="UTF-8")
-			except:
-				pass
-			else:
-				old_entry = json.load(file_old)
-				file_old.close()
-
-				if (entry["name"][0] not in old_entry["name"]):
-					old_entry["name"].append(entry["name"][0])
-
-				if (old_entry["releaseDate"] == 0):
-					old_entry["releaseDate"] = entry["releaseDate"]
-
-				if (old_entry["size"] == 0):
-					old_entry["size"] = entry["size"]
-				
-				if (old_entry["iconUrl"] == ""):
-					old_entry["iconUrl"] = entry["iconUrl"]
-				
-				entry = old_entry
 			
 			if (titleid in TITLEIDS_REGIONS.keys()):
 				if (region not in TITLEIDS_REGIONS[titleid]):
@@ -206,12 +204,11 @@ def processCat3():
 			else:
 				TITLEIDS_REGIONS[titleid] = [region]
 			
-			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
-				json.dump(entry, f, indent="\t", ensure_ascii=False)
+			mergeEntry(titleid, entry)
 
 def processCat4():
 	for region in CATEGORY_4:
-		files = glob.glob(f"scrap/{region}/*.json")
+		files = sorted(glob.glob(f"scrap/{region}/*.json"))
 		print(f"Processing {region} {len(files)} files...")
 		for i in range(len(files)):
 			print(files[i])
@@ -220,12 +217,8 @@ def processCat4():
 
 			titleid = Path(files[i]).stem
 
-			if (titleid.startswith("0100") == True):
-				if (os.path.isfile(f"titledb_filtered/output/titleid/{titleid}.json") == True):
-					continue
-			else:
-				if (os.path.isfile(f"titledb_filtered/output2/titleid/{titleid}.json") == True):
-					continue
+			if (isCoveredByTitledb(titleid)):
+				continue
 
 			entry = {}
 			entry["name"] = DUMP["name"]
@@ -246,8 +239,7 @@ def processCat4():
 			else:
 				TITLEIDS_REGIONS[titleid] = DUMP["Regions"]["True"]
 			
-			with open(f"output/titleid/{titleid}.json", "w", encoding="UTF-8") as f:
-				json.dump(entry, f, indent="\t", ensure_ascii=False)
+			mergeEntry(titleid, entry, override=True)
 
 try:
 	file = open(f"output/main_regions_alt.json", "r", encoding="UTF-8")
@@ -262,6 +254,7 @@ processCat3()
 processCat2()
 processCat1()
 processCat4()
+writeEntries()
 
 with open(f"output/main_regions_alt.json", "w", encoding="UTF-8") as f:
 	json.dump(TITLEIDS_REGIONS, f, ensure_ascii=False)
