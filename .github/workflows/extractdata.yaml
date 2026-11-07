@@ -29,19 +29,29 @@ jobs:
           python-version: '3.14'
 
       - name: Download titledb file
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/US.en.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/BR.pt.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/CA.en.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/AR.es.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/CL.es.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/CO.es.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/PE.es.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/MX.es.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/HK.zh.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/AU.en.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/NZ.en.json
-          wget --tries=0 --retry-connrefused --wait=10 https://github.com/blawar/titledb/raw/refs/heads/master/JP.ja.json
+          # Last commit date (ISO 8601, UTC) touching a file in a repo; empty on failure
+          last_commit() {
+            curl -fsSL -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$1/commits?path=$2&sha=master&per_page=1" \
+              | jq -r '.[0].commit.committer.date // empty' 2>/dev/null || true
+          }
+
+          for f in US.en.json BR.pt.json CA.en.json AR.es.json CL.es.json CO.es.json \
+                   PE.es.json MX.es.json HK.zh.json AU.en.json NZ.en.json JP.ja.json; do
+            blawar=$(last_commit blawar/titledb "$f")
+            bth=$(last_commit borntohonk/titledb "$f")
+            # ISO 8601 UTC timestamps compare correctly as strings
+            if [[ -n "$bth" && ( -z "$blawar" || "$bth" > "$blawar" ) ]]; then
+              repo=borntohonk/titledb
+            else
+              repo=blawar/titledb
+            fi
+            echo "$f: blawar=${blawar:-?} borntohonk=${bth:-?} -> using $repo"
+            wget --tries=0 --retry-connrefused --wait=10 -O "$f" "https://github.com/$repo/raw/refs/heads/master/$f"
+          done
 
       - name: Download titledb_filtered
         run: |
