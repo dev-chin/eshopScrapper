@@ -111,7 +111,7 @@ def scrapEshop(titleid: str):
 					if (len(captured_date) == 4): 
 						captured_date = "01/01/" + captured_date
 					try:
-						date_obj = datetime.strptime(captured_date, "%d/%m/%Y")
+						date_obj = datetime.strptime(captured_date.replace(".", "/").replace("-", "/"), "%d/%m/%Y")
 					except Exception as e:
 						if (captured_date in ["TBD", "n. n. b.", "Date Ã\xa0 dÃ©terminer", "Da determinare", "Nader te bepalen", "Por determinar", "A decidir"]):
 							print(f"✗ Release date in {region} {titleid} is TBD.")
@@ -174,6 +174,3 @@ for titleid in titleids:
 
 with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky because rate limits can kick in
 	executor.map(scrapEshop, titleids)
-
-
-
