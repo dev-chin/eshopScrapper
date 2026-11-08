@@ -14,6 +14,50 @@ LIST_REGION = {}
 
 EU_REFRESH = set()
 
+# Regions whose ec.nintendo.com pages contain titleids (EU pages don't)
+DEMO_CHECK_REGIONS = ["US", "AU", "HK", "JP"]
+TITLEID_RE = re.compile(r'(?<![0-9A-Fa-f])0[14]00[0-9A-Fa-f]{12}(?![0-9A-Fa-f])')
+DEMO_WORD_RE = re.compile(r'\bDEMO\b', re.IGNORECASE)
+
+def detectDemo(titleid: str):
+	"""ec.nintendo.com/apps/<titleid> redirects a demo to its full game's page, so that page
+	lists titleids, but not the demo's. Returns True/False, or None if no region could tell."""
+	for region in DEMO_CHECK_REGIONS:
+		try:
+			response = requests.get(f"https://ec.nintendo.com/apps/{titleid}/{region}", timeout=30)
+		except requests.exceptions.RequestException:
+			continue
+		if (response.status_code == 403):
+			print("Hit rate limit, aborting...")
+			os._exit(1)
+		time.sleep(delay_in_s)
+		if (response.status_code != 200 or response.url.find("/404") != -1):
+			continue
+		found = {match.upper() for match in TITLEID_RE.findall(response.text)}
+		if (found):
+			return titleid.upper() not in found
+	return None
+
+def fixMojibake(value):
+	"""Repair text saved before pages were decoded as UTF-8 (e.g. "TrÃ¤ume" -> "Träume").
+	Only text that really was mis-decoded survives the round trip, so correct text is untouched."""
+	if (isinstance(value, str)):
+		try:
+			return value.encode("latin-1").decode("utf-8")
+		except (UnicodeEncodeError, UnicodeDecodeError):
+			return value
+	if (isinstance(value, list)):
+		fixed = []
+		for item in value:
+			item = fixMojibake(item)
+			if (item not in fixed): fixed.append(item)
+		return fixed
+	return value
+
+def isMarkedDemo(name: str):
+	"""Names flagged as demo by hand ("X DEMO") or by Nintendo ("X (DEMO)")."""
+	return name.endswith(" DEMO") or "(DEMO)" in name.upper()
+
 delay_in_s = 0.2
 
 def scrapEshop(titleid: str):
@@ -22,6 +66,11 @@ def scrapEshop(titleid: str):
 		with open(f"scrap/EU/{titleid}.json", "r", encoding="UTF-8") as f:
 			DUMP = json.load(f)
 	else: DUMP = {"Regions": {"True": [], "False": []}}
+
+	# File as saved, to decide whether anything changed
+	SAVED = copy.deepcopy(DUMP)
+	for key in ["name", "publisher"]:
+		if (key in DUMP.keys()): DUMP[key] = fixMojibake(DUMP[key])
 
 	# Must be a copy: a plain assignment aliases DUMP, so "DUMP == CLONE" was always True and nothing got saved
 	CLONE = copy.deepcopy(DUMP)
@@ -66,6 +115,8 @@ def scrapEshop(titleid: str):
 			print(f"✓ {region} {titleid}")
 			response = requests.get(url, timeout=30)
 			response.raise_for_status()
+			# Header has no charset, so requests would decode as ISO-8859-1 and garble non-ASCII text
+			response.encoding = "utf-8"
 			html_content = response.text
 				
 		except requests.exceptions.RequestException as e:
@@ -122,7 +173,7 @@ def scrapEshop(titleid: str):
 					try:
 						date_obj = datetime.strptime(captured_date.replace(".", "/").replace("-", "/"), "%d/%m/%Y")
 					except Exception as e:
-						if (captured_date in ["TBD", "n. n. b.", "Date Ã\xa0 dÃ©terminer", "Da determinare", "Nader te bepalen", "Por determinar", "A decidir"]):
+						if (captured_date in ["TBD", "n. n. b.", "Date à déterminer", "Da determinare", "Nader te bepalen", "Por determinar", "A decidir"]):
 							print(f"✗ Release date in {region} {titleid} is TBD.")
 						else:
 							print(f"DEBUG: Captured date string: '{captured_date}' (repr: {repr(captured_date)})")
@@ -163,7 +214,19 @@ def scrapEshop(titleid: str):
 	if (titleid in EU_REFRESH):
 		for key, value in CLONE.items():
 			if (key not in DUMP.keys()): DUMP[key] = value
-	if (DUMP == CLONE):
+	# Demo flag is decided once and stored as "isDemo" (set it to false by hand to override).
+	# Demo pages are the full game's page, so scraped names must get " DEMO" appended.
+	if ("isDemo" not in DUMP.keys()):
+		if (any(isMarkedDemo(name) for name in CLONE.get("name", []))):
+			DUMP["isDemo"] = True
+		else:
+			is_demo = detectDemo(titleid)
+			if (is_demo is not None):
+				DUMP["isDemo"] = is_demo
+				print(f"{'✓ DEMO' if is_demo else '✓ not a demo'}: {titleid}")
+	if (DUMP.get("isDemo") == True):
+		DUMP["name"] = [name if DEMO_WORD_RE.search(name) else f"{name} DEMO" for name in DUMP["name"]]
+	if (DUMP == SAVED):
 		print(f"✗✓ {titleid} Nothing was changed!")
 		return
 	with open(f"scrap/EU/{titleid}.json", "w", encoding="UTF-8") as f:
@@ -197,6 +260,3 @@ with ThreadPoolExecutor(max_workers=2) as executor: #Setting more is risky becau
 # Mark refresh attempts even if the page is gone, so delisted titles don't block the queue
 for x in EU_REFRESH: scrap_refresh.mark("EU", x)
 scrap_refresh.save()
-
-
-
