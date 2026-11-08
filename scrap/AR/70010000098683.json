@@ -9,66 +9,6 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
-                "campaignId": "",
-                "label": "Noticias",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/whatsnew/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3WmKbFmP5RxuQh7VQGlxWm",
-                "campaignId": "",
-                "label": "Actualización gratuita 3.0 para Animal Crossing: New Horizons ",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/whatsnew/ya-esta-disponible-te-damos-nuevamente-la-bienvenida-a-la-isla-con-novedades-para-nintendo-switch-y-nintendo-switch-2/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "1Wqx4IYq0S8VNtkcLRxOBR",
-                "campaignId": "",
-                "label": "Juegos con Pokémon",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/pokemon-games/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "4qmzaoEKuKdtkuoCJmv0d",
-                "campaignId": "",
-                "label": "Títulos elegibles para los cupones para juegos de Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/game-voucher-eligible/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "MOdYBimZFEuFwAUqfQfVZ",
-                "campaignId": "",
-                "label": "Guía de Nintendo Switch 2 para principiantes",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/gaming-systems/switch-2/welcome-center/"
-              },
-              {
-                "__contentType": "moduleCta",
                 "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
                 "label": "Ventas y ofertas",
@@ -77,15 +17,218 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/sales-and-deals/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "Juegos con Resident Evil",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/es-ar/search/#q=Resident+Evil&p=1&cat=gme&sort=df"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
+                "campaignId": "",
+                "label": "Novedades",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/whatsnew/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "7eH412A32Cc0vxeENlkVuM",
+                "campaignId": "",
+                "label": "Juegos con Super Mario",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/store/games/mario-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Tarjeta de regalo digital para Nintendo eShop",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://store.nintendo.mx/games?_gl=1*9ejk6h*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NTYxJGo2MCRsMCRoMjAxMjcxMDMwNQ..*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "4qmzaoEKuKdtkuoCJmv0d",
+                "campaignId": "",
+                "label": "Nintendo Switch Online",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/online/"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Juegos con Pokémon",
+              "caption": "",
+              "url": "/store/games/pokemon-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Juegos en oferta",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Juegos de Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
-            "7500069229",
-            "7700030451",
-            "7500064914",
-            "7100098845"
+            "7700037146",
+            "7700038706",
+            "7100122824",
+            "7700036603"
           ]
         },
         "navContent": {
@@ -386,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -448,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -479,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1000,6 +1174,26 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/my-mario/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1030,8 +1224,8 @@
                   "url": "/store/",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "5Y4oHJT5KL8h67NTw91d9v",
-                    "id": "MyNintendoIcon"
+                    "__entryId": "7AmSJhZA3YaPjRPQnLFW8G",
+                    "id": "NintendoStoreBagIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1064,11 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1113,11 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1248,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1419,13 +1663,13 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "3cmI3Zge9oLQSm6z9xlK9H",
-                  "label": "Reparación",
+                  "label": "Centro de servicio",
                   "caption": "",
-                  "url": "https://support.nintendo.com/repair/",
+                  "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1540,9 +1784,9 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "7FRKUQGXufpEgbOdwpqIxE",
-                  "label": "Responsabilidad social corporativa",
+                  "label": "Sostenibilidad",
                   "caption": "",
-                  "url": "https://www.nintendo.co.jp/csr/en-us/index.html",
+                  "url": "https://www.nintendo.co.jp/sustainability/en-us/index.html",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1572,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1846,10 +2106,26 @@
                 },
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "wW0gr3RFIYqOxHHp0ZHWN",
-                  "label": "Otras consolas",
+                  "__entryId": "7ahkoAO5bR3KA4pRHG1Rob",
+                  "label": "",
                   "caption": "",
-                  "url": "https://support.nintendo.com/other-systems/",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "468S7CNu00EbjagjqbipV6",
+                  "label": "Reembolsos y devoluciones",
+                  "caption": "",
+                  "url": "/refund-return-policy/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1863,9 +2139,9 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "4nlcdUscecWAYCFlWxnLT1",
-                  "label": "Reparación",
+                  "label": "Centro de servicio",
                   "caption": "",
-                  "url": "https://support.nintendo.com/repair/",
+                  "url": "https://support.nintendo.com/service-center",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1926,17 +2202,17 @@
                 },
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "468S7CNu00EbjagjqbipV6",
-                  "label": "Reembolsos y devoluciones",
+                  "__entryId": "7qrJG0KF5BuILcCV84lQ0X",
+                  "label": "",
                   "caption": "",
-                  "url": "/refund-return-policy/",
+                  "url": "",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
-                  "hideOnLocale": false,
+                  "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
                 }
@@ -2151,6 +2427,22 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5o1sEtRbXvRs7w7Yv2nu6T",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -2187,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2223,9 +2516,11 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Pixel Cross Stitch Color by Number Seasons Collection para Nintendo Switch - Sitio Oficial de Nintendo para Argentina",
-        "description": "Compra Pixel Cross Stitch Color by Number Seasons Collection y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial My Nintendo Argentina.",
+        "description": "Compra Pixel Cross Stitch Color by Number Seasons Collection para Nintendo Switch en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
         "canonicalUrl": "https://www.nintendo.com/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-switch/"
       },
       "analytics": {
@@ -2273,13 +2568,17 @@
           "href": null
         }
       ],
-      "removeGoldPoints": true,
-      "returnPartialData": true,
-      "showLendableRow": true,
       "campaigns": [],
       "isEcApp": false,
+      "merchBanner": null,
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/puzzle-games",
+          "label": "Rompecabezas"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/9deeefc31ba6de070291804c4550d0affb50700812efdee21aafe21d99e1f316"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/9deeefc31ba6de070291804c4550d0affb50700812efdee21aafe21d99e1f316"
       },
       "linkedData": [
         {
@@ -2288,16 +2587,18 @@
             "Product"
           ],
           "name": "Pixel Cross Stitch Color by Number Seasons Collection",
-          "description": "Compra Pixel Cross Stitch Color by Number Seasons Collection y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial My Nintendo Argentina.",
+          "description": "Compra Pixel Cross Stitch Color by Number Seasons Collection para Nintendo Switch en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
           "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000098683/9deeefc31ba6de070291804c4550d0affb50700812efdee21aafe21d99e1f316",
           "offers": {
             "@type": "Offer",
             "url": "/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-switch/",
             "priceCurrency": "ARS",
-            "price": "8729.57",
+            "price": "4364.78",
             "seller": {
               "@type": "Organization",
-              "name": "Nintendo"
+              "@id": "https://www.nintendo.com/us#organization",
+              "name": "Nintendo of America Inc.",
+              "url": "https://www.nintendo.com/us/"
             },
             "shippingDetails": null,
             "availability": "https://schema.org/InStock",
@@ -2333,57 +2634,57 @@
             "@type": "ImageObject",
             "name": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 0",
             "description": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/9deeefc31ba6de070291804c4550d0affb50700812efdee21aafe21d99e1f316",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/9deeefc31ba6de070291804c4550d0affb50700812efdee21aafe21d99e1f316",
-            "uploadDate": null
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/9deeefc31ba6de070291804c4550d0affb50700812efdee21aafe21d99e1f316",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/9deeefc31ba6de070291804c4550d0affb50700812efdee21aafe21d99e1f316",
+            "uploadDate": "2025-05-23T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 1",
             "description": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/547b79f4224fcfea301769eb83aedd4660da8bd30cc12ccf202e8cedb4baaa0d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/547b79f4224fcfea301769eb83aedd4660da8bd30cc12ccf202e8cedb4baaa0d",
-            "uploadDate": null
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/547b79f4224fcfea301769eb83aedd4660da8bd30cc12ccf202e8cedb4baaa0d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/547b79f4224fcfea301769eb83aedd4660da8bd30cc12ccf202e8cedb4baaa0d",
+            "uploadDate": "2025-05-23T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 2",
             "description": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/4b942f012eb37a233bbb64567fb057433223303416774e0db063868ce0eba5f1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/4b942f012eb37a233bbb64567fb057433223303416774e0db063868ce0eba5f1",
-            "uploadDate": null
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/4b942f012eb37a233bbb64567fb057433223303416774e0db063868ce0eba5f1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/4b942f012eb37a233bbb64567fb057433223303416774e0db063868ce0eba5f1",
+            "uploadDate": "2025-05-23T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 3",
             "description": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/a78b8d7765f0e0f2f29807507c282cf5fab7ac3e394dc4b51f6ec311ad9c539b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/a78b8d7765f0e0f2f29807507c282cf5fab7ac3e394dc4b51f6ec311ad9c539b",
-            "uploadDate": null
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/a78b8d7765f0e0f2f29807507c282cf5fab7ac3e394dc4b51f6ec311ad9c539b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/a78b8d7765f0e0f2f29807507c282cf5fab7ac3e394dc4b51f6ec311ad9c539b",
+            "uploadDate": "2025-05-23T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 4",
             "description": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/8682048944d65a0bb42ca5a0d29cf89b9e742eda1c080c6921ec0890453013e6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/8682048944d65a0bb42ca5a0d29cf89b9e742eda1c080c6921ec0890453013e6",
-            "uploadDate": null
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/8682048944d65a0bb42ca5a0d29cf89b9e742eda1c080c6921ec0890453013e6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/8682048944d65a0bb42ca5a0d29cf89b9e742eda1c080c6921ec0890453013e6",
+            "uploadDate": "2025-05-23T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 5",
             "description": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/2ac54696bae3d18f7a9da0ab08e4524d00ae741d6248f3ca56296c03306b4422",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/2ac54696bae3d18f7a9da0ab08e4524d00ae741d6248f3ca56296c03306b4422",
-            "uploadDate": null
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/2ac54696bae3d18f7a9da0ab08e4524d00ae741d6248f3ca56296c03306b4422",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/2ac54696bae3d18f7a9da0ab08e4524d00ae741d6248f3ca56296c03306b4422",
+            "uploadDate": "2025-05-23T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 6",
             "description": "Pixel Cross Stitch Color by Number Seasons Collection gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/a603b213d441c2d0792c7f2d06bc6e13c0b2d2fa55c85ae386fbc8983c728cae",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098683/a603b213d441c2d0792c7f2d06bc6e13c0b2d2fa55c85ae386fbc8983c728cae",
-            "uploadDate": null
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/a603b213d441c2d0792c7f2d06bc6e13c0b2d2fa55c85ae386fbc8983c728cae",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000098683/a603b213d441c2d0792c7f2d06bc6e13c0b2d2fa55c85ae386fbc8983c728cae",
+            "uploadDate": "2025-05-23T00:00:00.000Z"
           }
         ],
         {
@@ -2411,6 +2712,21 @@
         }
       ],
       "initialApolloState": {
+        "Category:games": {
+          "__typename": "Category",
+          "id": "games",
+          "name": "Games"
+        },
+        "Category:nintendo_switch": {
+          "__typename": "Category",
+          "id": "nintendo_switch",
+          "name": "Nintendo Switch"
+        },
+        "Category:nintendo_3ds_family": {
+          "__typename": "Category",
+          "id": "nintendo_3ds_family",
+          "name": "Nintendo 3DS Family"
+        },
         "Product:{\"sku\":\"7500058715\"}": {
           "__typename": "Product",
           "availability": [
@@ -2455,6 +2771,7 @@
           },
           "releaseDate": "2025-06-20T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500058715",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2507,6 +2824,7 @@
           },
           "releaseDate": "2025-11-21T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500061698",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2559,6 +2877,7 @@
           },
           "releaseDate": "2025-12-12T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500066484",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2566,6 +2885,324 @@
             "label": "Juegos"
           },
           "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-christmas-2-70050000066484-switch"
+        },
+        "Product:{\"sku\":\"7500072211\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000072211",
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection: Autumn 2",
+          "nsuid": "70050000072211",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 1368.69,
+            "finalPrice": 1368.69,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000072211/eed8422ea41c7d38c5994ad502d97a8da156522658091009ebbd240fd19efc1c",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-04-20T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500072211",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-autumn-2-70050000072211-switch"
+        },
+        "Product:{\"sku\":\"7500073657\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000073657",
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection: Halloween 2",
+          "nsuid": "70050000073657",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 1385.81,
+            "finalPrice": 1385.81,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000073657/db30a945068675a66210ff0b7e6c494dab46b83e38197b0c183ae016fe904365",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-05-21T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500073657",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-halloween-2-70050000073657-switch"
+        },
+        "Product:{\"sku\":\"7500075091\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000075091",
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection: Spring 2",
+          "nsuid": "70050000075091",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 1386.98,
+            "finalPrice": 1386.98,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000075091/7b11770df57f4a9fe98e67754e3988363c03920da04fed80e0aef74498c0292f",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-06-11T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500075091",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-spring-2-70050000075091-switch"
+        },
+        "Product:{\"sku\":\"7500075110\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000075110",
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection: Winter 2",
+          "nsuid": "70050000075110",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 1466.43,
+            "finalPrice": 1466.43,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000075110/ba9452d4bc0984a78ec049c357193f479b3d0f01896ef27a1a3cf3ce683a8d5e",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-07-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500075110",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-winter-2-70050000075110-switch"
+        },
+        "Product:{\"sku\":\"7500080495\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000080495",
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection: Easter",
+          "nsuid": "70050000080495",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 1480.06,
+            "finalPrice": 1480.06,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000080495/f84af7eb39d49b476a1f02b68d76493a3e37fd0110b2ebb7984b9b58ffa94d4a",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-09-12T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500080495",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-easter-70050000080495-switch"
+        },
+        "Product:{\"sku\":\"7500082526\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000082526",
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection: Vacations 1",
+          "nsuid": "70050000082526",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 1505.03,
+            "finalPrice": 1505.03,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000082526/351dc1719e75d7d69792aea520eac8102bd762bf4f3cb2f12088011f3ab5d3a6",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-24T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500082526",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-vacations-1-70050000082526-switch"
         },
         "Product:{\"sku\":\"7100098683\"}": {
           "__typename": "Product",
@@ -2591,9 +3228,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "ARS",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 8729.57,
-            "finalPrice": 8729.57,
+            "finalPrice": 4364.78,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2619,15 +3256,26 @@
             ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0100846023aee000",
           "appStoreUrl": null,
           "availability": [
             "Disponible ya"
           ],
           "baseSoftware": [],
+          "categories": [
+            {
+              "__ref": "Category:games"
+            },
+            {
+              "__ref": "Category:nintendo_switch"
+            },
+            {
+              "__ref": "Category:nintendo_3ds_family"
+            }
+          ],
           "capacity": null,
-          "consumerLaunchHoldDate": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2643,8 +3291,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000098683&v_loggedin=false&v_currency=ARS&v_price=8729.57&v_country=AR",
-            "discountPriceEnd": null
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000098683&v_loggedin=false&v_currency=ARS&v_price=4364.78&v_country=AR",
+            "discountPriceEnd": "2026-11-23T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2663,7 +3311,7 @@
           "metaDescription": null,
           "metaTitle": null,
           "miscDescriptions": null,
-          "miscNetworkDescriptions": null,
+          "miscNetworkDescriptions": "Este programa es compatible con los siguientes accesorios y funciones:\n- Pantalla táctil",
           "miscPeripheralDescriptions": null,
           "numberOfPlayers": {
             "__typename": "NumberOfPlayers",
@@ -2683,7 +3331,7 @@
           "productCode": "HACPBQDCA",
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b0b67d3a19ef44f3bbe2f38c47c60bc3_1024"
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5d1c4f58772a40cc960d188bc73a7939_1024"
           },
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
@@ -2697,6 +3345,24 @@
             },
             {
               "__ref": "Product:{\"sku\":\"7500066484\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500072211\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500073657\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500075091\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500075110\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500080495\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500082526\"}"
             }
           ],
           "requiresLogin": null,
@@ -2720,13 +3386,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "314572800",
+                "totalRomSize": "321912832",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "314572800",
+                "totalRomSize": "321912832",
                 "platform": "BEE"
               }
             ]
@@ -2741,7 +3407,15 @@
               "__typename": "ProductVariation",
               "label": "Standard Edition",
               "value": "Standard Edition",
-              "type": "Edition",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "Standard Edition",
+                  "type": "edition",
+                  "value": "Standard Edition"
+                }
+              ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7100098683\"}"
               }
@@ -2750,7 +3424,49 @@
               "__typename": "ProductVariation",
               "label": "ROM Bundle",
               "value": "ROM Bundle",
-              "type": "Edition",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700041258\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700035741\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7700032302\"}"
               }
@@ -2759,7 +3475,66 @@
               "__typename": "ProductVariation",
               "label": "ROM Bundle",
               "value": "ROM Bundle",
-              "type": "Edition",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700040187\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700036749\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700038523\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7700029113\"}"
               }
@@ -2768,7 +3543,32 @@
               "__typename": "ProductVariation",
               "label": "ROM Bundle",
               "value": "ROM Bundle",
-              "type": "Edition",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700037360\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7700032303\"}"
               }
@@ -2791,6 +3591,13 @@
             }
           ],
           "officialSite": null,
+          "platforms": [
+            {
+              "__typename": "Platform",
+              "label": "Nintendo Switch",
+              "code": "NINTENDO_SWITCH"
+            }
+          ],
           "playModes": [
             {
               "__typename": "PlayMode",
@@ -2864,6 +3671,82 @@
             "label": "Juegos"
           }
         },
+        "Product:{\"sku\":\"7700041258\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000041258",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 9",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-9-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_AR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": true,
+            "regularPrice": 22809.59,
+            "finalPrice": 11404.79,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000041258/01cc8ac6585bb5a325710c62fee8da84180660fc8fb9fcebd658cd5d48b6b5ac"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700041258",
+          "url({\"relative\":true})": "/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-9-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700035741\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000035741",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 4",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-4-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_AR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 14654.95,
+            "finalPrice": 14654.95,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000035741/87e1c8fa94a44df5a302dde39509d20fb09bce2729084d360e181a34be8b0343"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700035741",
+          "url({\"relative\":true})": "/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-4-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
         "Product:{\"sku\":\"7700032302\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2895,6 +3778,120 @@
           "soldOutPermanent": null,
           "sku": "7700032302",
           "url({\"relative\":true})": "/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-2-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700040187\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000040187",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 8",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-8-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_AR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 18000,
+            "finalPrice": 18000,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000040187/680b0a385dc11a958931335149fb9f2b3420da89ad12dfc96b536124a90470d8"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700040187",
+          "url({\"relative\":true})": "/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-8-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700036749\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000036749",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 5",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-5-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_AR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 16054.82,
+            "finalPrice": 16054.82,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000036749/f80c20f695562c78ff2b70d4058d2aaaab0f6a9da877a98d12f21a190822adc3"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700036749",
+          "url({\"relative\":true})": "/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-5-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700038523\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000038523",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 7",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-7-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_AR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 16500,
+            "finalPrice": 16500,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000038523/1c13710a20c45b926485929d8e05e727900c0fafbbffa63497e8e674769cc9ec"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700038523",
+          "url({\"relative\":true})": "/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-7-switch/",
           "tags": {
             "__typename": "Tags",
             "features": [],
@@ -2940,6 +3937,44 @@
             "waysToPlay": []
           }
         },
+        "Product:{\"sku\":\"7700037360\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000037360",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 6",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-6-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_AR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": true,
+            "regularPrice": 12000,
+            "finalPrice": 6000,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000037360/ba4686cbe3bf69191a78833cc1c7e3e9d87ae41d2674b85d364311486c7d666a"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700037360",
+          "url({\"relative\":true})": "/es-ar/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-6-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
         "Product:{\"sku\":\"7700032303\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2958,9 +3993,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "ARS",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 14130.36,
-            "finalPrice": 14130.36,
+            "finalPrice": 7065.18,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2993,35 +4028,7 @@
           "__typename": "Query",
           "product({\"input\":{\"urlKey\":\"pixel-cross-stitch-color-by-number-seasons-collection-switch\"}})": {
             "__ref": "Product:{\"sku\":\"7100098683\"}"
-          },
-          "features({\"ids\":[\"wdev-1692-meta-description-update\"],\"project\":\"ncom\"})": [
-            {
-              "__ref": "Feature:wdev-1692-meta-description-update"
-            }
-          ]
-        },
-        "Feature:wdev-1692-meta-description-update": {
-          "__typename": "Feature",
-          "id": "wdev-1692-meta-description-update",
-          "impressionData": false,
-          "stale": false,
-          "strategies": [
-            {
-              "__typename": "FeatureStrategy",
-              "constraints": [],
-              "name": "flexibleRollout",
-              "parameters": {
-                "__typename": "FeatureStrategyParameters",
-                "groupId": "wdev-1692-meta-description-update",
-                "hostNames": null,
-                "rollout": 100,
-                "stickiness": "DEFAULT",
-                "userIds": null
-              }
-            }
-          ],
-          "type": "RELEASE",
-          "variants": []
+          }
         }
       }
     },
@@ -3031,11 +4038,11 @@
   "query": {
     "slug": "pixel-cross-stitch-color-by-number-seasons-collection-switch"
   },
-  "buildId": "H0pUVn7SBFmpwZ1oTfGrW",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
+  "isExperimentalCompile": false,
   "gssp": true,
-  "customServer": true,
   "appGip": true,
   "locale": "es-ar",
   "locales": [
