@@ -9,39 +9,42 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
+                "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
-                "label": "Nintendo Music",
+                "label": "Ventas y ofertas",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/switch/online/nintendo-switch-online/nintendo-music/"
+                "icon": "",
+                "url": "/store/sales-and-deals/"
               },
               {
                 "__contentType": "moduleCta",
-                "__entryId": "YkgQEzrFk0KRUBFub6xML",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
                 "campaignId": "",
-                "label": "Super Mario Galaxy La Película",
+                "label": "Juegos con Resident Evil",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/movies/super-mario-galaxy/"
+                "icon": "",
+                "url": "https://www.nintendo.com/es-ar/search/#q=Resident+Evil&p=1&cat=gme&sort=df"
               },
               {
                 "__contentType": "moduleCta",
                 "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
                 "campaignId": "",
-                "label": "Acerca de los precios de los juegos de Nintendo Switch 2",
+                "label": "Novedades",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/whatsnew/acerca-de-los-precios-de-los-juegos-de-nintendo-switch-2/"
+                "icon": "",
+                "url": "/whatsnew/"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,51 +56,179 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/games/mario-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Tarjeta de regalo digital para Nintendo eShop",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://store.nintendo.mx/games?_gl=1*9ejk6h*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NTYxJGo2MCRsMCRoMjAxMjcxMDMwNQ..*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3"
               },
               {
                 "__contentType": "moduleCta",
                 "__entryId": "4qmzaoEKuKdtkuoCJmv0d",
                 "campaignId": "",
-                "label": "Nintendo GameCube™ – Nintendo Classics",
+                "label": "Nintendo Switch Online",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/store/products/nintendo-gamecube-nintendo-classics-switch-2/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "4NMwlAucFhNczxL6eZal6T",
-                "campaignId": "",
-                "label": "Ventas y ofertas",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/sales-and-deals/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Juegos de Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
+                "icon": "",
+                "url": "/online/"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Juegos con Pokémon",
+              "caption": "",
+              "url": "/store/games/pokemon-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Juegos en oferta",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Juegos de Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
-            "7700030770",
-            "7100104187",
-            "7100104192",
-            "7700032413"
+            "7700037146",
+            "7700038706",
+            "7100122824",
+            "7700036603"
           ]
         },
         "navContent": {
@@ -398,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -460,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -491,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1062,8 +1224,8 @@
                   "url": "/store/",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "5Y4oHJT5KL8h67NTw91d9v",
-                    "id": "MyNintendoIcon"
+                    "__entryId": "7AmSJhZA3YaPjRPQnLFW8G",
+                    "id": "NintendoStoreBagIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1096,11 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1145,11 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1280,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1456,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1572,9 +1784,9 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "7FRKUQGXufpEgbOdwpqIxE",
-                  "label": "Responsabilidad social corporativa",
+                  "label": "Sostenibilidad",
                   "caption": "",
-                  "url": "https://www.nintendo.co.jp/csr/en-us/index.html",
+                  "url": "https://www.nintendo.co.jp/sustainability/en-us/index.html",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1604,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1878,10 +2106,26 @@
                 },
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "wW0gr3RFIYqOxHHp0ZHWN",
-                  "label": "Otras consolas",
+                  "__entryId": "7ahkoAO5bR3KA4pRHG1Rob",
+                  "label": "",
                   "caption": "",
-                  "url": "https://support.nintendo.com/other-systems/",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "468S7CNu00EbjagjqbipV6",
+                  "label": "Reembolsos y devoluciones",
+                  "caption": "",
+                  "url": "/refund-return-policy/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1958,17 +2202,17 @@
                 },
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "468S7CNu00EbjagjqbipV6",
-                  "label": "Reembolsos y devoluciones",
+                  "__entryId": "7qrJG0KF5BuILcCV84lQ0X",
+                  "label": "",
                   "caption": "",
-                  "url": "/refund-return-policy/",
+                  "url": "",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
-                  "hideOnLocale": false,
+                  "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
                 }
@@ -2235,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2271,9 +2516,11 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Bandit Trap para Nintendo Switch 2 - Sitio Oficial de Nintendo para Argentina",
-        "description": "Compra Bandit Trap y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial My Nintendo Argentina.",
+        "description": "Compra Bandit Trap para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
         "canonicalUrl": "https://www.nintendo.com/es-ar/store/products/bandit-trap-switch-2/"
       },
       "analytics": {
@@ -2321,14 +2568,33 @@
           "href": null
         }
       ],
-      "removeGoldPoints": true,
-      "returnPartialData": true,
-      "showLendableRow": true,
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/strategy-games",
+          "label": "Estrategia"
+        },
+        {
+          "url": "/store/games/tags/competitive-games",
+          "label": "Compite en línea"
+        },
+        {
+          "url": "/store/games/tags/online-multiplayer-games",
+          "label": "Juega en línea con amigos"
+        },
+        {
+          "url": "/store/games/tags/crossplay-games",
+          "label": "Multiplataforma"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/ee32177a36c5fe1b616eedda2ddbe780ded7810d9f233aa43885f7ed8bd4cb4b"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/ee32177a36c5fe1b616eedda2ddbe780ded7810d9f233aa43885f7ed8bd4cb4b"
       },
       "linkedData": [
         {
@@ -2337,7 +2603,7 @@
             "Product"
           ],
           "name": "Bandit Trap",
-          "description": "Compra Bandit Trap y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial My Nintendo Argentina.",
+          "description": "Compra Bandit Trap para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
           "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000098651/ee32177a36c5fe1b616eedda2ddbe780ded7810d9f233aa43885f7ed8bd4cb4b",
           "offers": {
             "@type": "Offer",
@@ -2346,7 +2612,9 @@
             "price": "20845.00",
             "seller": {
               "@type": "Organization",
-              "name": "Nintendo"
+              "@id": "https://www.nintendo.com/us#organization",
+              "name": "Nintendo of America Inc.",
+              "url": "https://www.nintendo.com/us/"
             },
             "shippingDetails": null,
             "availability": "https://schema.org/InStock",
@@ -2382,64 +2650,64 @@
             "@type": "ImageObject",
             "name": "Bandit Trap gallery item 0",
             "description": "Bandit Trap gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/ee32177a36c5fe1b616eedda2ddbe780ded7810d9f233aa43885f7ed8bd4cb4b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/ee32177a36c5fe1b616eedda2ddbe780ded7810d9f233aa43885f7ed8bd4cb4b",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/ee32177a36c5fe1b616eedda2ddbe780ded7810d9f233aa43885f7ed8bd4cb4b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/ee32177a36c5fe1b616eedda2ddbe780ded7810d9f233aa43885f7ed8bd4cb4b",
             "uploadDate": "2026-04-30T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "Bandit Trap gallery item 1",
             "description": "Bandit Trap gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000098651/Video/a66be0e56b2671b3f04d2bf19b44257d4b1b08f72072613355f303a821fc3fcc",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000098651/Video/a66be0e56b2671b3f04d2bf19b44257d4b1b08f72072613355f303a821fc3fcc",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000098651/Video/a66be0e56b2671b3f04d2bf19b44257d4b1b08f72072613355f303a821fc3fcc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000098651/Video/a66be0e56b2671b3f04d2bf19b44257d4b1b08f72072613355f303a821fc3fcc",
             "uploadDate": "2026-04-30T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Bandit Trap gallery item 2",
             "description": "Bandit Trap gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/750fe7e69b8c1cedee96c7f78c6938a6babaad0db437452c4ef4fb1dc652830b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/750fe7e69b8c1cedee96c7f78c6938a6babaad0db437452c4ef4fb1dc652830b",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/750fe7e69b8c1cedee96c7f78c6938a6babaad0db437452c4ef4fb1dc652830b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/750fe7e69b8c1cedee96c7f78c6938a6babaad0db437452c4ef4fb1dc652830b",
             "uploadDate": "2026-04-30T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Bandit Trap gallery item 3",
             "description": "Bandit Trap gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/751639157145f7f8d79fe8a7d4e54b26da6405145b787c3e04e420f5940c7fd1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/751639157145f7f8d79fe8a7d4e54b26da6405145b787c3e04e420f5940c7fd1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/751639157145f7f8d79fe8a7d4e54b26da6405145b787c3e04e420f5940c7fd1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/751639157145f7f8d79fe8a7d4e54b26da6405145b787c3e04e420f5940c7fd1",
             "uploadDate": "2026-04-30T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Bandit Trap gallery item 4",
             "description": "Bandit Trap gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/2b926bb2b824577bd1cdb8bec2799afc9bfc6ec223d1e3717f2ce59d80cef5a4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/2b926bb2b824577bd1cdb8bec2799afc9bfc6ec223d1e3717f2ce59d80cef5a4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/2b926bb2b824577bd1cdb8bec2799afc9bfc6ec223d1e3717f2ce59d80cef5a4",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/2b926bb2b824577bd1cdb8bec2799afc9bfc6ec223d1e3717f2ce59d80cef5a4",
             "uploadDate": "2026-04-30T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Bandit Trap gallery item 5",
             "description": "Bandit Trap gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/7e8c0cbe99131a450ed3fa74102a6a4f0317a86a5b7b67570ceb8347e49fbbf0",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/7e8c0cbe99131a450ed3fa74102a6a4f0317a86a5b7b67570ceb8347e49fbbf0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/7e8c0cbe99131a450ed3fa74102a6a4f0317a86a5b7b67570ceb8347e49fbbf0",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/7e8c0cbe99131a450ed3fa74102a6a4f0317a86a5b7b67570ceb8347e49fbbf0",
             "uploadDate": "2026-04-30T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Bandit Trap gallery item 6",
             "description": "Bandit Trap gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/17e44a6ab10b57658ab3ded1b784325bc91c57e2d93ac11e917d9eb62ba0230e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/17e44a6ab10b57658ab3ded1b784325bc91c57e2d93ac11e917d9eb62ba0230e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/17e44a6ab10b57658ab3ded1b784325bc91c57e2d93ac11e917d9eb62ba0230e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/17e44a6ab10b57658ab3ded1b784325bc91c57e2d93ac11e917d9eb62ba0230e",
             "uploadDate": "2026-04-30T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Bandit Trap gallery item 7",
             "description": "Bandit Trap gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/ed7e5fa17c4281bd5b228ed2bf46e78876155732f7ecf270b1f7c2eaa2561b3a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000098651/ed7e5fa17c4281bd5b228ed2bf46e78876155732f7ecf270b1f7c2eaa2561b3a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/ed7e5fa17c4281bd5b228ed2bf46e78876155732f7ecf270b1f7c2eaa2561b3a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000098651/ed7e5fa17c4281bd5b228ed2bf46e78876155732f7ecf270b1f7c2eaa2561b3a",
             "uploadDate": "2026-04-30T00:00:00.000Z"
           }
         ],
@@ -2520,13 +2788,41 @@
           "tags": {
             "__typename": "Tags",
             "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "STRATEGY",
+                "label": "Estrategia"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CROSS_PLATFORM",
+                "label": "Multiplataforma"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "04000e1023ab4000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2541,7 +2837,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2555,9 +2851,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000098651&v_loggedin=false&v_currency=ARS&v_price=20845.00&v_country=AR",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2577,7 +2873,7 @@
           "metaDescription": null,
           "metaTitle": null,
           "miscDescriptions": null,
-          "miscNetworkDescriptions": null,
+          "miscNetworkDescriptions": "Este programa es compatible con los siguientes accesorios y funciones:\n- Pantalla táctil\n- CameraPlay\n\nEstas funciones están disponibles en televisores compatibles:\n- Salida de HDR",
           "miscPeripheralDescriptions": null,
           "numberOfPlayers": {
             "__typename": "NumberOfPlayers",
@@ -2602,7 +2898,7 @@
           "productCode": "BEEPAAXVA",
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/68dbae18c0444eda9ed418209323ef9d_1024"
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7fa71244d254448aaba297c445d22469_1024"
           },
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
@@ -2635,7 +2931,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "2997878784",
+                "totalRomSize": "4717543424",
                 "platform": "BEE"
               }
             ]
@@ -2650,7 +2946,15 @@
               "__typename": "ProductVariation",
               "label": "Standard Edition",
               "value": "Standard Edition",
-              "type": "Edition",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "Standard Edition",
+                  "type": "edition",
+                  "value": "Standard Edition"
+                }
+              ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7100098651\"}"
               }
@@ -2688,6 +2992,13 @@
             }
           ],
           "officialSite": null,
+          "platforms": [
+            {
+              "__typename": "Platform",
+              "label": "Nintendo Switch 2",
+              "code": "NINTENDO_SWITCH_2"
+            }
+          ],
           "playModes": [
             {
               "__typename": "PlayMode",
@@ -2811,35 +3122,7 @@
           "__typename": "Query",
           "product({\"input\":{\"urlKey\":\"bandit-trap-switch-2\"}})": {
             "__ref": "Product:{\"sku\":\"7100098651\"}"
-          },
-          "features({\"ids\":[\"wdev-1692-meta-description-update\"],\"project\":\"ncom\"})": [
-            {
-              "__ref": "Feature:wdev-1692-meta-description-update"
-            }
-          ]
-        },
-        "Feature:wdev-1692-meta-description-update": {
-          "__typename": "Feature",
-          "id": "wdev-1692-meta-description-update",
-          "impressionData": false,
-          "stale": false,
-          "strategies": [
-            {
-              "__typename": "FeatureStrategy",
-              "constraints": [],
-              "name": "flexibleRollout",
-              "parameters": {
-                "__typename": "FeatureStrategyParameters",
-                "groupId": "wdev-1692-meta-description-update",
-                "hostNames": null,
-                "rollout": 100,
-                "stickiness": "DEFAULT",
-                "userIds": null
-              }
-            }
-          ],
-          "type": "RELEASE",
-          "variants": []
+          }
         }
       }
     },
@@ -2849,11 +3132,11 @@
   "query": {
     "slug": "bandit-trap-switch-2"
   },
-  "buildId": "l56lmYe_McGEPF1yUllEs",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
+  "isExperimentalCompile": false,
   "gssp": true,
-  "customServer": true,
   "appGip": true,
   "locale": "es-ar",
   "locales": [
