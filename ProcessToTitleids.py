@@ -221,12 +221,14 @@ def processCat4():
 				continue
 
 			entry = {}
-			entry["name"] = DUMP["name"]
-			entry["publisher"] = DUMP["publisher"]
-			entry["bannerUrl"] = DUMP["bannerUrl"]
-			entry["iconUrl"] =  DUMP["iconUrl"]
-			entry["screenshots"] = DUMP["screenshots"]
-			entry["releaseDate"] = DUMP["releaseDate"]
+			# The EU scraper skips fields it could not find (e.g. TBD release date), so none are guaranteed.
+			# Empty values are ignored when merging, so other regions / the old output fill them in.
+			entry["name"] = DUMP.get("name", [])
+			entry["publisher"] = DUMP.get("publisher", "")
+			entry["bannerUrl"] = DUMP.get("bannerUrl", "")
+			entry["iconUrl"] = DUMP.get("iconUrl", "")
+			entry["screenshots"] = DUMP.get("screenshots", [])
+			entry["releaseDate"] = DUMP.get("releaseDate", 0)
 			
 			if ("size" not in DUMP.keys() or DUMP["size"] == 0):
 				entry["size"] = 0
