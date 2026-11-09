@@ -9,27 +9,42 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "1Wqx4IYq0S8VNtkcLRxOBR",
+                "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
-                "label": "Star Fox Direct 5.6.2026",
+                "label": "Blockbuster Sale",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/nintendo-direct/5-6-2026/"
+                "icon": "",
+                "url": "/store/sales-and-deals/blockbuster-sale/"
               },
               {
                 "__contentType": "moduleCta",
-                "__entryId": "YkgQEzrFk0KRUBFub6xML",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
                 "campaignId": "",
-                "label": "The Super Mario Galaxy Movie",
+                "label": "Resident Evil games",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/movies/super-mario-galaxy/"
+                "icon": "",
+                "url": "https://www.nintendo.com/us/search/#q=resident+evil&p=1&cat=gme&sort=df"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
+                "campaignId": "",
+                "label": "Limited time DK challenge",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/whatsnew/complete-the-dk-challenge-and-grab-a-fun-physical-reward/"
               },
               {
                 "__contentType": "moduleCta",
@@ -41,7 +56,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Nintendo eShop Cards",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/us/retail-offers/nintendo-eshop-cards/"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,39 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "4NMwlAucFhNczxL6eZal6T",
-                "campaignId": "",
-                "label": "Games on sale",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/sales-and-deals/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Nintendo Switch games",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Nintendo Switch 2 Bundles",
+              "caption": "",
+              "url": "/store/showroom/nintendo-switch-2-bundle/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Games on sale",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Nintendo Switch 2 games",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "6o5UFLGstQbUz4dMJXsiQP",
+              "label": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "caption": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "url": "/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "tags": [
+                  "70050000081248",
+                  "70050000081248-C"
+                ],
+                "type": "upload",
+                "bytes": 2122019,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70050000081248": "1",
+                    "en-US:70050000081248": "1",
+                    "es-AR:70050000081248": "1",
+                    "es-CL:70050000081248": "1",
+                    "es-CO:70050000081248": "1",
+                    "es-MX:70050000081248": "1",
+                    "es-PE:70050000081248": "1",
+                    "fr-CA:70050000081248": "1",
+                    "pt-BR:70050000081248": "1",
+                    "en-CA:70050000081248-C": "1",
+                    "en-US:70050000081248-C": "1",
+                    "es-AR:70050000081248-C": "1",
+                    "es-CL:70050000081248-C": "1",
+                    "es-CO:70050000081248-C": "1",
+                    "es-MX:70050000081248-C": "1",
+                    "es-PE:70050000081248-C": "1",
+                    "fr-CA:70050000081248-C": "1",
+                    "pt-BR:70050000081248-C": "1"
+                  }
+                },
+                "version": 1788966774,
+                "metadata": {},
+                "public_id": "store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58",
+                "created_at": "2026-09-09T15:12:54Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
-            "7100116663",
-            "7100123167",
-            "7100119859",
-            "7100112477"
+            "7700037146",
+            "7700038706",
+            "7100122824",
+            "7700036603"
           ]
         },
         "navContent": {
@@ -386,7 +529,7 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -409,6 +552,37 @@
                   "activeMatch": "",
                   "id": "mario",
                   "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
+                  "url": "https://mario.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -448,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -479,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1045,13 +1219,13 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "39kZkTBl8u760m6i2Qc13A",
-                  "label": "My Nintendo Store",
+                  "label": "Nintendo Store",
                   "caption": "Shop all",
                   "url": "/store/",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "5Y4oHJT5KL8h67NTw91d9v",
-                    "id": "MyNintendoIcon"
+                    "__entryId": "7AmSJhZA3YaPjRPQnLFW8G",
+                    "id": "NintendoStoreBagIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1084,11 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1133,11 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1268,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1444,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1560,9 +1784,9 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "7FRKUQGXufpEgbOdwpqIxE",
-                  "label": "Corporate Social Responsibility",
+                  "label": "Sustainability",
                   "caption": "",
-                  "url": "https://www.nintendo.co.jp/csr/en-us/index.html",
+                  "url": "https://www.nintendo.co.jp/sustainability/en-us/index.html",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1592,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Games",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Nintendo Switch 2 games",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Nintendo Switch games",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1689,7 +1929,7 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "5nP7cNMyPjQDfrXFAKdP6e",
-                  "label": "Nintendo Store US",
+                  "label": "Nintendo retail locations",
                   "caption": "",
                   "url": "/retail-locations/",
                   "icon": null,
@@ -1882,6 +2122,22 @@
                 },
                 {
                   "__contentType": "menuItem",
+                  "__entryId": "468S7CNu00EbjagjqbipV6",
+                  "label": "Reembolsos y devoluciones",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
                   "__entryId": "4nlcdUscecWAYCFlWxnLT1",
                   "label": "Service center",
                   "caption": "",
@@ -1941,22 +2197,6 @@
                   "activeMatch": "",
                   "id": null,
                   "hideOnLocale": false,
-                  "characterColor": null,
-                  "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "468S7CNu00EbjagjqbipV6",
-                  "label": "Reembolsos y devoluciones",
-                  "caption": "",
-                  "url": "",
-                  "icon": null,
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
                 },
@@ -2441,6 +2681,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2477,9 +2718,11 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "ANOMALITH for Nintendo Switch 2 - Nintendo Official Site",
-        "description": "Buy ANOMALITH and shop other great Nintendo products online at the official My Nintendo Store.",
+        "description": "Shop ANOMALITH for Nintendo Switch 2 at Nintendo Store. See game details, editions, and availability.",
         "canonicalUrl": "https://www.nintendo.com/us/store/products/anomalith-switch-2/"
       },
       "analytics": {
@@ -2534,8 +2777,42 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Action"
+        },
+        {
+          "url": "/store/games/tags/shooting-games",
+          "label": "Shooting"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Choose your difficulty"
+        },
+        {
+          "url": "/store/games/tags/online-scoreboard-games",
+          "label": "Online scoreboards"
+        },
+        {
+          "url": "/store/games/tags/play-for-fastest-time-games",
+          "label": "Play for the fastest time"
+        },
+        {
+          "url": "/store/games/tags/survival-games",
+          "label": "Survival"
+        },
+        {
+          "url": "/store/games/tags/third-person-games",
+          "label": "Third-person"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Voiced characters"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/b9ddee56b450639c265f91b396bb4906cca791a340b06907a6803c2b350c4b87"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/b9ddee56b450639c265f91b396bb4906cca791a340b06907a6803c2b350c4b87"
       },
       "linkedData": [
         {
@@ -2544,7 +2821,7 @@
             "Product"
           ],
           "name": "ANOMALITH",
-          "description": "Buy ANOMALITH and shop other great Nintendo products online at the official My Nintendo Store.",
+          "description": "Shop ANOMALITH for Nintendo Switch 2 at Nintendo Store. See game details, editions, and availability.",
           "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000099501/b9ddee56b450639c265f91b396bb4906cca791a340b06907a6803c2b350c4b87",
           "offers": {
             "@type": "Offer",
@@ -2591,56 +2868,56 @@
             "@type": "ImageObject",
             "name": "ANOMALITH gallery item 0",
             "description": "ANOMALITH gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/b9ddee56b450639c265f91b396bb4906cca791a340b06907a6803c2b350c4b87",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/b9ddee56b450639c265f91b396bb4906cca791a340b06907a6803c2b350c4b87",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/b9ddee56b450639c265f91b396bb4906cca791a340b06907a6803c2b350c4b87",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/b9ddee56b450639c265f91b396bb4906cca791a340b06907a6803c2b350c4b87",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "ANOMALITH gallery item 1",
             "description": "ANOMALITH gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/0fe2e7bfe95c82129fb6df726711a734f1727bc3de28efe742e30ca0a29d7243",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/0fe2e7bfe95c82129fb6df726711a734f1727bc3de28efe742e30ca0a29d7243",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/0fe2e7bfe95c82129fb6df726711a734f1727bc3de28efe742e30ca0a29d7243",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/0fe2e7bfe95c82129fb6df726711a734f1727bc3de28efe742e30ca0a29d7243",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "ANOMALITH gallery item 2",
             "description": "ANOMALITH gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/26c0d8a1cbf12b117d33776084865e771537fd5c75497a457891b47c39f23b3a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/26c0d8a1cbf12b117d33776084865e771537fd5c75497a457891b47c39f23b3a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/26c0d8a1cbf12b117d33776084865e771537fd5c75497a457891b47c39f23b3a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/26c0d8a1cbf12b117d33776084865e771537fd5c75497a457891b47c39f23b3a",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "ANOMALITH gallery item 3",
             "description": "ANOMALITH gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/d34e68c3a7d6ac8f7c321742664a80c69dec627a849331e9c9a3dd2e6b220b38",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/d34e68c3a7d6ac8f7c321742664a80c69dec627a849331e9c9a3dd2e6b220b38",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/d34e68c3a7d6ac8f7c321742664a80c69dec627a849331e9c9a3dd2e6b220b38",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/d34e68c3a7d6ac8f7c321742664a80c69dec627a849331e9c9a3dd2e6b220b38",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "ANOMALITH gallery item 4",
             "description": "ANOMALITH gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/ff73956d02735e7c2b68ac1d8304a4076a5cde4a4dba8e405744629faaf9bc8b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/ff73956d02735e7c2b68ac1d8304a4076a5cde4a4dba8e405744629faaf9bc8b",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/ff73956d02735e7c2b68ac1d8304a4076a5cde4a4dba8e405744629faaf9bc8b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/ff73956d02735e7c2b68ac1d8304a4076a5cde4a4dba8e405744629faaf9bc8b",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "ANOMALITH gallery item 5",
             "description": "ANOMALITH gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/696b8292a0606a8831be2146ae70d8c7842fc5c90a307371d5e3f56e0ae12e2e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/696b8292a0606a8831be2146ae70d8c7842fc5c90a307371d5e3f56e0ae12e2e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/696b8292a0606a8831be2146ae70d8c7842fc5c90a307371d5e3f56e0ae12e2e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/696b8292a0606a8831be2146ae70d8c7842fc5c90a307371d5e3f56e0ae12e2e",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "ANOMALITH gallery item 6",
             "description": "ANOMALITH gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/aa10a87c66d81374aa8a13053b713a3dd1eeacd18d8e1acd216bade7471c64cc",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000099501/aa10a87c66d81374aa8a13053b713a3dd1eeacd18d8e1acd216bade7471c64cc",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/aa10a87c66d81374aa8a13053b713a3dd1eeacd18d8e1acd216bade7471c64cc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000099501/aa10a87c66d81374aa8a13053b713a3dd1eeacd18d8e1acd216bade7471c64cc",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           }
         ],
@@ -2686,9 +2963,7 @@
         },
         "Product:{\"sku\":\"7500073343\"}": {
           "__typename": "Product",
-          "availability": [
-            "Coming soon"
-          ],
+          "availability": [],
           "demoNsuid": null,
           "dlcType": {
             "__typename": "DlcType",
@@ -2721,6 +2996,7 @@
           },
           "releaseDate": "2026-10-28T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500073343",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2765,15 +3041,58 @@
           "url({\"relative\":true})": "/us/store/products/anomalith-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Choose your difficulty"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Online scoreboards"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Play for the fastest time"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SURVIVAL",
+                "label": "Survival"
+              },
+              {
+                "__typename": "Tag",
+                "code": "THIRD_PERSON",
+                "label": "Third-person"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Voiced characters"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Action"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Shooting"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400460023f04000",
           "appStoreUrl": null,
           "availability": [
-            "Pre-order",
-            "Coming soon"
+            "New releases",
+            "Available now"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2788,10 +3107,10 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
-          "demoNsuid": null,
+          "demoNsuid": "70030000024587",
           "description({\"html\":true})": "<p><br>Remain yourself. Live on.<br><br>Anomalies × Mutating Girl × Survival TPS<br><br>Survive a world crawling with Anomalies.<br>The girl faces her fate, gun in hand—<br><br>──────────<br>■ STORY<br>──────────<br>Japan, the year 20██.<br>Anomaly Zones suddenly appear without any sign.<br>In search of her friend who went missing in an Anomaly Zone, 17 year old Reona Minazuki becomes a Diver for the government-backed Anomaly Zone Countermeasures Office.<br><br>On her first Dive, as countless other Divers fall victim to the Zone, a strange power awakens within her.<br><br>The sole survivor, she heads deep into the abyss of Anomaly Zones.<br><br>Her friend's disappearance, the origin of Anomaly Zones, and the mystery of her powers— <br>When all of it is finally revealed, what will she see—?<br><br>──────────<br>■ SYSTEM<br>──────────<br>Dive, Retrieve, Return<br><br>While exploring Anomaly Zones, Reona has no choice but to engage strange creatures called &quot;Anomalies&quot; in combat.<br>Manage your ammunition and carefully select what to retrieve as you make your way to extraction.&quot;<br><br>【Anomaly Zone】 Combat and Dives<br> - Investigation of Anomalous Spaces that Transcend the Laws of Nature<br>An apartment complex with inverted gravity, a twisted, writhing hallway, a shopping street that endlessly multiplies—<br>Explore Anomaly Zones where various anomalous phenomena have occurred.<br><br> - Gun Action and Inventory<br>Destroy all Anomalies you encounter and carefully choose the right weapon for each battle.<br>Items discovered on Dives can be brought back to Base and utilized.<br><br> - Anomalization Skills<br>Reona Minazuki can make use of 12 unique powers.<br>They support gunfights, and can sometimes serve as powerful game-changers.<br><br>【Base】 Replenish and Enhance<br> - Gun Customization and Artifacts<br>Utilize attachments to customize each firearm and tailor them to various combat styles.<br>Equip Artifacts retrieved from Anomaly Zones to improve your stats.<br>Choose wisely when selecting equipment and ammo as you prepare for Dives.<br><br> - Change into a Variety of Costumes<br>Gears are separated into nine parts, with each costume affecting Reona's stats.<br>Outward appearance can be changed without affecting stats, making it possible to go on Dives in your favorite fashion.<br><br> - Collect Info on Anomaly Zones<br>Defeat Anomalies to view Dive Reports detailing their ecology.<br>Learn detailed information on the backgrounds and relationships of other characters through side missions.<br><br>──────────<br>■ CREATORS<br>──────────<br>Scenario: Romeo Tanaka<br>Character Design: MON<br>Composer: Yuka Kitamura</p>",
           "disclaimer": "<p>A Nintendo Switch Online membership (sold separately) is required for Save Data Cloud backup.</p><p>© FURYU CORPORATION</p>",
           "displayChokingHazard": null,
@@ -2801,7 +3120,7 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": true,
+            "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
             "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000099501&v_loggedin=false&v_currency=USD&v_price=49.99&v_country=US",
@@ -2824,7 +3143,7 @@
           "metaDescription": null,
           "metaTitle": null,
           "miscDescriptions": null,
-          "miscNetworkDescriptions": null,
+          "miscNetworkDescriptions": "This software supports the following features and accessories:\n- Touch Screen",
           "miscPeripheralDescriptions": null,
           "numberOfPlayers": {
             "__typename": "NumberOfPlayers",
@@ -2846,7 +3165,7 @@
             "__typename": "CloudinaryAsset",
             "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/f0a293e68a704c09b8db1687af0103ab_1024"
           },
-          "publisherNotifications({\"html\":true})": "<p>【Pre-order Bonus】<br> - \"Lost Property Control Organization\" Collab Mission<br> - \"Lost Property Control Organization\" Collab Outfit<br> - \"Lost Property Control Organization\" Collab Drone Skin \"T-6407J\"<br> - \"Red Causal Punk\" Outfit<br> - Consumable Item Set \"Anomaly Zone Diver Set (B)\"<br> - Consumable Item Set \"Development Material Set\"<br><br>*Pre-order bonus is available for customers who purchase by 23:59 (JST) on October 28, 2026.<br>*Pre-order bonuses may be distributed at a later date.</p>",
+          "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [
@@ -2881,7 +3200,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "15728640000",
-                "totalRomSize": "100663296",
+                "totalRomSize": "12003049472",
                 "platform": "BEE"
               }
             ]
@@ -2896,7 +3215,15 @@
               "__typename": "ProductVariation",
               "label": "Standard Edition",
               "value": "Standard Edition",
-              "type": "Edition",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "Standard Edition",
+                  "type": "edition",
+                  "value": "Standard Edition"
+                }
+              ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7100099501\"}"
               }
@@ -2906,7 +3233,7 @@
           "backgroundColor": "0c1713",
           "contentDescriptors": [
             {
-              "__ref": "ContentDescriptor:{\"id\":\"2yLZuBB4hcU7TFOhEj94R2\",\"locale\":\"en_US\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"e9P6BVD54hYvrkChYrgXk\",\"locale\":\"en_US\"}"
             },
             {
               "__ref": "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"en_US\"}"
@@ -3002,11 +3329,11 @@
             "label": "Games"
           }
         },
-        "ContentDescriptor:{\"id\":\"2yLZuBB4hcU7TFOhEj94R2\",\"locale\":\"en_US\"}": {
+        "ContentDescriptor:{\"id\":\"e9P6BVD54hYvrkChYrgXk\",\"locale\":\"en_US\"}": {
           "__typename": "ContentDescriptor",
-          "id": "2yLZuBB4hcU7TFOhEj94R2",
+          "id": "e9P6BVD54hYvrkChYrgXk",
           "locale": "en_US",
-          "label": "Blood",
+          "label": "Language",
           "type": "CONTENT_DESCRIPTOR"
         },
         "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"en_US\"}": {
@@ -3041,13 +3368,10 @@
   "query": {
     "slug": "anomalith-switch-2"
   },
-  "buildId": "TexZXQiheGB-8DUxzqYwy",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
-  "dynamicIds": [
-    25301
-  ],
   "gssp": true,
   "appGip": true,
   "locale": "default",

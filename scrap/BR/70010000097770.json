@@ -9,15 +9,42 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
+                "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
-                "label": "Nintendo Music",
+                "label": "Jogos em promoção",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/switch/online/nintendo-switch-online/nintendo-music/"
+                "icon": "",
+                "url": "/store/sales-and-deals/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "Jogos com Resident Evil",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/us/search/#q=resident+evil&p=1&cat=gme&sort=df"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
+                "campaignId": "",
+                "label": "Novidades",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/whatsnew/"
               },
               {
                 "__contentType": "moduleCta",
@@ -29,19 +56,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
               },
               {
                 "__contentType": "moduleCta",
-                "__entryId": "EWIbAA3rg5vWIDp3BhjBf",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
                 "campaignId": "",
-                "label": "Jogos com Pokémon",
+                "label": "Cartão presente digital do Nintendo eShop",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/store/games/pokemon-games/"
+                "icon": "",
+                "url": "https://store.nintendo.com.br/games?_gl=1*1j2xw21*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NjE4JGozJGwwJGgyMDEyNzEwMzA1"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,39 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "4NMwlAucFhNczxL6eZal6T",
-                "campaignId": "",
-                "label": "Descontos e promoções",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/sales-and-deals/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Jogos para o Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Jogos imperdíveis",
+              "caption": "",
+              "url": "/store/showroom/must-play-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Jogos em promoção",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Jogos para o Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
-            "7100116663",
-            "7100119859",
-            "7100116884",
-            "7100099705"
+            "7700037146",
+            "7700038706",
+            "7100122824",
+            "7700036603"
           ]
         },
         "navContent": {
@@ -386,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -448,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -479,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -501,7 +675,7 @@
                   "subItems": [],
                   "activeMatch": "",
                   "id": "zelda",
-                  "hideOnLocale": true,
+                  "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -1084,11 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1133,11 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1268,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1444,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1560,9 +1784,9 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "7FRKUQGXufpEgbOdwpqIxE",
-                  "label": "Responsabilidade social corporativa",
+                  "label": "Sustentabilidade",
                   "caption": "",
-                  "url": "https://www.nintendo.co.jp/csr/en-us/index.html",
+                  "url": "https://www.nintendo.co.jp/sustainability/en-us/index.html",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1592,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1882,6 +2122,22 @@
                 },
                 {
                   "__contentType": "menuItem",
+                  "__entryId": "468S7CNu00EbjagjqbipV6",
+                  "label": "",
+                  "caption": "",
+                  "url": "",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
                   "__entryId": "4nlcdUscecWAYCFlWxnLT1",
                   "label": "Centro de serviços",
                   "caption": "",
@@ -1941,22 +2197,6 @@
                   "activeMatch": "",
                   "id": null,
                   "hideOnLocale": false,
-                  "characterColor": null,
-                  "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "468S7CNu00EbjagjqbipV6",
-                  "label": "",
-                  "caption": "",
-                  "url": "",
-                  "icon": null,
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
                 },
@@ -2239,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2275,9 +2516,11 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
-        "description": "Compre DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition e encontre outros excelentes produtos da Nintendo online na Nintendo Store oficial Brazil.",
+        "description": "Compre DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
         "canonicalUrl": "https://www.nintendo.com/pt-br/store/products/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch-2/"
       },
       "analytics": {
@@ -2328,8 +2571,26 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/role-playing-games",
+          "label": "RPG"
+        },
+        {
+          "url": "/store/games/tags/raise-your-stats-games",
+          "label": "Melhore suas estatísticas"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Personagens com voz"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Pixel art"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/f43df7d34be1b2a65c5cd1d14bd7c90737de956f06f2bb0a115a0cee5689481e"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/f43df7d34be1b2a65c5cd1d14bd7c90737de956f06f2bb0a115a0cee5689481e"
       },
       "linkedData": [
         {
@@ -2338,13 +2599,13 @@
             "Product"
           ],
           "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition",
-          "description": "Compre DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition e encontre outros excelentes produtos da Nintendo online na Nintendo Store oficial Brazil.",
+          "description": "Compre DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
           "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000097770/f43df7d34be1b2a65c5cd1d14bd7c90737de956f06f2bb0a115a0cee5689481e",
           "offers": {
             "@type": "Offer",
             "url": "/pt-br/store/products/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch-2/",
             "priceCurrency": "BRL",
-            "price": "199.50",
+            "price": "99.75",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2385,56 +2646,64 @@
             "@type": "ImageObject",
             "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 0",
             "description": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/f43df7d34be1b2a65c5cd1d14bd7c90737de956f06f2bb0a115a0cee5689481e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/f43df7d34be1b2a65c5cd1d14bd7c90737de956f06f2bb0a115a0cee5689481e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/f43df7d34be1b2a65c5cd1d14bd7c90737de956f06f2bb0a115a0cee5689481e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/f43df7d34be1b2a65c5cd1d14bd7c90737de956f06f2bb0a115a0cee5689481e",
             "uploadDate": "2026-09-24T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 1",
             "description": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/28275edeed747cd3ca055c3d400e77549e625638fa4362f0467885b9cb0fdff7",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/28275edeed747cd3ca055c3d400e77549e625638fa4362f0467885b9cb0fdff7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000097770/Video/77d1624bba729d7e1e2dea9b6557d9ebb95c97136a18f60a173b25372233b681",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000097770/Video/77d1624bba729d7e1e2dea9b6557d9ebb95c97136a18f60a173b25372233b681",
             "uploadDate": "2026-09-24T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 2",
             "description": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/d015e14f40ae2a782130fecb3c54dd38f9b8d7dfb68841470799c22379eb8d38",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/d015e14f40ae2a782130fecb3c54dd38f9b8d7dfb68841470799c22379eb8d38",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/cf171e4554ed0cfad184c592efffbd2fe748613b44be1d113d98acd4cd97c553",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/cf171e4554ed0cfad184c592efffbd2fe748613b44be1d113d98acd4cd97c553",
             "uploadDate": "2026-09-24T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 3",
             "description": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/44f1a8bee297f83c533012e011b964a3467630c97de7bfa0195a867228c662e0",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/44f1a8bee297f83c533012e011b964a3467630c97de7bfa0195a867228c662e0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/7e74187a1f32826a8fca968891bd91e4d69f766a14357787c9d15e56d16efa50",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/7e74187a1f32826a8fca968891bd91e4d69f766a14357787c9d15e56d16efa50",
             "uploadDate": "2026-09-24T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 4",
             "description": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/3f86d89f5e1324356b1468e0d9507babb2c916c2fdae182a1f70c9cfe34ffc47",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/3f86d89f5e1324356b1468e0d9507babb2c916c2fdae182a1f70c9cfe34ffc47",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/8b29a975d6aa16159b210e02d7bd0becbfe2adee92b851f9a0bb0ca608716328",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/8b29a975d6aa16159b210e02d7bd0becbfe2adee92b851f9a0bb0ca608716328",
             "uploadDate": "2026-09-24T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 5",
             "description": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/2c0bf83ed7464a7945dba57d8e2a547fe3c866e8952abd444b46e5f816db2455",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/2c0bf83ed7464a7945dba57d8e2a547fe3c866e8952abd444b46e5f816db2455",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/8d605b7d258a954e188c7a157ca13bbba5f5815a072d83f976e3c476f7e05bd2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/8d605b7d258a954e188c7a157ca13bbba5f5815a072d83f976e3c476f7e05bd2",
             "uploadDate": "2026-09-24T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 6",
             "description": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/4044688fe85866f22e29ec92d338132d6799003fa10b8283087dee478c1a0971",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000097770/4044688fe85866f22e29ec92d338132d6799003fa10b8283087dee478c1a0971",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/1b92f11706f97501859057a9379eda6b8e297a461e64b746d9e5e7c4ae491445",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/1b92f11706f97501859057a9379eda6b8e297a461e64b746d9e5e7c4ae491445",
+            "uploadDate": "2026-09-24T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 7",
+            "description": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/3a86284da4cd4da3ad1b1ab73eb1ec4578292acad94f42483b422b3140b39dd2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000097770/3a86284da4cd4da3ad1b1ab73eb1ec4578292acad94f42483b422b3140b39dd2",
             "uploadDate": "2026-09-24T00:00:00.000Z"
           }
         ],
@@ -2478,6 +2747,993 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "53jUD584Tx7hI4qBCCzqLI",
+          "locale": "pt_BR",
+          "label": "Violência",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentRating",
+          "id": "24uuBIBLmgMf3GWO9Ezg7W",
+          "locale": "pt_BR",
+          "code": "e10",
+          "label": "Não recomendado para menores de dez anos",
+          "requiresAgeGate": false,
+          "system": "CLASSIND",
+          "order": 10,
+          "highestRating": null
+        },
+        "Product:{\"sku\":\"7100113865\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": "2026-11-17T07:59:59Z",
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "FINAL FANTASY X/X-2 HD Remaster",
+          "nsuid": "70010000113865",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": true,
+            "regularPrice": 284.9,
+            "finalPrice": 142.45,
+            "pricePerUnit": null,
+            "percentOff": 50,
+            "amountOff": 142.45
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000113865/1d64f4ba11f085404d1b255a1686683fa65a26117bee7b0d4d60d31985d25f2c",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000113865/f5aa971b97f9465be8e2771239ae636dbfc359bd789904c4e176e1b3d7d1d66a",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-07-23T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100113865",
+          "softwarePublisher": "SQUARE ENIX",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "final-fantasy-x-x-2-hd-remaster-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000113865/Video/af2c6a5baebc8229c29f6c79d2f1e33c6233dd127e5a837c547dcbac4508c4d4",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/f01b2cba3374ca974481a41b7fbe59c9a0d4aa02a99a31e7a27cff5d30b2802d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/a40864e2a40d42b3e63015e693d8ea303ac99c8bc892e6c03c1c1b21c7c20c54",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/fe6b3d6b4095d45067322715d142be35cf6ea910fdd4787c74d308f6f7855de6",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/3175da14b170c48e6a4092c5140de3f2af1f14221e89ba0185a544358456db0f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/42a2d52b281f815c76c253501d16834dd1723cee88f8e77b2ae387a0cdb37812",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/bff60055c21193b4dc751518ac692058a9683bdd2cd9f06a932fd6cf2754ffa1",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "2ALcI9wIhmjhDwjT7cvZNe",
+          "locale": "pt_BR",
+          "label": "Linguagem Imprópria",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentRating",
+          "id": "iUuAOjCUcLd4OIchPuRmz",
+          "locale": "pt_BR",
+          "code": "livre",
+          "label": "Livre",
+          "requiresAgeGate": false,
+          "system": "CLASSIND",
+          "order": 0,
+          "highestRating": null
+        },
+        "Product:{\"sku\":\"7100124568\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Sea of Stars",
+          "nsuid": "70010000124568",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 99.99,
+            "finalPrice": 99.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000124568/c02135d2e0cc662cbad04e4df69f8142058885e0720840e979059ea75fbbc77f",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000124568/457b106f622d144000473cd09c5884cc369945796a718ca1021b72cc79e6c786",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-06-08T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100124568",
+          "softwarePublisher": "Sabotage Studio",
+          "softwareDeveloper": "Sabotage Studio",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_LOCAL",
+                "label": "GameShare com usuários locais"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_GAMECHAT",
+                "label": "GameShare por meio do GameChat"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Para curtir com uma turma"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "sea-of-stars-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000124568/Video/bb572841c5c22fcbe50949594296f76577f7ff895f0e027377a39355795e5ec1",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000124568/4d1d422c4a5abba0b207d77c4a077e0dd2c6480dc3fe22e9ade0dff1b9908d20",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000124568/837c800d95ecfc6f41b9441614535a85ce45987700ace65928e9054f759e3cc5",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000124568/fd54e9d9dabfe65ec2a235e1140f56f78d377412a95b5e2f84bfd6e56bb822e5",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000124568/00e3a32e7cf1b4c63e0bafb3b54caaebb410dee8b008f0b21022588ecb90176d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000124568/ac873a39ed231ff0807a3dd8ca6b40938e5f1c4292514eb760d43950d408557f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000124568/29e84ad9a4f56a989f708191476051ce38ce14afcb26c2cd4ccfc047f0b8c23e",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100118137\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000024990",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "KINGDOM HEARTS III + Re Mind (DLC)",
+          "nsuid": "70010000118137",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 229.9,
+            "finalPrice": 229.9,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000118137/9b7440699aa33b96d1a3ea967226d13711858f866360963463613a111d44ee47",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000118137/1e0b11e96d0a7b910bfa07c7256716f6e4bb0d030fb0adc4a6aac8da885ba747",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-10-08T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100118137",
+          "softwarePublisher": "SQUARE ENIX",
+          "softwareDeveloper": "SQUARE ENIX",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "kingdom-hearts-iii-plus-re-mind-dlc-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000118137/232490eda6303e072bac1dda9f6ebaa9d441714c03fb2c3539a85abccfe3629e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000118137/c5109e130c3411565e87bdbdf4f2a7c405fc3008ca0e939b7021aa19899b239c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000118137/6f7572e4519a7cad6e356fecc24ff19cafdd1c10f4047bcc2f611652e1f1e5d6",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000118137/b306ecebb3d0d48be81f33c0c4ff900a494fd2134386b45b826f9d44f28397d3",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100098659\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000024118",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Yooka-Replaylee",
+          "nsuid": "70010000098659",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 163.8,
+            "finalPrice": 163.8,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000098659/b90891e0bf329777953ecf850cd5f7bd70608d67c387b2d4e2056b373ac64283",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/40872d71226a466ca862b0b5d544f33d_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2025-10-09T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100098659",
+          "softwarePublisher": "PM Studios",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "RUN_AROUND",
+                "label": "Liberdade de movimento"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "yooka-replaylee-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000098659/Video/2a012b8975269f57d292fa96c2f36ebc014f06976a9aa89495af7e23dbbda170",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000098659/Video/6ffadcb8f6408a1cdad6925374801347eae16456480401da39299be476b04c75",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000098659/Video/e6d99eb19c0e442eb291d66fc5c8211f638e3210ad496635c3849d03428f2402",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000098659/c283e4010bd349f7e7978eaa35700871060357f7f821714ad326baa6ace3e018",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000098659/78345bb0dbaa29cdd673dde6bd33ea203730ae2aaa7b18c437645f21c8779fc3",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000098659/d34b107e88fbb74f8ee6fdee4ae2733bcb280111dc6431c16a8b9c96c150fa59",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000098659/7d4f053281fd002e7c754087d37170da1f5f80ef2769daf2b8929a9bccdeb1d4",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000098659/554463fc1e5a47f27a47cdf16a026832ed159e70a5444c087d339363d433aa87",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000098659/4a0fbb89513f4b6704c19d4099eafe8df573d78afa95df767c77af58c60aecb5",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "KkLQrHCCToJZKveG6gCBj",
+          "locale": "pt_BR",
+          "label": "Drogas Lícitas",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100107122\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "The Disney Afternoon Collection",
+          "nsuid": "70010000107122",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 54.95,
+            "finalPrice": 54.95,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000107122/68cfaa5b5210a969b47b539fc1d41438860d3deae85816d526968a4ec872db97",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/ec236b81a6d744e8971364380a4e7161_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-02-26T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100107122",
+          "softwarePublisher": "Atari",
+          "softwareDeveloper": "Digital Eclipse",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Jogue pelo tempo mais rápido"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Placares online"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Tiro"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Para curtir com uma turma"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "the-disney-afternoon-collection-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000107122/Video/4308cfa149544a1e193a3e77fe0849b4f47522f97924a54f763fb37dfe324225",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/fddb8f8e5b0b1fd20417362c51fc9d66ee58c444a2ca9919a4f7e17d00d61b64",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/22ef1764bb4bbc733d61c64b432938efd62f6dbe2466380bf25f1090d7b561c1",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/2c522a9cc7a57bb7326462a88eb7121deb56e780f05b7a5826d95fea2134b6e0",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/3b5f41750f505597ac3c12fbc59a741fb0e3b2ccb35370da8cd52536b09a308f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/4a37129ade0ad43da7bf0cc0d0988ba7e2f2ce5d347977e7d916791dd7f4ea22",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/4d21fa00786ca5d740a3b9d9360ef56ff4611e67538a4bda6c83136d669f213b",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100120477\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+          "nsuid": "70010000120477",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 24.99,
+            "finalPrice": 24.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000120477/b2c3696b945c3107ec722015bae588de4dcb55e91311b2aa441cfe4ea6f4cb54",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/e2ec86a3b3f3481fb0cd7a9243052267_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-04-21T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100120477",
+          "softwarePublisher": "poncle",
+          "softwareDeveloper": "poncle",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIONEERING",
+                "label": "Exploração"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TABLETOP",
+                "label": "Jogos de mesa"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "vampire-crawlers-the-turbo-wildcard-from-vampire-survivors-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000120477/6e34ed42aad139a7c811fe7c8e06cc22b4497564a409587c58037fb78dfc9725",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000120477/c670ab49a3186cb0ccec835562b5f9532398a06ed61fcea0f28fda8a0905a18c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000120477/60126313f1ae0ed31357fb884a874fd509f02b9271358af3e51dbfbcf46b1699",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000120477/92deacdac5093bd822d2fd4cae7612217fb2a0a1510d69d6dfdf8d3930636a6a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000120477/43a5c3c4826e1e8f4a80597017b1c51cd83d4a2be862472cfc9743d2d7e756a1",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000120477/f59a68570795b890ab7a08367ed82e2bd6a1d7a72c11b930fdbaac7cef47e804",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100097770\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2496,9 +3752,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 199.5,
-            "finalPrice": 199.5,
+            "finalPrice": 99.75,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2514,15 +3770,37 @@
           "url({\"relative\":true})": "/pt-br/store/products/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "04008980227dc000",
           "appStoreUrl": null,
           "availability": [
-            "Reserve",
-            "Em breve"
+            "Já disponivel"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2537,8 +3815,27 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
-          "crossSellProducts": null,
+          "containsEmbeddedBattery": false,
+          "crossSellProducts": [
+            {
+              "__ref": "Product:{\"sku\":\"7100113865\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100124568\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100118137\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100098659\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100107122\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100120477\"}"
+            }
+          ],
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>*Este jogo só é compatível com o Nintendo Switch™ 2. Observe que não é possível jogar no Nintendo Switch™.<br>*Também há uma versão para Nintendo Switch™ deste jogo. Selecione cuidadosamente a versão desejada.<br><br>Fique sabendo! Luminary é a raiz de todo o mal e só trará a miséria para o nosso reino!<br><br>O décimo primeiro título da renomada série DRAGON QUEST, que leva a saga dos heróis lendários de volta às próprias origens, chega ao Nintendo Switch™ 2!<br><br>O que significa ser um herói? Um jovem, morador de um vilarejo rural, parte em busca de respostas para essa pergunta, embarcando em uma aventura épica que o levará a descobrir os segredos ocultos no centro do mundo. DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition para Nintendo Switch™ 2 traz todo o conteúdo adicionado à Definitive Edition original para Nintendo Switch™, incluindo:<br>• Novos capítulos da história com foco nos membros da equipe.<br>• Dublagem em japonês e dublagens adicionais em inglês.<br>• A possibilidade de alternar entre os modos 3D e 2D.<br>• Trilha sonora orquestrada.<br>A nova edição para Nintendo Switch™ 2 também introduz novos modos de otimização, permitindo escolher entre priorizar gráficos ou desempenho.<br><br>Contém:<br>• Jogo-base completo.<br>• Dublagem em japonês e inglês.<br>• Conjuntos de itens especiais!<br>    ◦ Trodain Set (conjunto de equipamentos para alterar a aparência do herói)<br>    ◦ Baby Boar Set (conjunto de equipamentos para alterar a aparência da Veronica)<br>◦ Happy Adventurer Set (conjunto com cinco garrafas de Pep Pop e cinco Seeds of Skill)</p>",
@@ -2550,11 +3847,11 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": true,
+            "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097770&v_loggedin=false&v_currency=BRL&v_price=199.50&v_country=BR",
-            "discountPriceEnd": null
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097770&v_loggedin=false&v_currency=BRL&v_price=99.75&v_country=BR",
+            "discountPriceEnd": "2026-11-17T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2573,7 +3870,7 @@
           "metaDescription": null,
           "metaTitle": null,
           "miscDescriptions": null,
-          "miscNetworkDescriptions": null,
+          "miscNetworkDescriptions": "Este software é compatível com os seguintes acessórios e funcionalidades:\n- Som surround (linear PCM)",
           "miscPeripheralDescriptions": null,
           "numberOfPlayers": {
             "__typename": "NumberOfPlayers",
@@ -2593,7 +3890,7 @@
           "productCode": "BEEPAANVB",
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0d8193591f154ad6ad80472031edaeba_1024"
+            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000097770/2f38431f900de078c4e5057f8ed8604ca63ae15ff64f509c3619d355368712c0"
           },
           "publisherNotifications({\"html\":true})": "<p>*Este jogo só é compatível com o Nintendo Switch™ 2. Observe que não é possível jogar no Nintendo Switch™.<br>*Também há uma versão para Nintendo Switch™ deste jogo. Selecione cuidadosamente a versão desejada.<br>*Dados salvos são incompatíveis entre as versões de Nintendo Switch™ e Nintendo Switch™ 2.</p>",
           "relatedArticles": [],
@@ -2626,7 +3923,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "25165824000",
-                "totalRomSize": "48234496",
+                "totalRomSize": "24894242816",
                 "platform": "BEE"
               }
             ]
@@ -2641,7 +3938,15 @@
               "__typename": "ProductVariation",
               "label": "Standard Edition",
               "value": "Standard Edition",
-              "type": "Edition",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "Standard Edition",
+                  "type": "edition",
+                  "value": "Standard Edition"
+                }
+              ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7100097770\"}"
               }
@@ -2698,37 +4003,43 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097770/28275edeed747cd3ca055c3d400e77549e625638fa4362f0467885b9cb0fdff7",
+              "publicId": "/store/software/switch2/70010000097770/Video/77d1624bba729d7e1e2dea9b6557d9ebb95c97136a18f60a173b25372233b681",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000097770/cf171e4554ed0cfad184c592efffbd2fe748613b44be1d113d98acd4cd97c553",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097770/d015e14f40ae2a782130fecb3c54dd38f9b8d7dfb68841470799c22379eb8d38",
+              "publicId": "store/software/switch2/70010000097770/7e74187a1f32826a8fca968891bd91e4d69f766a14357787c9d15e56d16efa50",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097770/44f1a8bee297f83c533012e011b964a3467630c97de7bfa0195a867228c662e0",
+              "publicId": "store/software/switch2/70010000097770/8b29a975d6aa16159b210e02d7bd0becbfe2adee92b851f9a0bb0ca608716328",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097770/3f86d89f5e1324356b1468e0d9507babb2c916c2fdae182a1f70c9cfe34ffc47",
+              "publicId": "store/software/switch2/70010000097770/8d605b7d258a954e188c7a157ca13bbba5f5815a072d83f976e3c476f7e05bd2",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097770/2c0bf83ed7464a7945dba57d8e2a547fe3c866e8952abd444b46e5f816db2455",
+              "publicId": "store/software/switch2/70010000097770/1b92f11706f97501859057a9379eda6b8e297a461e64b746d9e5e7c4ae491445",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097770/4044688fe85866f22e29ec92d338132d6799003fa10b8283087dee478c1a0971",
+              "publicId": "store/software/switch2/70010000097770/3a86284da4cd4da3ad1b1ab73eb1ec4578292acad94f42483b422b3140b39dd2",
               "resourceType": "image",
               "type": "upload"
             }
@@ -2753,31 +4064,6 @@
             "label": "Jogos"
           }
         },
-        "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "53jUD584Tx7hI4qBCCzqLI",
-          "locale": "pt_BR",
-          "label": "Violência",
-          "type": "CONTENT_DESCRIPTOR"
-        },
-        "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "KkLQrHCCToJZKveG6gCBj",
-          "locale": "pt_BR",
-          "label": "Drogas Lícitas",
-          "type": "CONTENT_DESCRIPTOR"
-        },
-        "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}": {
-          "__typename": "ContentRating",
-          "id": "24uuBIBLmgMf3GWO9Ezg7W",
-          "locale": "pt_BR",
-          "code": "e10",
-          "label": "Não recomendado para menores de dez anos",
-          "requiresAgeGate": false,
-          "system": "CLASSIND",
-          "order": 10,
-          "highestRating": null
-        },
         "ROOT_QUERY": {
           "__typename": "Query",
           "product({\"input\":{\"urlKey\":\"dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch-2\"}})": {
@@ -2792,13 +4078,10 @@
   "query": {
     "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch-2"
   },
-  "buildId": "9bZKVP2yFDz6N_rVzgl3k",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
-  "dynamicIds": [
-    48336
-  ],
   "gssp": true,
   "appGip": true,
   "locale": "pt-br",

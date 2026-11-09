@@ -9,39 +9,42 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
+                "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
-                "label": "Nintendo Music",
+                "label": "Ventas y ofertas",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/switch/online/nintendo-switch-online/nintendo-music/"
+                "icon": "",
+                "url": "/store/sales-and-deals/"
               },
               {
                 "__contentType": "moduleCta",
-                "__entryId": "3jJoQnZaaZrREFPSfTOrGs",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
                 "campaignId": "",
-                "label": "Pregunta al desarrollador: Tomodachi Life: Living the Dream",
+                "label": "Juegos con Resident Evil",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/whatsnew/pregunta-al-desarrollador-volumen-21-tomodachi-life-living-the-dream-parte-1/"
+                "icon": "",
+                "url": "https://www.nintendo.com/es-ar/search/#q=Resident+Evil&p=1&cat=gme&sort=df"
               },
               {
                 "__contentType": "moduleCta",
-                "__entryId": "YkgQEzrFk0KRUBFub6xML",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
                 "campaignId": "",
-                "label": "Super Mario Galaxy La Película",
+                "label": "Novedades",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/movies/super-mario-galaxy/"
+                "icon": "",
+                "url": "/whatsnew/"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,51 +56,179 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/games/mario-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Tarjeta de regalo digital para Nintendo eShop",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://store.nintendo.mx/games?_gl=1*9ejk6h*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NTYxJGo2MCRsMCRoMjAxMjcxMDMwNQ..*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3"
               },
               {
                 "__contentType": "moduleCta",
                 "__entryId": "4qmzaoEKuKdtkuoCJmv0d",
                 "campaignId": "",
-                "label": "Nintendo GameCube™ – Nintendo Classics",
+                "label": "Nintendo Switch Online",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/store/products/nintendo-gamecube-nintendo-classics-switch-2/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "4NMwlAucFhNczxL6eZal6T",
-                "campaignId": "",
-                "label": "Ventas y ofertas",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/sales-and-deals/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Juegos de Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
+                "icon": "",
+                "url": "/online/"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Juegos con Pokémon",
+              "caption": "",
+              "url": "/store/games/pokemon-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Juegos en oferta",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Juegos de Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
+            "7700037146",
+            "7700038706",
             "7100122824",
-            "7100116663",
-            "7100101665",
-            "7100101091"
+            "7700036603"
           ]
         },
         "navContent": {
@@ -398,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -460,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -491,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1062,8 +1224,8 @@
                   "url": "/store/",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "5Y4oHJT5KL8h67NTw91d9v",
-                    "id": "MyNintendoIcon"
+                    "__entryId": "7AmSJhZA3YaPjRPQnLFW8G",
+                    "id": "NintendoStoreBagIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1096,11 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1145,11 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
-                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      "
+                    "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1280,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1456,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1572,9 +1784,9 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "7FRKUQGXufpEgbOdwpqIxE",
-                  "label": "Responsabilidad social corporativa",
+                  "label": "Sostenibilidad",
                   "caption": "",
-                  "url": "https://www.nintendo.co.jp/csr/en-us/index.html",
+                  "url": "https://www.nintendo.co.jp/sustainability/en-us/index.html",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1604,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1878,22 +2106,6 @@
                 },
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "wW0gr3RFIYqOxHHp0ZHWN",
-                  "label": "Otras consolas",
-                  "caption": "",
-                  "url": "https://support.nintendo.com/other-systems/",
-                  "icon": null,
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": false,
-                  "characterColor": null,
-                  "background": null
-                },
-                {
-                  "__contentType": "menuItem",
                   "__entryId": "7ahkoAO5bR3KA4pRHG1Rob",
                   "label": "",
                   "caption": "",
@@ -1905,6 +2117,22 @@
                   "activeMatch": "",
                   "id": null,
                   "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "468S7CNu00EbjagjqbipV6",
+                  "label": "Reembolsos y devoluciones",
+                  "caption": "",
+                  "url": "/refund-return-policy/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
                   "characterColor": null,
                   "background": null
                 },
@@ -1974,17 +2202,17 @@
                 },
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "468S7CNu00EbjagjqbipV6",
-                  "label": "Reembolsos y devoluciones",
+                  "__entryId": "7qrJG0KF5BuILcCV84lQ0X",
+                  "label": "",
                   "caption": "",
-                  "url": "/refund-return-policy/",
+                  "url": "",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
-                  "hideOnLocale": false,
+                  "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
                 }
@@ -2251,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2287,9 +2516,11 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "EA SPORTS™ Madden NFL 27 para Nintendo Switch 2 - Sitio Oficial de Nintendo para Argentina",
-        "description": "Compra EA SPORTS™ Madden NFL 27 y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial My Nintendo Argentina.",
+        "description": "Compra EA SPORTS™ Madden NFL 27 para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
         "canonicalUrl": "https://www.nintendo.com/es-ar/store/products/ea-sports-madden-nfl-27-switch-2/"
       },
       "analytics": {
@@ -2340,8 +2571,50 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/sports-games",
+          "label": "Deportes"
+        },
+        {
+          "url": "/store/games/tags/simulation-games",
+          "label": "Simulación"
+        },
+        {
+          "url": "/store/games/tags/online-scoreboard-games",
+          "label": "Clasificación en línea"
+        },
+        {
+          "url": "/store/games/tags/quick-decision-games",
+          "label": "Decisiones relámpago"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Elige el nivel de dificultad"
+        },
+        {
+          "url": "/store/games/tags/character-customization-games",
+          "label": "Personajes personalizables"
+        },
+        {
+          "url": "/store/games/tags/competitive-games",
+          "label": "Compite en línea"
+        },
+        {
+          "url": "/store/games/tags/online-multiplayer-games",
+          "label": "Juega en línea con amigos"
+        },
+        {
+          "url": "/store/games/tags/games-to-play-together-on-one-console",
+          "label": "Juntos en una consola"
+        },
+        {
+          "url": "/store/games/tags/multiplayer-games",
+          "label": "Partidas en grupo"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/63d244da2a31a5772ea66fb144e0a8c8177d0c1b30c480e3e06144af0a082b7e"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/69755d684a02ac32c5557c92050aecaeaa895f4b1cd5d22f5c944d59150c1478"
       },
       "linkedData": [
         {
@@ -2350,13 +2623,13 @@
             "Product"
           ],
           "name": "EA SPORTS™ Madden NFL 27",
-          "description": "Compra EA SPORTS™ Madden NFL 27 y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial My Nintendo Argentina.",
-          "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000105634/63d244da2a31a5772ea66fb144e0a8c8177d0c1b30c480e3e06144af0a082b7e",
+          "description": "Compra EA SPORTS™ Madden NFL 27 para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
+          "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000105634/69755d684a02ac32c5557c92050aecaeaa895f4b1cd5d22f5c944d59150c1478",
           "offers": {
             "@type": "Offer",
             "url": "/es-ar/store/products/ea-sports-madden-nfl-27-switch-2/",
-            "priceCurrency": null,
-            "price": null,
+            "priceCurrency": "ARS",
+            "price": "116999.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2385,8 +2658,8 @@
             "maxValue": 4,
             "unitText": "players"
           },
-          "contentRating": "Aún sin calificar",
-          "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000105634/63d244da2a31a5772ea66fb144e0a8c8177d0c1b30c480e3e06144af0a082b7e",
+          "contentRating": "Todos",
+          "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000105634/69755d684a02ac32c5557c92050aecaeaa895f4b1cd5d22f5c944d59150c1478",
           "publisher": {
             "@type": "Organization",
             "name": "Electronic Arts"
@@ -2397,49 +2670,81 @@
             "@type": "ImageObject",
             "name": "EA SPORTS™ Madden NFL 27 gallery item 0",
             "description": "EA SPORTS™ Madden NFL 27 gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/63d244da2a31a5772ea66fb144e0a8c8177d0c1b30c480e3e06144af0a082b7e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/63d244da2a31a5772ea66fb144e0a8c8177d0c1b30c480e3e06144af0a082b7e",
-            "uploadDate": "2026-08-31T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/69755d684a02ac32c5557c92050aecaeaa895f4b1cd5d22f5c944d59150c1478",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/69755d684a02ac32c5557c92050aecaeaa895f4b1cd5d22f5c944d59150c1478",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "EA SPORTS™ Madden NFL 27 gallery item 1",
             "description": "EA SPORTS™ Madden NFL 27 gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/22aa4c3d64ec4279892a1d25efb39d9ad7f07db8e0b074bee577fdd40029ee77",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/22aa4c3d64ec4279892a1d25efb39d9ad7f07db8e0b074bee577fdd40029ee77",
-            "uploadDate": "2026-08-31T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000105634/Video/045275518e83f67a1db3147b0f09b57694dc35e367e8129199af739592629a84",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000105634/Video/045275518e83f67a1db3147b0f09b57694dc35e367e8129199af739592629a84",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "EA SPORTS™ Madden NFL 27 gallery item 2",
             "description": "EA SPORTS™ Madden NFL 27 gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/1f75d14f1a5cd406ff015575b3aa425b30b62a89db23a32476cc1a13d27cacf3",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/1f75d14f1a5cd406ff015575b3aa425b30b62a89db23a32476cc1a13d27cacf3",
-            "uploadDate": "2026-08-31T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000105634/Video/cec6e5e75227370f833cbcc8f8516ca351628f5624bbfc23eba0853b68eae45f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000105634/Video/cec6e5e75227370f833cbcc8f8516ca351628f5624bbfc23eba0853b68eae45f",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "EA SPORTS™ Madden NFL 27 gallery item 3",
             "description": "EA SPORTS™ Madden NFL 27 gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/a59f841e634aab2ccb3d345533fc8c97e7d03d6eaecbadeb4ad85bd9a4eb1171",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/a59f841e634aab2ccb3d345533fc8c97e7d03d6eaecbadeb4ad85bd9a4eb1171",
-            "uploadDate": "2026-08-31T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000105634/Video/9102e5feec4047da65340e80444245ec409c02e51ef15cbfa619f8a38a8a9514",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000105634/Video/9102e5feec4047da65340e80444245ec409c02e51ef15cbfa619f8a38a8a9514",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "EA SPORTS™ Madden NFL 27 gallery item 4",
             "description": "EA SPORTS™ Madden NFL 27 gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/7cec9541755556cec11c187a2310bbac0cb5e85a6527dacdff4ebc30d53eb3ff",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/7cec9541755556cec11c187a2310bbac0cb5e85a6527dacdff4ebc30d53eb3ff",
-            "uploadDate": "2026-08-31T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000105634/Video/c072ab78e55f9daad8e70b1469698a96901614980a9dbebdb94d76e11f387b32",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000105634/Video/c072ab78e55f9daad8e70b1469698a96901614980a9dbebdb94d76e11f387b32",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "EA SPORTS™ Madden NFL 27 gallery item 5",
             "description": "EA SPORTS™ Madden NFL 27 gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/33b607f00c120e9837239d73a8e5572fe256cc4f6cb1fde434f73583dcd90e95",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000105634/33b607f00c120e9837239d73a8e5572fe256cc4f6cb1fde434f73583dcd90e95",
-            "uploadDate": "2026-08-31T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/f9c2436ea01c79a98d98535dd42ef5998c94caccf89b2232fde164e92987a56b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/f9c2436ea01c79a98d98535dd42ef5998c94caccf89b2232fde164e92987a56b",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "EA SPORTS™ Madden NFL 27 gallery item 6",
+            "description": "EA SPORTS™ Madden NFL 27 gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/ef691f71d009e3ddf30bca29ae0959c65541ec5df7382a0ad68ee867f992582c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/ef691f71d009e3ddf30bca29ae0959c65541ec5df7382a0ad68ee867f992582c",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "EA SPORTS™ Madden NFL 27 gallery item 7",
+            "description": "EA SPORTS™ Madden NFL 27 gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/d9a118520a01a90800f54e2ed9cd388aa45262906604fc374a31e15811be0d10",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/d9a118520a01a90800f54e2ed9cd388aa45262906604fc374a31e15811be0d10",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "EA SPORTS™ Madden NFL 27 gallery item 8",
+            "description": "EA SPORTS™ Madden NFL 27 gallery item 8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/06cd2ec96700127ab70d140be4938876c65f3bc5d79d35ef0988e9cc093c89d8",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/06cd2ec96700127ab70d140be4938876c65f3bc5d79d35ef0988e9cc093c89d8",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "EA SPORTS™ Madden NFL 27 gallery item 9",
+            "description": "EA SPORTS™ Madden NFL 27 gallery item 9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/407077253273bd527750d3e1d55197fd65564fd36ba37e3f75e61f95c4426571",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000105634/407077253273bd527750d3e1d55197fd65564fd36ba37e3f75e61f95c4426571",
+            "uploadDate": "2026-08-13T00:00:00.000Z"
           }
         ],
         {
@@ -2482,6 +2787,1661 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentRating",
+          "id": "3PUsVpTIBTxVxmzL362ZkB",
+          "locale": "es_AR",
+          "code": "e",
+          "label": "Todos",
+          "requiresAgeGate": false,
+          "system": "ESRB",
+          "order": 6,
+          "highestRating": null
+        },
+        "Product:{\"sku\":\"7100096904\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Fast Fusion",
+          "nsuid": "70010000096904",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 20000,
+            "finalPrice": 20000,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000096904/f10f7517f94ce8630b76b1654eb5a79d316e18d4e9bc279a74e6964fe3f8ce86",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/38370d05be944f61aa179bcb77f66ecb_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2025-06-05T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100096904",
+          "softwarePublisher": "Shin’en Multimedia",
+          "softwareDeveloper": "Shin'en",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Rompe récords de tiempo"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "RACING",
+                "label": "Carreras"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_LOCAL",
+                "label": "GameShare con usuarios cercanos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_GAMECHAT",
+                "label": "GameShare por GameChat"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "fast-fusion-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000096904/Video/3f9a1bc867b4d39136cedd5121f3d35ec6be4991b442b34e600130fa6c276d87",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096904/981ef6674d5ab70c8cb252923c01b1ae9505d8271b216c8d24ab9d6257df1b4e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096904/89ea59768e0bd48af3c8cd5a6860b387fee834cb6cc84eef8a0941654dc1fd65",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096904/bdd2d665074abf624b6173f60d3076c9675ba11167ae0e43230ebd7624d1f924",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096904/943982343464a432fb9222a4369d3177f6cb0e20799691c5c1ccba8569980825",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096904/8486af261ea9feb81cf1b229d6f12a9628392ad6a2f90df801875dc48c9ccad9",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096904/a47b5272e767e7d3771869e2b69a1c647bcb5ed10e87de09d52cb2822b0010f7",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "PuUlZqXPrK4WzWD2LWYLV",
+          "locale": "es_AR",
+          "label": "Interacción de usuarios",
+          "type": "INTERACTIVE_ELEMENT"
+        },
+        "ContentDescriptor:{\"id\":\"4iPYmFuuycedeb6UrbsN5v\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "4iPYmFuuycedeb6UrbsN5v",
+          "locale": "es_AR",
+          "label": "Compras dentro del juego (Incluye artículos aleatorios)",
+          "type": "INTERACTIVE_ELEMENT"
+        },
+        "Product:{\"sku\":\"7100116953\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"4iPYmFuuycedeb6UrbsN5v\",\"locale\":\"es_AR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "NBA 2K27",
+          "nsuid": "70010000116953",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 99999,
+            "finalPrice": 99999,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000116953/32da48f93d677d3c2c8b7198447ae3da7b9b12a7fe372291a39d2af63d5b27c4",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000116953/7e8f05843f86a543d64ff1ea3a5963073e882ec2f988494cbc7fecdd51678b18",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-09-04T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100116953",
+          "softwarePublisher": "2K",
+          "softwareDeveloper": "Visual Concepts",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Mejora tus atributos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_CUSTOMIZE",
+                "label": "Personajes personalizables"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Rompe récords"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SPORTS",
+                "label": "Deportes"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_LOCAL",
+                "label": "GameShare con usuarios cercanos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_GAMECHAT",
+                "label": "GameShare por GameChat"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "nba-2k27-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000116953/0e7e64aadb89b19e15605083c549b7b3167c3b6793b04fd12b4c5c813fffe5c8",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000116953/837af188df0f930c240c9faae324e2d1f5b7ce8aa31e7ad06711c5b7daddbc88",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000116953/da2b428151353aebc850627376061abdc5d89f90ec7953fe111566a1106962b7",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000116953/dab6e376a41ca34b2ac625ebca6b479089c09bf5a5f1b19d768db845cd6b6908",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000116953/8509d9450bf9a21f9d6ac6b7f4392b984f66ff9dc8225768e8c9411c06146e17",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000116953/f9ef604f3767706a1a2196d80387dca95c2792f6d01437af4ac031836b58b939",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "48NMszDk1XdHSyTR5xenri",
+          "locale": "es_AR",
+          "label": "Violencia moderada de fantasía",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100015696\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_AR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "OBAKEIDORO!",
+          "nsuid": "70010000015696",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 2249.9,
+            "finalPrice": 2249.9,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000015696/4bbe1dbb168f060cf4d75de5ade0e291ad18db6a80b2b2e6b30f5495fb352304",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/f922ee3872884205a6f70bf41e602b8f_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-10-26T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100015696",
+          "softwarePublisher": "FREE STYLE",
+          "softwareDeveloper": "FREESTYLE",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PARTY",
+                "label": "Fiesta"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperativo en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "LOCAL_CONNECTION",
+                "label": "Juntos en varias consolas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "obakeidoro-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000015696/67169588f7a66db0ea0c383a0ce6181e83a11bf0756943648fc58fff9d999e9a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000015696/52a4aa8d90502198bf3dad8d627d355c39f3fcf5a5c9ed1e6eb4626e6fadfc20",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000015696/1c1d808d9ea0957d3d463b87959a37f8a40a0e40188867c0fe2a8b39d716cd57",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000015696/e81a643687dde9a16f43add2d9195d326675c986d47faaddeb8a29d13a6066ed",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000015696/904e9054e0f84b8d24bdf736ae7e4131561fb77acd8c1c28c7d2e3e973d397da",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000015696/fd89bc16be4a4689c5bdbbf65bceb44c88b4f6d4bc189cc44deb721090c84e52",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100099939\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"4iPYmFuuycedeb6UrbsN5v\",\"locale\":\"es_AR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "MLB® The Show™ 26",
+          "nsuid": "70010000099939",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 79999,
+            "finalPrice": 79999,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000099939/d1bbb7627d2523416237f1b70490b2ccdfdbcf54d8522ef088bf4d2f519b927e",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/6c2e823a571b41a1af07fa2f5e718915_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-03-17T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100099939",
+          "softwarePublisher": "MLBAM",
+          "softwareDeveloper": "San Diego Studio",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_CUSTOMIZE",
+                "label": "Personajes personalizables"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Rompe récords"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SPORTS",
+                "label": "Deportes"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CROSS_PLATFORM",
+                "label": "Multiplataforma"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mlb-the-show-26-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000099939/Video/b434b6615b6e58dc2fca43fe2b0765f385c6c983bdb046f3138961922fc5a3c6",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099939/73a5590eb627c1c9e808008c471c88e3221b27c8b8dfc49d020f1603090d3110",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099939/e2a54fd9e0fe973deb50bf76d7aa3f8e5f8c08bed38a8c3801001eac0e81a6bf",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099939/64d2b4b07a350ba02c3af360a887f3a67f105a80bd605c679043e8e73c6d9be2",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099939/7ba73ef7671548d85b3ad26023a0fce574789a7ca6a2ba791ea20b051433270e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099939/35ff94786f842b1ebd7bd8070aa212b1b6b9cc1095f2d68826e3abd6a0f1aa15",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099939/928aef715a220784d6dafa6227e9262c1d0b6d8f5fc7ae5f27034ca99346ec42",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"1MTwv04E4iJ3g65LhktQK9\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "1MTwv04E4iJ3g65LhktQK9",
+          "locale": "es_AR",
+          "label": "Letras moderadas",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100096859\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"1MTwv04E4iJ3g65LhktQK9\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"4iPYmFuuycedeb6UrbsN5v\",\"locale\":\"es_AR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "EA SPORTS™ Madden NFL 26",
+          "nsuid": "70010000096859",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 69999,
+            "finalPrice": 69999,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000096859/85eeab6149adedf9b090b40b984768d6c1ae8b5048b764276f5d02b05d83ace9",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/e509fdb3b3b6490783c43964c2d474d1_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2025-08-14T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100096859",
+          "softwarePublisher": "Electronic Arts",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SNAP_DECISION",
+                "label": "Decisiones relámpago"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Mejora tus atributos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_CUSTOMIZE",
+                "label": "Personajes personalizables"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SPORTS",
+                "label": "Deportes"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperativo en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "ea-sports-madden-nfl-26-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000096859/Video/21767f9442f3fa9c5574a852a59f4122595bd4921d7d9284aba7adec589ba45e",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096859/7d533688a0aa30181f712afabeb8a3e5fc2e6d9f80127ef6ca7586874d312dbd",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096859/b9d90ae86b2ca517f2995527932e4cac614957260c3ebb777a2a8858cb64a8a2",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096859/fe251f06ec48d0161233bd406b2c21e5ae3b27dbc1aea966900bba3784611b37",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096859/3aca01cdafc549aabd8e2778d0494950a64e213f4f13ece3d19b57a9e6aa5b7f",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"1rY0FixUY9JBYh0QojE6LH\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "1rY0FixUY9JBYh0QojE6LH",
+          "locale": "es_AR",
+          "label": "Referencia al alcohol",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentDescriptor:{\"id\":\"1fOO8u72qzax9Ei8Hhkj3b\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "1fOO8u72qzax9Ei8Hhkj3b",
+          "locale": "es_AR",
+          "label": "Lenguaje moderado",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "390PoEPj7B3hb5HzJNJpg3",
+          "locale": "es_AR",
+          "label": "Compras dentro del juego",
+          "type": "INTERACTIVE_ELEMENT"
+        },
+        "Product:{\"sku\":\"7100105577\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"1rY0FixUY9JBYh0QojE6LH\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"1fOO8u72qzax9Ei8Hhkj3b\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_AR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "PGA TOUR 2K25",
+          "nsuid": "70010000105577",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 35999,
+            "finalPrice": 35999,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000105577/ebc4ade9276ada8328e0098344af8da84aefb4cb88478a5973921b716beb5375",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/94cd9a2c706a48ba898a5540cc6527fa_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-02-06T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100105577",
+          "softwarePublisher": "2K",
+          "softwareDeveloper": "HB Studios",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CRAFT_PLAY",
+                "label": "Crea y juega"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SPORTS",
+                "label": "Deportes"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "LOCAL_CONNECTION",
+                "label": "Juntos en varias consolas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CROSS_PLATFORM",
+                "label": "Multiplataforma"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "pga-tour-2k25-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105577/7f1b2737846e5f1066c1060844987ed8175240b00bb55f8b80f318191dda9ed6",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105577/f3c06c6f049b6a060a043f4a0488df5492077e62d23e2f824a27948e96114576",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105577/4ccaafdf2d70cd930c802e6f56cecd2d2df2f549e9e13828f6f05ded7cb028e0",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105577/4dad8d7d6032331b4b378a91077631fa9151c70d561b25818066957502e0408b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105577/3b7e2baa6303100788cb0b777d6928ffa4be81d1ed0c4b9d55e2e1998dbf1a72",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105577/77dec5ece3cfcbb10a61fd98fc4183d9dd58145c26d3a6d58af5ab9e64556ab1",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100113743\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "eFootball™ Kick-Off!",
+          "nsuid": "70010000113743",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 26799,
+            "finalPrice": 26799,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000113743/7b52ae530ba88ab2e7ba96caaddddea52664546c3b9e0d3a1e4b7c42a1052d82",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000113743/b889fcdaac5613a3ea21ac1f97edb138b370cdf689849ff483c49dd15c516fcf",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-06-03T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100113743",
+          "softwarePublisher": "KONAMI",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SPORTS",
+                "label": "Deportes"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_LOCAL",
+                "label": "GameShare con usuarios cercanos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "LOCAL_CONNECTION",
+                "label": "Juntos en varias consolas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "efootball-kick-off-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000113743/Video/1627a7100b7d9bd536c8910fc939f55c6c8873acccc158d38b35dbe83137d4cb",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113743/f4567ae1dbe6fa07d1333dc456519b430555c636998ba6067eef72ef8a99ae8a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113743/0dbe41a04fec6cb9ee9e8e4e3f36d7ac1caa29d3befe6cebe08ea6a13ad58116",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113743/f698369659b24d5d462df10e88d92bac3d446de6d8956ea7917ddfe289ca4e11",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113743/901526535e822ecc6137d73afad9628d49daa648b8403319d84dc4d175cb08cc",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113743/770918f06a76c9b2912483074d0445a8d22360216bb1d9f0a2a2d99ff2bf50e2",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113743/7caa00864f63b22bcbb082b83ded6f1b14a7b31f5910da722fdbbd04eef8e960",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100096813\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Nintendo Switch™ 2 Welcome Tour",
+          "nsuid": "70010000096813",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 14999,
+            "finalPrice": 14999,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000096813/8a2fc51b02035bf067a473a66938322f1f1570bf21034f0ad2134ce93b0d1cac",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/31b08a1498364c47814a6d9efe81a60f_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2025-06-05T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100096813",
+          "softwarePublisher": "Nintendo",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "VARIOUS_GAMES",
+                "label": "Minijuegos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Rompe récords"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Rompe récords de tiempo"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              },
+              {
+                "__typename": "Tag",
+                "code": "EDUCATION",
+                "label": "Educativo"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "nintendo-switch-2-welcome-tour-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000096813/Video/e3a2be58da47d0bdbdf021ceace719d36436b7cf4493c8d19f9b4ce2034239e6",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096813/a92ea2687f36beeb0b1fe8265e16041c63ed5d59abaa9690de6a1fa04aeaa1c3",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096813/f5c3aa737c4eda836d7af26b06968af177c246000a52f787d18a5a9f52259a7c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096813/f1cfed90050a442c6a0025b9f19e64c279f8dba6d2f4a91530dc6097e8ce39b6",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096813/9f6f8dfdc663b241013211ad7b6006ae5f6b64dfa0f89fb6772e6eaad3de9902",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096813/432803de6d8243c9ccaf2e067fbb93c3d6ac39e2b06bb8fa5d44c18fea23dcb9",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000096813/1a7f663ee8c961cc4766714129e5b56c3701dba8b81abc36fd4ad60557b71bc9",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"whVhiOlf5dKb2zseJDgGr\",\"locale\":\"es_AR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "whVhiOlf5dKb2zseJDgGr",
+          "locale": "es_AR",
+          "label": "Uso de tabaco",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100107122\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"whVhiOlf5dKb2zseJDgGr\",\"locale\":\"es_AR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "The Disney Afternoon Collection",
+          "nsuid": "70010000107122",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 22030,
+            "finalPrice": 22030,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000107122/68cfaa5b5210a969b47b539fc1d41438860d3deae85816d526968a4ec872db97",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/2359d05c92de44b8a67d3bce5d9f516a_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-02-26T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100107122",
+          "softwarePublisher": "Atari",
+          "softwareDeveloper": "Digital Eclipse",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Rompe récords de tiempo"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Disparos"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "the-disney-afternoon-collection-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000107122/Video/4308cfa149544a1e193a3e77fe0849b4f47522f97924a54f763fb37dfe324225",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/fddb8f8e5b0b1fd20417362c51fc9d66ee58c444a2ca9919a4f7e17d00d61b64",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/22ef1764bb4bbc733d61c64b432938efd62f6dbe2466380bf25f1090d7b561c1",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/2c522a9cc7a57bb7326462a88eb7121deb56e780f05b7a5826d95fea2134b6e0",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/3b5f41750f505597ac3c12fbc59a741fb0e3b2ccb35370da8cd52536b09a308f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/4a37129ade0ad43da7bf0cc0d0988ba7e2f2ce5d347977e7d916791dd7f4ea22",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000107122/4d21fa00786ca5d740a3b9d9360ef56ff4611e67538a4bda6c83136d669f213b",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100105634\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2497,13 +4457,20 @@
             "label": "Nintendo Switch 2",
             "code": "NINTENDO_SWITCH_2"
           },
-          "prices({\"personalized\":false})": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 116999,
+            "finalPrice": 116999,
+            "pricePerUnit": null
+          },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000105634/63d244da2a31a5772ea66fb144e0a8c8177d0c1b30c480e3e06144af0a082b7e",
+            "publicId": "store/software/switch2/70010000105634/69755d684a02ac32c5557c92050aecaeaa895f4b1cd5d22f5c944d59150c1478",
             "resourceType": "image",
             "type": "upload",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000105634/63d244da2a31a5772ea66fb144e0a8c8177d0c1b30c480e3e06144af0a082b7e"
+            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000105634/69755d684a02ac32c5557c92050aecaeaa895f4b1cd5d22f5c944d59150c1478"
           },
           "size": null,
           "soldOutPermanent": null,
@@ -2511,14 +4478,68 @@
           "url({\"relative\":true})": "/es-ar/store/products/ea-sports-madden-nfl-27-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SNAP_DECISION",
+                "label": "Decisiones relámpago"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_CUSTOMIZE",
+                "label": "Personajes personalizables"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SPORTS",
+                "label": "Deportes"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "040074f0253b8000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2533,12 +4554,40 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
-          "crossSellProducts": null,
+          "containsEmbeddedBattery": false,
+          "crossSellProducts": [
+            {
+              "__ref": "Product:{\"sku\":\"7100096904\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100116953\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100015696\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100099939\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100096859\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100105577\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100113743\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100096813\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100107122\"}"
+            }
+          ],
           "countryOfOrigin": null,
           "demoNsuid": null,
-          "description({\"html\":true})": "<p>Agrega EA SPORTS™ Madden NFL 27 a tu lista de deseos hoy para recibir una notificación cuando esté disponible para reservar. Llega este agosto.<br></p>",
-          "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) y una cuenta Nintendo para el juego en línea. Este juego no es compatible con el guardado de datos en la nube. No está disponible en todos los países. Se requiere una conexión a internet para acceder a los servicios en línea. Aplican términos.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>© 2026 Electronic Arts Inc. Electronic Arts, EA SPORTS and Ultimate Team are trademarks of Electronic Arts Inc. The mark “John Madden” and the name, likeness and other attributes of John Madden reproduced on this product are trademarks or other intellectual property of Red Bear, Inc. or John Madden, are subject to license to Electronic Arts Inc., and may not be otherwise used in whole or in part without the prior written consent of Red Bear or John Madden. All rights reserved. Officially Licensed Product of NFL PLAYERS INC. and NFLPA.COM. Officially Licensed Product of the National Football League.</p>",
+          "description({\"html\":true})": "<p>EA SPORTS™ Madden NFL 27, impulsado por el totalmente nuevo motor Persona, transforma Franchise en una liga reactiva y en constante evolución donde cada atleta de la NFL tiene una personalidad distintiva y realista que influye en sus motivaciones, exigencias y reacciones. La jugabilidad se vuelve física con un control más preciso en auténticas batallas WR/DB, nuevas mecánicas de yardaje corto, mejoras en la cobertura defensiva y nuevas configuraciones y controles estratégicos previos a la jugada. Crea tu legado en la NFL en un camino de progresión más profundo en la nueva Superstar G.O.A.T. Career Journey y controla tu plantilla con más personalización con los Ultimate Team Captains.<br></p>",
+          "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) y una cuenta Nintendo para el juego en línea. No está disponible en todos los países. Se requiere una conexión a internet para acceder a los servicios en línea. Aplican términos.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>Este juego incluye compras opcionales de moneda virtual dentro del juego que se puede usar para adquirir items virtuales dentro del juego, que incluyen una selección al azar de items virtuales dentro del juego.<br><br>Aplican condiciones y restricciones. Consulta ea.com/es-mx/legal para obtener más detalles.<br><br>© 2026 Electronic Arts Inc. Electronic Arts, EA SPORTS and Ultimate Team are trademarks of Electronic Arts Inc. The mark “John Madden” and the name, likeness and other attributes of John Madden reproduced on this product are trademarks or other intellectual property of Red Bear, Inc. or John Madden, are subject to license to Electronic Arts Inc., and may not be otherwise used in whole or in part without the prior written consent of Red Bear or John Madden. All rights reserved. Officially Licensed Product of NFL PLAYERS INC. and NFLPA.COM. Officially Licensed Product of the National Football League.</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
           "dlcType": null,
@@ -2547,9 +4596,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000105634&v_loggedin=false&v_currency=ARS&v_price=116999.00&v_country=AR",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2569,7 +4618,7 @@
           "metaDescription": null,
           "metaTitle": null,
           "miscDescriptions": null,
-          "miscNetworkDescriptions": null,
+          "miscNetworkDescriptions": "Este programa es compatible con los siguientes accesorios y funciones:\n- Pantalla táctil\n- Sonido envolvente (lineal PCM)\n\nEstas funciones están disponibles en televisores compatibles:\n- Salida de HDR",
           "miscPeripheralDescriptions": null,
           "numberOfPlayers": {
             "__typename": "NumberOfPlayers",
@@ -2587,12 +4636,15 @@
               "label": "4+"
             }
           },
-          "description": "Agrega EA SPORTS™ Madden NFL 27 a tu lista de deseos hoy para recibir una notificación cuando esté disponible para reservar. Llega este agosto.\n",
+          "description": "EA SPORTS™ Madden NFL 27, impulsado por el totalmente nuevo motor Persona, transforma Franchise en una liga reactiva y en constante evolución donde cada atleta de la NFL tiene una personalidad distintiva y realista que influye en sus motivaciones, exigencias y reacciones. La jugabilidad se vuelve física con un control más preciso en auténticas batallas WR/DB, nuevas mecánicas de yardaje corto, mejoras en la cobertura defensiva y nuevas configuraciones y controles estratégicos previos a la jugada. Crea tu legado en la NFL en un camino de progresión más profundo en la nueva Superstar G.O.A.T. Career Journey y controla tu plantilla con más personalización con los Ultimate Team Captains.\n",
           "playerCountDescription": null,
           "platinumPoints": null,
           "prePurchase": null,
           "productCode": "BEEPABCQA",
-          "productImage({\"shape\":\"square\"})": null,
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000105634/857ba5de783351b8143d2b2e3af14bb30cd748ef6d71f122c4de3519bfb4ee3b"
+          },
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
@@ -2607,7 +4659,13 @@
           "shipDateDisplay": null,
           "softwareDetails": {
             "__typename": "SoftwareDetails",
-            "rights": [],
+            "rights": [
+              {
+                "__typename": "Rights",
+                "isLendable": true,
+                "titleId": "040074f0253b8000"
+              }
+            ],
             "romSizes": [
               {
                 "__typename": "RomSize",
@@ -2618,7 +4676,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "53634662400",
-                "totalRomSize": null,
+                "totalRomSize": "61655220224",
                 "platform": "BEE"
               }
             ]
@@ -2633,26 +4691,54 @@
               "__typename": "ProductVariation",
               "label": "Standard Edition",
               "value": "Standard Edition",
-              "type": "Edition",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "Standard Edition",
+                  "type": "edition",
+                  "value": "Standard Edition"
+                }
+              ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7100105634\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700034128\"}"
               }
             }
           ],
           "voucherNsuid": null,
-          "backgroundColor": "000000",
+          "backgroundColor": "041438",
           "contentDescriptors": [
             {
-              "__ref": "ContentDescriptor:{\"id\":\"2DsiVKo7UlwhLrAaIT7TlR\",\"locale\":\"es_AR\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"1MTwv04E4iJ3g65LhktQK9\",\"locale\":\"es_AR\"}"
             },
             {
-              "__ref": "ContentDescriptor:{\"id\":\"2DsiVKo7UlwhLrAaIT7TlR\",\"locale\":\"es_AR\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_AR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"4iPYmFuuycedeb6UrbsN5v\",\"locale\":\"es_AR\"}"
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"2SIoM7BFS3Dd4wPi49hVxv\",\"locale\":\"es_AR\"}"
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_AR\"}"
           },
-          "headline": "¡Madden NFL 27 próximamente!\n",
+          "headline": "Dirige la liga una decisión a la vez.\n",
           "id": "70010000105634",
           "localeAlternates": [],
           "nsoFeatures": [
@@ -2660,6 +4746,11 @@
               "__typename": "NsoFeature",
               "code": "ONLINE_PLAY",
               "label": "Juego en línea"
+            },
+            {
+              "__typename": "NsoFeature",
+              "code": "SAVE_DATA_CLOUD",
+              "label": "Guardado de datos en la nube"
             }
           ],
           "officialSite": null,
@@ -2690,37 +4781,61 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000105634/22aa4c3d64ec4279892a1d25efb39d9ad7f07db8e0b074bee577fdd40029ee77",
+              "publicId": "/store/software/switch2/70010000105634/Video/045275518e83f67a1db3147b0f09b57694dc35e367e8129199af739592629a84",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000105634/Video/cec6e5e75227370f833cbcc8f8516ca351628f5624bbfc23eba0853b68eae45f",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000105634/Video/9102e5feec4047da65340e80444245ec409c02e51ef15cbfa619f8a38a8a9514",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000105634/Video/c072ab78e55f9daad8e70b1469698a96901614980a9dbebdb94d76e11f387b32",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105634/f9c2436ea01c79a98d98535dd42ef5998c94caccf89b2232fde164e92987a56b",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000105634/1f75d14f1a5cd406ff015575b3aa425b30b62a89db23a32476cc1a13d27cacf3",
+              "publicId": "store/software/switch2/70010000105634/ef691f71d009e3ddf30bca29ae0959c65541ec5df7382a0ad68ee867f992582c",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000105634/a59f841e634aab2ccb3d345533fc8c97e7d03d6eaecbadeb4ad85bd9a4eb1171",
+              "publicId": "store/software/switch2/70010000105634/d9a118520a01a90800f54e2ed9cd388aa45262906604fc374a31e15811be0d10",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000105634/7cec9541755556cec11c187a2310bbac0cb5e85a6527dacdff4ebc30d53eb3ff",
+              "publicId": "store/software/switch2/70010000105634/06cd2ec96700127ab70d140be4938876c65f3bc5d79d35ef0988e9cc093c89d8",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000105634/33b607f00c120e9837239d73a8e5572fe256cc4f6cb1fde434f73583dcd90e95",
+              "publicId": "store/software/switch2/70010000105634/407077253273bd527750d3e1d55197fd65564fd36ba37e3f75e61f95c4426571",
               "resourceType": "image",
               "type": "upload"
             }
           ],
-          "releaseDate": "2026-08-31T00:00:00.000Z",
-          "releaseDateDisplay": "August 2026",
+          "releaseDate": "2026-08-13T00:00:00.000Z",
+          "releaseDateDisplay": null,
           "softwareContents": [],
           "softwarePublisher": "Electronic Arts",
           "supportedLanguages": [
@@ -2732,23 +4847,43 @@
             "label": "Juegos"
           }
         },
-        "ContentDescriptor:{\"id\":\"2DsiVKo7UlwhLrAaIT7TlR\",\"locale\":\"es_AR\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "2DsiVKo7UlwhLrAaIT7TlR",
+        "Product:{\"sku\":\"7700034128\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000034128",
+          "name": "EA SPORTS™ Madden NFL 27 Edición Deluxe",
+          "urlKey": "ea-sports-madden-nfl-27-deluxe-edition-70070000034128-switch-2",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
           "locale": "es_AR",
-          "label": "Visit www.esrb.org for rating information.",
-          "type": "NOTICE"
-        },
-        "ContentRating:{\"id\":\"2SIoM7BFS3Dd4wPi49hVxv\",\"locale\":\"es_AR\"}": {
-          "__typename": "ContentRating",
-          "id": "2SIoM7BFS3Dd4wPi49hVxv",
-          "locale": "es_AR",
-          "code": "rp",
-          "label": "Aún sin calificar",
-          "requiresAgeGate": false,
-          "system": "ESRB",
-          "order": 0,
-          "highestRating": null
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 159990,
+            "finalPrice": 159990,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000034128/1ea18185d9449eee752737fc5940031700e36ec1d8dd43316f3b75d57048461a"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700034128",
+          "url({\"relative\":true})": "/es-ar/store/products/ea-sports-madden-nfl-27-deluxe-edition-70070000034128-switch-2/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
         },
         "ROOT_QUERY": {
           "__typename": "Query",
@@ -2764,11 +4899,11 @@
   "query": {
     "slug": "ea-sports-madden-nfl-27-switch-2"
   },
-  "buildId": "C1vdUNEII8soMDlWkzQ0_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
+  "isExperimentalCompile": false,
   "gssp": true,
-  "customServer": true,
   "appGip": true,
   "locale": "es-ar",
   "locales": [
