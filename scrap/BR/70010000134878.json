@@ -170,24 +170,49 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "4ofhXnH4mIoRulsWhxPz6",
-              "label": "Metroid™ Ravenous",
-              "caption": "",
-              "url": "/store/products/metroid-ravenous-switch-2/",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
                 "type": "upload",
-                "bytes": 2728371,
-                "width": 1646,
-                "format": "png",
-                "height": 926,
-                "version": 1788968467,
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
                 "metadata": {},
-                "public_id": "ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead",
-                "created_at": "2026-09-09T15:41:07Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -504,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -566,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -597,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -619,7 +675,7 @@
                   "subItems": [],
                   "activeMatch": "",
                   "id": "zelda",
-                  "hideOnLocale": true,
+                  "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -1208,7 +1264,10 @@
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1259,7 +1318,10 @@
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1390,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1566,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1714,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2399,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Chivalware para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Chivalware para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2452,9 +2571,34 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Ação"
+        },
+        {
+          "url": "/store/games/tags/games-with-random-maps-levels",
+          "label": "Começar do zero depois das derrotas"
+        },
+        {
+          "url": "/store/games/tags/roguelike-games",
+          "label": "Fases e mapas aleatórios"
+        },
+        {
+          "url": "/store/games/tags/high-score-games",
+          "label": "Jogue pelo placar mais alto"
+        },
+        {
+          "url": "/store/games/tags/raise-your-stats-games",
+          "label": "Melhore suas estatísticas"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Pixel art"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/9d9f8bd7d3fc49d13fa99b7b6c470cb79aba52704b62a1a166bd37d72ed421f5"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/9d9f8bd7d3fc49d13fa99b7b6c470cb79aba52704b62a1a166bd37d72ed421f5"
       },
       "linkedData": [
         {
@@ -2469,7 +2613,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/chivalware-switch-2/",
             "priceCurrency": "BRL",
-            "price": "37.49",
+            "price": "33.74",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2510,56 +2654,64 @@
             "@type": "ImageObject",
             "name": "Chivalware gallery item 0",
             "description": "Chivalware gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/9d9f8bd7d3fc49d13fa99b7b6c470cb79aba52704b62a1a166bd37d72ed421f5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/9d9f8bd7d3fc49d13fa99b7b6c470cb79aba52704b62a1a166bd37d72ed421f5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/9d9f8bd7d3fc49d13fa99b7b6c470cb79aba52704b62a1a166bd37d72ed421f5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/9d9f8bd7d3fc49d13fa99b7b6c470cb79aba52704b62a1a166bd37d72ed421f5",
             "uploadDate": "2026-11-05T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Chivalware gallery item 1",
             "description": "Chivalware gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/786e7aa69e86d74062d1013fef7659c3d2ce5cccb4007311346d86d5f5c1c430",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/786e7aa69e86d74062d1013fef7659c3d2ce5cccb4007311346d86d5f5c1c430",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134878/Video/413f829f05fe86dc820223eac66b4919dd8181e61c13e5caeef6139e8661434d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134878/Video/413f829f05fe86dc820223eac66b4919dd8181e61c13e5caeef6139e8661434d",
             "uploadDate": "2026-11-05T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Chivalware gallery item 2",
             "description": "Chivalware gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/580bc8f8d3253b04dcf24f474b2a2a66999a7974540ac019b21e56620d027920",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/580bc8f8d3253b04dcf24f474b2a2a66999a7974540ac019b21e56620d027920",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/11ce779217c0da85c146063ac2e63ae7ec9d0352839ea6a77dead06cc290adcc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/11ce779217c0da85c146063ac2e63ae7ec9d0352839ea6a77dead06cc290adcc",
             "uploadDate": "2026-11-05T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Chivalware gallery item 3",
             "description": "Chivalware gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/a868bf0bcdc45b780b8a884bb602a8be4e2689c0b376bf38c65cfe3bbe902d98",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/a868bf0bcdc45b780b8a884bb602a8be4e2689c0b376bf38c65cfe3bbe902d98",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/879ff5992221bfa2ed9eb4969240f6ae221d8caaf67d9f3c7369537075653e1b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/879ff5992221bfa2ed9eb4969240f6ae221d8caaf67d9f3c7369537075653e1b",
             "uploadDate": "2026-11-05T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Chivalware gallery item 4",
             "description": "Chivalware gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/68be738ed741508501dcc6e7cf8dc41add62e57ff350577172b8d3883a62da90",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/68be738ed741508501dcc6e7cf8dc41add62e57ff350577172b8d3883a62da90",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/360b5e9edc264df63d4a891cf2aae0acb93b3eebbcf726b93653991445ac6a85",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/360b5e9edc264df63d4a891cf2aae0acb93b3eebbcf726b93653991445ac6a85",
             "uploadDate": "2026-11-05T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Chivalware gallery item 5",
             "description": "Chivalware gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/8cf387064f0fb3adb6c426f826b7b27c631e3945ef90c06858ac01ee003e2610",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/8cf387064f0fb3adb6c426f826b7b27c631e3945ef90c06858ac01ee003e2610",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/91963847c52bc73c7d9271b36d32d6bb730eb7360633661c7f91109d27802be7",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/91963847c52bc73c7d9271b36d32d6bb730eb7360633661c7f91109d27802be7",
             "uploadDate": "2026-11-05T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Chivalware gallery item 6",
             "description": "Chivalware gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/03a66e67950a4eb65568acc9b94ec75011d61e702d7f1eccfdcd9eef4f6fa19b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134878/03a66e67950a4eb65568acc9b94ec75011d61e702d7f1eccfdcd9eef4f6fa19b",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/91ead6f83ca90f972771e67e742b06556228a089f2c108414c61d4f9da68eedc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/91ead6f83ca90f972771e67e742b06556228a089f2c108414c61d4f9da68eedc",
+            "uploadDate": "2026-11-05T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Chivalware gallery item 7",
+            "description": "Chivalware gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/47e5ab2f0c7284622190e9dc8ed435e85f88d11fdeef082ca263188cf00fc87d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134878/47e5ab2f0c7284622190e9dc8ed435e85f88d11fdeef082ca263188cf00fc87d",
             "uploadDate": "2026-11-05T00:00:00.000Z"
           }
         ],
@@ -2621,9 +2773,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 37.49,
-            "finalPrice": 37.49,
+            "finalPrice": 33.74,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2639,14 +2791,48 @@
           "url({\"relative\":true})": "/pt-br/store/products/chivalware-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "STARTING_OVER",
+                "label": "Começar do zero depois das derrotas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "REPLAYABLE_MAP",
+                "label": "Fases e mapas aleatórios"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Jogue pelo placar mais alto"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400d48029c80000",
           "appStoreUrl": null,
           "availability": [
-            "Em breve"
+            "Novos lançamentos",
+            "Já disponivel"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2661,10 +2847,10 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
-          "demoNsuid": null,
+          "demoNsuid": "70030000025915",
           "description({\"html\":true})": "<p>Chivalware é um roguelite de ação em ritmo acelerado com mecânicas táticas de combinação de blocos.<br><br>MATE O REI!<br>Você é um Cavaleiro-Disquete — um guerreiro lendário que empunha Disquetes de Combate! <br><br>O reino convoca você para derrotar seu Rei, enlouquecido pelo poder e por anos de isolamento.<br>Mas, enquanto você abre caminho rumo ao castelo, estranhos glitches sugerem que há algo muito mais profundo acontecendo…<br><br>O PODER DOS DISQUETES!<br>Equipe até três Disquetes de Combate, cada um com sua própria cor.<br>Carregue a energia de uma arma combinando blocos no campo de batalha; quanto mais combinações fizer, mais poderá atacar!<br><br>COMBINE, DESVIE-DESVIE-DESVIE, EEEE ATAQUE!<br>Mova-se constantemente para entrar e sair da zona dos ataques inimigos enquanto recarrega suas armas em tempo real!<br>Antecipe padrões de ação no campo de batalha e encontre a melhor oportunidade para atacar.<br>Jamais fique parado, um Cavaleiro-Disquete está sempre em movimento com manobras evasivas e planejando o próximo ataque.<br><br>A MORTE NÃO É O FIM!<br>Um Cavaleiro-Disquete pode cair em batalha, mas a derrota também traz novas possibilidades:<br>- 5 Cavaleiros-Disquete jogáveis, cada um com suas próprias mecânicas<br>- Mais de 80 armas e mais de 150 melhorias desbloqueáveis, incontáveis builds para dominar!<br>- Novos encontros com Chefões espalhados por quatro biomas<br>- Teste sua força com 5 fases de desafio adicionais!</p>",
           "disclaimer": "<p>Uma assinatura do Nintendo Switch Online (vendida separadamente) é necessária para a funcionalidade de cópia de segurança na nuvem.</p><p>© The Arcade Crew - Regal Pigeon - 2026, All Rights Reserved. Chivalware™ is a trademark of Regal Pigeon.</p>",
           "displayChokingHazard": null,
@@ -2675,10 +2861,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000134878&v_loggedin=false&v_currency=BRL&v_price=33.74&v_country=BR",
+            "discountPriceEnd": "2026-11-19T13:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2750,7 +2936,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "314572800",
-                "totalRomSize": "340787200",
+                "totalRomSize": "672137216",
                 "platform": "BEE"
               }
             ]
@@ -2827,37 +3013,43 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000134878/786e7aa69e86d74062d1013fef7659c3d2ce5cccb4007311346d86d5f5c1c430",
+              "publicId": "/store/software/switch2/70010000134878/Video/413f829f05fe86dc820223eac66b4919dd8181e61c13e5caeef6139e8661434d",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000134878/11ce779217c0da85c146063ac2e63ae7ec9d0352839ea6a77dead06cc290adcc",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000134878/580bc8f8d3253b04dcf24f474b2a2a66999a7974540ac019b21e56620d027920",
+              "publicId": "store/software/switch2/70010000134878/879ff5992221bfa2ed9eb4969240f6ae221d8caaf67d9f3c7369537075653e1b",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000134878/a868bf0bcdc45b780b8a884bb602a8be4e2689c0b376bf38c65cfe3bbe902d98",
+              "publicId": "store/software/switch2/70010000134878/360b5e9edc264df63d4a891cf2aae0acb93b3eebbcf726b93653991445ac6a85",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000134878/68be738ed741508501dcc6e7cf8dc41add62e57ff350577172b8d3883a62da90",
+              "publicId": "store/software/switch2/70010000134878/91963847c52bc73c7d9271b36d32d6bb730eb7360633661c7f91109d27802be7",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000134878/8cf387064f0fb3adb6c426f826b7b27c631e3945ef90c06858ac01ee003e2610",
+              "publicId": "store/software/switch2/70010000134878/91ead6f83ca90f972771e67e742b06556228a089f2c108414c61d4f9da68eedc",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000134878/03a66e67950a4eb65568acc9b94ec75011d61e702d7f1eccfdcd9eef4f6fa19b",
+              "publicId": "store/software/switch2/70010000134878/47e5ab2f0c7284622190e9dc8ed435e85f88d11fdeef082ca263188cf00fc87d",
               "resourceType": "image",
               "type": "upload"
             }
@@ -2916,7 +3108,7 @@
   "query": {
     "slug": "chivalware-switch-2"
   },
-  "buildId": "TZGIYDeCHHCgGEZ9uwm7X",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

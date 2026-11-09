@@ -9,6 +9,32 @@
             "list": [
               {
                 "__contentType": "moduleCta",
+                "__entryId": "4NMwlAucFhNczxL6eZal6T",
+                "campaignId": "",
+                "label": "Juegos en oferta",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/store/sales-and-deals/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "Juegos con Resident Evil",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/es-cl/search/#q=Resident+Evil&p=1&cat=gme&sort=df"
+              },
+              {
+                "__contentType": "moduleCta",
                 "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
                 "campaignId": "",
                 "label": "Novedades",
@@ -17,6 +43,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/whatsnew/"
               },
               {
@@ -29,19 +56,8 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "4NMwlAucFhNczxL6eZal6T",
-                "campaignId": "",
-                "label": "Juegos en oferta",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/sales-and-deals/"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,6 +69,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "https://store.nintendo.mx/games?_gl=1*9ejk6h*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NTYxJGo2MCRsMCRoMjAxMjcxMDMwNQ..*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3"
               },
               {
@@ -65,29 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Juegos de Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
-          "flyoverTrendingTopics": [],
-          "flyoverFeaturedPromos": [],
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": " Paquete Nintendo Switch 2",
+              "caption": "",
+              "url": "/store/showroom/nintendo-switch-2-bundle/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Juegos en oferta",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Juegos de Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
             "7700037146",
-            "7700036603",
+            "7700038706",
             "7100122824",
-            "7100103529"
+            "7700036603"
           ]
         },
         "navContent": {
@@ -388,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -450,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -481,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1086,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1136,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1272,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1448,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1596,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2243,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2279,7 +2516,8 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": false,
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Call of Duty® para Nintendo Switch 2 - Sitio Oficial de Nintendo para Chile",
         "description": "Compra Call of Duty® para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2333,9 +2571,22 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/shooting-games",
+          "label": "Disparos"
+        },
+        {
+          "url": "/store/games/tags/first-person-games",
+          "label": "Primera persona"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/a9eb205f727e9c8b847f8501293ebebb091b1abfff1c606166294cbad57789c2"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/a9eb205f727e9c8b847f8501293ebebb091b1abfff1c606166294cbad57789c2"
       },
       "linkedData": [
         {
@@ -2391,8 +2642,56 @@
             "@type": "ImageObject",
             "name": "Call of Duty® gallery item 0",
             "description": "Call of Duty® gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/a9eb205f727e9c8b847f8501293ebebb091b1abfff1c606166294cbad57789c2",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/a9eb205f727e9c8b847f8501293ebebb091b1abfff1c606166294cbad57789c2",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/a9eb205f727e9c8b847f8501293ebebb091b1abfff1c606166294cbad57789c2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/a9eb205f727e9c8b847f8501293ebebb091b1abfff1c606166294cbad57789c2",
+            "uploadDate": "2026-10-16T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Call of Duty® gallery item 1",
+            "description": "Call of Duty® gallery item 1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/26502a8ffc109a2c85434fcd7c4f23a9852d3ed2dd1202e3931e33a33672c5cc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/26502a8ffc109a2c85434fcd7c4f23a9852d3ed2dd1202e3931e33a33672c5cc",
+            "uploadDate": "2026-10-16T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Call of Duty® gallery item 2",
+            "description": "Call of Duty® gallery item 2",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/33fd1ea3f673714dc18221d4339632369063e8dcb8414b2fce6259f0342f893c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/33fd1ea3f673714dc18221d4339632369063e8dcb8414b2fce6259f0342f893c",
+            "uploadDate": "2026-10-16T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Call of Duty® gallery item 3",
+            "description": "Call of Duty® gallery item 3",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/0162b4b3ab1fcc4437be27fba4a0b4f618a769ac186ae873b91d902617ad37c7",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/0162b4b3ab1fcc4437be27fba4a0b4f618a769ac186ae873b91d902617ad37c7",
+            "uploadDate": "2026-10-16T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Call of Duty® gallery item 4",
+            "description": "Call of Duty® gallery item 4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/5760d3d1ef82fdbdef9157c5cc2b9c3d6d1c2d0d025a3fb4f714ffb133011dd5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/5760d3d1ef82fdbdef9157c5cc2b9c3d6d1c2d0d025a3fb4f714ffb133011dd5",
+            "uploadDate": "2026-10-16T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Call of Duty® gallery item 5",
+            "description": "Call of Duty® gallery item 5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/f8608713dd9410e27aae9a140b0a21fc35a8516e34d2d50cb6701c0e50eb612f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/f8608713dd9410e27aae9a140b0a21fc35a8516e34d2d50cb6701c0e50eb612f",
+            "uploadDate": "2026-10-16T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Call of Duty® gallery item 6",
+            "description": "Call of Duty® gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/8b851f14b536b842110ab1cae7d199742294652a07c8586091ca0ee71eeec66c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000103437/8b851f14b536b842110ab1cae7d199742294652a07c8586091ca0ee71eeec66c",
             "uploadDate": "2026-10-16T00:00:00.000Z"
           }
         ],
@@ -2436,6 +2735,793 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "Product:{\"sku\":\"7700040573\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Paquete",
+            "code": "BUNDLE"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70070000040573",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "Call of Duty®: Modern Warfare® 4 - Mejora a la Edición Bóveda",
+          "nsuid": "70070000040573",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 26000,
+            "finalPrice": 26000,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000040573/a10a1994a4d21a643216a492a4d36050fecdf8eed6b7aaa1b819228015719a3a",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7700040573",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "call-of-duty-modern-warfare-4-vault-edition-upgrade-70070000040573-switch-2"
+        },
+        "Product:{\"sku\":\"7500081615\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Nuevos lanzamientos",
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000081615",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "Call of Duty®: Warzone™ - Paquete 1",
+          "nsuid": "70050000081615",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000081615/7e267ee07b22d26ae1f2b16711c75d8c790a2456ccd675e13a1c474a54052b12",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-11-06T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500081615",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "call-of-duty-warzone-pack-1-70050000081615-switch-2"
+        },
+        "Product:{\"sku\":\"7500078160\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078160",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Francés",
+          "nsuid": "70050000078160",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078160/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078160",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-french-language-pack-70050000078160-switch-2"
+        },
+        "Product:{\"sku\":\"7500078166\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078166",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Italiano",
+          "nsuid": "70050000078166",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078166/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078166",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-italian-language-pack-70050000078166-switch-2"
+        },
+        "Product:{\"sku\":\"7500078172\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078172",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Alemán",
+          "nsuid": "70050000078172",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078172/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078172",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-german-language-pack-70050000078172-switch-2"
+        },
+        "Product:{\"sku\":\"7500078178\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078178",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Español",
+          "nsuid": "70050000078178",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078178/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078178",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-spanish-language-pack-70050000078178-switch-2"
+        },
+        "Product:{\"sku\":\"7500078184\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078184",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Español (MX)",
+          "nsuid": "70050000078184",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078184/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078184",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-spanish-mx-pack-70050000078184-switch-2"
+        },
+        "Product:{\"sku\":\"7500078190\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078190",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Portugués (BR)",
+          "nsuid": "70050000078190",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078190/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078190",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-portuguese-br-pack-70050000078190-switch-2"
+        },
+        "Product:{\"sku\":\"7500078196\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078196",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Ruso",
+          "nsuid": "70050000078196",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078196/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078196",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-russian-language-pack-70050000078196-switch-2"
+        },
+        "Product:{\"sku\":\"7500078202\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078202",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Polaco",
+          "nsuid": "70050000078202",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078202/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078202",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-polish-language-pack-70050000078202-switch-2"
+        },
+        "Product:{\"sku\":\"7500078208\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078208",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Japonés",
+          "nsuid": "70050000078208",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078208/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078208",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-japanese-language-pack-70050000078208-switch-2"
+        },
+        "Product:{\"sku\":\"7500078214\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078214",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Coreano",
+          "nsuid": "70050000078214",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078214/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078214",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-korean-language-pack-70050000078214-switch-2"
+        },
+        "Product:{\"sku\":\"7500078220\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078220",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Chino (Simp)",
+          "nsuid": "70050000078220",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078220/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078220",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-chinese-cn-language-pack-70050000078220-switch-2"
+        },
+        "Product:{\"sku\":\"7500078226\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078226",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MW4 - Paquete de Chino (Trad)",
+          "nsuid": "70050000078226",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078226/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078226",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "mw4-chinese-tw-language-pack-70050000078226-switch-2"
+        },
+        "Product:{\"sku\":\"7500081372\"}": {
+          "__typename": "Product",
+          "availability": [],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000081372",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "Call of Duty®: Modern Warfare® 4 - Mejora a la Edición Bóveda",
+          "nsuid": "70050000081372",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000081372/71df426fc7a8a41bcfd387695c52d63c7912047084fb63df08f596644af0d733",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-16T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500081372",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "call-of-duty-modern-warfare-4-vault-edition-upgrade-70050000081372-switch-2"
+        },
         "Product:{\"sku\":\"7100103437\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2465,15 +3551,31 @@
           "url({\"relative\":true})": "/es-cl/store/products/call-of-duty-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "FIRST_PERSON",
+                "label": "Primera persona"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Disparos"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "040051b024c46000",
           "appStoreUrl": null,
-          "availability": [
-            "Próximos lanzamientos"
-          ],
+          "availability": [],
           "baseSoftware": [],
           "categories": [
             {
@@ -2487,7 +3589,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2523,7 +3625,7 @@
           "metaDescription": null,
           "metaTitle": null,
           "miscDescriptions": null,
-          "miscNetworkDescriptions": "Estas funciones están disponibles en televisores compatibles:\n- Salida de HDR",
+          "miscNetworkDescriptions": "Estas funciones están disponibles en televisores compatibles:\n- Salida de HDR\n- Salida VRR",
           "miscPeripheralDescriptions": null,
           "numberOfPlayers": {
             "__typename": "NumberOfPlayers",
@@ -2553,7 +3655,53 @@
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
-          "downloadableContents": [],
+          "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7700040573\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500081615\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078160\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078166\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078172\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078178\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078184\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078190\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078196\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078202\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078208\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078214\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078220\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078226\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500081372\"}"
+            }
+          ],
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
@@ -2564,7 +3712,13 @@
           "shipDateDisplay": null,
           "softwareDetails": {
             "__typename": "SoftwareDetails",
-            "rights": [],
+            "rights": [
+              {
+                "__typename": "Rights",
+                "isLendable": true,
+                "titleId": "040051b024c46000"
+              }
+            ],
             "romSizes": [
               {
                 "__typename": "RomSize",
@@ -2575,7 +3729,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "31457280000",
-                "totalRomSize": null,
+                "totalRomSize": "23599251456",
                 "platform": "BEE"
               }
             ]
@@ -2617,7 +3771,7 @@
                 }
               ],
               "product": {
-                "__ref": "Product:{\"sku\":\"7700038706\"}"
+                "__ref": "Product:{\"sku\":\"7700038823\"}"
               }
             },
             {
@@ -2635,6 +3789,40 @@
               ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7700038712\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700040739\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700041649\"}"
               }
             }
           ],
@@ -2703,7 +3891,44 @@
               "label": "Handheld mode"
             }
           ],
-          "productGallery": [],
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103437/26502a8ffc109a2c85434fcd7c4f23a9852d3ed2dd1202e3931e33a33672c5cc",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103437/33fd1ea3f673714dc18221d4339632369063e8dcb8414b2fce6259f0342f893c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103437/0162b4b3ab1fcc4437be27fba4a0b4f618a769ac186ae873b91d902617ad37c7",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103437/5760d3d1ef82fdbdef9157c5cc2b9c3d6d1c2d0d025a3fb4f714ffb133011dd5",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103437/f8608713dd9410e27aae9a140b0a21fc35a8516e34d2d50cb6701c0e50eb612f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103437/8b851f14b536b842110ab1cae7d199742294652a07c8586091ca0ee71eeec66c",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ],
           "releaseDate": "2026-10-16T00:00:00.000Z",
           "releaseDateDisplay": null,
           "softwareContents": [],
@@ -2729,12 +3954,12 @@
             "label": "Juegos"
           }
         },
-        "Product:{\"sku\":\"7700038706\"}": {
+        "Product:{\"sku\":\"7700038823\"}": {
           "__typename": "Product",
           "compatibility": null,
-          "nsuid": "70070000038706",
+          "nsuid": "70070000038823",
           "name": "Call of Duty®: Modern Warfare® 4 - Edición Estándar",
-          "urlKey": "call-of-duty-modern-warfare-4-standard-edition-switch-2",
+          "urlKey": "call-of-duty-modern-warfare-4-standard-edition-70070000038823-switch-2",
           "upgradeDescription": null,
           "isSalableQty": true,
           "isUpgrade": false,
@@ -2754,12 +3979,12 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70070000038706/cd5297ceff4255500c2e7f7b3099b481fb4fb5e56d109c1437c8f667ad6d77c2"
+            "publicId": "store/software/switch2/70070000038823/cd5297ceff4255500c2e7f7b3099b481fb4fb5e56d109c1437c8f667ad6d77c2"
           },
           "size": null,
           "soldOutPermanent": null,
-          "sku": "7700038706",
-          "url({\"relative\":true})": "/es-cl/store/products/call-of-duty-modern-warfare-4-standard-edition-switch-2/",
+          "sku": "7700038823",
+          "url({\"relative\":true})": "/es-cl/store/products/call-of-duty-modern-warfare-4-standard-edition-70070000038823-switch-2/",
           "tags": {
             "__typename": "Tags",
             "features": [],
@@ -2798,6 +4023,82 @@
           "soldOutPermanent": null,
           "sku": "7700038712",
           "url({\"relative\":true})": "/es-cl/store/products/call-of-duty-modern-warfare-4-vault-edition-switch-2/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700040739\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000040739",
+          "name": "Call of Duty®: Warzone™",
+          "urlKey": "call-of-duty-warzone-switch-2",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_CL",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000040739/7e267ee07b22d26ae1f2b16711c75d8c790a2456ccd675e13a1c474a54052b12"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700040739",
+          "url({\"relative\":true})": "/es-cl/store/products/call-of-duty-warzone-switch-2/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700041649\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000041649",
+          "name": "Call of Duty®: Modern Warfare® 4 - Prueba Gratis de DMZ",
+          "urlKey": "call-of-duty-modern-warfare-4-dmz-free-trial-switch-2",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_CL",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000041649/a56ccb0e52676edd110a5b6ac8debc933f0739c3fcd49101337bed960e25d79a"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700041649",
+          "url({\"relative\":true})": "/es-cl/store/products/call-of-duty-modern-warfare-4-dmz-free-trial-switch-2/",
           "tags": {
             "__typename": "Tags",
             "features": [],
@@ -2872,7 +4173,7 @@
   "query": {
     "slug": "call-of-duty-switch-2"
   },
-  "buildId": "DQLRCOEcd3OuhO5VzGreC",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

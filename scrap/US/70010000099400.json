@@ -91,9 +91,9 @@
             {
               "__contentType": "menuItem",
               "__entryId": "74oMBK4LioFzShJtzMUTdp",
-              "label": "Nintendo Switch 2 Bundle",
+              "label": "Nintendo Switch 2 Bundles",
               "caption": "",
-              "url": "/store/products/nintendo-switch-2-nintendo-switch-sports-resort-bundle-129088/",
+              "url": "/store/showroom/nintendo-switch-2-bundle/",
               "icon": null,
               "image": null,
               "hideOn": null,
@@ -107,9 +107,9 @@
             {
               "__contentType": "menuItem",
               "__entryId": "7lMKuwutLMkkdUvg4rF04h",
-              "label": "Customer Appreciation Sale",
+              "label": "Games on sale",
               "caption": "",
-              "url": "/store/sales-and-deals/customer-appreciation-sale/#sort=df&p=0",
+              "url": "/store/sales-and-deals/",
               "icon": null,
               "image": null,
               "hideOn": null,
@@ -170,24 +170,49 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "4ofhXnH4mIoRulsWhxPz6",
-              "label": "Metroid™ Ravenous",
-              "caption": "",
-              "url": "/store/products/metroid-ravenous-switch-2/",
+              "__entryId": "6o5UFLGstQbUz4dMJXsiQP",
+              "label": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "caption": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "url": "/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "tags": [
+                  "70050000081248",
+                  "70050000081248-C"
+                ],
                 "type": "upload",
-                "bytes": 2728371,
-                "width": 1646,
-                "format": "png",
-                "height": 926,
-                "version": 1788968467,
+                "bytes": 2122019,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70050000081248": "1",
+                    "en-US:70050000081248": "1",
+                    "es-AR:70050000081248": "1",
+                    "es-CL:70050000081248": "1",
+                    "es-CO:70050000081248": "1",
+                    "es-MX:70050000081248": "1",
+                    "es-PE:70050000081248": "1",
+                    "fr-CA:70050000081248": "1",
+                    "pt-BR:70050000081248": "1",
+                    "en-CA:70050000081248-C": "1",
+                    "en-US:70050000081248-C": "1",
+                    "es-AR:70050000081248-C": "1",
+                    "es-CL:70050000081248-C": "1",
+                    "es-CO:70050000081248-C": "1",
+                    "es-MX:70050000081248-C": "1",
+                    "es-PE:70050000081248-C": "1",
+                    "fr-CA:70050000081248-C": "1",
+                    "pt-BR:70050000081248-C": "1"
+                  }
+                },
+                "version": 1788966774,
                 "metadata": {},
-                "public_id": "ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead",
-                "created_at": "2026-09-09T15:41:07Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
+                "public_id": "store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58",
+                "created_at": "2026-09-09T15:12:54Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -504,7 +529,7 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -527,6 +552,37 @@
                   "activeMatch": "",
                   "id": "mario",
                   "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
+                  "url": "https://mario.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -566,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -597,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1208,7 +1264,10 @@
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1259,7 +1318,10 @@
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1390,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1566,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1714,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Games",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Nintendo Switch 2 games",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Nintendo Switch games",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2601,6 +2719,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Whirlight - No Time To Trip for Nintendo Switch - Nintendo Official Site",
         "description": "Shop Whirlight - No Time To Trip for Nintendo Switch at Nintendo Store. See game details, editions, and availability.",
@@ -2660,7 +2779,7 @@
       "merchBanner": null,
       "customProductTags": [],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/fc9711f448a2ceeb3c5d254a4d0d9679ad141d266873d5f9793db257254b63fd"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/fc9711f448a2ceeb3c5d254a4d0d9679ad141d266873d5f9793db257254b63fd"
       },
       "linkedData": [
         {
@@ -2716,57 +2835,57 @@
             "@type": "ImageObject",
             "name": "Whirlight - No Time To Trip gallery item 0",
             "description": "Whirlight - No Time To Trip gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/fc9711f448a2ceeb3c5d254a4d0d9679ad141d266873d5f9793db257254b63fd",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/fc9711f448a2ceeb3c5d254a4d0d9679ad141d266873d5f9793db257254b63fd",
-            "uploadDate": "2026-11-12T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/fc9711f448a2ceeb3c5d254a4d0d9679ad141d266873d5f9793db257254b63fd",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/fc9711f448a2ceeb3c5d254a4d0d9679ad141d266873d5f9793db257254b63fd",
+            "uploadDate": "2027-01-21T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Whirlight - No Time To Trip gallery item 1",
             "description": "Whirlight - No Time To Trip gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/85ff9521ddab99df02d25b09227bd1cf77622665316fb91ec2172c28fa1f0aa6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/85ff9521ddab99df02d25b09227bd1cf77622665316fb91ec2172c28fa1f0aa6",
-            "uploadDate": "2026-11-12T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/85ff9521ddab99df02d25b09227bd1cf77622665316fb91ec2172c28fa1f0aa6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/85ff9521ddab99df02d25b09227bd1cf77622665316fb91ec2172c28fa1f0aa6",
+            "uploadDate": "2027-01-21T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Whirlight - No Time To Trip gallery item 2",
             "description": "Whirlight - No Time To Trip gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/cb4d305c3bce28358895433c8a961f4790fcb80c2148d97ec70b017b3f2b2a14",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/cb4d305c3bce28358895433c8a961f4790fcb80c2148d97ec70b017b3f2b2a14",
-            "uploadDate": "2026-11-12T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/cb4d305c3bce28358895433c8a961f4790fcb80c2148d97ec70b017b3f2b2a14",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/cb4d305c3bce28358895433c8a961f4790fcb80c2148d97ec70b017b3f2b2a14",
+            "uploadDate": "2027-01-21T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Whirlight - No Time To Trip gallery item 3",
             "description": "Whirlight - No Time To Trip gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/5196d7cc2329d7d9dd4eff77c3e49e03b3654541c7d74a5430bfa2d354634c47",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/5196d7cc2329d7d9dd4eff77c3e49e03b3654541c7d74a5430bfa2d354634c47",
-            "uploadDate": "2026-11-12T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/5196d7cc2329d7d9dd4eff77c3e49e03b3654541c7d74a5430bfa2d354634c47",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/5196d7cc2329d7d9dd4eff77c3e49e03b3654541c7d74a5430bfa2d354634c47",
+            "uploadDate": "2027-01-21T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Whirlight - No Time To Trip gallery item 4",
             "description": "Whirlight - No Time To Trip gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/d623f434f1f119960463215b2dcdb028e7b5a45fa48d352f540f1f1ec26a1a09",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/d623f434f1f119960463215b2dcdb028e7b5a45fa48d352f540f1f1ec26a1a09",
-            "uploadDate": "2026-11-12T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/d623f434f1f119960463215b2dcdb028e7b5a45fa48d352f540f1f1ec26a1a09",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/d623f434f1f119960463215b2dcdb028e7b5a45fa48d352f540f1f1ec26a1a09",
+            "uploadDate": "2027-01-21T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Whirlight - No Time To Trip gallery item 5",
             "description": "Whirlight - No Time To Trip gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/2e8aabe8158684ec71820f7becfe09c4a3c8f264024de6a6308e4bf57ab2eacc",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/2e8aabe8158684ec71820f7becfe09c4a3c8f264024de6a6308e4bf57ab2eacc",
-            "uploadDate": "2026-11-12T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/2e8aabe8158684ec71820f7becfe09c4a3c8f264024de6a6308e4bf57ab2eacc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/2e8aabe8158684ec71820f7becfe09c4a3c8f264024de6a6308e4bf57ab2eacc",
+            "uploadDate": "2027-01-21T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Whirlight - No Time To Trip gallery item 6",
             "description": "Whirlight - No Time To Trip gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/f695f2c9b9c075b1e853893d73896eb5a5e83f860fac3398418331d0e5cc0489",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099400/f695f2c9b9c075b1e853893d73896eb5a5e83f860fac3398418331d0e5cc0489",
-            "uploadDate": "2026-11-12T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/f695f2c9b9c075b1e853893d73896eb5a5e83f860fac3398418331d0e5cc0489",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000099400/f695f2c9b9c075b1e853893d73896eb5a5e83f860fac3398418331d0e5cc0489",
+            "uploadDate": "2027-01-21T00:00:00.000Z"
           }
         ],
         {
@@ -2855,6 +2974,7 @@
             "genres": [],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "01006a9023eaa000",
           "appStoreUrl": null,
           "availability": [
@@ -2873,7 +2993,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2929,7 +3049,7 @@
           "productCode": "HACPBQNEA",
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/60ace8284e82438d9a79f059d2a4f755_1024"
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/dae7efc0057544798dcc5183ed1b3ec1_1024"
           },
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
@@ -2956,13 +3076,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "5242880000",
-                "totalRomSize": "7739539456",
+                "totalRomSize": "8414822400",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "5242880000",
-                "totalRomSize": "7739539456",
+                "totalRomSize": "8414822400",
                 "platform": "BEE"
               }
             ]
@@ -3070,7 +3190,7 @@
               "type": "upload"
             }
           ],
-          "releaseDate": "2026-11-12T00:00:00.000Z",
+          "releaseDate": "2027-01-21T00:00:00.000Z",
           "releaseDateDisplay": null,
           "softwareContents": [],
           "softwarePublisher": "Magic Hat",
@@ -3116,7 +3236,7 @@
   "query": {
     "slug": "whirlight-no-time-to-trip-switch"
   },
-  "buildId": "j5aOLr6S-iX6lNvbN_zYt",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

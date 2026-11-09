@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Forever Ago para Nintendo Switch 2 - Sitio Oficial de Nintendo para Peru",
         "description": "Compra Forever Ago para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2533,7 +2590,7 @@
         }
       ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/c1ed13f27444ded4b8ef6b7f403b7d0bf2402197d39df680d1a513ec0def6950"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/c1ed13f27444ded4b8ef6b7f403b7d0bf2402197d39df680d1a513ec0def6950"
       },
       "linkedData": [
         {
@@ -2589,56 +2646,64 @@
             "@type": "ImageObject",
             "name": "Forever Ago gallery item 0",
             "description": "Forever Ago gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/c1ed13f27444ded4b8ef6b7f403b7d0bf2402197d39df680d1a513ec0def6950",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/c1ed13f27444ded4b8ef6b7f403b7d0bf2402197d39df680d1a513ec0def6950",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/c1ed13f27444ded4b8ef6b7f403b7d0bf2402197d39df680d1a513ec0def6950",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/c1ed13f27444ded4b8ef6b7f403b7d0bf2402197d39df680d1a513ec0def6950",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Forever Ago gallery item 1",
             "description": "Forever Ago gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/e962f91e955495cada6ae22240ae1685bce75a4cf90fa4bb2e42702e242ce4fc",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/e962f91e955495cada6ae22240ae1685bce75a4cf90fa4bb2e42702e242ce4fc",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000116556/Video/e27e0f0c496476d1dd6d173126a2d92bc7ee044491bdd66483141ece01cd25f7",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000116556/Video/e27e0f0c496476d1dd6d173126a2d92bc7ee044491bdd66483141ece01cd25f7",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Forever Ago gallery item 2",
             "description": "Forever Ago gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/55b59f0c430afafe4cf98ed09edbbd91006aaff309ff3790ca47ab073ed5c695",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/55b59f0c430afafe4cf98ed09edbbd91006aaff309ff3790ca47ab073ed5c695",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/e962f91e955495cada6ae22240ae1685bce75a4cf90fa4bb2e42702e242ce4fc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/e962f91e955495cada6ae22240ae1685bce75a4cf90fa4bb2e42702e242ce4fc",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Forever Ago gallery item 3",
             "description": "Forever Ago gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/f00c9aadbc8d2f38b00f5259647842eba93a192a9087d4b82025e3be42875411",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/f00c9aadbc8d2f38b00f5259647842eba93a192a9087d4b82025e3be42875411",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/55b59f0c430afafe4cf98ed09edbbd91006aaff309ff3790ca47ab073ed5c695",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/55b59f0c430afafe4cf98ed09edbbd91006aaff309ff3790ca47ab073ed5c695",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Forever Ago gallery item 4",
             "description": "Forever Ago gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/c96d538e1d6967d46abc3245a3fa87d8a4dd4092bcb279be608fb22ca3a22dbe",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/c96d538e1d6967d46abc3245a3fa87d8a4dd4092bcb279be608fb22ca3a22dbe",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/f00c9aadbc8d2f38b00f5259647842eba93a192a9087d4b82025e3be42875411",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/f00c9aadbc8d2f38b00f5259647842eba93a192a9087d4b82025e3be42875411",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Forever Ago gallery item 5",
             "description": "Forever Ago gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/abcdef2309084e75e54163d01abf81e14a39ddc4d6bd03bf85bbdb5151c0b737",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/abcdef2309084e75e54163d01abf81e14a39ddc4d6bd03bf85bbdb5151c0b737",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/c96d538e1d6967d46abc3245a3fa87d8a4dd4092bcb279be608fb22ca3a22dbe",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/c96d538e1d6967d46abc3245a3fa87d8a4dd4092bcb279be608fb22ca3a22dbe",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Forever Ago gallery item 6",
             "description": "Forever Ago gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/220578846fa03843411f54f8472a09b7c994be8ed2c77790a58848987e6030c5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000116556/220578846fa03843411f54f8472a09b7c994be8ed2c77790a58848987e6030c5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/abcdef2309084e75e54163d01abf81e14a39ddc4d6bd03bf85bbdb5151c0b737",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/abcdef2309084e75e54163d01abf81e14a39ddc4d6bd03bf85bbdb5151c0b737",
+            "uploadDate": "2026-10-08T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Forever Ago gallery item 7",
+            "description": "Forever Ago gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/220578846fa03843411f54f8472a09b7c994be8ed2c77790a58848987e6030c5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000116556/220578846fa03843411f54f8472a09b7c994be8ed2c77790a58848987e6030c5",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           }
         ],
@@ -2744,10 +2809,11 @@
             ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400a45026de6000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2762,7 +2828,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2776,9 +2842,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000116556&v_loggedin=false&v_currency=PEN&v_price=53.00&v_country=PE",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2851,7 +2917,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "7140802560",
-                "totalRomSize": "8823767040",
+                "totalRomSize": "8506048512",
                 "platform": "BEE"
               }
             ]
@@ -2929,6 +2995,12 @@
             }
           ],
           "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000116556/Video/e27e0f0c496476d1dd6d173126a2d92bc7ee044491bdd66483141ece01cd25f7",
+              "resourceType": "video",
+              "type": "upload"
+            },
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000116556/e962f91e955495cada6ae22240ae1685bce75a4cf90fa4bb2e42702e242ce4fc",
@@ -3030,7 +3102,7 @@
   "query": {
     "slug": "forever-ago-switch-2"
   },
-  "buildId": "Fe4Jjdjck2zFQNntuq1z6",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

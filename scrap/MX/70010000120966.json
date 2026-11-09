@@ -17,6 +17,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/sales-and-deals/"
               },
               {
@@ -29,6 +30,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "https://www.nintendo.com/es-mx/search/#q=Resident+Evil&p=1&cat=gme&sort=df"
               },
               {
@@ -41,6 +43,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/whatsnew/"
               },
               {
@@ -53,6 +56,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
               },
               {
@@ -65,6 +69,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "https://store.nintendo.mx/games?_gl=1*9ejk6h*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NTYxJGo2MCRsMCRoMjAxMjcxMDMwNQ..*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3"
               },
               {
@@ -77,12 +82,148 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
               }
             ]
           },
-          "flyoverTrendingTopics": [],
-          "flyoverFeaturedPromos": [],
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Juegos esenciales",
+              "caption": "",
+              "url": "/store/showroom/must-play-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Juegos en oferta",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Juegos de Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
             "7700037146",
             "7700038706",
@@ -388,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -450,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -481,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -503,7 +675,7 @@
                   "subItems": [],
                   "activeMatch": "",
                   "id": "zelda",
-                  "hideOnLocale": true,
+                  "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -1086,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1136,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1272,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1448,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1596,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2243,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2279,7 +2516,8 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": false,
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 para Nintendo Switch 2 - Sitio Oficial de Nintendo para Mexico",
         "description": "Compra EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2333,9 +2571,50 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/shooting-games",
+          "label": "Disparos"
+        },
+        {
+          "url": "/store/games/tags/motion-control-games",
+          "label": "Controles por movimiento"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Elige el nivel de dificultad"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Personajes con voz"
+        },
+        {
+          "url": "/store/games/tags/third-person-games",
+          "label": "Tercera persona"
+        },
+        {
+          "url": "/store/games/tags/co-op-games",
+          "label": "Cooperativo en línea"
+        },
+        {
+          "url": "/store/games/tags/online-multiplayer-games",
+          "label": "Juega en línea con amigos"
+        },
+        {
+          "url": "/store/games/tags/games-to-play-together-on-one-console",
+          "label": "Juntos en una consola"
+        },
+        {
+          "url": "/store/games/tags/play-together-on-multiple-consoles-games",
+          "label": "Juntos en varias consolas"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/a9f3f31c8089f405645e2a65aedb008e43b0f4ba6ce76cf7e47a213becd04913"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/a9f3f31c8089f405645e2a65aedb008e43b0f4ba6ce76cf7e47a213becd04913"
       },
       "linkedData": [
         {
@@ -2350,7 +2629,7 @@
             "@type": "Offer",
             "url": "/es-mx/store/products/earth-defense-force5-for-nintendo-switch-2-switch-2/",
             "priceCurrency": "MXN",
-            "price": "341.99",
+            "price": "379.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2380,7 +2659,7 @@
             "maxValue": 2,
             "unitText": "players"
           },
-          "contentRating": "Adultos +18 Años",
+          "contentRating": "+15 Años",
           "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000120966/a9f3f31c8089f405645e2a65aedb008e43b0f4ba6ce76cf7e47a213becd04913",
           "publisher": {
             "@type": "Organization",
@@ -2392,40 +2671,48 @@
             "@type": "ImageObject",
             "name": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 0",
             "description": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/a9f3f31c8089f405645e2a65aedb008e43b0f4ba6ce76cf7e47a213becd04913",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/a9f3f31c8089f405645e2a65aedb008e43b0f4ba6ce76cf7e47a213becd04913",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/a9f3f31c8089f405645e2a65aedb008e43b0f4ba6ce76cf7e47a213becd04913",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/a9f3f31c8089f405645e2a65aedb008e43b0f4ba6ce76cf7e47a213becd04913",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 1",
             "description": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/25d7fb873777d4c194dc2ef664d985342c20b4bcd8f309f15c9d5b8dc9ef980f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/25d7fb873777d4c194dc2ef664d985342c20b4bcd8f309f15c9d5b8dc9ef980f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000120966/Video/c04e59ce144d0552dd55ffb73a0ba48a1be1c8053f417d5d4067032dac5e8471",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000120966/Video/c04e59ce144d0552dd55ffb73a0ba48a1be1c8053f417d5d4067032dac5e8471",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 2",
             "description": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/c931cc1753ceb5dc79ea5355dc4cb5fc6c6446e7d4fd1502f513f4fa4e5b9539",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/c931cc1753ceb5dc79ea5355dc4cb5fc6c6446e7d4fd1502f513f4fa4e5b9539",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/25d7fb873777d4c194dc2ef664d985342c20b4bcd8f309f15c9d5b8dc9ef980f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/25d7fb873777d4c194dc2ef664d985342c20b4bcd8f309f15c9d5b8dc9ef980f",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 3",
             "description": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/6e5a5384ad0ab470ca501fd7028d580632391cd642a12c1c54cbcb408e5a19b8",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/6e5a5384ad0ab470ca501fd7028d580632391cd642a12c1c54cbcb408e5a19b8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/c931cc1753ceb5dc79ea5355dc4cb5fc6c6446e7d4fd1502f513f4fa4e5b9539",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/c931cc1753ceb5dc79ea5355dc4cb5fc6c6446e7d4fd1502f513f4fa4e5b9539",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 4",
             "description": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/389b2c45110e3332033f692bb92b7aae3f203e416f651a34ce454d27043d58e8",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000120966/389b2c45110e3332033f692bb92b7aae3f203e416f651a34ce454d27043d58e8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/6e5a5384ad0ab470ca501fd7028d580632391cd642a12c1c54cbcb408e5a19b8",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/6e5a5384ad0ab470ca501fd7028d580632391cd642a12c1c54cbcb408e5a19b8",
+            "uploadDate": "2026-10-08T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 5",
+            "description": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 gallery item 5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/389b2c45110e3332033f692bb92b7aae3f203e416f651a34ce454d27043d58e8",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000120966/389b2c45110e3332033f692bb92b7aae3f203e416f651a34ce454d27043d58e8",
             "uploadDate": "2026-10-08T00:00:00.000Z"
           }
         ],
@@ -2468,6 +2755,59 @@
           "__typename": "Category",
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
+        },
+        "Product:{\"sku\":\"7700038515\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Paquete",
+            "code": "BUNDLE"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70070000038515",
+          "isSalableQty": true,
+          "locale": "es_MX",
+          "name": "EARTH DEFENSE FORCE5 for Nintendo Switch™ 2 SeasonPass",
+          "nsuid": "70070000038515",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "MXN",
+            "discounted": false,
+            "regularPrice": 204.99,
+            "finalPrice": 204.99,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000038515/0ad9f46994ddc81abe9f4b11ead2d495ac75a8032d3514fcec24ca7610202706",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-08T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7700038515",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "earth-defense-force5-for-nintendo-switch-2-seasonpass-70070000038515-switch-2"
         },
         "Product:{\"sku\":\"7500077649\"}": {
           "__typename": "Product",
@@ -2513,6 +2853,7 @@
           },
           "releaseDate": "2026-11-12T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077649",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2565,6 +2906,7 @@
           },
           "releaseDate": "2026-12-10T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077650",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2576,7 +2918,7 @@
         "Product:{\"sku\":\"7500077839\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2617,6 +2959,7 @@
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077839",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2628,7 +2971,7 @@
         "Product:{\"sku\":\"7500077844\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2669,6 +3012,7 @@
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077844",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2680,7 +3024,7 @@
         "Product:{\"sku\":\"7500077587\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2698,7 +3042,7 @@
           "id": "70050000077587",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Ranger Piloted Weapon: Omega Freesia",
+          "name": "Ranger Piloted Weapon: Omega Free Bike",
           "nsuid": "70050000077587",
           "platform": {
             "__typename": "Platform",
@@ -2715,24 +3059,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077587/3251b84c4934aa4a0a3cf3620101e354481a704312e252063dcd6999fd4e5ea9",
+            "publicId": "store/software/switch2/70050000077587/823134fe88be6339e2333d37edd6a65317b9c489e40b4590f9407b09fe4d1a72",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077587",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "ranger-piloted-weapon-omega-freesia-70050000077587-switch-2"
+          "urlKey": "ranger-piloted-weapon-omega-free-bike-70050000077587-switch-2"
         },
         "Product:{\"sku\":\"7500077588\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2773,6 +3118,7 @@
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077588",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2784,7 +3130,7 @@
         "Product:{\"sku\":\"7500077589\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2802,7 +3148,7 @@
           "id": "70050000077589",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Ranger Support Device: Detector S-Type",
+          "name": "Ranger Support Device: Probe Type S",
           "nsuid": "70050000077589",
           "platform": {
             "__typename": "Platform",
@@ -2819,24 +3165,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077589/109be497c8d50afe7ca1f0f7d892747b7606319eeff8bfac9b2414e4a79e5fd6",
+            "publicId": "store/software/switch2/70050000077589/c2ee1c3e2338ac91ba83fc14fb5cf97d93a658ae2604144bada1cee36770f262",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077589",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "ranger-support-device-detector-s-type-70050000077589-switch-2"
+          "urlKey": "ranger-support-device-probe-type-s-70050000077589-switch-2"
         },
         "Product:{\"sku\":\"7500077590\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2854,7 +3201,7 @@
           "id": "70050000077590",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Ranger Piloted Weapon: Blacker Number 4.1",
+          "name": "Ranger Piloted Weapon: Blacker 4.1",
           "nsuid": "70050000077590",
           "platform": {
             "__typename": "Platform",
@@ -2871,24 +3218,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077590/c8fd1d4a5424d4f2461b0583fabef4585d43e3723f1937c11405271d4c44563a",
+            "publicId": "store/software/switch2/70050000077590/cae507f50b05b6881dc9737364299abb19de13a6ff2ce23e8932062375aec410",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077590",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "ranger-piloted-weapon-blacker-number-4-1-70050000077590-switch-2"
+          "urlKey": "ranger-piloted-weapon-blacker-4-1-70050000077590-switch-2"
         },
         "Product:{\"sku\":\"7500077591\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2929,6 +3277,7 @@
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077591",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2940,7 +3289,7 @@
         "Product:{\"sku\":\"7500077643\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2958,7 +3307,7 @@
           "id": "70050000077643",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Fencer Weapon: Happy Body Pillow",
+          "name": "Fencer Weapon: Happiness Body Pillow",
           "nsuid": "70050000077643",
           "platform": {
             "__typename": "Platform",
@@ -2975,24 +3324,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077643/725b3d338ec0fbc30c3b93066dea55676ffc09d119684e7aeb9a1c5e1461c6c1",
+            "publicId": "store/software/switch2/70050000077643/58e9c8508ac068ecfab88659de4655ca2c159c2bfad2603b8515519b21d93f38",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077643",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "fencer-weapon-happy-body-pillow-70050000077643-switch-2"
+          "urlKey": "fencer-weapon-happiness-body-pillow-70050000077643-switch-2"
         },
         "Product:{\"sku\":\"7500077644\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -3010,7 +3360,7 @@
           "id": "70050000077644",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Fencer Support Device: Wild Skeleton",
+          "name": "Fencer Support Device: Wild Exoskeleton",
           "nsuid": "70050000077644",
           "platform": {
             "__typename": "Platform",
@@ -3027,24 +3377,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077644/e08600d8c561a609efdc1356f900f33325a553c569a16c8ec6b2ee0b0ea9f6b0",
+            "publicId": "store/software/switch2/70050000077644/c7d225765ba94c82f1b555a71bee0ad4544fc924dedbd22e1dc9dea0c41e0638",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077644",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "fencer-support-device-wild-skeleton-70050000077644-switch-2"
+          "urlKey": "fencer-support-device-wild-exoskeleton-70050000077644-switch-2"
         },
         "Product:{\"sku\":\"7500077645\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -3085,6 +3436,7 @@
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077645",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -3096,7 +3448,7 @@
         "Product:{\"sku\":\"7500077646\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -3114,7 +3466,7 @@
           "id": "70050000077646",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Air Raider Piloted Weapon: Combat Frame Phantasia Shield Nyx",
+          "name": "Air Raider Piloted Weapon: Powered Exoskeleton Nix Phantasia Shield",
           "nsuid": "70050000077646",
           "platform": {
             "__typename": "Platform",
@@ -3131,24 +3483,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077646/7ecbeffde6017ce8aa86258f654a108514496b1fc20aa2d4b52307f4c0f44c26",
+            "publicId": "store/software/switch2/70050000077646/e8888623be6afd8731a4e6ad55086cf157282985286fe07e07da9b87ce454c46",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077646",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "air-raider-piloted-weapon-combat-frame-phantasia-shield-nyx-70050000077646-switch-2"
+          "urlKey": "air-raider-piloted-weapon-powered-exoskeleton-nix-phantasia-shield-70050000077646-switch-2"
         },
         "Product:{\"sku\":\"7500077647\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -3166,7 +3519,7 @@
           "id": "70050000077647",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Air Raider Piloted Weapon: Blacker Number 5",
+          "name": "Air Raider Piloted Weapon: Blacker 5",
           "nsuid": "70050000077647",
           "platform": {
             "__typename": "Platform",
@@ -3183,24 +3536,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077647/798fc86233850487632e7d1c15d679a8e6a8c3b6add493ed7844e0ad7c7c0c45",
+            "publicId": "store/software/switch2/70050000077647/4f56a8578c27f1312010c6647d134c8771393dd4dbb60a10a9fc71492c5be51f",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077647",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "air-raider-piloted-weapon-blacker-number-5-70050000077647-switch-2"
+          "urlKey": "air-raider-piloted-weapon-blacker-5-70050000077647-switch-2"
         },
         "Product:{\"sku\":\"7500077648\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -3218,7 +3572,7 @@
           "id": "70050000077648",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Air Raider Vehicle: Caliban Armored Ambulance Joyful Marking",
+          "name": "Air Raider Vehicle: Caliban Armored Vehicle Happy Manager Logo",
           "nsuid": "70050000077648",
           "platform": {
             "__typename": "Platform",
@@ -3235,24 +3589,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077648/fa88de0c8767d2a765e5ed7baeaae9be43cd479ce62248937df8354dba8e3896",
+            "publicId": "store/software/switch2/70050000077648/d162229570bd6b4c0a017fbceb2a0295b2f063cd8933773d9d05fa1482626b21",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077648",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "air-raider-vehicle-caliban-armored-ambulance-joyful-marking-70050000077648-switch-2"
+          "urlKey": "air-raider-vehicle-caliban-armored-vehicle-happy-manager-logo-70050000077648-switch-2"
         },
         "Product:{\"sku\":\"7500077818\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -3270,7 +3625,7 @@
           "id": "70050000077818",
           "isSalableQty": true,
           "locale": "es_MX",
-          "name": "Wing Diver Support Device: Reverse Core S-Type",
+          "name": "Wing Diver Support Device: Reverse Core S",
           "nsuid": "70050000077818",
           "platform": {
             "__typename": "Platform",
@@ -3287,19 +3642,20 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70050000077818/21c2166871274f130d66ec2df94fa6310edc7ade457ab1b240384dbc02be85bc",
+            "publicId": "store/software/switch2/70050000077818/8839b0a12e6fb5b179ee713b53672d835e3c3e9ee599279f765a41d4a10e61e2",
             "resourceType": "image",
             "type": "upload"
           },
           "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077818",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "wing-diver-support-device-reverse-core-s-type-70050000077818-switch-2"
+          "urlKey": "wing-diver-support-device-reverse-core-s-70050000077818-switch-2"
         },
         "Product:{\"sku\":\"7100120966\"}": {
           "__typename": "Product",
@@ -3319,9 +3675,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "MXN",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 379.99,
-            "finalPrice": 341.99,
+            "finalPrice": 379.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3337,15 +3693,68 @@
           "url({\"relative\":true})": "/es-mx/store/products/earth-defense-force5-for-nintendo-switch-2-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MOTION_CONTROL",
+                "label": "Controles por movimiento"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "THIRD_PERSON",
+                "label": "Tercera persona"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Disparos"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperativo en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "LOCAL_CONNECTION",
+                "label": "Juntos en varias consolas"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "0400c23027834000",
           "appStoreUrl": null,
           "availability": [
-            "Reserva",
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -3360,7 +3769,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -3373,11 +3782,11 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": true,
+            "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000120966&v_loggedin=false&v_currency=MXN&v_price=341.99&v_country=MX",
-            "discountPriceEnd": "2026-10-08T06:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000120966&v_loggedin=false&v_currency=MXN&v_price=379.99&v_country=MX",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -3428,10 +3837,13 @@
             "__typename": "CloudinaryAsset",
             "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/90961646035a41eea86dad153420b0d0_1024"
           },
-          "publisherNotifications({\"html\":true})": "<p>◆Bonificaciones por reservación◆<br>・Wing Diver Weapon: Vulcaneer Cracker<br>・10 % de descuento<br><br>*Disponible únicamente para quienes realicen su reservación antes de las 11:59 p. m. del miércoles 7 de octubre de 2026.<br>◆Bonificación por compra anticipada◆<br>・Air Raider Piloted Weapon: Combat Frame Gold Nyx<br><br>*Este artículo está incluido únicamente para los clientes que realicen su compra antes de las 11:59 p. m. del miércoles 31 de marzo de 2027.</p>",
+          "publisherNotifications({\"html\":true})": "<p>◆Bonificación por compra anticipada◆<br>・Air Raider Piloted Weapon: Combat Frame Gold Nyx<br><br>*Este artículo está incluido únicamente para los clientes que realicen su compra antes de las 11:59 p. m. del miércoles 31 de marzo de 2027.</p>",
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7700038515\"}"
+            },
             {
               "__ref": "Product:{\"sku\":\"7500077649\"}"
             },
@@ -3561,11 +3973,14 @@
               "__ref": "ContentDescriptor:{\"id\":\"75B4I2gLY4RHeHDsjOlPVt\",\"locale\":\"es_MX\"}"
             },
             {
-              "__ref": "ContentDescriptor:{\"id\":\"8auA02XjplmSMwbqXQ9nE\",\"locale\":\"es_MX\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"5fdo2nJX0gGeON0j5OmoXW\",\"locale\":\"es_MX\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"7xVbeumm2S41jkjtkn78oU\",\"locale\":\"es_MX\"}"
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"6ojm8A6Y0npS1Dsp147Xq3\",\"locale\":\"es_MX\"}"
+            "__ref": "ContentRating:{\"id\":\"72HXGRIz9PoVNjb77GfbgW\",\"locale\":\"es_MX\"}"
           },
           "headline": "Levántate y lucha por la humanidad.",
           "id": "70010000120966",
@@ -3613,6 +4028,12 @@
             }
           ],
           "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000120966/Video/c04e59ce144d0552dd55ffb73a0ba48a1be1c8053f417d5d4067032dac5e8471",
+              "resourceType": "video",
+              "type": "upload"
+            },
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000120966/25d7fb873777d4c194dc2ef664d985342c20b4bcd8f309f15c9d5b8dc9ef980f",
@@ -3670,9 +4091,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "MXN",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 479.99,
-            "finalPrice": 431.99,
+            "finalPrice": 479.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3697,22 +4118,29 @@
           "label": "Sangre",
           "type": "CONTENT_DESCRIPTOR"
         },
-        "ContentDescriptor:{\"id\":\"8auA02XjplmSMwbqXQ9nE\",\"locale\":\"es_MX\"}": {
+        "ContentDescriptor:{\"id\":\"5fdo2nJX0gGeON0j5OmoXW\",\"locale\":\"es_MX\"}": {
           "__typename": "ContentDescriptor",
-          "id": "8auA02XjplmSMwbqXQ9nE",
+          "id": "5fdo2nJX0gGeON0j5OmoXW",
           "locale": "es_MX",
-          "label": "Violencia intensa",
+          "label": "Lenguaje",
           "type": "CONTENT_DESCRIPTOR"
         },
-        "ContentRating:{\"id\":\"6ojm8A6Y0npS1Dsp147Xq3\",\"locale\":\"es_MX\"}": {
-          "__typename": "ContentRating",
-          "id": "6ojm8A6Y0npS1Dsp147Xq3",
+        "ContentDescriptor:{\"id\":\"7xVbeumm2S41jkjtkn78oU\",\"locale\":\"es_MX\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "7xVbeumm2S41jkjtkn78oU",
           "locale": "es_MX",
-          "code": "c",
-          "label": "Adultos +18 Años",
-          "requiresAgeGate": true,
+          "label": "Violencia",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentRating:{\"id\":\"72HXGRIz9PoVNjb77GfbgW\",\"locale\":\"es_MX\"}": {
+          "__typename": "ContentRating",
+          "id": "72HXGRIz9PoVNjb77GfbgW",
+          "locale": "es_MX",
+          "code": "b15",
+          "label": "+15 Años",
+          "requiresAgeGate": false,
           "system": "SMEC",
-          "order": 18,
+          "order": 15,
           "highestRating": null
         },
         "ROOT_QUERY": {
@@ -3729,7 +4157,7 @@
   "query": {
     "slug": "earth-defense-force5-for-nintendo-switch-2-switch-2"
   },
-  "buildId": "DQLRCOEcd3OuhO5VzGreC",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

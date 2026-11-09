@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "The Relic: First Guardian para Nintendo Switch 2 - Sitio Oficial de Nintendo para Chile",
         "description": "Compra The Relic: First Guardian para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2514,9 +2571,30 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/role-playing-games",
+          "label": "Juego de rol"
+        },
+        {
+          "url": "/store/games/tags/open-world-games",
+          "label": "Libertad de movimiento"
+        },
+        {
+          "url": "/store/games/tags/raise-your-stats-games",
+          "label": "Mejora tus atributos"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Personajes con voz"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2"
       },
       "linkedData": [
         {
@@ -2531,7 +2609,7 @@
             "@type": "Offer",
             "url": "/es-cl/store/products/the-relic-first-guardian-switch-2/",
             "priceCurrency": "CLP",
-            "price": "32577.00",
+            "price": "21175.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2572,56 +2650,64 @@
             "@type": "ImageObject",
             "name": "The Relic: First Guardian gallery item 0",
             "description": "The Relic: First Guardian gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2",
             "uploadDate": "2026-10-09T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "The Relic: First Guardian gallery item 1",
             "description": "The Relic: First Guardian gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/148efe112ed10f7c7a90750d803d9fc2a6dab38efa10c105d71b6b0c79042057",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/148efe112ed10f7c7a90750d803d9fc2a6dab38efa10c105d71b6b0c79042057",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000127896/Video/3a685f0b37d557593222500bd17f276b86006dc8a6399b44d516eba67f29b585",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000127896/Video/3a685f0b37d557593222500bd17f276b86006dc8a6399b44d516eba67f29b585",
             "uploadDate": "2026-10-09T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Relic: First Guardian gallery item 2",
             "description": "The Relic: First Guardian gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/6fe2d87a255bf92b0d5cc21181927170ee3829ad861dd1f5c0e73f7646e60296",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/6fe2d87a255bf92b0d5cc21181927170ee3829ad861dd1f5c0e73f7646e60296",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/148efe112ed10f7c7a90750d803d9fc2a6dab38efa10c105d71b6b0c79042057",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/148efe112ed10f7c7a90750d803d9fc2a6dab38efa10c105d71b6b0c79042057",
             "uploadDate": "2026-10-09T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Relic: First Guardian gallery item 3",
             "description": "The Relic: First Guardian gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/46daa05957ffe63a9c95c46795a637cb8a94bef621d4c4a095ef12ed8ed8de73",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/46daa05957ffe63a9c95c46795a637cb8a94bef621d4c4a095ef12ed8ed8de73",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/6fe2d87a255bf92b0d5cc21181927170ee3829ad861dd1f5c0e73f7646e60296",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/6fe2d87a255bf92b0d5cc21181927170ee3829ad861dd1f5c0e73f7646e60296",
             "uploadDate": "2026-10-09T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Relic: First Guardian gallery item 4",
             "description": "The Relic: First Guardian gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/305208f751a5490b292ce8f9951bc6a4e819925980ff7060bc97ecffa6cd3bb5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/305208f751a5490b292ce8f9951bc6a4e819925980ff7060bc97ecffa6cd3bb5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/6e8842cbb0c8c9140897af5b905aa43635e6ba0bddecc79472c337fa32be616d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/6e8842cbb0c8c9140897af5b905aa43635e6ba0bddecc79472c337fa32be616d",
             "uploadDate": "2026-10-09T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Relic: First Guardian gallery item 5",
             "description": "The Relic: First Guardian gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/17886234b580f30a14206f6d341ca236ac5c424b4739a09b6bfc44ccfd40fc85",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/17886234b580f30a14206f6d341ca236ac5c424b4739a09b6bfc44ccfd40fc85",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/305208f751a5490b292ce8f9951bc6a4e819925980ff7060bc97ecffa6cd3bb5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/305208f751a5490b292ce8f9951bc6a4e819925980ff7060bc97ecffa6cd3bb5",
             "uploadDate": "2026-10-09T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Relic: First Guardian gallery item 6",
             "description": "The Relic: First Guardian gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/5031e20283ee12fab9416e6a872ddbb2d4d2ea3be7ad83a14c2ca53a6574d8c3",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127896/5031e20283ee12fab9416e6a872ddbb2d4d2ea3be7ad83a14c2ca53a6574d8c3",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/bb32328ab148a59c9a47f54616806235e8fb542cf76a8dc66dfc360b5ca1487a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/bb32328ab148a59c9a47f54616806235e8fb542cf76a8dc66dfc360b5ca1487a",
+            "uploadDate": "2026-10-09T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "The Relic: First Guardian gallery item 7",
+            "description": "The Relic: First Guardian gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/5031e20283ee12fab9416e6a872ddbb2d4d2ea3be7ad83a14c2ca53a6574d8c3",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127896/5031e20283ee12fab9416e6a872ddbb2d4d2ea3be7ad83a14c2ca53a6574d8c3",
             "uploadDate": "2026-10-09T00:00:00.000Z"
           }
         ],
@@ -2665,6 +2751,59 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "Product:{\"sku\":\"7500081434\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000081434",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "The Night of the Unextinguished Flame DLC",
+          "nsuid": "70050000081434",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CLP",
+            "discounted": false,
+            "regularPrice": 9301,
+            "finalPrice": 9301,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000081434/e440ab2fc99ae83ed19802fab36f2d8c6b0e422691099a2ab0138ef0d86a5a58",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-09T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500081434",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "the-night-of-the-unextinguished-flame-dlc-70050000081434-switch-2"
+        },
         "Product:{\"sku\":\"7100127896\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2683,9 +2822,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CLP",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 32577,
-            "finalPrice": 32577,
+            "finalPrice": 21175,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2701,14 +2840,42 @@
           "url({\"relative\":true})": "/es-cl/store/products/the-relic-first-guardian-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "RUN_AROUND",
+                "label": "Libertad de movimiento"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Mejora tus atributos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "Juego de rol"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400fd5028a0e000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2723,7 +2890,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2737,10 +2904,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000127896&v_loggedin=false&v_currency=CLP&v_price=21175.00&v_country=CL",
+            "discountPriceEnd": "2026-11-13T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2784,7 +2951,11 @@
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
-          "downloadableContents": [],
+          "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7500081434\"}"
+            }
+          ],
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
@@ -2912,6 +3083,12 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000127896/Video/3a685f0b37d557593222500bd17f276b86006dc8a6399b44d516eba67f29b585",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000127896/148efe112ed10f7c7a90750d803d9fc2a6dab38efa10c105d71b6b0c79042057",
               "resourceType": "image",
               "type": "upload"
@@ -2924,7 +3101,7 @@
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000127896/46daa05957ffe63a9c95c46795a637cb8a94bef621d4c4a095ef12ed8ed8de73",
+              "publicId": "store/software/switch2/70010000127896/6e8842cbb0c8c9140897af5b905aa43635e6ba0bddecc79472c337fa32be616d",
               "resourceType": "image",
               "type": "upload"
             },
@@ -2936,7 +3113,7 @@
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000127896/17886234b580f30a14206f6d341ca236ac5c424b4739a09b6bfc44ccfd40fc85",
+              "publicId": "store/software/switch2/70010000127896/bb32328ab148a59c9a47f54616806235e8fb542cf76a8dc66dfc360b5ca1487a",
               "resourceType": "image",
               "type": "upload"
             },
@@ -2987,9 +3164,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CLP",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 41761,
-            "finalPrice": 32490,
+            "finalPrice": 41761,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3053,7 +3230,7 @@
   "query": {
     "slug": "the-relic-first-guardian-switch-2"
   },
-  "buildId": "Fe4Jjdjck2zFQNntuq1z6",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

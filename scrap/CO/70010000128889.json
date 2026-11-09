@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Piece by Piece para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
         "description": "Compra Piece by Piece para Nintendo Switch en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2516,7 +2573,7 @@
       "merchBanner": null,
       "customProductTags": [],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/82ac2b6a53c6a0b423c7ca899883bce50dadc2c3c47c3665e94473a65c6e7b67"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/82ac2b6a53c6a0b423c7ca899883bce50dadc2c3c47c3665e94473a65c6e7b67"
       },
       "linkedData": [
         {
@@ -2572,64 +2629,64 @@
             "@type": "ImageObject",
             "name": "Piece by Piece gallery item 0",
             "description": "Piece by Piece gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/82ac2b6a53c6a0b423c7ca899883bce50dadc2c3c47c3665e94473a65c6e7b67",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/82ac2b6a53c6a0b423c7ca899883bce50dadc2c3c47c3665e94473a65c6e7b67",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/82ac2b6a53c6a0b423c7ca899883bce50dadc2c3c47c3665e94473a65c6e7b67",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/82ac2b6a53c6a0b423c7ca899883bce50dadc2c3c47c3665e94473a65c6e7b67",
             "uploadDate": "2026-11-25T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "Piece by Piece gallery item 1",
             "description": "Piece by Piece gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch/70010000128889/Video/8f6c6f9e00ac0048d916e70f0a0e8141e93c13ad76e69afaa5d83ef470a79ad1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch/70010000128889/Video/8f6c6f9e00ac0048d916e70f0a0e8141e93c13ad76e69afaa5d83ef470a79ad1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000128889/Video/8f6c6f9e00ac0048d916e70f0a0e8141e93c13ad76e69afaa5d83ef470a79ad1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000128889/Video/8f6c6f9e00ac0048d916e70f0a0e8141e93c13ad76e69afaa5d83ef470a79ad1",
             "uploadDate": "2026-11-25T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Piece by Piece gallery item 2",
             "description": "Piece by Piece gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/8203e5309cb7e784a3a1361894a6bced7bfef77c8abbca1a96a22f7fbdd3ac85",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/8203e5309cb7e784a3a1361894a6bced7bfef77c8abbca1a96a22f7fbdd3ac85",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/8203e5309cb7e784a3a1361894a6bced7bfef77c8abbca1a96a22f7fbdd3ac85",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/8203e5309cb7e784a3a1361894a6bced7bfef77c8abbca1a96a22f7fbdd3ac85",
             "uploadDate": "2026-11-25T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Piece by Piece gallery item 3",
             "description": "Piece by Piece gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/b19bc425dacb082c06da7f59b8c421fcdbf4c69789a350e58b04bbecb78981da",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/b19bc425dacb082c06da7f59b8c421fcdbf4c69789a350e58b04bbecb78981da",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/b19bc425dacb082c06da7f59b8c421fcdbf4c69789a350e58b04bbecb78981da",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/b19bc425dacb082c06da7f59b8c421fcdbf4c69789a350e58b04bbecb78981da",
             "uploadDate": "2026-11-25T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Piece by Piece gallery item 4",
             "description": "Piece by Piece gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/ec6a68241071073b0db5b71db2183da656d33aea5cdc18683eea8fc749791fb2",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/ec6a68241071073b0db5b71db2183da656d33aea5cdc18683eea8fc749791fb2",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/ec6a68241071073b0db5b71db2183da656d33aea5cdc18683eea8fc749791fb2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/ec6a68241071073b0db5b71db2183da656d33aea5cdc18683eea8fc749791fb2",
             "uploadDate": "2026-11-25T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Piece by Piece gallery item 5",
             "description": "Piece by Piece gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/0e6b945238428a06b32f3272fe0c694fd8046a21d55845dd563e3733c0e95436",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/0e6b945238428a06b32f3272fe0c694fd8046a21d55845dd563e3733c0e95436",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/0e6b945238428a06b32f3272fe0c694fd8046a21d55845dd563e3733c0e95436",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/0e6b945238428a06b32f3272fe0c694fd8046a21d55845dd563e3733c0e95436",
             "uploadDate": "2026-11-25T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Piece by Piece gallery item 6",
             "description": "Piece by Piece gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/fb6d96ddc903626241812f79b93ee99e170a1aaf196432c57fd2a9d6c8e54662",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/fb6d96ddc903626241812f79b93ee99e170a1aaf196432c57fd2a9d6c8e54662",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/fb6d96ddc903626241812f79b93ee99e170a1aaf196432c57fd2a9d6c8e54662",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/fb6d96ddc903626241812f79b93ee99e170a1aaf196432c57fd2a9d6c8e54662",
             "uploadDate": "2026-11-25T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Piece by Piece gallery item 7",
             "description": "Piece by Piece gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/98f91b5482a1b2e3f54570dec6fe147a3b82eeeefbad03480cbd9126e25f6c5e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128889/98f91b5482a1b2e3f54570dec6fe147a3b82eeeefbad03480cbd9126e25f6c5e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/98f91b5482a1b2e3f54570dec6fe147a3b82eeeefbad03480cbd9126e25f6c5e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000128889/98f91b5482a1b2e3f54570dec6fe147a3b82eeeefbad03480cbd9126e25f6c5e",
             "uploadDate": "2026-11-25T00:00:00.000Z"
           }
         ],
@@ -2719,6 +2776,7 @@
             "genres": [],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0100c1e028c1c000",
           "appStoreUrl": null,
           "availability": [
@@ -2737,7 +2795,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2989,7 +3047,7 @@
   "query": {
     "slug": "piece-by-piece-70010000128889-switch"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

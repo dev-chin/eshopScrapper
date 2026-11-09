@@ -170,24 +170,49 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "4ofhXnH4mIoRulsWhxPz6",
-              "label": "Metroid™ Ravenous",
-              "caption": "",
-              "url": "/store/products/metroid-ravenous-switch-2/",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
                 "type": "upload",
-                "bytes": 2728371,
-                "width": 1646,
-                "format": "png",
-                "height": 926,
-                "version": 1788968467,
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
                 "metadata": {},
-                "public_id": "ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead",
-                "created_at": "2026-09-09T15:41:07Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -504,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -566,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -597,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1208,7 +1264,10 @@
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1259,7 +1318,10 @@
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1390,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1566,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1714,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2399,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Shape of Dreams para Nintendo Switch 2 - Sitio Oficial de Nintendo para Argentina",
         "description": "Compra Shape of Dreams para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2487,7 +2606,7 @@
         }
       ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/54ca1a70cf7e044c2f4af0b10fe08ca063c52d151ee5af42dee75fc3fb0eb7ed"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/54ca1a70cf7e044c2f4af0b10fe08ca063c52d151ee5af42dee75fc3fb0eb7ed"
       },
       "linkedData": [
         {
@@ -2502,7 +2621,7 @@
             "@type": "Offer",
             "url": "/es-ar/store/products/shape-of-dreams-switch-2/",
             "priceCurrency": "ARS",
-            "price": "26799.20",
+            "price": "33499.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2543,56 +2662,56 @@
             "@type": "ImageObject",
             "name": "Shape of Dreams gallery item 0",
             "description": "Shape of Dreams gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/54ca1a70cf7e044c2f4af0b10fe08ca063c52d151ee5af42dee75fc3fb0eb7ed",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/54ca1a70cf7e044c2f4af0b10fe08ca063c52d151ee5af42dee75fc3fb0eb7ed",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/54ca1a70cf7e044c2f4af0b10fe08ca063c52d151ee5af42dee75fc3fb0eb7ed",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/54ca1a70cf7e044c2f4af0b10fe08ca063c52d151ee5af42dee75fc3fb0eb7ed",
             "uploadDate": "2026-09-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Shape of Dreams gallery item 1",
             "description": "Shape of Dreams gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/52ba19362e31298c2102421c7bcb3fe16199eeab4554246dd17f973a7dde6784",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/52ba19362e31298c2102421c7bcb3fe16199eeab4554246dd17f973a7dde6784",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/52ba19362e31298c2102421c7bcb3fe16199eeab4554246dd17f973a7dde6784",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/52ba19362e31298c2102421c7bcb3fe16199eeab4554246dd17f973a7dde6784",
             "uploadDate": "2026-09-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Shape of Dreams gallery item 2",
             "description": "Shape of Dreams gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/2b4141756c672c739da3ccade96147b46d27bbe395c997d483b37d34d1fc02e9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/2b4141756c672c739da3ccade96147b46d27bbe395c997d483b37d34d1fc02e9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/2b4141756c672c739da3ccade96147b46d27bbe395c997d483b37d34d1fc02e9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/2b4141756c672c739da3ccade96147b46d27bbe395c997d483b37d34d1fc02e9",
             "uploadDate": "2026-09-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Shape of Dreams gallery item 3",
             "description": "Shape of Dreams gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/d488c3de8bb0cc69cff37c5f9a0c09e6224f5321031d89a7f4d5c74321a902c5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/d488c3de8bb0cc69cff37c5f9a0c09e6224f5321031d89a7f4d5c74321a902c5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/d488c3de8bb0cc69cff37c5f9a0c09e6224f5321031d89a7f4d5c74321a902c5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/d488c3de8bb0cc69cff37c5f9a0c09e6224f5321031d89a7f4d5c74321a902c5",
             "uploadDate": "2026-09-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Shape of Dreams gallery item 4",
             "description": "Shape of Dreams gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/5def7e5cf632bb5d5d00d13ea8afbea65afb1a2b8b9c00436f3154b0d822e8b1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/5def7e5cf632bb5d5d00d13ea8afbea65afb1a2b8b9c00436f3154b0d822e8b1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/5def7e5cf632bb5d5d00d13ea8afbea65afb1a2b8b9c00436f3154b0d822e8b1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/5def7e5cf632bb5d5d00d13ea8afbea65afb1a2b8b9c00436f3154b0d822e8b1",
             "uploadDate": "2026-09-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Shape of Dreams gallery item 5",
             "description": "Shape of Dreams gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/ff3ad75ffe2723b72f93c799bb577d184b1310d54b05a2897da99acd01ef9f74",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/ff3ad75ffe2723b72f93c799bb577d184b1310d54b05a2897da99acd01ef9f74",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/ff3ad75ffe2723b72f93c799bb577d184b1310d54b05a2897da99acd01ef9f74",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/ff3ad75ffe2723b72f93c799bb577d184b1310d54b05a2897da99acd01ef9f74",
             "uploadDate": "2026-09-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Shape of Dreams gallery item 6",
             "description": "Shape of Dreams gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/02000ee71c93dd372d3f34411a095896f7e1404ef0fffacbbf41ac65536cb55f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000118404/02000ee71c93dd372d3f34411a095896f7e1404ef0fffacbbf41ac65536cb55f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/02000ee71c93dd372d3f34411a095896f7e1404ef0fffacbbf41ac65536cb55f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000118404/02000ee71c93dd372d3f34411a095896f7e1404ef0fffacbbf41ac65536cb55f",
             "uploadDate": "2026-09-17T00:00:00.000Z"
           }
         ],
@@ -2654,9 +2773,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "ARS",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 33499,
-            "finalPrice": 26799.2,
+            "finalPrice": 33499,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2719,10 +2838,10 @@
               }
             ]
           },
+          "accessibilityTags": null,
           "applicationId": "04009a60272ca000",
           "appStoreUrl": null,
           "availability": [
-            "Nuevos lanzamientos",
             "Disponible ya"
           ],
           "baseSoftware": [],
@@ -2738,11 +2857,11 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
-          "description({\"html\":true})": "<p>Shape of Dreams es un roguelite de acción que combina combates hack-and-slash, juego en equipo inspirado en los MOBA y decisiones estratégicas.<br>Viaja por mundos muy distintos, desde lava ardiente y montañas azotadas por tormentas de nieve hasta un cosmos lleno de estrellas.<br>Esquiva los ataques de hordas de enemigos y supera cada combate con skill shots precisos y decisiones rápidas.<br>En solitario, enfrenta desafíos intensos centrados en tu habilidad.<br>En el modo cooperativo de hasta 4 jugadores, experimenta poderosas sinergias creadas por la combinación de distintos estilos de combate.<br>Combina habilidades y mejoras en constante cambio para abrir tu propio camino de progresión y desafía el mundo de los sueños de una nueva manera.<br>No hay dos desafíos iguales, y ningún build o estrategia fija te llevará siempre a la victoria.<br><br><br>9 Viajeros, cada uno con un estilo de combate distinto<br><br>Desde rápidos ataques cuerpo a cuerpo y skill shots precisos hasta ataques de gran alcance y estilos de juego de apoyo para los aliados,<br>cada Viajero encara el combate de una manera diferente.<br>Crea tu build en torno al estilo de combate del Viajero que elijas y enfrenta a tus enemigos de una forma nueva en cada partida.<br><br><br>Solo y cooperativo, dos formas de luchar<br><br>Al jugar en solitario, esquiva los ataques de hordas de enemigos, acierta tus habilidades con precisión y completa tu propio build a través de tus decisiones y elecciones.<br>En el modo cooperativo de hasta 4 jugadores, el combate se vuelve aún más variado.<br>Cuando las habilidades y los builds de distintos Viajeros se combinan, surgen poderosas combinaciones y sinergias explosivas que serían imposibles de crear en solitario.<br><br><br>Crea tu propio build<br><br>Aprovecha opciones en constante cambio para modificar tus ataques, fortalecer tus habilidades y descubrir combinaciones inesperadas.<br>Incluso si eliges al mismo Viajero, el build que completes puede dar lugar a un estilo de combate totalmente diferente.<br>No existe una única respuesta correcta.<br>Construye tu propia estrategia a partir de las opciones disponibles en cada partida y enfrenta desafíos que parecen imposibles.<br><br><br>Un mundo de sueños lleno de variables<br><br>El mundo de los sueños está lleno de nuevas opciones y variables en cada partida.<br>Cuatro niveles de dificultad, combates contra jefes únicos y modificadores de Sueño Lúcido exigen tácticas y decisiones de build diferentes cada vez que juegas.<br>En lugar de repetir un camino familiar, prueba nuevas combinaciones que se adapten a las situaciones cambiantes de cada partida.<br>Mientras más juegues, más estrategias poderosas descubrirás para abrirte paso por el mundo de los sueños a tu manera.<br>El sueño te espera.</p>",
+          "description({\"html\":true})": "<p>Shape of Dreams es un roguelite de acción que combina combates hack-and-slash, juego en equipo al estilo MOBA y decisiones estratégicas.<br>Viaja por mundos variados, desde campos de lava ardiente y montañas cubiertas por tormentas de nieve hasta un cosmos lleno de estrellas.<br>Esquiva oleadas de enemigos, usa tus habilidades con precisión y supera cada batalla con decisiones rápidas.<br>En solitario, enfréntate a un desafío intenso centrado en tu habilidad.<br>En cooperativo de hasta 4 jugadores, vive poderosas sinergias cuando distintos estilos de combate se combinan.<br>Combina habilidades y mejoras que cambian constantemente para abrir tu propio camino de progresión y desafiar el mundo de los sueños de una forma nueva.<br>Ningún desafío es igual a otro, y ningún build o estrategia fija te llevará siempre a la victoria.<br><br>9 Viajeros, cada uno con un estilo de combate distinto<br><br>Desde ataques rápidos cuerpo a cuerpo y habilidades de precisión hasta ataques de gran área y estilos de apoyo, cada Viajero encara el combate de una manera diferente.<br>Crea tu build en torno al estilo de combate del Viajero que elijas y enfrenta a tus enemigos de una forma nueva en cada partida.<br><br>Solo y cooperativo, dos formas de luchar<br><br>En solitario, esquiva los ataques enemigos, usa tus habilidades con precisión y moldea tu build a través de tus propias decisiones.<br>En cooperativo de hasta 4 jugadores, el combate se vuelve todavía más variado.<br>Cuando las habilidades y builds de distintos Viajeros se combinan, surgen combinaciones poderosas y sinergias explosivas que serían imposibles de crear en solitario.<br><br>Crea tu propio build<br><br>Usa opciones que cambian constantemente para modificar tus ataques, potenciar tus habilidades y descubrir combinaciones inesperadas.<br>Incluso con el mismo Viajero, el build que crees puede llevarte a un estilo de combate completamente distinto.<br>No existe una única respuesta correcta.<br>Construye tu estrategia a partir de las opciones que aparecen en cada partida y enfréntate a desafíos que parecen imposibles.<br><br>Un mundo de sueños en constante cambio<br><br>El mundo de los sueños está lleno de factores que cambian constantemente.<br>Cuatro niveles de dificultad, jefes únicos y modificadores de sueño lúcido exigen tácticas y decisiones de build diferentes en cada partida.<br>En lugar de seguir siempre el mismo camino conocido, prueba nuevas combinaciones que se adapten a cada situación.<br>Cuanto más juegues, más estrategias poderosas descubrirás para abrirte paso por el mundo de los sueños a tu manera.<br>El sueño te espera.</p>",
           "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) y una cuenta Nintendo para el juego en línea. No está disponible en todos los países. Se requiere una conexión a internet para acceder a los servicios en línea. Aplican términos.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>© NEOWIZ & Lizard Smoothie Co., Ltd All rights reserved.</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
@@ -2754,8 +2873,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000118404&v_loggedin=false&v_currency=ARS&v_price=26799.20&v_country=AR",
-            "discountPriceEnd": "2026-10-01T10:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000118404&v_loggedin=false&v_currency=ARS&v_price=33499.00&v_country=AR",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -2792,7 +2911,7 @@
               "label": "4+"
             }
           },
-          "description": "Shape of Dreams es un roguelite de acción que combina combates hack-and-slash, juego en equipo inspirado en los MOBA y decisiones estratégicas.\nViaja por mundos muy distintos, desde lava ardiente y montañas azotadas por tormentas de nieve hasta un cosmos lleno de estrellas.\nEsquiva los ataques de hordas de enemigos y supera cada combate con skill shots precisos y decisiones rápidas.\nEn solitario, enfrenta desafíos intensos centrados en tu habilidad.\nEn el modo cooperativo de hasta 4 jugadores, experimenta poderosas sinergias creadas por la combinación de distintos estilos de combate.\nCombina habilidades y mejoras en constante cambio para abrir tu propio camino de progresión y desafía el mundo de los sueños de una nueva manera.\nNo hay dos desafíos iguales, y ningún build o estrategia fija te llevará siempre a la victoria.\n\n\n9 Viajeros, cada uno con un estilo de combate distinto\n\nDesde rápidos ataques cuerpo a cuerpo y skill shots precisos hasta ataques de gran alcance y estilos de juego de apoyo para los aliados,\ncada Viajero encara el combate de una manera diferente.\nCrea tu build en torno al estilo de combate del Viajero que elijas y enfrenta a tus enemigos de una forma nueva en cada partida.\n\n\nSolo y cooperativo, dos formas de luchar\n\nAl jugar en solitario, esquiva los ataques de hordas de enemigos, acierta tus habilidades con precisión y completa tu propio build a través de tus decisiones y elecciones.\nEn el modo cooperativo de hasta 4 jugadores, el combate se vuelve aún más variado.\nCuando las habilidades y los builds de distintos Viajeros se combinan, surgen poderosas combinaciones y sinergias explosivas que serían imposibles de crear en solitario.\n\n\nCrea tu propio build\n\nAprovecha opciones en constante cambio para modificar tus ataques, fortalecer tus habilidades y descubrir combinaciones inesperadas.\nIncluso si eliges al mismo Viajero, el build que completes puede dar lugar a un estilo de combate totalmente diferente.\nNo existe una única respuesta correcta.\nConstruye tu propia estrategia a partir de las opciones disponibles en cada partida y enfrenta desafíos que parecen imposibles.\n\n\nUn mundo de sueños lleno de variables\n\nEl mundo de los sueños está lleno de nuevas opciones y variables en cada partida.\nCuatro niveles de dificultad, combates contra jefes únicos y modificadores de Sueño Lúcido exigen tácticas y decisiones de build diferentes cada vez que juegas.\nEn lugar de repetir un camino familiar, prueba nuevas combinaciones que se adapten a las situaciones cambiantes de cada partida.\nMientras más juegues, más estrategias poderosas descubrirás para abrirte paso por el mundo de los sueños a tu manera.\nEl sueño te espera.",
+          "description": "Shape of Dreams es un roguelite de acción que combina combates hack-and-slash, juego en equipo al estilo MOBA y decisiones estratégicas.\nViaja por mundos variados, desde campos de lava ardiente y montañas cubiertas por tormentas de nieve hasta un cosmos lleno de estrellas.\nEsquiva oleadas de enemigos, usa tus habilidades con precisión y supera cada batalla con decisiones rápidas.\nEn solitario, enfréntate a un desafío intenso centrado en tu habilidad.\nEn cooperativo de hasta 4 jugadores, vive poderosas sinergias cuando distintos estilos de combate se combinan.\nCombina habilidades y mejoras que cambian constantemente para abrir tu propio camino de progresión y desafiar el mundo de los sueños de una forma nueva.\nNingún desafío es igual a otro, y ningún build o estrategia fija te llevará siempre a la victoria.\n\n9 Viajeros, cada uno con un estilo de combate distinto\n\nDesde ataques rápidos cuerpo a cuerpo y habilidades de precisión hasta ataques de gran área y estilos de apoyo, cada Viajero encara el combate de una manera diferente.\nCrea tu build en torno al estilo de combate del Viajero que elijas y enfrenta a tus enemigos de una forma nueva en cada partida.\n\nSolo y cooperativo, dos formas de luchar\n\nEn solitario, esquiva los ataques enemigos, usa tus habilidades con precisión y moldea tu build a través de tus propias decisiones.\nEn cooperativo de hasta 4 jugadores, el combate se vuelve todavía más variado.\nCuando las habilidades y builds de distintos Viajeros se combinan, surgen combinaciones poderosas y sinergias explosivas que serían imposibles de crear en solitario.\n\nCrea tu propio build\n\nUsa opciones que cambian constantemente para modificar tus ataques, potenciar tus habilidades y descubrir combinaciones inesperadas.\nIncluso con el mismo Viajero, el build que crees puede llevarte a un estilo de combate completamente distinto.\nNo existe una única respuesta correcta.\nConstruye tu estrategia a partir de las opciones que aparecen en cada partida y enfréntate a desafíos que parecen imposibles.\n\nUn mundo de sueños en constante cambio\n\nEl mundo de los sueños está lleno de factores que cambian constantemente.\nCuatro niveles de dificultad, jefes únicos y modificadores de sueño lúcido exigen tácticas y decisiones de build diferentes en cada partida.\nEn lugar de seguir siempre el mismo camino conocido, prueba nuevas combinaciones que se adapten a cada situación.\nCuanto más juegues, más estrategias poderosas descubrirás para abrirte paso por el mundo de los sueños a tu manera.\nEl sueño te espera.",
           "playerCountDescription": null,
           "platinumPoints": null,
           "prePurchase": null,
@@ -2801,7 +2920,7 @@
             "__typename": "CloudinaryAsset",
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000118404/d38703934cdac590e8906bf01022a1bcfdb83cb582a6a5030830edbc658d9e64"
           },
-          "publisherNotifications({\"html\":true})": null,
+          "publisherNotifications({\"html\":true})": "<p>¡Ha llegado un regalo especial para todos los Viajeros que se preparan para una nueva aventura!<br><br>Compra Shape of Dreams ahora y recibe el atuendo “Lacerta Destello carmesí” como bonificación de lanzamiento.<br><br>Periodo: hasta el 31 de diciembre de 2026<br>* El periodo está sujeto a cambios, y avisaremos si se realiza alguna modificación.<br><br>¡Embárcate en un viaje por el mundo de los sueños con Lacerta, vestida de un llamativo color carmesí!</p>",
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [],
@@ -2832,7 +2951,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "2147483648",
-                "totalRomSize": "3131047936",
+                "totalRomSize": "3132096512",
                 "platform": "BEE"
               }
             ]
@@ -2877,7 +2996,7 @@
           "contentRating": {
             "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"es_AR\"}"
           },
-          "headline": "Destroza la realidad en este roguelite de acción. Combate en solitario o en cooperativo de hasta 4 jugadores.",
+          "headline": "Shatter reality in this action roguelite. Solo or 4-player co-op combat.",
           "id": "70010000118404",
           "localeAlternates": [],
           "nsoFeatures": [
@@ -3025,7 +3144,7 @@
   "query": {
     "slug": "shape-of-dreams-switch-2"
   },
-  "buildId": "TZGIYDeCHHCgGEZ9uwm7X",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

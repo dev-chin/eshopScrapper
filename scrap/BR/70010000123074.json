@@ -529,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -591,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -1427,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1597,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1745,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2430,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Xadrez dos Cinco Elementos para Nintendo Switch - Site Oficial da Nintendo para Brasil",
         "description": "Compre Xadrez dos Cinco Elementos para Nintendo Switch na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2514,7 +2602,7 @@
         }
       ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/b1d16b6f97f54d9d44afbac2b539082bb196c4cee4379fea8169da2aa8829c78"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/b1d16b6f97f54d9d44afbac2b539082bb196c4cee4379fea8169da2aa8829c78"
       },
       "linkedData": [
         {
@@ -2529,7 +2617,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/five-elements-chess-switch/",
             "priceCurrency": "BRL",
-            "price": "42.49",
+            "price": "49.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2558,7 +2646,7 @@
             "maxValue": 2,
             "unitText": "players"
           },
-          "contentRating": "Livre",
+          "contentRating": "Não recomendado para menores de dez anos",
           "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123074/b1d16b6f97f54d9d44afbac2b539082bb196c4cee4379fea8169da2aa8829c78",
           "publisher": {
             "@type": "Organization",
@@ -2570,64 +2658,64 @@
             "@type": "ImageObject",
             "name": "Xadrez dos Cinco Elementos gallery item 0",
             "description": "Xadrez dos Cinco Elementos gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/b1d16b6f97f54d9d44afbac2b539082bb196c4cee4379fea8169da2aa8829c78",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/b1d16b6f97f54d9d44afbac2b539082bb196c4cee4379fea8169da2aa8829c78",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/b1d16b6f97f54d9d44afbac2b539082bb196c4cee4379fea8169da2aa8829c78",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/b1d16b6f97f54d9d44afbac2b539082bb196c4cee4379fea8169da2aa8829c78",
             "uploadDate": "2026-09-29T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "Xadrez dos Cinco Elementos gallery item 1",
             "description": "Xadrez dos Cinco Elementos gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch/70010000123074/Video/015c8cbc3778adf200c27520957f1338a3611e0f03a1a86b93e77fb410f1f54e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch/70010000123074/Video/015c8cbc3778adf200c27520957f1338a3611e0f03a1a86b93e77fb410f1f54e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000123074/Video/1895d5792956fb6658f87bf02e3d53ee7110381b6b8e85feff31f8d35534159a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000123074/Video/1895d5792956fb6658f87bf02e3d53ee7110381b6b8e85feff31f8d35534159a",
             "uploadDate": "2026-09-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Xadrez dos Cinco Elementos gallery item 2",
             "description": "Xadrez dos Cinco Elementos gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/a8780d475d6db6f35101c4fedc77776d66a9b786ee095aab2c6299960f265091",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/a8780d475d6db6f35101c4fedc77776d66a9b786ee095aab2c6299960f265091",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/a8780d475d6db6f35101c4fedc77776d66a9b786ee095aab2c6299960f265091",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/a8780d475d6db6f35101c4fedc77776d66a9b786ee095aab2c6299960f265091",
             "uploadDate": "2026-09-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Xadrez dos Cinco Elementos gallery item 3",
             "description": "Xadrez dos Cinco Elementos gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/3e56af97094ec1b190d591095b791366f952f5d1c02148394eb518e00e3cd3ad",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/3e56af97094ec1b190d591095b791366f952f5d1c02148394eb518e00e3cd3ad",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/3e56af97094ec1b190d591095b791366f952f5d1c02148394eb518e00e3cd3ad",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/3e56af97094ec1b190d591095b791366f952f5d1c02148394eb518e00e3cd3ad",
             "uploadDate": "2026-09-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Xadrez dos Cinco Elementos gallery item 4",
             "description": "Xadrez dos Cinco Elementos gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/cd27ff97d392abe121ca3da176739c4695da141359d648685885797b673f14a1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/cd27ff97d392abe121ca3da176739c4695da141359d648685885797b673f14a1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/cd27ff97d392abe121ca3da176739c4695da141359d648685885797b673f14a1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/cd27ff97d392abe121ca3da176739c4695da141359d648685885797b673f14a1",
             "uploadDate": "2026-09-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Xadrez dos Cinco Elementos gallery item 5",
             "description": "Xadrez dos Cinco Elementos gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/f46bbfdc114ee20ecb1d31147e2c28d55369b5ff0cbdd0773c903b8ec0bd928d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/f46bbfdc114ee20ecb1d31147e2c28d55369b5ff0cbdd0773c903b8ec0bd928d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/f46bbfdc114ee20ecb1d31147e2c28d55369b5ff0cbdd0773c903b8ec0bd928d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/f46bbfdc114ee20ecb1d31147e2c28d55369b5ff0cbdd0773c903b8ec0bd928d",
             "uploadDate": "2026-09-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Xadrez dos Cinco Elementos gallery item 6",
             "description": "Xadrez dos Cinco Elementos gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/2d1d91a402bd20af91d1367d67747f2496e86aca651c86efac00b1132c61b8b9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/2d1d91a402bd20af91d1367d67747f2496e86aca651c86efac00b1132c61b8b9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/2d1d91a402bd20af91d1367d67747f2496e86aca651c86efac00b1132c61b8b9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/2d1d91a402bd20af91d1367d67747f2496e86aca651c86efac00b1132c61b8b9",
             "uploadDate": "2026-09-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Xadrez dos Cinco Elementos gallery item 7",
             "description": "Xadrez dos Cinco Elementos gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/a7a77de0032e2bf445a97fe768ea2b9eb826cd29aa74d317579deb1278d0f30a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123074/a7a77de0032e2bf445a97fe768ea2b9eb826cd29aa74d317579deb1278d0f30a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/a7a77de0032e2bf445a97fe768ea2b9eb826cd29aa74d317579deb1278d0f30a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000123074/a7a77de0032e2bf445a97fe768ea2b9eb826cd29aa74d317579deb1278d0f30a",
             "uploadDate": "2026-09-29T00:00:00.000Z"
           }
         ],
@@ -2695,9 +2783,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 49.99,
-            "finalPrice": 42.49,
+            "finalPrice": 49.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2755,10 +2843,10 @@
               }
             ]
           },
+          "accessibilityTags": null,
           "applicationId": "01006cf027d5c000",
           "appStoreUrl": null,
           "availability": [
-            "Novos lançamentos",
             "Já disponivel"
           ],
           "baseSoftware": [],
@@ -2774,7 +2862,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2790,8 +2878,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000123074&v_loggedin=false&v_currency=BRL&v_price=42.49&v_country=BR",
-            "discountPriceEnd": "2026-10-14T06:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000123074&v_loggedin=false&v_currency=BRL&v_price=49.99&v_country=BR",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -2862,13 +2950,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "367001600",
-                "totalRomSize": "363855872",
+                "totalRomSize": "499122176",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "363855872",
+                "totalRomSize": "499122176",
                 "platform": "BEE"
               }
             ]
@@ -2905,7 +2993,7 @@
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
           },
           "headline": "Match-3 dos Cinco Elementos Duelo de feitiços",
           "id": "70010000123074",
@@ -2950,7 +3038,7 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000123074/Video/015c8cbc3778adf200c27520957f1338a3611e0f03a1a86b93e77fb410f1f54e",
+              "publicId": "/store/software/switch/70010000123074/Video/1895d5792956fb6658f87bf02e3d53ee7110381b6b8e85feff31f8d35534159a",
               "resourceType": "video",
               "type": "upload"
             },
@@ -3021,15 +3109,15 @@
           "label": "Violência",
           "type": "CONTENT_DESCRIPTOR"
         },
-        "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}": {
+        "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}": {
           "__typename": "ContentRating",
-          "id": "iUuAOjCUcLd4OIchPuRmz",
+          "id": "24uuBIBLmgMf3GWO9Ezg7W",
           "locale": "pt_BR",
-          "code": "livre",
-          "label": "Livre",
+          "code": "e10",
+          "label": "Não recomendado para menores de dez anos",
           "requiresAgeGate": false,
           "system": "CLASSIND",
-          "order": 0,
+          "order": 10,
           "highestRating": null
         },
         "ROOT_QUERY": {
@@ -3046,7 +3134,7 @@
   "query": {
     "slug": "five-elements-chess-switch"
   },
-  "buildId": "Fe4Jjdjck2zFQNntuq1z6",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

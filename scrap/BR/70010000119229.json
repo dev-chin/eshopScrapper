@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Cities: Skylines - Expanded Edition para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Cities: Skylines - Expanded Edition para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2514,9 +2571,18 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/simulation-games",
+          "label": "Simulação"
+        },
+        {
+          "url": "/store/games/tags/build-and-create-games",
+          "label": "Crie e jogue"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/23f300bdb4fc3d4b84de9ca14ce0b8b82b20bc35e4848dba22642f7b9fe213b0"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/23f300bdb4fc3d4b84de9ca14ce0b8b82b20bc35e4848dba22642f7b9fe213b0"
       },
       "linkedData": [
         {
@@ -2531,7 +2597,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/cities-skylines-expanded-edition-switch-2/",
             "priceCurrency": "BRL",
-            "price": "185.99",
+            "price": "167.39",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2572,64 +2638,64 @@
             "@type": "ImageObject",
             "name": "Cities: Skylines - Expanded Edition gallery item 0",
             "description": "Cities: Skylines - Expanded Edition gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/23f300bdb4fc3d4b84de9ca14ce0b8b82b20bc35e4848dba22642f7b9fe213b0",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/23f300bdb4fc3d4b84de9ca14ce0b8b82b20bc35e4848dba22642f7b9fe213b0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/23f300bdb4fc3d4b84de9ca14ce0b8b82b20bc35e4848dba22642f7b9fe213b0",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/23f300bdb4fc3d4b84de9ca14ce0b8b82b20bc35e4848dba22642f7b9fe213b0",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "Cities: Skylines - Expanded Edition gallery item 1",
             "description": "Cities: Skylines - Expanded Edition gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000119229/Video/0835c908812d3f11aefcca66d7d9f95f09399e90766599afbe94a4173004c8a0",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000119229/Video/0835c908812d3f11aefcca66d7d9f95f09399e90766599afbe94a4173004c8a0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000119229/Video/0835c908812d3f11aefcca66d7d9f95f09399e90766599afbe94a4173004c8a0",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000119229/Video/0835c908812d3f11aefcca66d7d9f95f09399e90766599afbe94a4173004c8a0",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cities: Skylines - Expanded Edition gallery item 2",
             "description": "Cities: Skylines - Expanded Edition gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/f1a7e3c527622d7884384ad4472991bb84c1374dd7a43ab52d050d5634915f08",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/f1a7e3c527622d7884384ad4472991bb84c1374dd7a43ab52d050d5634915f08",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/f1a7e3c527622d7884384ad4472991bb84c1374dd7a43ab52d050d5634915f08",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/f1a7e3c527622d7884384ad4472991bb84c1374dd7a43ab52d050d5634915f08",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cities: Skylines - Expanded Edition gallery item 3",
             "description": "Cities: Skylines - Expanded Edition gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/baeb8d498d8e786a38ccbd47df7fb10330e91622566ac19dc5f8c41681a968cb",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/baeb8d498d8e786a38ccbd47df7fb10330e91622566ac19dc5f8c41681a968cb",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/baeb8d498d8e786a38ccbd47df7fb10330e91622566ac19dc5f8c41681a968cb",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/baeb8d498d8e786a38ccbd47df7fb10330e91622566ac19dc5f8c41681a968cb",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cities: Skylines - Expanded Edition gallery item 4",
             "description": "Cities: Skylines - Expanded Edition gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/eac61e2b57e5e493de83a573fae2c168b25e9f8fbb2d08ab07a26bbe70e50d0f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/eac61e2b57e5e493de83a573fae2c168b25e9f8fbb2d08ab07a26bbe70e50d0f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/eac61e2b57e5e493de83a573fae2c168b25e9f8fbb2d08ab07a26bbe70e50d0f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/eac61e2b57e5e493de83a573fae2c168b25e9f8fbb2d08ab07a26bbe70e50d0f",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cities: Skylines - Expanded Edition gallery item 5",
             "description": "Cities: Skylines - Expanded Edition gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/7fd74de9ee784340294df13a9c2738ff70e5843766909e7112c95f2ab71d8b38",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/7fd74de9ee784340294df13a9c2738ff70e5843766909e7112c95f2ab71d8b38",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/7fd74de9ee784340294df13a9c2738ff70e5843766909e7112c95f2ab71d8b38",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/7fd74de9ee784340294df13a9c2738ff70e5843766909e7112c95f2ab71d8b38",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cities: Skylines - Expanded Edition gallery item 6",
             "description": "Cities: Skylines - Expanded Edition gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/c9a35b9270c16d5db9028c6819455c6db8c6a87996cb7eaf909d6cec842cbafa",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/c9a35b9270c16d5db9028c6819455c6db8c6a87996cb7eaf909d6cec842cbafa",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/c9a35b9270c16d5db9028c6819455c6db8c6a87996cb7eaf909d6cec842cbafa",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/c9a35b9270c16d5db9028c6819455c6db8c6a87996cb7eaf909d6cec842cbafa",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cities: Skylines - Expanded Edition gallery item 7",
             "description": "Cities: Skylines - Expanded Edition gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/3b800340c0f1d020e92d50c27c21a8beddc49d211c8416d44eedc41a4133347d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119229/3b800340c0f1d020e92d50c27c21a8beddc49d211c8416d44eedc41a4133347d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/3b800340c0f1d020e92d50c27c21a8beddc49d211c8416d44eedc41a4133347d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119229/3b800340c0f1d020e92d50c27c21a8beddc49d211c8416d44eedc41a4133347d",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           }
         ],
@@ -2691,9 +2757,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 185.99,
-            "finalPrice": 185.99,
+            "finalPrice": 167.39,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2709,14 +2775,28 @@
           "url({\"relative\":true})": "/pt-br/store/products/cities-skylines-expanded-edition-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CRAFT_PLAY",
+                "label": "Crie e jogue"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulação"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400e5602748e000",
           "appStoreUrl": null,
           "availability": [
-            "Em breve"
+            "Novos lançamentos",
+            "Já disponivel"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2731,7 +2811,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2745,10 +2825,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000119229&v_loggedin=false&v_currency=BRL&v_price=167.39&v_country=BR",
+            "discountPriceEnd": "2026-11-11T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2993,7 +3073,7 @@
   "query": {
     "slug": "cities-skylines-expanded-edition-switch-2"
   },
-  "buildId": "jHQcHQb0hHeIDSf7L2_BE",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

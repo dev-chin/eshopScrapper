@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Waltz and Jam para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Waltz and Jam para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2516,7 +2573,7 @@
       "merchBanner": null,
       "customProductTags": [],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda"
       },
       "linkedData": [
         {
@@ -2572,56 +2629,64 @@
             "@type": "ImageObject",
             "name": "Waltz and Jam gallery item 0",
             "description": "Waltz and Jam gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda",
             "uploadDate": "2026-12-03T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Waltz and Jam gallery item 1",
             "description": "Waltz and Jam gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/1eec5156227ab85a3842f42a3c8cc15fcf3d7130ffa5eab10f3f0b36ccc64014",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/1eec5156227ab85a3842f42a3c8cc15fcf3d7130ffa5eab10f3f0b36ccc64014",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000126596/Video/04cc3150313f22616fc5b68add1f381d51a44fe5538b7f1ba01616c04b24648a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000126596/Video/04cc3150313f22616fc5b68add1f381d51a44fe5538b7f1ba01616c04b24648a",
             "uploadDate": "2026-12-03T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Waltz and Jam gallery item 2",
             "description": "Waltz and Jam gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/c1fde51ff106c3d522fbfdf505fe3b2b57a4a183e6e1f818ca753aa25397c21d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/c1fde51ff106c3d522fbfdf505fe3b2b57a4a183e6e1f818ca753aa25397c21d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/1eec5156227ab85a3842f42a3c8cc15fcf3d7130ffa5eab10f3f0b36ccc64014",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/1eec5156227ab85a3842f42a3c8cc15fcf3d7130ffa5eab10f3f0b36ccc64014",
             "uploadDate": "2026-12-03T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Waltz and Jam gallery item 3",
             "description": "Waltz and Jam gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/9c9c3b8512237a9840d9d986f794c19e5c4322da74960ba6a0fe8fbc70ae7171",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/9c9c3b8512237a9840d9d986f794c19e5c4322da74960ba6a0fe8fbc70ae7171",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/c1fde51ff106c3d522fbfdf505fe3b2b57a4a183e6e1f818ca753aa25397c21d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/c1fde51ff106c3d522fbfdf505fe3b2b57a4a183e6e1f818ca753aa25397c21d",
             "uploadDate": "2026-12-03T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Waltz and Jam gallery item 4",
             "description": "Waltz and Jam gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/e74e101d73b3dd7ae04c099a96e3bb86f7e0d47d4e6567c40cb948f0c4c50f24",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/e74e101d73b3dd7ae04c099a96e3bb86f7e0d47d4e6567c40cb948f0c4c50f24",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/9c9c3b8512237a9840d9d986f794c19e5c4322da74960ba6a0fe8fbc70ae7171",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/9c9c3b8512237a9840d9d986f794c19e5c4322da74960ba6a0fe8fbc70ae7171",
             "uploadDate": "2026-12-03T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Waltz and Jam gallery item 5",
             "description": "Waltz and Jam gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/ed00d7b563f4ad98646be327236bc6dd501881dca7da42909215cb0df68c9eb8",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/ed00d7b563f4ad98646be327236bc6dd501881dca7da42909215cb0df68c9eb8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/e74e101d73b3dd7ae04c099a96e3bb86f7e0d47d4e6567c40cb948f0c4c50f24",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/e74e101d73b3dd7ae04c099a96e3bb86f7e0d47d4e6567c40cb948f0c4c50f24",
             "uploadDate": "2026-12-03T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Waltz and Jam gallery item 6",
             "description": "Waltz and Jam gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/346c7ec134809ae4a83ed431dc2fcf46e8ffdfefebd43db0e2c09c7ee451b763",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126596/346c7ec134809ae4a83ed431dc2fcf46e8ffdfefebd43db0e2c09c7ee451b763",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/ed00d7b563f4ad98646be327236bc6dd501881dca7da42909215cb0df68c9eb8",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/ed00d7b563f4ad98646be327236bc6dd501881dca7da42909215cb0df68c9eb8",
+            "uploadDate": "2026-12-03T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Waltz and Jam gallery item 7",
+            "description": "Waltz and Jam gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/346c7ec134809ae4a83ed431dc2fcf46e8ffdfefebd43db0e2c09c7ee451b763",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126596/346c7ec134809ae4a83ed431dc2fcf46e8ffdfefebd43db0e2c09c7ee451b763",
             "uploadDate": "2026-12-03T00:00:00.000Z"
           }
         ],
@@ -2705,6 +2770,7 @@
             "genres": [],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400d4002877c000",
           "appStoreUrl": null,
           "availability": [
@@ -2723,10 +2789,10 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
-          "demoNsuid": null,
+          "demoNsuid": "70030000026204",
           "description({\"html\":true})": "<p>Waltz and Jam é um jogo de ação e aventura em plataformas que acompanha Waltz, uma alma pura, e Jam, um adorável cachorro metamorfo. Aventure-se no além-vida, onde os sete pecados capitais foram reformulados como sete reinos coloridos. Solucione quebra-cabeças pelo mundo, derrote chefões poderosos e complete seu passe para entrar no Distrito Alto.<br><br>&lt;SETE PECADOS, SETE MUNDOS VIBRANTES&gt;<br><br>Siga o misterioso Orvo em sete mundos feitos à mão, recriações de cada um dos pecados capitais com seu estilo e tons específicos.<br>Seja um restaurante caótico, um castelo tomado por luz e sombras, ou um deserto que flui como um mar interminável, cada reino tem seu próprio visual, como se fossem páginas de um livro pintado à mão.<br>Descubra as histórias e os segredos escondidos em cada fresta, e resolva os quebra-cabeças de cada mundo para encontrar tesouros.<br>Mas tome cuidado! Sempre tem algo sinistro na próxima página.<br><br>&lt;JAM, SEU MELHOR AMIGO APÓS A MORTE&gt;<br><br>Jam é muito mais do que um filhote adorável. Ele é o melhor amigo de Waltz e um grande parceiro para esta jornada!<br>Transforme Jam em uma Bola d'Água Jam para quicar e molhar, ou em um Trampolim Jam para pular!<br>Combine as transformações mirabolantes de Jam com os brinquedos de Waltz, e nada poderá te impedir.<br>Com Jam ao seu lado, não há limites. Resolvam os quebra-cabeças e desbravem a escuridão juntos.<br><br>&lt;BRINQUEDOS CURIOSOS, NOVAS MANEIRAS DE JOGAR&gt;<br><br>Alguns brinquedos estão espalhados pelo mundo, apenas esperando alguém encontrá-los. Cada um deles contém um poder peculiar que pode ajudar Waltz em sua jornada.<br>Use-os com sabedoria para acionar mecanismos estranhos, abrir passagens secretas e despachar inimigos persistentes.<br>Cada brinquedo abre novas maneiras de explorar o mundo, e o caminho que você busca pode estar mais perto do que imagina.<br><br>&lt;BATALHAS COM CHEFÕES, UM DESAFIO EM CADA HISTÓRIA!&gt;<br><br>No fim de cada um dos sete mundos há um enorme chefão, consumido pelo pecado que representa.<br>Observe seus movimentos, procure uma abertura e use seus brinquedos, as transformações de Jam e o próprio ambiente para virar o jogo.<br>Supere cada desafio e receba o respectivo carimbo. A cada vitória, Waltz e Jam ficam mais próximos do Distrito Alto.</p>",
           "disclaimer": "<p>Uma assinatura do Nintendo Switch Online (vendida separadamente) é necessária para a funcionalidade de cópia de segurança na nuvem.</p><p>© 2026 FLYWAYGAMES, Inc. All rights reserved.</p>",
           "displayChokingHazard": null,
@@ -2885,6 +2951,12 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000126596/Video/04cc3150313f22616fc5b68add1f381d51a44fe5538b7f1ba01616c04b24648a",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000126596/1eec5156227ab85a3842f42a3c8cc15fcf3d7130ffa5eab10f3f0b36ccc64014",
               "resourceType": "image",
               "type": "upload"
@@ -2968,7 +3040,7 @@
   "query": {
     "slug": "waltz-and-jam-switch-2"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

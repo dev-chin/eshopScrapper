@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Plinko Plonko Plunko para Nintendo Switch - Sitio Oficial de Nintendo para Argentina",
         "description": "Compra Plinko Plonko Plunko para Nintendo Switch en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2516,7 +2573,7 @@
       "merchBanner": null,
       "customProductTags": [],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/d8dd2045b93a1bc8f6f146b51415c685997302516e4a309caa8ee718056e0afd"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/d8dd2045b93a1bc8f6f146b51415c685997302516e4a309caa8ee718056e0afd"
       },
       "linkedData": [
         {
@@ -2572,56 +2629,64 @@
             "@type": "ImageObject",
             "name": "Plinko Plonko Plunko gallery item 0",
             "description": "Plinko Plonko Plunko gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/d8dd2045b93a1bc8f6f146b51415c685997302516e4a309caa8ee718056e0afd",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/d8dd2045b93a1bc8f6f146b51415c685997302516e4a309caa8ee718056e0afd",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/d8dd2045b93a1bc8f6f146b51415c685997302516e4a309caa8ee718056e0afd",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/d8dd2045b93a1bc8f6f146b51415c685997302516e4a309caa8ee718056e0afd",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Plinko Plonko Plunko gallery item 1",
             "description": "Plinko Plonko Plunko gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/208dba4ca38a8d938bf39d0b9c3abaeb16873b27eab9f30d4961e4af028df989",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/208dba4ca38a8d938bf39d0b9c3abaeb16873b27eab9f30d4961e4af028df989",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000135733/Video/fde532bb98316ee5164132f628e7660e91b9141ff57f9c76f89aacb03bacbb5d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000135733/Video/fde532bb98316ee5164132f628e7660e91b9141ff57f9c76f89aacb03bacbb5d",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Plinko Plonko Plunko gallery item 2",
             "description": "Plinko Plonko Plunko gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/e01b8d8f457899ea714a52b7b46958f0ddcde15eb9085a9987cfa67ad28b2435",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/e01b8d8f457899ea714a52b7b46958f0ddcde15eb9085a9987cfa67ad28b2435",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/208dba4ca38a8d938bf39d0b9c3abaeb16873b27eab9f30d4961e4af028df989",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/208dba4ca38a8d938bf39d0b9c3abaeb16873b27eab9f30d4961e4af028df989",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Plinko Plonko Plunko gallery item 3",
             "description": "Plinko Plonko Plunko gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/50dd48d7439f58e003e557f587995810a8250cdf719035f7dbafd9df058bbc5c",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/50dd48d7439f58e003e557f587995810a8250cdf719035f7dbafd9df058bbc5c",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/e01b8d8f457899ea714a52b7b46958f0ddcde15eb9085a9987cfa67ad28b2435",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/e01b8d8f457899ea714a52b7b46958f0ddcde15eb9085a9987cfa67ad28b2435",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Plinko Plonko Plunko gallery item 4",
             "description": "Plinko Plonko Plunko gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/ef3fbdf5f442a2b6d3e121a97daa010e3a8c085963e60396b18ac56ca1f136f9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/ef3fbdf5f442a2b6d3e121a97daa010e3a8c085963e60396b18ac56ca1f136f9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/50dd48d7439f58e003e557f587995810a8250cdf719035f7dbafd9df058bbc5c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/50dd48d7439f58e003e557f587995810a8250cdf719035f7dbafd9df058bbc5c",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Plinko Plonko Plunko gallery item 5",
             "description": "Plinko Plonko Plunko gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/1868fe831ac0cfa5aaa051d287cca99a7c1796690e1c75c8dfbf0425522a3cbd",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/1868fe831ac0cfa5aaa051d287cca99a7c1796690e1c75c8dfbf0425522a3cbd",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/ef3fbdf5f442a2b6d3e121a97daa010e3a8c085963e60396b18ac56ca1f136f9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/ef3fbdf5f442a2b6d3e121a97daa010e3a8c085963e60396b18ac56ca1f136f9",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Plinko Plonko Plunko gallery item 6",
             "description": "Plinko Plonko Plunko gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/237cc19b399a30f124728316831745f4991f2d4d0d4aef3e5d10555c10730319",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135733/237cc19b399a30f124728316831745f4991f2d4d0d4aef3e5d10555c10730319",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/1868fe831ac0cfa5aaa051d287cca99a7c1796690e1c75c8dfbf0425522a3cbd",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/1868fe831ac0cfa5aaa051d287cca99a7c1796690e1c75c8dfbf0425522a3cbd",
+            "uploadDate": "2026-12-01T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Plinko Plonko Plunko gallery item 7",
+            "description": "Plinko Plonko Plunko gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/237cc19b399a30f124728316831745f4991f2d4d0d4aef3e5d10555c10730319",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000135733/237cc19b399a30f124728316831745f4991f2d4d0d4aef3e5d10555c10730319",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           }
         ],
@@ -2711,6 +2776,7 @@
             "genres": [],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0100873029e9a000",
           "appStoreUrl": null,
           "availability": [
@@ -2729,7 +2795,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2895,6 +2961,12 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000135733/Video/fde532bb98316ee5164132f628e7660e91b9141ff57f9c76f89aacb03bacbb5d",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000135733/208dba4ca38a8d938bf39d0b9c3abaeb16873b27eab9f30d4961e4af028df989",
               "resourceType": "image",
               "type": "upload"
@@ -2975,7 +3047,7 @@
   "query": {
     "slug": "plinko-plonko-plunko-switch"
   },
-  "buildId": "Fe4Jjdjck2zFQNntuq1z6",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

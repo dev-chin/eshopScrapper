@@ -170,24 +170,49 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "4ofhXnH4mIoRulsWhxPz6",
-              "label": "Metroid™ Ravenous",
-              "caption": "",
-              "url": "/store/products/metroid-ravenous-switch-2/",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
                 "type": "upload",
-                "bytes": 2728371,
-                "width": 1646,
-                "format": "png",
-                "height": 926,
-                "version": 1788968467,
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
                 "metadata": {},
-                "public_id": "ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead",
-                "created_at": "2026-09-09T15:41:07Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -504,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -566,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -597,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -619,7 +675,7 @@
                   "subItems": [],
                   "activeMatch": "",
                   "id": "zelda",
-                  "hideOnLocale": true,
+                  "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -1208,7 +1264,10 @@
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1259,7 +1318,10 @@
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1390,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1566,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1714,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2399,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Monster Hunter Wilds para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Monster Hunter Wilds para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2454,7 +2573,7 @@
       "merchBanner": null,
       "customProductTags": [],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/5cc769a61c646305041e9a10c884ae3c7900e01d6daacb603c50f0667f0bb49a"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/5cc769a61c646305041e9a10c884ae3c7900e01d6daacb603c50f0667f0bb49a"
       },
       "linkedData": [
         {
@@ -2469,7 +2588,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/monster-hunter-wilds-switch-2/",
             "priceCurrency": "BRL",
-            "price": "199.00",
+            "price": "149.25",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2510,56 +2629,64 @@
             "@type": "ImageObject",
             "name": "Monster Hunter Wilds gallery item 0",
             "description": "Monster Hunter Wilds gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/5cc769a61c646305041e9a10c884ae3c7900e01d6daacb603c50f0667f0bb49a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/5cc769a61c646305041e9a10c884ae3c7900e01d6daacb603c50f0667f0bb49a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/5cc769a61c646305041e9a10c884ae3c7900e01d6daacb603c50f0667f0bb49a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/5cc769a61c646305041e9a10c884ae3c7900e01d6daacb603c50f0667f0bb49a",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Monster Hunter Wilds gallery item 1",
             "description": "Monster Hunter Wilds gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/1572ee453b3f974417a869e508c1fbf10b25776c3ee28d05087d19467e981d6e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/1572ee453b3f974417a869e508c1fbf10b25776c3ee28d05087d19467e981d6e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000102602/Video/e46714c75ff008befe16fcc76ff0dd5b4a6f1953343644259e51deb4bb8e73a1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000102602/Video/e46714c75ff008befe16fcc76ff0dd5b4a6f1953343644259e51deb4bb8e73a1",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Monster Hunter Wilds gallery item 2",
             "description": "Monster Hunter Wilds gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/128fb92f79d050f5ac99797f9e1902ca974b15fa59471a27f3a4c81b230f0d13",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/128fb92f79d050f5ac99797f9e1902ca974b15fa59471a27f3a4c81b230f0d13",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/1572ee453b3f974417a869e508c1fbf10b25776c3ee28d05087d19467e981d6e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/1572ee453b3f974417a869e508c1fbf10b25776c3ee28d05087d19467e981d6e",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Monster Hunter Wilds gallery item 3",
             "description": "Monster Hunter Wilds gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/c00c2147a9a9cae723d01ad82a365702eebd21ca9a273cb6800afb3c5cc4c842",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/c00c2147a9a9cae723d01ad82a365702eebd21ca9a273cb6800afb3c5cc4c842",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/128fb92f79d050f5ac99797f9e1902ca974b15fa59471a27f3a4c81b230f0d13",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/128fb92f79d050f5ac99797f9e1902ca974b15fa59471a27f3a4c81b230f0d13",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Monster Hunter Wilds gallery item 4",
             "description": "Monster Hunter Wilds gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/393b7d43acae17adf12c693f689a2000d69160b366e7d7b75ab0722fd225ae32",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/393b7d43acae17adf12c693f689a2000d69160b366e7d7b75ab0722fd225ae32",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/c00c2147a9a9cae723d01ad82a365702eebd21ca9a273cb6800afb3c5cc4c842",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/c00c2147a9a9cae723d01ad82a365702eebd21ca9a273cb6800afb3c5cc4c842",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Monster Hunter Wilds gallery item 5",
             "description": "Monster Hunter Wilds gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/fd052f6fd26da1f2aa550890447db086dc738fcf0c40d11e050e792332394dce",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/fd052f6fd26da1f2aa550890447db086dc738fcf0c40d11e050e792332394dce",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/393b7d43acae17adf12c693f689a2000d69160b366e7d7b75ab0722fd225ae32",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/393b7d43acae17adf12c693f689a2000d69160b366e7d7b75ab0722fd225ae32",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Monster Hunter Wilds gallery item 6",
             "description": "Monster Hunter Wilds gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/68e3f5ca3b4ee6cdb4bc493296d717ede5e338dcbb1e7e40352172518b8ff553",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102602/68e3f5ca3b4ee6cdb4bc493296d717ede5e338dcbb1e7e40352172518b8ff553",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/fd052f6fd26da1f2aa550890447db086dc738fcf0c40d11e050e792332394dce",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/fd052f6fd26da1f2aa550890447db086dc738fcf0c40d11e050e792332394dce",
+            "uploadDate": "2026-12-04T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Monster Hunter Wilds gallery item 7",
+            "description": "Monster Hunter Wilds gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/68e3f5ca3b4ee6cdb4bc493296d717ede5e338dcbb1e7e40352172518b8ff553",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000102602/68e3f5ca3b4ee6cdb4bc493296d717ede5e338dcbb1e7e40352172518b8ff553",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           }
         ],
@@ -2603,6 +2730,59 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "Product:{\"sku\":\"7500078441\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Em breve"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078441",
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "name": "Monster Hunter Wilds — Coleção de Cosméticos",
+          "nsuid": "70050000078441",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 299,
+            "finalPrice": 299,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078441/2284d8f814d4e3ad498e5b68fe475b079893c78b941d7ca51dfbad9834f47ad1",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-12-04T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078441",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "monster-hunter-wilds-cosmetic-dlc-collection-70050000078441-switch-2"
+        },
         "Product:{\"sku\":\"7100102602\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2621,9 +2801,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 199,
-            "finalPrice": 199,
+            "finalPrice": 149.25,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2643,9 +2823,11 @@
             "genres": [],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "04000d2024a7c000",
           "appStoreUrl": null,
           "availability": [
+            "Reserve",
             "Em breve"
           ],
           "baseSoftware": [],
@@ -2661,10 +2843,10 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
-          "demoNsuid": null,
+          "demoNsuid": "70030000026056",
           "description({\"html\":true})": "<p>A força desenfreada da natureza corre selvagem e incansável, com ambientes se transformando drasticamente de um instante para o próximo.<br>Essa é uma história de monstros e humanos, e suas lutas para viver em harmonia em um mundo de dualidade.<br>Cumpra seu dever como caçador rastreando e derrotando poderosos monstros e forjando fortes armas e armaduras novas com os materiais que você coleta durante sua caçada, conforme desvenda a conexão entre as pessoas das Terras Proibidas e os locais que elas habitam.<br>A experiência de caça suprema espera por você em Monster Hunter Wilds.<br>História<br>Há alguns anos, um jovem garoto chamado Nata foi resgatado na fronteira das Terras Proibidas, uma região inexplorada que a Guilda ainda precisava investigar.<br>Depois de ouvir a história do garoto sobre sua fuga solitária de um monstro misterioso que atacou a vila dele, a Guilda organizou uma expedição para as Terras Proibidas para investigar.<br>Um Mundo Vivo<br>Ambientes dentro das Terras Proibidas mudam drasticamente com as variações constantes e repentinas do clima. Durante o terrível Pousio e a perigosa Inclemência, monstros ferozes sairão à caça em bandos, mas durante os períodos de Fartura, a vida selvagem é rica e abundante.<br>Monstros<br>Os monstros que habitam esses ambientes foram forçados a se adaptar às mudanças dinâmicas que ocorrem, usando suas características únicas para sobreviver e prosperar.<br>Caçada<br> Conforme o mundo ao redor muda, também mudam os caçadores e suas táticas. Não só os caçadores terão uma grande variedade de armas e armaduras para escolher, mas a própria arte da caça evoluiu, com caçadores aprendendo a antecipar o comportamento dos monstros e se familiarizando com o meio ambiente.<br>Personagens<br>De parceiros de caça a membros companheiros da expedição, você encontrará vários que irão ajudar você em sua jornada.</p>",
           "disclaimer": "<p>Uma assinatura Nintendo Switch Online (vendida separadamente) e uma conta Nintendo são necessárias para partidas online. Não disponível em todos os países. Acesso à internet é necessário para funcionalidades online. Termos se aplicam.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>*Este produto também está disponível como parte de um conjunto. Cuidado para fazer transações duplicadas.</p><p>©CAPCOM</p>",
           "displayChokingHazard": null,
@@ -2674,11 +2856,11 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPreorderable": true,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000102602&v_loggedin=false&v_currency=BRL&v_price=149.25&v_country=BR",
+            "discountPriceEnd": "2026-12-04T04:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2729,10 +2911,14 @@
             "__typename": "CloudinaryAsset",
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000102602/90d2c8d6cd4faf3af5fab5443afd19a06cb64aed05b9f2f23d4400fd5d38dac1"
           },
-          "publisherNotifications({\"html\":true})": null,
+          "publisherNotifications({\"html\":true})": "<p>Compre na pré-venda para receber um bônus!<br><br>【Bônus limitado】<br>Receba este conteúdo bônus comprando Monster Hunter Wilds na pré-venda:<br>●Conjunto de Armadura em Camadas: Cavaleiro da Guilda<br>●Talismã: Amuleto da Esperança<br><br>*O conteúdo de bônus listado acima pode estar disponível por meios alternativos em uma data posterior.</p>",
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
-          "downloadableContents": [],
+          "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7500078441\"}"
+            }
+          ],
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
@@ -2760,7 +2946,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "41943040000",
-                "totalRomSize": "253755392",
+                "totalRomSize": "39068893184",
                 "platform": "BEE"
               }
             ]
@@ -2768,7 +2954,7 @@
           "softwareDeveloper": null,
           "startShippingDate": null,
           "topLegalDisclaimer": null,
-          "upc": "TBD",
+          "upc": "0-13388-44017-7",
           "upsellProducts": null,
           "variations": [
             {
@@ -2786,6 +2972,23 @@
               ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7100102602\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700039585\"}"
               }
             }
           ],
@@ -2851,6 +3054,12 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000102602/Video/e46714c75ff008befe16fcc76ff0dd5b4a6f1953343644259e51deb4bb8e73a1",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000102602/1572ee453b3f974417a869e508c1fbf10b25776c3ee28d05087d19467e981d6e",
               "resourceType": "image",
               "type": "upload"
@@ -2912,6 +3121,44 @@
             "label": "Jogos"
           }
         },
+        "Product:{\"sku\":\"7700039585\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000039585",
+          "name": "Monster Hunter Wilds — Edição Gold",
+          "urlKey": "monster-hunter-wilds-gold-edition-switch-2",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "pt_BR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 410,
+            "finalPrice": 410,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000039585/b2a4049ee821063b6d123511afd56e1c312f8b9543f6064c7f7e1133c881814e"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700039585",
+          "url({\"relative\":true})": "/pt-br/store/products/monster-hunter-wilds-gold-edition-switch-2/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
         "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}": {
           "__typename": "ContentDescriptor",
           "id": "53jUD584Tx7hI4qBCCzqLI",
@@ -2965,7 +3212,7 @@
   "query": {
     "slug": "monster-hunter-wilds-switch-2"
   },
-  "buildId": "TZGIYDeCHHCgGEZ9uwm7X",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
