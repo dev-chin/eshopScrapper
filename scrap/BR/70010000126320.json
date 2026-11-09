@@ -17,6 +17,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/sales-and-deals/"
               },
               {
@@ -29,6 +30,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "https://www.nintendo.com/us/search/#q=resident+evil&p=1&cat=gme&sort=df"
               },
               {
@@ -41,6 +43,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/whatsnew/"
               },
               {
@@ -53,6 +56,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
               },
               {
@@ -65,6 +69,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "https://store.nintendo.com.br/games?_gl=1*1j2xw21*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NjE4JGozJGwwJGgyMDEyNzEwMzA1"
               },
               {
@@ -77,12 +82,148 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
               }
             ]
           },
-          "flyoverTrendingTopics": [],
-          "flyoverFeaturedPromos": [],
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Jogos imperdíveis",
+              "caption": "",
+              "url": "/store/showroom/must-play-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Jogos em promoção",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Jogos para o Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
             "7700037146",
             "7700038706",
@@ -388,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -450,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -481,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -503,7 +675,7 @@
                   "subItems": [],
                   "activeMatch": "",
                   "id": "zelda",
-                  "hideOnLocale": true,
+                  "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -1086,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1136,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1272,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1448,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1596,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2243,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2279,7 +2516,8 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": false,
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Mind Diver para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Mind Diver para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2348,7 +2586,7 @@
         }
       ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/605b09a9d7d5483a8121fb6d928367ca92beafaa6d9f6d47abf018dd098ec22a"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/605b09a9d7d5483a8121fb6d928367ca92beafaa6d9f6d47abf018dd098ec22a"
       },
       "linkedData": [
         {
@@ -2363,7 +2601,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/mind-diver-switch-2/",
             "priceCurrency": "BRL",
-            "price": "49.49",
+            "price": "54.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2392,7 +2630,7 @@
             "maxValue": null,
             "unitText": "players"
           },
-          "contentRating": "Não recomendado para menores de dez anos",
+          "contentRating": "Não recomendado para menores de quatorze anos",
           "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000126320/605b09a9d7d5483a8121fb6d928367ca92beafaa6d9f6d47abf018dd098ec22a",
           "publisher": {
             "@type": "Organization",
@@ -2404,56 +2642,56 @@
             "@type": "ImageObject",
             "name": "Mind Diver gallery item 0",
             "description": "Mind Diver gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/605b09a9d7d5483a8121fb6d928367ca92beafaa6d9f6d47abf018dd098ec22a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/605b09a9d7d5483a8121fb6d928367ca92beafaa6d9f6d47abf018dd098ec22a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/605b09a9d7d5483a8121fb6d928367ca92beafaa6d9f6d47abf018dd098ec22a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/605b09a9d7d5483a8121fb6d928367ca92beafaa6d9f6d47abf018dd098ec22a",
             "uploadDate": "2026-08-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mind Diver gallery item 1",
             "description": "Mind Diver gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/fb2c6e68666c98596735f17258d555354d79b861fc5b46366d330eeafda9a4e2",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/fb2c6e68666c98596735f17258d555354d79b861fc5b46366d330eeafda9a4e2",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/fb2c6e68666c98596735f17258d555354d79b861fc5b46366d330eeafda9a4e2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/fb2c6e68666c98596735f17258d555354d79b861fc5b46366d330eeafda9a4e2",
             "uploadDate": "2026-08-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mind Diver gallery item 2",
             "description": "Mind Diver gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/f28a1bbd0b4c2aefd71fdb6975becdc16c6e78436e2f2bba33a37d0158a4e584",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/f28a1bbd0b4c2aefd71fdb6975becdc16c6e78436e2f2bba33a37d0158a4e584",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/f28a1bbd0b4c2aefd71fdb6975becdc16c6e78436e2f2bba33a37d0158a4e584",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/f28a1bbd0b4c2aefd71fdb6975becdc16c6e78436e2f2bba33a37d0158a4e584",
             "uploadDate": "2026-08-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mind Diver gallery item 3",
             "description": "Mind Diver gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/63cfae0b3fc67d697ac12e5de5edef8eb051ef32730d39b23c7cbd668bc6255e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/63cfae0b3fc67d697ac12e5de5edef8eb051ef32730d39b23c7cbd668bc6255e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/63cfae0b3fc67d697ac12e5de5edef8eb051ef32730d39b23c7cbd668bc6255e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/63cfae0b3fc67d697ac12e5de5edef8eb051ef32730d39b23c7cbd668bc6255e",
             "uploadDate": "2026-08-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mind Diver gallery item 4",
             "description": "Mind Diver gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/e7f5b24a8faf21c3f50847145d0d2ff83b67cbe8ee9c9eb899d490ac84f27bef",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/e7f5b24a8faf21c3f50847145d0d2ff83b67cbe8ee9c9eb899d490ac84f27bef",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/e7f5b24a8faf21c3f50847145d0d2ff83b67cbe8ee9c9eb899d490ac84f27bef",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/e7f5b24a8faf21c3f50847145d0d2ff83b67cbe8ee9c9eb899d490ac84f27bef",
             "uploadDate": "2026-08-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mind Diver gallery item 5",
             "description": "Mind Diver gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/abd0641e6ef93343d21758c8efe0c422d87f9c7f3eb2930a09ba57b6ade20240",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/abd0641e6ef93343d21758c8efe0c422d87f9c7f3eb2930a09ba57b6ade20240",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/abd0641e6ef93343d21758c8efe0c422d87f9c7f3eb2930a09ba57b6ade20240",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/abd0641e6ef93343d21758c8efe0c422d87f9c7f3eb2930a09ba57b6ade20240",
             "uploadDate": "2026-08-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mind Diver gallery item 6",
             "description": "Mind Diver gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/4020062f51265ff70a332726c7970ac67655c35af59c6dc05663e434b577f4ab",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000126320/4020062f51265ff70a332726c7970ac67655c35af59c6dc05663e434b577f4ab",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/4020062f51265ff70a332726c7970ac67655c35af59c6dc05663e434b577f4ab",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000126320/4020062f51265ff70a332726c7970ac67655c35af59c6dc05663e434b577f4ab",
             "uploadDate": "2026-08-27T00:00:00.000Z"
           }
         ],
@@ -2515,9 +2753,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 54.99,
-            "finalPrice": 49.49,
+            "finalPrice": 54.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2554,10 +2792,10 @@
             ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "040027d028688000",
           "appStoreUrl": null,
           "availability": [
-            "Novos lançamentos",
             "Já disponivel"
           ],
           "baseSoftware": [],
@@ -2573,7 +2811,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2589,8 +2827,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000126320&v_loggedin=false&v_currency=BRL&v_price=49.49&v_country=BR",
-            "discountPriceEnd": "2026-09-10T06:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000126320&v_loggedin=false&v_currency=BRL&v_price=54.99&v_country=BR",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -2662,7 +2900,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "6815744000",
-                "totalRomSize": "6478102528",
+                "totalRomSize": "6490685440",
                 "platform": "BEE"
               }
             ]
@@ -2695,14 +2933,14 @@
           "backgroundColor": "041019",
           "contentDescriptors": [
             {
-              "__ref": "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"2wcgunipfqkNf5lLszuJ1n\",\"locale\":\"pt_BR\"}"
             },
             {
               "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
+            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
           },
           "headline": "Explore o oceano da mente para solucionar um estranho mistério",
           "id": "70010000126320",
@@ -2800,11 +3038,11 @@
             "label": "Jogos"
           }
         },
-        "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}": {
+        "ContentDescriptor:{\"id\":\"2wcgunipfqkNf5lLszuJ1n\",\"locale\":\"pt_BR\"}": {
           "__typename": "ContentDescriptor",
-          "id": "KkLQrHCCToJZKveG6gCBj",
+          "id": "2wcgunipfqkNf5lLszuJ1n",
           "locale": "pt_BR",
-          "label": "Drogas Lícitas",
+          "label": "Conteúdo Sexual",
           "type": "CONTENT_DESCRIPTOR"
         },
         "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}": {
@@ -2814,15 +3052,15 @@
           "label": "Linguagem Imprópria",
           "type": "CONTENT_DESCRIPTOR"
         },
-        "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}": {
+        "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}": {
           "__typename": "ContentRating",
-          "id": "24uuBIBLmgMf3GWO9Ezg7W",
+          "id": "78c8Cs44c3ZXpnrvKu1f2t",
           "locale": "pt_BR",
-          "code": "e10",
-          "label": "Não recomendado para menores de dez anos",
+          "code": "e14",
+          "label": "Não recomendado para menores de quatorze anos",
           "requiresAgeGate": false,
           "system": "CLASSIND",
-          "order": 10,
+          "order": 14,
           "highestRating": null
         },
         "ROOT_QUERY": {
@@ -2839,7 +3077,7 @@
   "query": {
     "slug": "mind-diver-switch-2"
   },
-  "buildId": "DQLRCOEcd3OuhO5VzGreC",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

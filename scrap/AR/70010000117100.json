@@ -17,19 +17,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/sales-and-deals/"
               },
               {
                 "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
                 "campaignId": "",
-                "label": "Nintendo Music",
+                "label": "Juegos con Resident Evil",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/switch/online/nintendo-switch-online/nintendo-music/"
+                "icon": "",
+                "url": "https://www.nintendo.com/es-ar/search/#q=Resident+Evil&p=1&cat=gme&sort=df"
               },
               {
                 "__contentType": "moduleCta",
@@ -41,6 +43,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/whatsnew/"
               },
               {
@@ -53,7 +56,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/games/mario-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Tarjeta de regalo digital para Nintendo eShop",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://store.nintendo.mx/games?_gl=1*9ejk6h*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NTYxJGo2MCRsMCRoMjAxMjcxMDMwNQ..*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3"
               },
               {
                 "__contentType": "moduleCta",
@@ -65,27 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Juegos de Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Juegos con Pokémon",
+              "caption": "",
+              "url": "/store/games/pokemon-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Juegos en oferta",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Juegos de Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
-            "7100122818",
-            "7100123167",
-            "7700035280",
-            "7100098973"
+            "7700037146",
+            "7700038706",
+            "7100122824",
+            "7700036603"
           ]
         },
         "navContent": {
@@ -386,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -448,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -479,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1084,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1134,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1270,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1446,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1562,9 +1784,9 @@
                 {
                   "__contentType": "menuItem",
                   "__entryId": "7FRKUQGXufpEgbOdwpqIxE",
-                  "label": "Responsabilidad social corporativa",
+                  "label": "Sostenibilidad",
                   "caption": "",
-                  "url": "https://www.nintendo.co.jp/csr/en-us/index.html",
+                  "url": "https://www.nintendo.co.jp/sustainability/en-us/index.html",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -1594,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2241,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2277,9 +2516,11 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "FINAL FANTASY RESONANCE para Nintendo Switch 2 - Sitio Oficial de Nintendo para Argentina",
-        "description": "Compra FINAL FANTASY RESONANCE y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial Nintendo Argentina.",
+        "description": "Compra FINAL FANTASY RESONANCE para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
         "canonicalUrl": "https://www.nintendo.com/es-ar/store/products/final-fantasy-resonance-switch-2/"
       },
       "analytics": {
@@ -2330,9 +2571,30 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/role-playing-games",
+          "label": "Juego de rol"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Arte pixelado"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Elige el nivel de dificultad"
+        },
+        {
+          "url": "/store/games/tags/raise-your-stats-games",
+          "label": "Mejora tus atributos"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Personajes con voz"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac"
       },
       "linkedData": [
         {
@@ -2341,7 +2603,7 @@
             "Product"
           ],
           "name": "FINAL FANTASY RESONANCE",
-          "description": "Compra FINAL FANTASY RESONANCE y encuentra otros excelentes productos de Nintendo en línea en la tienda oficial Nintendo Argentina.",
+          "description": "Compra FINAL FANTASY RESONANCE para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
           "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000117100/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac",
           "offers": {
             "@type": "Offer",
@@ -2388,64 +2650,64 @@
             "@type": "ImageObject",
             "name": "FINAL FANTASY RESONANCE gallery item 0",
             "description": "FINAL FANTASY RESONANCE gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "FINAL FANTASY RESONANCE gallery item 1",
             "description": "FINAL FANTASY RESONANCE gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000117100/Video/7b39c166f6009465e07f8ec0cf646ecd641a455935791f292bbd51358c4894f0",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000117100/Video/7b39c166f6009465e07f8ec0cf646ecd641a455935791f292bbd51358c4894f0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000117100/Video/7b39c166f6009465e07f8ec0cf646ecd641a455935791f292bbd51358c4894f0",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000117100/Video/7b39c166f6009465e07f8ec0cf646ecd641a455935791f292bbd51358c4894f0",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "FINAL FANTASY RESONANCE gallery item 2",
             "description": "FINAL FANTASY RESONANCE gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/34ee79b147d6fba61ce74c4efb0f8ac42890765253280d21c90ba94093d403a6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/34ee79b147d6fba61ce74c4efb0f8ac42890765253280d21c90ba94093d403a6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/34ee79b147d6fba61ce74c4efb0f8ac42890765253280d21c90ba94093d403a6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/34ee79b147d6fba61ce74c4efb0f8ac42890765253280d21c90ba94093d403a6",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "FINAL FANTASY RESONANCE gallery item 3",
             "description": "FINAL FANTASY RESONANCE gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/b75217192395f4a538c4d4456870a700295fa1eedf2d95c574a31d639bf06a45",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/b75217192395f4a538c4d4456870a700295fa1eedf2d95c574a31d639bf06a45",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/b75217192395f4a538c4d4456870a700295fa1eedf2d95c574a31d639bf06a45",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/b75217192395f4a538c4d4456870a700295fa1eedf2d95c574a31d639bf06a45",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "FINAL FANTASY RESONANCE gallery item 4",
             "description": "FINAL FANTASY RESONANCE gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/2a7d0115869090cc01b64dc3e8306cf6e8f61ad5f7bcd3fcd88548181404da3c",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/2a7d0115869090cc01b64dc3e8306cf6e8f61ad5f7bcd3fcd88548181404da3c",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/2a7d0115869090cc01b64dc3e8306cf6e8f61ad5f7bcd3fcd88548181404da3c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/2a7d0115869090cc01b64dc3e8306cf6e8f61ad5f7bcd3fcd88548181404da3c",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "FINAL FANTASY RESONANCE gallery item 5",
             "description": "FINAL FANTASY RESONANCE gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/23b04b077c6fe1cd1e2bb3f1f1f9e75e61fd6a76506427b3b2661f50cc0aba51",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/23b04b077c6fe1cd1e2bb3f1f1f9e75e61fd6a76506427b3b2661f50cc0aba51",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/23b04b077c6fe1cd1e2bb3f1f1f9e75e61fd6a76506427b3b2661f50cc0aba51",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/23b04b077c6fe1cd1e2bb3f1f1f9e75e61fd6a76506427b3b2661f50cc0aba51",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "FINAL FANTASY RESONANCE gallery item 6",
             "description": "FINAL FANTASY RESONANCE gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/8c2ce79a4d541248bcf28d97816e921ecaab967eed705f2bb03e23f643c5e419",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/8c2ce79a4d541248bcf28d97816e921ecaab967eed705f2bb03e23f643c5e419",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/8c2ce79a4d541248bcf28d97816e921ecaab967eed705f2bb03e23f643c5e419",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/8c2ce79a4d541248bcf28d97816e921ecaab967eed705f2bb03e23f643c5e419",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "FINAL FANTASY RESONANCE gallery item 7",
             "description": "FINAL FANTASY RESONANCE gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/d807e25b5a5acb0553bad1ea61b5b8a23d42734fe752d6402a39fc38e0c49951",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000117100/d807e25b5a5acb0553bad1ea61b5b8a23d42734fe752d6402a39fc38e0c49951",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/d807e25b5a5acb0553bad1ea61b5b8a23d42734fe752d6402a39fc38e0c49951",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000117100/d807e25b5a5acb0553bad1ea61b5b8a23d42734fe752d6402a39fc38e0c49951",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           }
         ],
@@ -2492,7 +2754,7 @@
         "Product:{\"sku\":\"7500072615\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2533,6 +2795,7 @@
           },
           "releaseDate": "2026-10-22T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500072615",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2577,15 +2840,42 @@
           "url({\"relative\":true})": "/es-ar/store/products/final-fantasy-resonance-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Mejora tus atributos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "Juego de rol"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400532026f18000",
           "appStoreUrl": null,
           "availability": [
-            "Reserva",
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2600,10 +2890,10 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
-          "demoNsuid": null,
+          "demoNsuid": "70030000024934",
           "description({\"html\":true})": "<p>Regresa al mundo en &quot;pixel art&quot; de FINAL FANTASY, evolucionado a partir de sus raíces clásicas. Viaja con compañeros unidos por el destino y recurre a Visiones que te ayudarán en combate para descubrir la verdad de una fuerza que amenaza con destruirlo todo. <br><br>◆ Escenas cinemáticas pixelizadas<br>¿Y si FINAL FANTASY hubiera seguido derribando las barreras del pixel art? El primer FINAL FANTASY en unirse a la lista de HD-2D, FINAL FANTASY RESONANCE, propone una experiencia visual impactante que se siente a la vez nostálgica y nueva, mejorada con ángulos de cámara dinámicos y modelos 3D pixelados que vuelven cada momento más dramático e inmersivo.<br><br>◆ El regreso a lo familiar<br>Esta aventura de rol clásica se desarrolla en un mundo lleno de elementos populares de FINAL FANTASY: aeronaves, cristales, esper y moguris se entrelazan en la trama de la historia, y mucho más.<br><br>◆ Batallas estratégicas por turnos<br>Aprovecha los puntos débiles de los enemigos para hacer que se tambaleen: rompe sus defensas para conseguir turnos extra y toma ventaja con ataques de resonancia poderosos en combates cinemáticos que tú defines con tus decisiones.<br><br>◆ Leyendas de FINAL FANTASY<br>Refuerza tu equipo con Visiones, ecos de los personajes populares de FINAL FANTASY que luchan a tu lado con habilidades y destrezas únicas para personalizar al máximo el grupo.<br><br>◆ Horas y horas de contenido secundario por descubrir<br>El mundo está lleno de secretos, como el espadachín errante Gilgamesh, un Coliseo con monstruos letales y recompensas a su altura, la Cámara de Armas con enemigos formidables atrapados dentro de armas legendarias, y un enfrentamiento contra el Arma Artema.</p>",
           "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) para utilizar la función de guardado de datos en la nube.</p><p>* Este juego solo es compatible con Nintendo Switch™ 2. Ten en cuenta que no se puede jugar en Nintendo Switch™.<br>* También hay una versión para Nintendo Switch™ del juego. Selecciona cuidadosamente la versión que necesites. <br>* No es posible transferir los datos guardados de la versión de Nintendo Switch™ 2 a la versión de Nintendo Switch™.<br>* No es posible transferir los datos guardados de la versión de Nintendo Switch™ a la versión de Nintendo Switch™ 2.</p><p>© SQUARE ENIX<br>LOGO ILLUSTRATION:© YOSHITAKA AMANO</p>",
           "displayChokingHazard": null,
@@ -2613,7 +2903,7 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": true,
+            "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
             "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000117100&v_loggedin=false&v_currency=ARS&v_price=69199.00&v_country=AR",
@@ -2658,7 +2948,7 @@
             "__typename": "CloudinaryAsset",
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000117100/aa9e3c398a075cc7f17856074cf4fc2e5fcda84af16ed1c60219596eee85e0a1"
           },
-          "publisherNotifications({\"html\":true})": "<p>Extra por reservar: Nave magitec y paquete inicial del escudero<br>Este conjunto contiene un objeto para que tu aeronave luzca como una nave magitec, junto con objetos útiles para ayudarte al principio de tu viaje.<br><br>Contenido del paquete: <br>• Llave de aeronave magitec x1<br>• Gran espada de caballero x1<br>• Peto de preparación x1 (aumenta en una cantidad determinada la EXP obtenida en combate)<br>• Esquirla de magicita x1<br>• Carpa x3<br>• Poción vaporizada x3<br><br>* Estos extras solo están disponibles para los clientes que reserven el producto; no para quienes lo compren después del lanzamiento. <br>* Cuando superes cierto punto en el juego, podrás recibir los objetos en el buzón que hay delante de la posada en Mitra. <br>* Para cambiar el aspecto de la aeronave, activa el Llave de aeronave magitec en la sección Objetos del menú principal. <br>Extra por compra anticipada: paquete de escudero<br>Este conjunto contiene objetos útiles para ayudarte al principio de tu viaje.<br><br>Contenido del paquete: <br>• Coraza bendecida x1 (aumenta en una cantidad determinada los guiles obtenidos)<br>• Éter vaporizado x1<br><br>* Estos extras solo están disponibles para los clientes que compren el producto antes del 5 de noviembre de 2026 a las 23:59, (PST). <br>* Cuando superes cierto punto en el juego, podrás recibir los objetos en el buzón que hay delante de la posada en Mitra. <br><br>* Este juego solo es compatible con Nintendo Switch™ 2. Ten en cuenta que no se puede jugar en Nintendo Switch™.<br>* También hay una versión para Nintendo Switch™ del juego. Selecciona cuidadosamente la versión que necesites. <br>* No es posible transferir los datos guardados de la versión de Nintendo Switch™ 2 a la versión de Nintendo Switch™.<br>* No es posible transferir los datos guardados de la versión de Nintendo Switch™ a la versión de Nintendo Switch™ 2.<br></p>",
+          "publisherNotifications({\"html\":true})": "<p>* Este juego solo es compatible con Nintendo Switch™ 2. Ten en cuenta que no se puede jugar en Nintendo Switch™.<br>* También hay una versión para Nintendo Switch™ del juego. Selecciona cuidadosamente la versión que necesites. <br>* No es posible transferir los datos guardados de la versión de Nintendo Switch™ 2 a la versión de Nintendo Switch™.<br>* No es posible transferir los datos guardados de la versión de Nintendo Switch™ a la versión de Nintendo Switch™ 2.<br></p>",
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [
@@ -2693,7 +2983,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "13631488000",
-                "totalRomSize": "81788928",
+                "totalRomSize": "12764315648",
                 "platform": "BEE"
               }
             ]
@@ -2945,7 +3235,7 @@
   "query": {
     "slug": "final-fantasy-resonance-switch-2"
   },
-  "buildId": "o2hIRPVZ1hp7vQAOzIPq2",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

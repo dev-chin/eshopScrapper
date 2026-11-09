@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Minecraft para Nintendo Switch 2 - Sitio Oficial de Nintendo para Chile",
         "description": "Compra Minecraft para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2513,10 +2570,227 @@
       ],
       "campaigns": [],
       "isEcApp": false,
-      "merchBanner": null,
-      "customProductTags": [],
+      "merchBanner": {
+        "CONTENT_TYPE": "promoRichTextCta",
+        "asset": {
+          "CONTENT_TYPE": "component_image",
+          "alt": null,
+          "caption": null,
+          "primary": {
+            "assetPath": "ncom/en_US/merchandising/Merch banners/3P/Minecraft_UC",
+            "resourceType": "image",
+            "dimensions": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        },
+        "background": {
+          "CONTENT_TYPE": "componentBackground",
+          "backgroundType": "linear-gradient(#ff9b82, #5f5bca)",
+          "backgroundCss": [
+            "background-image:",
+            "linear-gradient(#ff9b82, #5f5bca)",
+            ";background-color:",
+            "initial",
+            ";background-repeat:",
+            "no-repeat",
+            ";background-size:",
+            "cover",
+            ";"
+          ],
+          "backgroundTiled": false,
+          "color": "",
+          "repeat": "",
+          "position": "",
+          "parallax": false,
+          "textColor": "",
+          "bottomDivider": null,
+          "dividerRepeat": "",
+          "dividerPosition": "",
+          "image": "",
+          "videos": null,
+          "images": null,
+          "gradient": [
+            "#ff9b82",
+            "#5f5bca"
+          ],
+          "responsiveBg": "",
+          "lottie": null,
+          "overlay": "",
+          "mobileOverlay": "",
+          "slideshow": null
+        },
+        "ctaList": [
+          {
+            "CONTENT_TYPE": "componentCta",
+            "url": "/store/products/minecraft-ultimate-collection-switch-2/",
+            "label": "Acerca la edición definitiva digital de Minecraft"
+          }
+        ],
+        "heading": "¡Hora de mejorar!",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "¡Buenas noticias para quienes ya tienen una versión de Minecraft para Nintendo Switch™! Si tienes una copia digital, puedes actualizar gratis a ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "data": {
+                    "uri": "https://www.nintendo.com/store/products/minecraft-switch-2/"
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "la edición estándar digital de Minecraft",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": " para ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "data": {
+                    "uri": "https://www.nintendo.com/gaming-systems/switch-2/"
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "Nintendo Switch™ 2",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": " en la mayoría de regiones*.\n\nPara todos los jugadores (incluidos los que tenéis la versión física), si inicias Minecraft para Nintendo Switch en tu Nintendo Switch 2 entre el ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "27 de octubre de 2026 a las 9:00 (hora del Pacífico) y el 31 de enero de 2027 a las 9:00 PT",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": ", recibirás un mensaje dentro del juego que te invitará a actualizar a ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "data": {
+                    "uri": "https://www.nintendo.com/store/products/minecraft-ultimate-collection-switch-2/"
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "la edición definitiva digital de Minecraft",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": " para Nintendo Switch 2 con descuento. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "*Aunque a través de la Nintendo eShop y Nintendo Store",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "modifiers": [
+          "Content: Reverse"
+        ]
+      },
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/simulation-games",
+          "label": "Simulación"
+        },
+        {
+          "url": "/store/games/tags/build-and-create-games",
+          "label": "Crea y juega"
+        },
+        {
+          "url": "/store/games/tags/choose-your-own-path-games",
+          "label": "Elige tu propio camino"
+        },
+        {
+          "url": "/store/games/tags/first-or-third-person-games",
+          "label": "Juega en primera o tercera persona"
+        },
+        {
+          "url": "/store/games/tags/open-world-games",
+          "label": "Libertad de movimiento"
+        },
+        {
+          "url": "/store/games/tags/co-op-games",
+          "label": "Cooperativo en línea"
+        },
+        {
+          "url": "/store/games/tags/games-to-play-together-on-one-console",
+          "label": "Juntos en una consola"
+        },
+        {
+          "url": "/store/games/tags/play-together-on-multiple-consoles-games",
+          "label": "Juntos en varias consolas"
+        },
+        {
+          "url": "/store/games/tags/crossplay-games",
+          "label": "Multiplataforma"
+        },
+        {
+          "url": "/store/games/tags/multiplayer-games",
+          "label": "Partidas en grupo"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a"
       },
       "linkedData": [
         {
@@ -2572,56 +2846,72 @@
             "@type": "ImageObject",
             "name": "Minecraft gallery item 0",
             "description": "Minecraft gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
             "uploadDate": "2026-10-27T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Minecraft gallery item 1",
             "description": "Minecraft gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/f2f841669fa0d7ad23a4855b107c1ab7c61817bff7d90292a7a301aecdb54f33",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/f2f841669fa0d7ad23a4855b107c1ab7c61817bff7d90292a7a301aecdb54f33",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000119400/Video/f902c203b52e3e8d5015aacced407dee14a7896b6afae65971daadb8d7db54e2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000119400/Video/f902c203b52e3e8d5015aacced407dee14a7896b6afae65971daadb8d7db54e2",
             "uploadDate": "2026-10-27T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Minecraft gallery item 2",
             "description": "Minecraft gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/99f1d7d939feb8f71150f3725581119c0dc99109d3332293f1cb8bf0270892ad",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/99f1d7d939feb8f71150f3725581119c0dc99109d3332293f1cb8bf0270892ad",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000119400/Video/ec0fae519b9d914aa3953229fbb73c8f02f5d836568224860d671c46f5121b77",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000119400/Video/ec0fae519b9d914aa3953229fbb73c8f02f5d836568224860d671c46f5121b77",
             "uploadDate": "2026-10-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Minecraft gallery item 3",
             "description": "Minecraft gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/9f7c9d9171f74257d685fda5215df5ca68849f60b74b2dd50891d1056e3f0319",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/9f7c9d9171f74257d685fda5215df5ca68849f60b74b2dd50891d1056e3f0319",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/36619fd96e2d169e6bce5eda626ef7ede441b47b35206dc02259768fde70d79a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/36619fd96e2d169e6bce5eda626ef7ede441b47b35206dc02259768fde70d79a",
             "uploadDate": "2026-10-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Minecraft gallery item 4",
             "description": "Minecraft gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/36619fd96e2d169e6bce5eda626ef7ede441b47b35206dc02259768fde70d79a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/36619fd96e2d169e6bce5eda626ef7ede441b47b35206dc02259768fde70d79a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/9f7c9d9171f74257d685fda5215df5ca68849f60b74b2dd50891d1056e3f0319",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/9f7c9d9171f74257d685fda5215df5ca68849f60b74b2dd50891d1056e3f0319",
             "uploadDate": "2026-10-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Minecraft gallery item 5",
             "description": "Minecraft gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/61a522f84fa33b28bc9a5f1d69338518c556900dedb39ad0888d16ac03803bac",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/61a522f84fa33b28bc9a5f1d69338518c556900dedb39ad0888d16ac03803bac",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/99f1d7d939feb8f71150f3725581119c0dc99109d3332293f1cb8bf0270892ad",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/99f1d7d939feb8f71150f3725581119c0dc99109d3332293f1cb8bf0270892ad",
             "uploadDate": "2026-10-27T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Minecraft gallery item 6",
             "description": "Minecraft gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/9176ae6a5fd9c434a881ccac212353666b9cf97085d8cb021160161735a212b4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000119400/9176ae6a5fd9c434a881ccac212353666b9cf97085d8cb021160161735a212b4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/30e41f02ddb63aebe6bd5c7627175e51668fde6d0a3b54e96d55a745f5636342",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/30e41f02ddb63aebe6bd5c7627175e51668fde6d0a3b54e96d55a745f5636342",
+            "uploadDate": "2026-10-27T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Minecraft gallery item 7",
+            "description": "Minecraft gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/9f85f3909b09507f48649ed70b87a9732c8759843c78a1dfa535ac4667521cf5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/9f85f3909b09507f48649ed70b87a9732c8759843c78a1dfa535ac4667521cf5",
+            "uploadDate": "2026-10-27T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Minecraft gallery item 8",
+            "description": "Minecraft gallery item 8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/5f489e1a2f0c51ac6f3e5c2519dffd3dbc2981046c199acfa344584027c97dc7",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000119400/5f489e1a2f0c51ac6f3e5c2519dffd3dbc2981046c199acfa344584027c97dc7",
             "uploadDate": "2026-10-27T00:00:00.000Z"
           }
         ],
@@ -2665,6 +2955,107 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "NewsArticle:{\"id\":\"6YFllCP474UVzeK605WWyH\",\"locale\":\"es_CL\"}": {
+          "__typename": "NewsArticle",
+          "id": "6YFllCP474UVzeK605WWyH",
+          "locale": "es_CL",
+          "title": "¡Experimenta Efectos visuales vibrantes en Minecraft para Nintendo Switch 2!",
+          "url": "https://www.nintendo.com/es-cl/whatsnew/experimenta-efectos-visuales-vibrantes-en-minecraft-para-nintendo-switch-2/",
+          "media": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "ncom/en_US/articles/2026/experience-vibrant-visuals-in-minecraft-for-nintendo-switch-2/2250x1266_availablenow",
+            "resourceType": "image"
+          },
+          "publishDate": "2026-10-27T16:00:00.000Z"
+        },
+        "Product:{\"sku\":\"7500081309\"}": {
+          "__typename": "Product",
+          "availability": [],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000081309",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MINECRAFT: COLECCIÓN DELUXE DLC",
+          "nsuid": "70050000081309",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000081309/5398352a41cf424fe01abebf96fa94d79e0075989653cfd8be1d0cb68a6340c4",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500081309",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "minecraft-deluxe-collection-dlc-70050000081309-switch-2"
+        },
+        "Product:{\"sku\":\"7500081411\"}": {
+          "__typename": "Product",
+          "availability": [],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000081411",
+          "isSalableQty": true,
+          "locale": "es_CL",
+          "name": "MINECRAFT: COLECCIÓN ULTIMATE DLC",
+          "nsuid": "70050000081411",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000081411/eca91b94490d73e7b7033c1fa9d1a014c2d64610f026572bba3bfc819fc245c3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500081411",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "minecraft-ultimate-collection-dlc-70050000081411-switch-2"
+        },
         "Product:{\"sku\":\"7100119400\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2701,15 +3092,74 @@
           "url({\"relative\":true})": "/es-cl/store/products/minecraft-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CRAFT_PLAY",
+                "label": "Crea y juega"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHOOSE_PATH",
+                "label": "Elige tu propio camino"
+              },
+              {
+                "__typename": "Tag",
+                "code": "VIEWPOINT_SWITCHING",
+                "label": "Juega en primera o tercera persona"
+              },
+              {
+                "__typename": "Tag",
+                "code": "RUN_AROUND",
+                "label": "Libertad de movimiento"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperativo en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "LOCAL_CONNECTION",
+                "label": "Juntos en varias consolas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CROSS_PLATFORM",
+                "label": "Multiplataforma"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "04008a90274ec000",
           "appStoreUrl": null,
           "availability": [
-            "Reserva",
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2724,7 +3174,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2737,7 +3187,7 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": true,
+            "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
             "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000119400&v_loggedin=false&v_currency=CLP&v_price=28695.00&v_country=CL",
@@ -2793,9 +3243,20 @@
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000119400/63b7bf23f4770c88042bd79120f18ce6f139f49ab3ab9a0ee105f5e9e4467d62"
           },
           "publisherNotifications({\"html\":true})": "<p>¿Ya tienes una versión digital de Minecraft para Nintendo Switch™? Consigue la edición estándar digital de Minecraft para Nintendo Switch™ 2 gratis, o reserva la Colección Deluxe o la Colección Definitiva con descuento hasta el 31 de enero de 2027. </p>",
-          "relatedArticles": [],
+          "relatedArticles": [
+            {
+              "__ref": "NewsArticle:{\"id\":\"6YFllCP474UVzeK605WWyH\",\"locale\":\"es_CL\"}"
+            }
+          ],
           "qtyAllowedPerCustomer": null,
-          "downloadableContents": [],
+          "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7500081309\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500081411\"}"
+            }
+          ],
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
@@ -2823,7 +3284,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "1318060032",
-                "totalRomSize": "1587544064",
+                "totalRomSize": "1593835520",
                 "platform": "BEE"
               }
             ]
@@ -2945,13 +3406,19 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000119400/f2f841669fa0d7ad23a4855b107c1ab7c61817bff7d90292a7a301aecdb54f33",
-              "resourceType": "image",
+              "publicId": "/store/software/switch2/70010000119400/Video/f902c203b52e3e8d5015aacced407dee14a7896b6afae65971daadb8d7db54e2",
+              "resourceType": "video",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000119400/99f1d7d939feb8f71150f3725581119c0dc99109d3332293f1cb8bf0270892ad",
+              "publicId": "/store/software/switch2/70010000119400/Video/ec0fae519b9d914aa3953229fbb73c8f02f5d836568224860d671c46f5121b77",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000119400/36619fd96e2d169e6bce5eda626ef7ede441b47b35206dc02259768fde70d79a",
               "resourceType": "image",
               "type": "upload"
             },
@@ -2963,19 +3430,25 @@
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000119400/36619fd96e2d169e6bce5eda626ef7ede441b47b35206dc02259768fde70d79a",
+              "publicId": "store/software/switch2/70010000119400/99f1d7d939feb8f71150f3725581119c0dc99109d3332293f1cb8bf0270892ad",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000119400/61a522f84fa33b28bc9a5f1d69338518c556900dedb39ad0888d16ac03803bac",
+              "publicId": "store/software/switch2/70010000119400/30e41f02ddb63aebe6bd5c7627175e51668fde6d0a3b54e96d55a745f5636342",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000119400/9176ae6a5fd9c434a881ccac212353666b9cf97085d8cb021160161735a212b4",
+              "publicId": "store/software/switch2/70010000119400/9f85f3909b09507f48649ed70b87a9732c8759843c78a1dfa535ac4667521cf5",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000119400/5f489e1a2f0c51ac6f3e5c2519dffd3dbc2981046c199acfa344584027c97dc7",
               "resourceType": "image",
               "type": "upload"
             }
@@ -3131,7 +3604,7 @@
   "query": {
     "slug": "minecraft-switch-2"
   },
-  "buildId": "jHQcHQb0hHeIDSf7L2_BE",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

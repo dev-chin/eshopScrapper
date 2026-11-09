@@ -9,39 +9,42 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "1Wqx4IYq0S8VNtkcLRxOBR",
-                "campaignId": "",
-                "label": "Fire Emblem: Fortune's Weave Direct",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/nintendo-direct/8-4-2026/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
-                "campaignId": "",
-                "label": "Nintendo Switch 2 Bundle",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/showroom/nintendo-switch-2-bundle/"
-              },
-              {
-                "__contentType": "moduleCta",
                 "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
-                "label": "Games on sale",
+                "label": "Blockbuster Sale",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/store/sales-and-deals/"
+                "icon": "",
+                "url": "/store/sales-and-deals/blockbuster-sale/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "Resident Evil games",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/us/search/#q=resident+evil&p=1&cat=gme&sort=df"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
+                "campaignId": "",
+                "label": "Limited time DK challenge",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/whatsnew/complete-the-dk-challenge-and-grab-a-fun-physical-reward/"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,7 +56,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Nintendo eShop Cards",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/us/retail-offers/nintendo-eshop-cards/"
               },
               {
                 "__contentType": "moduleCta",
@@ -65,29 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Nintendo Switch games",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
-          "flyoverTrendingTopics": [],
-          "flyoverFeaturedPromos": [],
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Nintendo Switch 2 Bundles",
+              "caption": "",
+              "url": "/store/showroom/nintendo-switch-2-bundle/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Games on sale",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Nintendo Switch 2 games",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "6o5UFLGstQbUz4dMJXsiQP",
+              "label": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "caption": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "url": "/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "tags": [
+                  "70050000081248",
+                  "70050000081248-C"
+                ],
+                "type": "upload",
+                "bytes": 2122019,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70050000081248": "1",
+                    "en-US:70050000081248": "1",
+                    "es-AR:70050000081248": "1",
+                    "es-CL:70050000081248": "1",
+                    "es-CO:70050000081248": "1",
+                    "es-MX:70050000081248": "1",
+                    "es-PE:70050000081248": "1",
+                    "fr-CA:70050000081248": "1",
+                    "pt-BR:70050000081248": "1",
+                    "en-CA:70050000081248-C": "1",
+                    "en-US:70050000081248-C": "1",
+                    "es-AR:70050000081248-C": "1",
+                    "es-CL:70050000081248-C": "1",
+                    "es-CO:70050000081248-C": "1",
+                    "es-MX:70050000081248-C": "1",
+                    "es-PE:70050000081248-C": "1",
+                    "fr-CA:70050000081248-C": "1",
+                    "pt-BR:70050000081248-C": "1"
+                  }
+                },
+                "version": 1788966774,
+                "metadata": {},
+                "public_id": "store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58",
+                "created_at": "2026-09-09T15:12:54Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
             "7700037146",
+            "7700038706",
             "7100122824",
-            "7500075154",
-            "7100112610"
+            "7700036603"
           ]
         },
         "navContent": {
@@ -388,7 +529,7 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -411,6 +552,37 @@
                   "activeMatch": "",
                   "id": "mario",
                   "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
+                  "url": "https://mario.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -450,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -481,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1086,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1136,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1272,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1448,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1596,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Games",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Nintendo Switch 2 games",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Nintendo Switch games",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2445,6 +2681,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2481,6 +2718,8 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Console Archives TOUKI DENSHOU ANGEL EYES for Nintendo Switch 2 - Nintendo Official Site",
         "description": "Shop Console Archives TOUKI DENSHOU ANGEL EYES for Nintendo Switch 2 at Nintendo Store. See game details, editions, and availability.",
@@ -2549,7 +2788,7 @@
         },
         {
           "url": "/store/games/tags/multiplayer-games",
-          "label": "Meet up & play together"
+          "label": "Meet up and play together"
         },
         {
           "url": "/store/games/tags/games-to-play-together-on-one-console",
@@ -2557,7 +2796,7 @@
         }
       ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/f50d45c45c0b98497b4d53c363587c1496ac99ad9be50feee4c06b3d6574bd7a"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/f50d45c45c0b98497b4d53c363587c1496ac99ad9be50feee4c06b3d6574bd7a"
       },
       "linkedData": [
         {
@@ -2613,56 +2852,56 @@
             "@type": "ImageObject",
             "name": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 0",
             "description": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/f50d45c45c0b98497b4d53c363587c1496ac99ad9be50feee4c06b3d6574bd7a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/f50d45c45c0b98497b4d53c363587c1496ac99ad9be50feee4c06b3d6574bd7a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/f50d45c45c0b98497b4d53c363587c1496ac99ad9be50feee4c06b3d6574bd7a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/f50d45c45c0b98497b4d53c363587c1496ac99ad9be50feee4c06b3d6574bd7a",
             "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 1",
             "description": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/6cb774c8e1e6d5402ef863ecb66de59e513bd0693cc05fb26e1b08920a4898f5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/6cb774c8e1e6d5402ef863ecb66de59e513bd0693cc05fb26e1b08920a4898f5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/6cb774c8e1e6d5402ef863ecb66de59e513bd0693cc05fb26e1b08920a4898f5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/6cb774c8e1e6d5402ef863ecb66de59e513bd0693cc05fb26e1b08920a4898f5",
             "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 2",
             "description": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/9798e53e02b857c16eb05c0cad3cd5f20469e5406259416114748f69d631a5c5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/9798e53e02b857c16eb05c0cad3cd5f20469e5406259416114748f69d631a5c5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/9798e53e02b857c16eb05c0cad3cd5f20469e5406259416114748f69d631a5c5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/9798e53e02b857c16eb05c0cad3cd5f20469e5406259416114748f69d631a5c5",
             "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 3",
             "description": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/cff33f446dcd7f012845c928ece0d9f95106836cd33b075e11f56ae7fc66d64e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/cff33f446dcd7f012845c928ece0d9f95106836cd33b075e11f56ae7fc66d64e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/cff33f446dcd7f012845c928ece0d9f95106836cd33b075e11f56ae7fc66d64e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/cff33f446dcd7f012845c928ece0d9f95106836cd33b075e11f56ae7fc66d64e",
             "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 4",
             "description": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/d7ad95981f817795cedd0b1076e7e614230900fad6e2d9495c62260954d003cd",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/d7ad95981f817795cedd0b1076e7e614230900fad6e2d9495c62260954d003cd",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/d7ad95981f817795cedd0b1076e7e614230900fad6e2d9495c62260954d003cd",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/d7ad95981f817795cedd0b1076e7e614230900fad6e2d9495c62260954d003cd",
             "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 5",
             "description": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/a0a7fc8a14514897f034afc36c3a94442694ea060738c1dd019de6a448583fed",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/a0a7fc8a14514897f034afc36c3a94442694ea060738c1dd019de6a448583fed",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/a0a7fc8a14514897f034afc36c3a94442694ea060738c1dd019de6a448583fed",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/a0a7fc8a14514897f034afc36c3a94442694ea060738c1dd019de6a448583fed",
             "uploadDate": "2026-08-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 6",
             "description": "Console Archives TOUKI DENSHOU ANGEL EYES gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/c2284eb66a86639825f9970e475563e0538af095fc9c086e859e36ec84e63c91",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115393/c2284eb66a86639825f9970e475563e0538af095fc9c086e859e36ec84e63c91",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/c2284eb66a86639825f9970e475563e0538af095fc9c086e859e36ec84e63c91",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115393/c2284eb66a86639825f9970e475563e0538af095fc9c086e859e36ec84e63c91",
             "uploadDate": "2026-08-13T00:00:00.000Z"
           }
         ],
@@ -2760,7 +2999,7 @@
               {
                 "__typename": "Tag",
                 "code": "FRIENDS_FAMILY",
-                "label": "Meet up & play together"
+                "label": "Meet up and play together"
               },
               {
                 "__typename": "Tag",
@@ -2769,10 +3008,10 @@
               }
             ]
           },
+          "accessibilityTags": null,
           "applicationId": "04000dd026a96000",
           "appStoreUrl": null,
           "availability": [
-            "New releases",
             "Available now"
           ],
           "baseSoftware": [],
@@ -2788,7 +3027,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2910,7 +3149,10 @@
           "backgroundColor": "62250c",
           "contentDescriptors": [
             {
-              "__ref": "ContentDescriptor:{\"id\":\"3pdWe5kEEmHzuuOxmlYmqd\",\"locale\":\"en_US\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"2yLZuBB4hcU7TFOhEj94R2\",\"locale\":\"en_US\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"Xzh0bkCnhcZV1URA2wF96\",\"locale\":\"en_US\"}"
             },
             {
               "__ref": "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"en_US\"}"
@@ -3013,11 +3255,18 @@
             "label": "Games"
           }
         },
-        "ContentDescriptor:{\"id\":\"3pdWe5kEEmHzuuOxmlYmqd\",\"locale\":\"en_US\"}": {
+        "ContentDescriptor:{\"id\":\"2yLZuBB4hcU7TFOhEj94R2\",\"locale\":\"en_US\"}": {
           "__typename": "ContentDescriptor",
-          "id": "3pdWe5kEEmHzuuOxmlYmqd",
+          "id": "2yLZuBB4hcU7TFOhEj94R2",
           "locale": "en_US",
-          "label": "Partial Nudity",
+          "label": "Blood",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentDescriptor:{\"id\":\"Xzh0bkCnhcZV1URA2wF96\",\"locale\":\"en_US\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "Xzh0bkCnhcZV1URA2wF96",
+          "locale": "en_US",
+          "label": "Suggestive Themes",
           "type": "CONTENT_DESCRIPTOR"
         },
         "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"en_US\"}": {
@@ -3052,7 +3301,7 @@
   "query": {
     "slug": "console-archives-touki-denshou-angel-eyes-switch-2"
   },
-  "buildId": "oMCImXA_kykpPRdt6lc-t",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

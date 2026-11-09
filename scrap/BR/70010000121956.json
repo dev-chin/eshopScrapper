@@ -9,30 +9,6 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "1Wqx4IYq0S8VNtkcLRxOBR",
-                "campaignId": "",
-                "label": "Jogos com Pokémon",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/pokemon-games/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
-                "campaignId": "",
-                "label": "Pacote Nintendo Switch 2",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/showroom/nintendo-switch-2-bundle/"
-              },
-              {
-                "__contentType": "moduleCta",
                 "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
                 "label": "Jogos em promoção",
@@ -41,7 +17,34 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/sales-and-deals/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "Jogos com Resident Evil",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/us/search/#q=resident+evil&p=1&cat=gme&sort=df"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
+                "campaignId": "",
+                "label": "Novidades",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/whatsnew/"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,7 +56,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Cartão presente digital do Nintendo eShop",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://store.nintendo.com.br/games?_gl=1*1j2xw21*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NjE4JGozJGwwJGgyMDEyNzEwMzA1"
               },
               {
                 "__contentType": "moduleCta",
@@ -65,27 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Jogos para o Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Jogos imperdíveis",
+              "caption": "",
+              "url": "/store/showroom/must-play-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Jogos em promoção",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Jogos para o Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
             "7700037146",
+            "7700038706",
             "7100122824",
-            "7500075154",
-            "7100112610"
+            "7700036603"
           ]
         },
         "navContent": {
@@ -386,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -448,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -479,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -501,7 +675,7 @@
                   "subItems": [],
                   "activeMatch": "",
                   "id": "zelda",
-                  "hideOnLocale": true,
+                  "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -1084,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1134,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1270,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1446,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1594,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2241,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2277,6 +2516,8 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Hasbro Games™ Junior Collection para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Hasbro Games™ Junior Collection para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2330,9 +2571,30 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/tabletop-games",
+          "label": "Jogos de mesa"
+        },
+        {
+          "url": "/store/games/tags/character-customization-games",
+          "label": "Customização de personagem"
+        },
+        {
+          "url": "/store/games/tags/gameshare-local-games",
+          "label": "GameShare com usuários locais"
+        },
+        {
+          "url": "/store/games/tags/games-to-play-together-on-one-console",
+          "label": "Jogue junto em um console"
+        },
+        {
+          "url": "/store/games/tags/multiplayer-games",
+          "label": "Para curtir com uma turma"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/051ed3ec2a1c6a6a0328e470dd90bee67fc823b51369617d75022d86529dcdc1"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/051ed3ec2a1c6a6a0328e470dd90bee67fc823b51369617d75022d86529dcdc1"
       },
       "linkedData": [
         {
@@ -2347,7 +2609,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/hasbro-games-junior-collection-switch-2/",
             "priceCurrency": "BRL",
-            "price": "206.66",
+            "price": "154.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2389,64 +2651,80 @@
             "@type": "ImageObject",
             "name": "Hasbro Games™ Junior Collection gallery item 0",
             "description": "Hasbro Games™ Junior Collection gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/051ed3ec2a1c6a6a0328e470dd90bee67fc823b51369617d75022d86529dcdc1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/051ed3ec2a1c6a6a0328e470dd90bee67fc823b51369617d75022d86529dcdc1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/051ed3ec2a1c6a6a0328e470dd90bee67fc823b51369617d75022d86529dcdc1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/051ed3ec2a1c6a6a0328e470dd90bee67fc823b51369617d75022d86529dcdc1",
             "uploadDate": "2026-11-06T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "Hasbro Games™ Junior Collection gallery item 1",
             "description": "Hasbro Games™ Junior Collection gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000121956/Video/afe69ce9048a0925dfea11fd318ceaae422213169f8dc8f6059cd04a9604c017",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000121956/Video/afe69ce9048a0925dfea11fd318ceaae422213169f8dc8f6059cd04a9604c017",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000121956/Video/8d882526b0f17865f91b77f061cf4b7a96355371f4926cea58577e70e695b518",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000121956/Video/8d882526b0f17865f91b77f061cf4b7a96355371f4926cea58577e70e695b518",
             "uploadDate": "2026-11-06T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Hasbro Games™ Junior Collection gallery item 2",
             "description": "Hasbro Games™ Junior Collection gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/7d36f1a1300c7561394e85013df1276ed03d66610eb84e19ee1f0b86cec5f659",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/7d36f1a1300c7561394e85013df1276ed03d66610eb84e19ee1f0b86cec5f659",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000121956/Video/6469998e89707b4ca073532ddce936916dc02a3d5c54cf3cb06aca47f0d30d91",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000121956/Video/6469998e89707b4ca073532ddce936916dc02a3d5c54cf3cb06aca47f0d30d91",
             "uploadDate": "2026-11-06T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Hasbro Games™ Junior Collection gallery item 3",
             "description": "Hasbro Games™ Junior Collection gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/81732bef5e69add0798a439aa9febccf76ed0029c08fef2dafc86c62eed9733d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/81732bef5e69add0798a439aa9febccf76ed0029c08fef2dafc86c62eed9733d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000121956/Video/4fa7d25159453bad818763cb8e73290da90eca6edc35f00eb1f78220edce4f0e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000121956/Video/4fa7d25159453bad818763cb8e73290da90eca6edc35f00eb1f78220edce4f0e",
             "uploadDate": "2026-11-06T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hasbro Games™ Junior Collection gallery item 4",
             "description": "Hasbro Games™ Junior Collection gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/d0771785e553e0ece16e17498f3ccc1d17eca65e4852c4d48c98dbbe04cb3eac",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/d0771785e553e0ece16e17498f3ccc1d17eca65e4852c4d48c98dbbe04cb3eac",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/0b6906c6f3729246b8bc6361077856ae9c100010388460f26320b1da339f8572",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/0b6906c6f3729246b8bc6361077856ae9c100010388460f26320b1da339f8572",
             "uploadDate": "2026-11-06T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hasbro Games™ Junior Collection gallery item 5",
             "description": "Hasbro Games™ Junior Collection gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/d39756453a18965eb8eaa3f9053d45f7e11474da845e03750cc8fd5714f995d3",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/d39756453a18965eb8eaa3f9053d45f7e11474da845e03750cc8fd5714f995d3",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/42ea4e5e5ad4235971dc81c207d9c426d346bdacab43d42e6e549d9ceb1ba22a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/42ea4e5e5ad4235971dc81c207d9c426d346bdacab43d42e6e549d9ceb1ba22a",
             "uploadDate": "2026-11-06T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hasbro Games™ Junior Collection gallery item 6",
             "description": "Hasbro Games™ Junior Collection gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/e020bed2d06ad1b8dde2552079c6cf8119b2b45d92e45877d794bdcecef7c3bb",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/e020bed2d06ad1b8dde2552079c6cf8119b2b45d92e45877d794bdcecef7c3bb",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/a0326871bb7044e7c70497f5c9f1b906c8a3346f2738a07f6ff4e8eefb6cf3ef",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/a0326871bb7044e7c70497f5c9f1b906c8a3346f2738a07f6ff4e8eefb6cf3ef",
             "uploadDate": "2026-11-06T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hasbro Games™ Junior Collection gallery item 7",
             "description": "Hasbro Games™ Junior Collection gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/755c62056834fccda70c6276b99a45f083943b409bb0bb631fc1a38a5b142f89",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000121956/755c62056834fccda70c6276b99a45f083943b409bb0bb631fc1a38a5b142f89",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/b905bbaa65a115d09187afd1c8f8fcc35f3ec3ebf035464583a8ca6c60386eaa",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/b905bbaa65a115d09187afd1c8f8fcc35f3ec3ebf035464583a8ca6c60386eaa",
+            "uploadDate": "2026-11-06T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Hasbro Games™ Junior Collection gallery item 8",
+            "description": "Hasbro Games™ Junior Collection gallery item 8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/619bd0a2d5a400ca52e7c16c5915042fb02b26f73f44212257efad0768e14e00",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/619bd0a2d5a400ca52e7c16c5915042fb02b26f73f44212257efad0768e14e00",
+            "uploadDate": "2026-11-06T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Hasbro Games™ Junior Collection gallery item 9",
+            "description": "Hasbro Games™ Junior Collection gallery item 9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/3b5e284becd68d2f1492b34fea0db3bcfef77c9c8b1dc7bbc7c88a4c231df4c4",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000121956/3b5e284becd68d2f1492b34fea0db3bcfef77c9c8b1dc7bbc7c88a4c231df4c4",
             "uploadDate": "2026-11-06T00:00:00.000Z"
           }
         ],
@@ -2509,8 +2787,8 @@
             "__typename": "Prices",
             "currency": "BRL",
             "discounted": false,
-            "regularPrice": 206.66,
-            "finalPrice": 206.66,
+            "regularPrice": 154.99,
+            "finalPrice": 154.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2526,14 +2804,44 @@
           "url({\"relative\":true})": "/pt-br/store/products/hasbro-games-junior-collection-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_CUSTOMIZE",
+                "label": "Customização de personagem"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "TABLETOP",
+                "label": "Jogos de mesa"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_LOCAL",
+                "label": "GameShare com usuários locais"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Para curtir com uma turma"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "04006f5027abc000",
           "appStoreUrl": null,
           "availability": [
-            "Em breve"
+            "Novos lançamentos",
+            "Já disponivel"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2548,7 +2856,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2562,9 +2870,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000121956&v_loggedin=false&v_currency=BRL&v_price=154.99&v_country=BR",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2604,7 +2912,7 @@
           "productCode": "BEEPAB64A",
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/cf4bf5bfbb83491797ea35b425b89280_1024"
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/e24a0c2edcf34d03b21078e29e1ac9f8_1024"
           },
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
@@ -2637,7 +2945,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "1105199104",
-                "totalRomSize": "69206016",
+                "totalRomSize": "1325400064",
                 "platform": "BEE"
               }
             ]
@@ -2715,43 +3023,55 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000121956/Video/afe69ce9048a0925dfea11fd318ceaae422213169f8dc8f6059cd04a9604c017",
+              "publicId": "/store/software/switch2/70010000121956/Video/8d882526b0f17865f91b77f061cf4b7a96355371f4926cea58577e70e695b518",
               "resourceType": "video",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000121956/7d36f1a1300c7561394e85013df1276ed03d66610eb84e19ee1f0b86cec5f659",
+              "publicId": "/store/software/switch2/70010000121956/Video/6469998e89707b4ca073532ddce936916dc02a3d5c54cf3cb06aca47f0d30d91",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000121956/Video/4fa7d25159453bad818763cb8e73290da90eca6edc35f00eb1f78220edce4f0e",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000121956/0b6906c6f3729246b8bc6361077856ae9c100010388460f26320b1da339f8572",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000121956/81732bef5e69add0798a439aa9febccf76ed0029c08fef2dafc86c62eed9733d",
+              "publicId": "store/software/switch2/70010000121956/42ea4e5e5ad4235971dc81c207d9c426d346bdacab43d42e6e549d9ceb1ba22a",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000121956/d0771785e553e0ece16e17498f3ccc1d17eca65e4852c4d48c98dbbe04cb3eac",
+              "publicId": "store/software/switch2/70010000121956/a0326871bb7044e7c70497f5c9f1b906c8a3346f2738a07f6ff4e8eefb6cf3ef",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000121956/d39756453a18965eb8eaa3f9053d45f7e11474da845e03750cc8fd5714f995d3",
+              "publicId": "store/software/switch2/70010000121956/b905bbaa65a115d09187afd1c8f8fcc35f3ec3ebf035464583a8ca6c60386eaa",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000121956/e020bed2d06ad1b8dde2552079c6cf8119b2b45d92e45877d794bdcecef7c3bb",
+              "publicId": "store/software/switch2/70010000121956/619bd0a2d5a400ca52e7c16c5915042fb02b26f73f44212257efad0768e14e00",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000121956/755c62056834fccda70c6276b99a45f083943b409bb0bb631fc1a38a5b142f89",
+              "publicId": "store/software/switch2/70010000121956/3b5e284becd68d2f1492b34fea0db3bcfef77c9c8b1dc7bbc7c88a4c231df4c4",
               "resourceType": "image",
               "type": "upload"
             }
@@ -2805,7 +3125,7 @@
   "query": {
     "slug": "hasbro-games-junior-collection-switch-2"
   },
-  "buildId": "5HAlXfjFAs8ppyJ4Ymve-",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

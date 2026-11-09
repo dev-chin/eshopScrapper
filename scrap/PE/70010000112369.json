@@ -9,18 +9,6 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
-                "campaignId": "",
-                "label": "Nintendo Music",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/switch/online/nintendo-switch-online/nintendo-music/"
-              },
-              {
-                "__contentType": "moduleCta",
                 "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
                 "label": "Juegos en oferta",
@@ -29,7 +17,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/sales-and-deals/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "Juegos con Resident Evil",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/es-pe/search/#q=Resident+Evil&p=1&cat=gme&sort=df"
               },
               {
                 "__contentType": "moduleCta",
@@ -41,6 +43,7 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/whatsnew/"
               },
               {
@@ -53,7 +56,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Tarjeta de regalo digital para Nintendo eShop",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://store.nintendo.mx/games?_gl=1*9ejk6h*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NTYxJGo2MCRsMCRoMjAxMjcxMDMwNQ..*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3"
               },
               {
                 "__contentType": "moduleCta",
@@ -65,27 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Juegos de Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Juegos con Pokémon",
+              "caption": "",
+              "url": "/store/games/pokemon-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Juegos en oferta",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Juegos de Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
+            "7700037146",
+            "7700038706",
             "7100122824",
-            "7500075154",
-            "7100122818",
-            "7100123167"
+            "7700036603"
           ]
         },
         "navContent": {
@@ -386,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -448,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -479,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1084,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1134,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1270,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1446,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1594,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2241,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2277,6 +2516,8 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "HOT WHEELS™ Infinite Rush para Nintendo Switch 2 - Sitio Oficial de Nintendo para Peru",
         "description": "Compra HOT WHEELS™ Infinite Rush para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2330,9 +2571,38 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/racing-games",
+          "label": "Carreras"
+        },
+        {
+          "url": "/store/games/tags/online-scoreboard-games",
+          "label": "Clasificación en línea"
+        },
+        {
+          "url": "/store/games/tags/build-and-create-games",
+          "label": "Crea y juega"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Elige el nivel de dificultad"
+        },
+        {
+          "url": "/store/games/tags/competitive-games",
+          "label": "Compite en línea"
+        },
+        {
+          "url": "/store/games/tags/games-to-play-together-on-one-console",
+          "label": "Juntos en una consola"
+        },
+        {
+          "url": "/store/games/tags/multiplayer-games",
+          "label": "Partidas en grupo"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af"
       },
       "linkedData": [
         {
@@ -2388,56 +2658,56 @@
             "@type": "ImageObject",
             "name": "HOT WHEELS™ Infinite Rush gallery item 0",
             "description": "HOT WHEELS™ Infinite Rush gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
             "uploadDate": "2026-09-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "HOT WHEELS™ Infinite Rush gallery item 1",
             "description": "HOT WHEELS™ Infinite Rush gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/5dc465cd8df6ce47547afdf09371eb8450120a98bd1d8a7746f1b109ad645075",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/5dc465cd8df6ce47547afdf09371eb8450120a98bd1d8a7746f1b109ad645075",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/5dc465cd8df6ce47547afdf09371eb8450120a98bd1d8a7746f1b109ad645075",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/5dc465cd8df6ce47547afdf09371eb8450120a98bd1d8a7746f1b109ad645075",
             "uploadDate": "2026-09-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "HOT WHEELS™ Infinite Rush gallery item 2",
             "description": "HOT WHEELS™ Infinite Rush gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/db983c9e269539bb9780a7301fd4b6813fa3c6e54cc3702be59cc3400cdf33da",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/db983c9e269539bb9780a7301fd4b6813fa3c6e54cc3702be59cc3400cdf33da",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/db983c9e269539bb9780a7301fd4b6813fa3c6e54cc3702be59cc3400cdf33da",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/db983c9e269539bb9780a7301fd4b6813fa3c6e54cc3702be59cc3400cdf33da",
             "uploadDate": "2026-09-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "HOT WHEELS™ Infinite Rush gallery item 3",
             "description": "HOT WHEELS™ Infinite Rush gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/ece92e1b3268ad540477d58591ac6fb6bdb0a1aaa3e613e4aa3b6f82dbfcc603",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/ece92e1b3268ad540477d58591ac6fb6bdb0a1aaa3e613e4aa3b6f82dbfcc603",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/ece92e1b3268ad540477d58591ac6fb6bdb0a1aaa3e613e4aa3b6f82dbfcc603",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/ece92e1b3268ad540477d58591ac6fb6bdb0a1aaa3e613e4aa3b6f82dbfcc603",
             "uploadDate": "2026-09-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "HOT WHEELS™ Infinite Rush gallery item 4",
             "description": "HOT WHEELS™ Infinite Rush gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/348fe7c48d781ea430baad56b01df19c26881ab4964b296c0408f6a46014f53a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/348fe7c48d781ea430baad56b01df19c26881ab4964b296c0408f6a46014f53a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/348fe7c48d781ea430baad56b01df19c26881ab4964b296c0408f6a46014f53a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/348fe7c48d781ea430baad56b01df19c26881ab4964b296c0408f6a46014f53a",
             "uploadDate": "2026-09-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "HOT WHEELS™ Infinite Rush gallery item 5",
             "description": "HOT WHEELS™ Infinite Rush gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/4e67fc9ffc7891435651284673fa54e91f59c828aaf15e00e134cb44bb8e3044",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/4e67fc9ffc7891435651284673fa54e91f59c828aaf15e00e134cb44bb8e3044",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/4e67fc9ffc7891435651284673fa54e91f59c828aaf15e00e134cb44bb8e3044",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/4e67fc9ffc7891435651284673fa54e91f59c828aaf15e00e134cb44bb8e3044",
             "uploadDate": "2026-09-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "HOT WHEELS™ Infinite Rush gallery item 6",
             "description": "HOT WHEELS™ Infinite Rush gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/766d0ba5bbd7232646d08b8668e6b765ba81f539476f1a79ed1d42e61343178c",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112369/766d0ba5bbd7232646d08b8668e6b765ba81f539476f1a79ed1d42e61343178c",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/766d0ba5bbd7232646d08b8668e6b765ba81f539476f1a79ed1d42e61343178c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112369/766d0ba5bbd7232646d08b8668e6b765ba81f539476f1a79ed1d42e61343178c",
             "uploadDate": "2026-09-10T00:00:00.000Z"
           }
         ],
@@ -2481,10 +2751,64 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "Product:{\"sku\":\"7700039738\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Paquete",
+            "code": "BUNDLE"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70070000039738",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Vehicle Pass",
+          "nsuid": "70070000039738",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 149,
+            "finalPrice": 149,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000039738/fdd633c82a4170d1c00c9d7a1bc10d2ba04cee843c982fe295d05a67ea4c3c78",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-09-10T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7700039738",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-vehicle-pass-70070000039738-switch-2"
+        },
         "Product:{\"sku\":\"7500076991\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2525,6 +2849,7 @@
           },
           "releaseDate": "2026-10-29T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500076991",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2536,7 +2861,8 @@
         "Product:{\"sku\":\"7500076992\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2577,6 +2903,7 @@
           },
           "releaseDate": "2026-10-29T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500076992",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2588,7 +2915,8 @@
         "Product:{\"sku\":\"7500076993\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2629,6 +2957,7 @@
           },
           "releaseDate": "2026-10-29T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500076993",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2640,7 +2969,8 @@
         "Product:{\"sku\":\"7500076994\"}": {
           "__typename": "Product",
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2681,6 +3011,7 @@
           },
           "releaseDate": "2026-10-29T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500076994",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2688,6 +3019,618 @@
             "label": "Juegos"
           },
           "urlKey": "hot-wheels-infinite-rush-bone-shaker-skeletor-edition-70050000076994-switch-2"
+        },
+        "Product:{\"sku\":\"7500077605\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077605",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Just for Fun Pack",
+          "nsuid": "70050000077605",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 18.5,
+            "finalPrice": 18.5,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077605/8facc82674f55e578de3ce94d76050ff7dfe363d42c3ee9839e3db2dc69ad911",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-09-10T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077605",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-just-for-fun-pack-70050000077605-switch-2"
+        },
+        "Product:{\"sku\":\"7500077622\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077622",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - All You Can Drift Pack",
+          "nsuid": "70050000077622",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 18.5,
+            "finalPrice": 18.5,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077622/296b6c858a4a8c178025cd170773fb2eac36ed7111ea24382278d4c8b2adf4e2",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-08T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077622",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-all-you-can-drift-pack-70050000077622-switch-2"
+        },
+        "Product:{\"sku\":\"7500077610\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077610",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Go Big or Go Home Pack",
+          "nsuid": "70050000077610",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077610/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-11-12T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077610",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-go-big-or-go-home-pack-70050000077610-switch-2"
+        },
+        "Product:{\"sku\":\"7500077617\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077617",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Ferrari Expansion Pack",
+          "nsuid": "70050000077617",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077617/6504dc6731c4cda5a033daf033c713a5d1c5b8e82a3a11b74f950276e0e7349c",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-12-17T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077617",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-ferrari-expansion-pack-70050000077617-switch-2"
+        },
+        "Product:{\"sku\":\"7500077628\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077628",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Express Lane Pack",
+          "nsuid": "70050000077628",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077628/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-01-28T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077628",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-express-lane-pack-70050000077628-switch-2"
+        },
+        "Product:{\"sku\":\"7500078753\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000078753",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - F1® Car Collection Pack",
+          "nsuid": "70050000078753",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000078753/48794608add6e216e98d852fd4d533e1e233d6b3fe75c3464810b3f8b775cbd4",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-03-11T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500078753",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-f1-car-collection-pack-70050000078753-switch-2"
+        },
+        "Product:{\"sku\":\"7500077633\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077633",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Ferrari Legends Pack",
+          "nsuid": "70050000077633",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077633/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-04-15T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077633",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-ferrari-legends-pack-70050000077633-switch-2"
+        },
+        "Product:{\"sku\":\"7500077638\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077638",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Drifting Club Pack",
+          "nsuid": "70050000077638",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077638/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-05-20T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077638",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-drifting-club-pack-70050000077638-switch-2"
+        },
+        "Product:{\"sku\":\"7500077692\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077692",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Oversized Beasts Pack",
+          "nsuid": "70050000077692",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077692/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-06-24T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077692",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-oversized-beasts-pack-70050000077692-switch-2"
+        },
+        "Product:{\"sku\":\"7500077697\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077697",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Speed of Light Pack",
+          "nsuid": "70050000077697",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077697/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-07-22T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077697",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-speed-of-light-pack-70050000077697-switch-2"
+        },
+        "Product:{\"sku\":\"7500077702\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077702",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Jack of All Trades Pack",
+          "nsuid": "70050000077702",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077702/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-08-26T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077702",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-jack-of-all-trades-pack-70050000077702-switch-2"
+        },
+        "Product:{\"sku\":\"7500077707\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077707",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Drift Racers Pack",
+          "nsuid": "70050000077707",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077707/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-09-23T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077707",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-drift-racers-pack-70050000077707-switch-2"
+        },
+        "Product:{\"sku\":\"7500077712\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000077712",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "HOT WHEELS™ Infinite Rush - Fast Engines Pack",
+          "nsuid": "70050000077712",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": null,
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000077712/705a6d0ca399ca7d23e1f773269cd198ebfe479751696df8bb313aa23eeee3af",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2027-10-21T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500077712",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "hot-wheels-infinite-rush-fast-engines-pack-70050000077712-switch-2"
         },
         "Product:{\"sku\":\"7100112369\"}": {
           "__typename": "Product",
@@ -2725,14 +3668,53 @@
           "url({\"relative\":true})": "/es-pe/store/products/hot-wheels-infinite-rush-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CRAFT_PLAY",
+                "label": "Crea y juega"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "RACING",
+                "label": "Carreras"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "0400dbb02626e000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2747,8 +3729,8 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
-          "crossSellProducts": null,
+          "containsEmbeddedBattery": false,
+          "crossSellProducts": [],
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>Compite más allá de la pista naranja y sumérgete en un mundo a escala Hot Wheels™ con cuatro islas para explorar, cada una con su propio estilo y desafíos. Conduce libremente por un mundo lleno de aventuras, destroza obstáculos, descubre objetos secretos y lleva a cabo actividades épicas.<br><br>CONVIÉRTETE EN RUSH MASTER<br>Cada isla está bajo el control de un Rush Master: el jefe definitivo que debes derrotar. Completa eventos para desbloquear sus desafíos y derrótalos para adquirir su auto y su título. Una vez que conquistes a los cuatro, ¡recibirás la corona del imbatible Rush Master!<br><br>ELIGE TU VEHÍCULO<br>Domina cuatro tipos exclusivos de vehículos: híbridos todoterreno, enormes titanes, derrapadores ágiles y bólidos veloces como un rayo. Cada uno ofrece una forma diferente de correr. Elige tus vehículos favoritos, arma tu Rush Squad y prepárate para cualquier desafío. Pero hay más: puedes personalizar cada detalle del auto, ¡hasta las ruedas!<br><br>UNA COLECCIÓN SIN IGUAL<br>Descubre y colecciona +150 vehículos mediante eventos, actividades y desafíos. Desbloquea modelos raros, llena tu cochera y ponte en marcha con algunos de los Hot Wheels™ más emblemáticos que existen.<br><br>CONVIERTE EL MUNDO EN TU PISTA<br>Con el nuevo Track Builder, crea pistas de mayor prestigio con el mundo que te rodea. Fija módulos al suelo, construye alrededor de los edificios o corre por encima de la ciudad, entre los imponentes rascacielos. <br><br>DIVERSIÓN SIN FIN<br>Prepárate para una amplia variedad de modos de juego para jugar en solitario, en pantalla dividida con amigos (hasta 4 jugadores) o en línea*. Escala la clasificación, demuestra tu valor y sacia tu sed de diversión.<br><br>*Solo disponible entre usuarios de Nintendo Switch™ 2.</p>",
@@ -2761,9 +3743,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000112369&v_loggedin=false&v_currency=PEN&v_price=185.00&v_country=PE",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2815,6 +3797,9 @@
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [
             {
+              "__ref": "Product:{\"sku\":\"7700039738\"}"
+            },
+            {
               "__ref": "Product:{\"sku\":\"7500076991\"}"
             },
             {
@@ -2825,6 +3810,45 @@
             },
             {
               "__ref": "Product:{\"sku\":\"7500076994\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077605\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077622\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077610\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077617\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077628\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500078753\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077633\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077638\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077692\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077697\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077702\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077707\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500077712\"}"
             }
           ],
           "requiresLogin": null,
@@ -2854,7 +3878,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "14680064000",
-                "totalRomSize": "13370392576",
+                "totalRomSize": "14846787584",
                 "platform": "BEE"
               }
             ]
@@ -2880,6 +3904,40 @@
               ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7100112369\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700039057\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700039737\"}"
               }
             }
           ],
@@ -2997,6 +4055,82 @@
             "label": "Juegos"
           }
         },
+        "Product:{\"sku\":\"7700039057\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000039057",
+          "name": "HOT WHEELS™ Infinite Rush - Deluxe Edition",
+          "urlKey": "hot-wheels-infinite-rush-deluxe-edition-switch-2",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_PE",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 299,
+            "finalPrice": 299,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000039057/68ddcfb56116be9604cc17b18fb071d39497034b95ca6f9e697c50fb0335b9d7"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700039057",
+          "url({\"relative\":true})": "/es-pe/store/products/hot-wheels-infinite-rush-deluxe-edition-switch-2/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700039737\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000039737",
+          "name": "HOT WHEELS™ Infinite Rush - Ultimate Edition",
+          "urlKey": "hot-wheels-infinite-rush-ultimate-edition-switch-2",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_PE",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 369,
+            "finalPrice": 369,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70070000039737/4707ef55d1b449923ebc97fd548e87220bb20974cdd746854baebbb4c0f286f6"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700039737",
+          "url({\"relative\":true})": "/es-pe/store/products/hot-wheels-infinite-rush-ultimate-edition-switch-2/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
         "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"es_PE\"}": {
           "__typename": "ContentDescriptor",
           "id": "PuUlZqXPrK4WzWD2LWYLV",
@@ -3036,7 +4170,7 @@
   "query": {
     "slug": "hot-wheels-infinite-rush-switch-2"
   },
-  "buildId": "syX_zB4Zpx4ANZwHZ7gMT",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

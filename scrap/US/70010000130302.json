@@ -9,39 +9,42 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "1Wqx4IYq0S8VNtkcLRxOBR",
-                "campaignId": "",
-                "label": "Fire Emblem: Fortune's Weave Direct",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/nintendo-direct/8-4-2026/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
-                "campaignId": "",
-                "label": "Nintendo Switch 2 Bundle",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/showroom/nintendo-switch-2-bundle/"
-              },
-              {
-                "__contentType": "moduleCta",
                 "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
-                "label": "Games on sale",
+                "label": "Blockbuster Sale",
                 "successLabel": "",
                 "requiresMembership": false,
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
-                "url": "/store/sales-and-deals/"
+                "icon": "",
+                "url": "/store/sales-and-deals/blockbuster-sale/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "Resident Evil games",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/us/search/#q=resident+evil&p=1&cat=gme&sort=df"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
+                "campaignId": "",
+                "label": "Limited time DK challenge",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/whatsnew/complete-the-dk-challenge-and-grab-a-fun-physical-reward/"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,7 +56,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Nintendo eShop Cards",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/us/retail-offers/nintendo-eshop-cards/"
               },
               {
                 "__contentType": "moduleCta",
@@ -65,27 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Nintendo Switch games",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Nintendo Switch 2 Bundles",
+              "caption": "",
+              "url": "/store/showroom/nintendo-switch-2-bundle/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Games on sale",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Nintendo Switch 2 games",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "6o5UFLGstQbUz4dMJXsiQP",
+              "label": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "caption": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "url": "/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "tags": [
+                  "70050000081248",
+                  "70050000081248-C"
+                ],
+                "type": "upload",
+                "bytes": 2122019,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70050000081248": "1",
+                    "en-US:70050000081248": "1",
+                    "es-AR:70050000081248": "1",
+                    "es-CL:70050000081248": "1",
+                    "es-CO:70050000081248": "1",
+                    "es-MX:70050000081248": "1",
+                    "es-PE:70050000081248": "1",
+                    "fr-CA:70050000081248": "1",
+                    "pt-BR:70050000081248": "1",
+                    "en-CA:70050000081248-C": "1",
+                    "en-US:70050000081248-C": "1",
+                    "es-AR:70050000081248-C": "1",
+                    "es-CL:70050000081248-C": "1",
+                    "es-CO:70050000081248-C": "1",
+                    "es-MX:70050000081248-C": "1",
+                    "es-PE:70050000081248-C": "1",
+                    "fr-CA:70050000081248-C": "1",
+                    "pt-BR:70050000081248-C": "1"
+                  }
+                },
+                "version": 1788966774,
+                "metadata": {},
+                "public_id": "store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58",
+                "created_at": "2026-09-09T15:12:54Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
             "7700037146",
+            "7700038706",
             "7100122824",
-            "7500075154",
-            "7100112610"
+            "7700036603"
           ]
         },
         "navContent": {
@@ -386,7 +529,7 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -409,6 +552,37 @@
                   "activeMatch": "",
                   "id": "mario",
                   "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
+                  "url": "https://mario.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -448,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -479,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -1084,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1134,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1270,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1446,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1594,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Games",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Nintendo Switch 2 games",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Nintendo Switch games",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2443,6 +2681,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2479,6 +2718,8 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "The Walking Dead: Streets of Survival for Nintendo Switch 2 - Nintendo Official Site",
         "description": "Shop The Walking Dead: Streets of Survival for Nintendo Switch 2 at Nintendo Store. See game details, editions, and availability.",
@@ -2536,9 +2777,26 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Action"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Choose your difficulty"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Pixel art"
+        },
+        {
+          "url": "/store/games/tags/raise-your-stats-games",
+          "label": "Raise your stats"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/cf73d8ad76896ec25d4a69379e6e7dd5aea515ba67dec8311c60e16ffac66cc1"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/cf73d8ad76896ec25d4a69379e6e7dd5aea515ba67dec8311c60e16ffac66cc1"
       },
       "linkedData": [
         {
@@ -2594,64 +2852,64 @@
             "@type": "ImageObject",
             "name": "The Walking Dead: Streets of Survival gallery item 0",
             "description": "The Walking Dead: Streets of Survival gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/cf73d8ad76896ec25d4a69379e6e7dd5aea515ba67dec8311c60e16ffac66cc1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/cf73d8ad76896ec25d4a69379e6e7dd5aea515ba67dec8311c60e16ffac66cc1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/cf73d8ad76896ec25d4a69379e6e7dd5aea515ba67dec8311c60e16ffac66cc1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/cf73d8ad76896ec25d4a69379e6e7dd5aea515ba67dec8311c60e16ffac66cc1",
             "uploadDate": "2026-09-18T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "The Walking Dead: Streets of Survival gallery item 1",
             "description": "The Walking Dead: Streets of Survival gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000130302/Video/146ade2040fb1da23ec72b9768bc8fe9f32c75d37c7408a3eefdc5e84a476ce4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000130302/Video/146ade2040fb1da23ec72b9768bc8fe9f32c75d37c7408a3eefdc5e84a476ce4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000130302/Video/b7021273cae01f4da157d1dd0d26e82e2794a757223d201093f87ddd632dcace",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000130302/Video/b7021273cae01f4da157d1dd0d26e82e2794a757223d201093f87ddd632dcace",
             "uploadDate": "2026-09-18T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Walking Dead: Streets of Survival gallery item 2",
             "description": "The Walking Dead: Streets of Survival gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/5dfcc44e6fb2d67c1ff4e9b6d33daab82c5c77c29c6c3d328f834e463a8cfbe8",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/5dfcc44e6fb2d67c1ff4e9b6d33daab82c5c77c29c6c3d328f834e463a8cfbe8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/5dfcc44e6fb2d67c1ff4e9b6d33daab82c5c77c29c6c3d328f834e463a8cfbe8",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/5dfcc44e6fb2d67c1ff4e9b6d33daab82c5c77c29c6c3d328f834e463a8cfbe8",
             "uploadDate": "2026-09-18T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Walking Dead: Streets of Survival gallery item 3",
             "description": "The Walking Dead: Streets of Survival gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/231e08496ebb5adfef18d490d64ca957f1dad1c339eb91207a8477842c81917d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/231e08496ebb5adfef18d490d64ca957f1dad1c339eb91207a8477842c81917d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/231e08496ebb5adfef18d490d64ca957f1dad1c339eb91207a8477842c81917d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/231e08496ebb5adfef18d490d64ca957f1dad1c339eb91207a8477842c81917d",
             "uploadDate": "2026-09-18T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Walking Dead: Streets of Survival gallery item 4",
             "description": "The Walking Dead: Streets of Survival gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/268ce5526862b5b36b83e640bb62b0a7c94bb6996a5073835f3a62dfe4181445",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/268ce5526862b5b36b83e640bb62b0a7c94bb6996a5073835f3a62dfe4181445",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/268ce5526862b5b36b83e640bb62b0a7c94bb6996a5073835f3a62dfe4181445",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/268ce5526862b5b36b83e640bb62b0a7c94bb6996a5073835f3a62dfe4181445",
             "uploadDate": "2026-09-18T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Walking Dead: Streets of Survival gallery item 5",
             "description": "The Walking Dead: Streets of Survival gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/85ecb933b360542d0b9e69073fa2475446bbda0f79de1186d41940aa928896a0",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/85ecb933b360542d0b9e69073fa2475446bbda0f79de1186d41940aa928896a0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/85ecb933b360542d0b9e69073fa2475446bbda0f79de1186d41940aa928896a0",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/85ecb933b360542d0b9e69073fa2475446bbda0f79de1186d41940aa928896a0",
             "uploadDate": "2026-09-18T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Walking Dead: Streets of Survival gallery item 6",
             "description": "The Walking Dead: Streets of Survival gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/8c54515b9c1f1151d4e442eb0a5952aa27bc0145cd3b4620abbb28194e26380d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/8c54515b9c1f1151d4e442eb0a5952aa27bc0145cd3b4620abbb28194e26380d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/8c54515b9c1f1151d4e442eb0a5952aa27bc0145cd3b4620abbb28194e26380d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/8c54515b9c1f1151d4e442eb0a5952aa27bc0145cd3b4620abbb28194e26380d",
             "uploadDate": "2026-09-18T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Walking Dead: Streets of Survival gallery item 7",
             "description": "The Walking Dead: Streets of Survival gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/391d033979de055cf77267d74340130d9650c163539a8270f91399f76c5b58f8",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130302/391d033979de055cf77267d74340130d9650c163539a8270f91399f76c5b58f8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/391d033979de055cf77267d74340130d9650c163539a8270f91399f76c5b58f8",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130302/391d033979de055cf77267d74340130d9650c163539a8270f91399f76c5b58f8",
             "uploadDate": "2026-09-18T00:00:00.000Z"
           }
         ],
@@ -2698,7 +2956,7 @@
         "Product:{\"sku\":\"7500077197\"}": {
           "__typename": "Product",
           "availability": [
-            "Coming soon"
+            "Available now"
           ],
           "demoNsuid": null,
           "dlcType": {
@@ -2739,6 +2997,7 @@
           },
           "releaseDate": "2026-09-18T00:00:00.000Z",
           "releaseDateDisplay": null,
+          "showWidely": true,
           "sku": "7500077197",
           "topLevelCategory": {
             "__typename": "TopLevelCategory",
@@ -2783,15 +3042,37 @@
           "url({\"relative\":true})": "/us/store/products/the-walking-dead-streets-of-survival-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Choose your difficulty"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Raise your stats"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Action"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "040046b028fb6000",
           "appStoreUrl": null,
           "availability": [
-            "Pre-order",
-            "Coming soon"
+            "Available now"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2806,11 +3087,11 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
-          "description({\"html\":true})": "<p>FIGHT THE DEAD. SURVIVE THE STREETS.<br><br>The Walking Dead: Streets of Survival challenges you to intense arcade brawling in the unforgiving world of AMC’s The Walking Dead.<br><br>Play as iconic survivors Rick Grimes, Daryl Dixon, and Michonne while fighting through walker-infested tunnels, devastated settlements, and hostile strongholds packed with explosive encounters. Face Alexandria’s most ruthless foes, the Saviors led by Negan, along with overwhelming waves of Walkers as you unleash crushing combos, signature weapon attacks, and devastating finishers in a relentless battle for survival.<br><br>INSPIRED BY THE STORY YOU KNOW. <br>Based on the events of the All Out War storyline, fight through a campaign that reimagines the Saviors conflict that features walkers, threats, and surprises pulled from across the world of AMC’s The Walking Dead. You’ll explore familiar environments from the show - including the Sanctuary, Hilltop, Alexandria – enhanced by dynamic set pieces, environmental hazards, and intense, story-driven moments.<br><br>ICONIC SURVIVORS. ICONIC WEAPONS.<br>Step into the boots of legendary characters from The Walking Dead, each with a unique fighting style, stats, and signature abilities inspired by the series. Rick’s magnum, Michonne’s katana, and Daryl’s trusty crossbow are all ready for battle.<br><br>FEATURES:<br>•        Hard-Hitting Arcade Beat ’Em Up Combat<br>Use brutal melee abilities, crowd-clearing ranged attacks, or a mix of the two in fast-paced skirmishes. Enjoy responsive, crisp, and satisfying fighting gameplay while exploring the apocalypse.<br><br>•        Overwhelming Walker Swarms &amp; Ruthless Enemies<br>Battle through creeping armies of the undead and dangerous members of The Saviors that force you to adapt, assess threats, and fight for every inch of ground.<br><br>•        Face Iconic Bosses<br>Take on powerful, fan-favorite walkers like Winslow, the Well Walker, and more. The Saviors provide their own challenges as you throw down with Negan and Simon in intense, multi-phase boss battles that test your skill, strategy, and survival instincts.<br><br>•        Replayable Arcade Challenge<br>Master each character’s moveset and tackle multiple difficulty levels in an experience built for repeat runs and escalating challenges. Or jump in with an optional Easy Mode for casual play.</p>",
+          "description({\"html\":true})": "<p>FIGHT THE DEAD. SURVIVE THE STREETS.<br>The Walking Dead: Streets of Survival challenges you to intense arcade brawling in the unforgiving world of AMC’s The Walking Dead.<br>Play as iconic survivors Rick Grimes, Daryl Dixon, Michonne, and unlockable Negan while fighting through walker-infested tunnels, devastated settlements, and hostile strongholds packed with explosive encounters. Face Alexandria’s most ruthless foes, the Saviors led by Negan, along with overwhelming waves of Walkers as you unleash crushing combos, signature weapon attacks, and devastating finishers in a relentless battle for survival.<br><br>INSPIRED BY THE STORY YOU KNOW. <br>Based on the events of the All Out War storyline, fight through a campaign that reimagines the Saviors conflict that features walkers, threats, and surprises pulled from across the world of AMC’s The Walking Dead. You’ll explore familiar environments from the show - including the Sanctuary, Hilltop, Alexandria – enhanced by dynamic set pieces, environmental hazards, and intense, story-driven moments.<br><br>ICONIC SURVIVORS. ICONIC WEAPONS.<br>Step into the boots of legendary characters from The Walking Dead, each with a unique fighting style, stats, and signature abilities inspired by the series. Rick’s magnum, Michonne’s katana, and Daryl’s trusty crossbow are all ready for battle - with Negan's Lucille waiting to be unlocked.<br><br>FEATURES:<br>•        Hard-Hitting Arcade Beat ’Em Up Combat<br>Use brutal melee abilities, crowd-clearing ranged attacks, or a mix of the two in fast-paced skirmishes. Enjoy responsive, crisp, and satisfying fighting gameplay while exploring the apocalypse.<br><br>•        Overwhelming Walker Swarms &amp; Ruthless Enemies<br>Battle through creeping armies of the undead and dangerous members of The Saviors that force you to adapt, assess threats, and fight for every inch of ground.<br><br>•        Face Iconic Bosses<br>Take on powerful, fan-favorite walkers like Winslow, the Well Walker, and more. The Saviors provide their own challenges as you throw down with Negan and Simon in intense, multi-phase boss battles that test your skill, strategy, and survival instincts.<br><br>•        Replayable Arcade Challenge<br>Master each character’s moveset and tackle multiple difficulty levels in an experience built for repeat runs and escalating challenges. Or jump in with an optional Easy Mode for casual play.</p>",
           "disclaimer": "<p>A Nintendo Switch Online membership (sold separately) is required for Save Data Cloud backup.</p><p>© 2026 Trailmark Games LLC. All rights reserved. The Walking Dead © 2026 AMC Film Holdings LLC. All rights reserved. All trademarks are the property of their respective owners.</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
@@ -2819,7 +3100,7 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": true,
+            "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
             "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000130302&v_loggedin=false&v_currency=USD&v_price=19.99&v_country=US",
@@ -2855,7 +3136,7 @@
             "local": null,
             "online": null
           },
-          "description": "FIGHT THE DEAD. SURVIVE THE STREETS.\n\nThe Walking Dead: Streets of Survival challenges you to intense arcade brawling in the unforgiving world of AMC’s The Walking Dead.\n\nPlay as iconic survivors Rick Grimes, Daryl Dixon, and Michonne while fighting through walker-infested tunnels, devastated settlements, and hostile strongholds packed with explosive encounters. Face Alexandria’s most ruthless foes, the Saviors led by Negan, along with overwhelming waves of Walkers as you unleash crushing combos, signature weapon attacks, and devastating finishers in a relentless battle for survival.\n\nINSPIRED BY THE STORY YOU KNOW. \nBased on the events of the All Out War storyline, fight through a campaign that reimagines the Saviors conflict that features walkers, threats, and surprises pulled from across the world of AMC’s The Walking Dead. You’ll explore familiar environments from the show - including the Sanctuary, Hilltop, Alexandria – enhanced by dynamic set pieces, environmental hazards, and intense, story-driven moments.\n\nICONIC SURVIVORS. ICONIC WEAPONS.\nStep into the boots of legendary characters from The Walking Dead, each with a unique fighting style, stats, and signature abilities inspired by the series. Rick’s magnum, Michonne’s katana, and Daryl’s trusty crossbow are all ready for battle.\n\nFEATURES:\n•        Hard-Hitting Arcade Beat ’Em Up Combat\nUse brutal melee abilities, crowd-clearing ranged attacks, or a mix of the two in fast-paced skirmishes. Enjoy responsive, crisp, and satisfying fighting gameplay while exploring the apocalypse.\n\n•        Overwhelming Walker Swarms & Ruthless Enemies\nBattle through creeping armies of the undead and dangerous members of The Saviors that force you to adapt, assess threats, and fight for every inch of ground.\n\n•        Face Iconic Bosses\nTake on powerful, fan-favorite walkers like Winslow, the Well Walker, and more. The Saviors provide their own challenges as you throw down with Negan and Simon in intense, multi-phase boss battles that test your skill, strategy, and survival instincts.\n\n•        Replayable Arcade Challenge\nMaster each character’s moveset and tackle multiple difficulty levels in an experience built for repeat runs and escalating challenges. Or jump in with an optional Easy Mode for casual play.",
+          "description": "FIGHT THE DEAD. SURVIVE THE STREETS.\nThe Walking Dead: Streets of Survival challenges you to intense arcade brawling in the unforgiving world of AMC’s The Walking Dead.\nPlay as iconic survivors Rick Grimes, Daryl Dixon, Michonne, and unlockable Negan while fighting through walker-infested tunnels, devastated settlements, and hostile strongholds packed with explosive encounters. Face Alexandria’s most ruthless foes, the Saviors led by Negan, along with overwhelming waves of Walkers as you unleash crushing combos, signature weapon attacks, and devastating finishers in a relentless battle for survival.\n\nINSPIRED BY THE STORY YOU KNOW. \nBased on the events of the All Out War storyline, fight through a campaign that reimagines the Saviors conflict that features walkers, threats, and surprises pulled from across the world of AMC’s The Walking Dead. You’ll explore familiar environments from the show - including the Sanctuary, Hilltop, Alexandria – enhanced by dynamic set pieces, environmental hazards, and intense, story-driven moments.\n\nICONIC SURVIVORS. ICONIC WEAPONS.\nStep into the boots of legendary characters from The Walking Dead, each with a unique fighting style, stats, and signature abilities inspired by the series. Rick’s magnum, Michonne’s katana, and Daryl’s trusty crossbow are all ready for battle - with Negan's Lucille waiting to be unlocked.\n\nFEATURES:\n•        Hard-Hitting Arcade Beat ’Em Up Combat\nUse brutal melee abilities, crowd-clearing ranged attacks, or a mix of the two in fast-paced skirmishes. Enjoy responsive, crisp, and satisfying fighting gameplay while exploring the apocalypse.\n\n•        Overwhelming Walker Swarms & Ruthless Enemies\nBattle through creeping armies of the undead and dangerous members of The Saviors that force you to adapt, assess threats, and fight for every inch of ground.\n\n•        Face Iconic Bosses\nTake on powerful, fan-favorite walkers like Winslow, the Well Walker, and more. The Saviors provide their own challenges as you throw down with Negan and Simon in intense, multi-phase boss battles that test your skill, strategy, and survival instincts.\n\n•        Replayable Arcade Challenge\nMaster each character’s moveset and tackle multiple difficulty levels in an experience built for repeat runs and escalating challenges. Or jump in with an optional Easy Mode for casual play.",
           "playerCountDescription": null,
           "platinumPoints": null,
           "prePurchase": null,
@@ -2864,7 +3145,7 @@
             "__typename": "CloudinaryAsset",
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000130302/ed4e4393cf0bffbde4387799004bf52b5e92a6f9c5ac8acae4fd0fbacb4e9417"
           },
-          "publisherNotifications({\"html\":true})": "<p>Purchases made by 09/18/2026 00:00 PDT will receive the following bonus: The Walking Dead: Streets of Survival - Golden Survival Pack. Gold-polished gear for brutal fights and last stands!</p>",
+          "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [
@@ -2899,7 +3180,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "2621440000",
-                "totalRomSize": "2404384768",
+                "totalRomSize": "2414870528",
                 "platform": "BEE"
               }
             ]
@@ -2999,7 +3280,7 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000130302/Video/146ade2040fb1da23ec72b9768bc8fe9f32c75d37c7408a3eefdc5e84a476ce4",
+              "publicId": "/store/software/switch2/70010000130302/Video/b7021273cae01f4da157d1dd0d26e82e2794a757223d201093f87ddd632dcace",
               "resourceType": "video",
               "type": "upload"
             },
@@ -3145,7 +3426,7 @@
   "query": {
     "slug": "the-walking-dead-streets-of-survival-switch-2"
   },
-  "buildId": "5HAlXfjFAs8ppyJ4Ymve-",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

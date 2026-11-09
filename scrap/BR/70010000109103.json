@@ -9,30 +9,6 @@
             "list": [
               {
                 "__contentType": "moduleCta",
-                "__entryId": "1Wqx4IYq0S8VNtkcLRxOBR",
-                "campaignId": "",
-                "label": "Jogos com Pokémon",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/pokemon-games/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "7BiLgE3KvKApxtODjONros",
-                "campaignId": "",
-                "label": "Pacote Nintendo Switch 2",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/showroom/nintendo-switch-2-bundle/"
-              },
-              {
-                "__contentType": "moduleCta",
                 "__entryId": "4NMwlAucFhNczxL6eZal6T",
                 "campaignId": "",
                 "label": "Jogos em promoção",
@@ -41,7 +17,34 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/store/sales-and-deals/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2tJbdYyCft03P6iEYqP2vC",
+                "campaignId": "",
+                "label": "Jogos com Resident Evil",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://www.nintendo.com/us/search/#q=resident+evil&p=1&cat=gme&sort=df"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2qHdRTEHpDJ0fBIRCTAAvs",
+                "campaignId": "",
+                "label": "Novidades",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "/whatsnew/"
               },
               {
                 "__contentType": "moduleCta",
@@ -53,7 +56,21 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/gaming-systems/switch-2/featured-games/"
+              },
+              {
+                "__contentType": "moduleCta",
+                "__entryId": "2R99gwukWr2dNYakhRjEJ",
+                "campaignId": "",
+                "label": "Cartão presente digital do Nintendo eShop",
+                "successLabel": "",
+                "requiresMembership": false,
+                "membershipRequiredLabel": "",
+                "disableSignUps": false,
+                "signUpsDisabledLabel": "",
+                "icon": "",
+                "url": "https://store.nintendo.com.br/games?_gl=1*1j2xw21*_gcl_au*MTkyMDc0NjE4My4xNzY1NDgxNTY3*_ga*MTk2MDg2NDM0Mi4xNzY1NDk5NzIy*_ga_F6ERC4HMNZ*czE3NjYxODU1MjQkbzE2JGcxJHQxNzY2MTg3NjE4JGozJGwwJGgyMDEyNzEwMzA1"
               },
               {
                 "__contentType": "moduleCta",
@@ -65,27 +82,153 @@
                 "membershipRequiredLabel": "",
                 "disableSignUps": false,
                 "signUpsDisabledLabel": "",
+                "icon": "",
                 "url": "/online/"
-              },
-              {
-                "__contentType": "moduleCta",
-                "__entryId": "3oxtVMgEwpDyeegVuRumJH",
-                "campaignId": "",
-                "label": "Jogos para o Nintendo Switch",
-                "successLabel": "",
-                "requiresMembership": false,
-                "membershipRequiredLabel": "",
-                "disableSignUps": false,
-                "signUpsDisabledLabel": "",
-                "url": "/store/games/best-sellers/#corePlatforms=Nintendo+Switch&f=corePlatforms&sort=df&p=0"
               }
             ]
           },
+          "flyoverTrendingTopics": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "74oMBK4LioFzShJtzMUTdp",
+              "label": "Jogos imperdíveis",
+              "caption": "",
+              "url": "/store/showroom/must-play-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7lMKuwutLMkkdUvg4rF04h",
+              "label": "Jogos em promoção",
+              "caption": "",
+              "url": "/store/sales-and-deals/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "4TV5iEmFd9lD0wxyCpMt6f",
+              "label": "Jogos para o Nintendo Switch 2",
+              "caption": "",
+              "url": "/gaming-systems/switch-2/featured-games/",
+              "icon": null,
+              "image": null,
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
+          "flyoverFeaturedPromos": [
+            {
+              "__contentType": "menuItem",
+              "__entryId": "7oSU1FA283oAzpyu8HBgS1",
+              "label": "The Legend of Zelda™: Ocarina of Time",
+              "caption": "",
+              "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "tags": [],
+                "type": "upload",
+                "bytes": 960941,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "version": 1788887970,
+                "metadata": {},
+                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
+                "created_at": "2026-09-08T17:19:30Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            },
+            {
+              "__contentType": "menuItem",
+              "__entryId": "2olLYsBejGp0oUIaev2A5I",
+              "label": "EA SPORTS FC™ 27",
+              "caption": "EA SPORTS FC™ 27",
+              "url": "/store/products/ea-sports-fc-27-switch-2/",
+              "icon": null,
+              "image": {
+                "url": "http://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "tags": [
+                  "70010000110123",
+                  "70010000110123-C"
+                ],
+                "type": "upload",
+                "bytes": 934808,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70010000110123": "1",
+                    "en-US:70010000110123": "1",
+                    "es-AR:70010000110123": "1",
+                    "es-CL:70010000110123": "1",
+                    "es-CO:70010000110123": "1",
+                    "es-MX:70010000110123": "1",
+                    "es-PE:70010000110123": "1",
+                    "fr-CA:70010000110123": "1",
+                    "pt-BR:70010000110123": "1",
+                    "en-CA:70010000110123-C": "1",
+                    "en-US:70010000110123-C": "1",
+                    "es-AR:70010000110123-C": "1",
+                    "es-CL:70010000110123-C": "1",
+                    "es-CO:70010000110123-C": "1",
+                    "es-MX:70010000110123-C": "1",
+                    "es-PE:70010000110123-C": "1",
+                    "fr-CA:70010000110123-C": "1",
+                    "pt-BR:70010000110123-C": "1"
+                  }
+                },
+                "version": 1788235244,
+                "metadata": {},
+                "public_id": "store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b",
+                "created_at": "2026-09-01T04:00:44Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788235244/store/software/switch2/70010000110123/ce773ca9bd3d7bb606fab8cd9fd91f2bcecaf53fdf753109e26fa46669ee9c6b.jpg",
+                "resource_type": "image"
+              },
+              "hideOn": null,
+              "subItems": [],
+              "activeMatch": "",
+              "id": null,
+              "hideOnLocale": false,
+              "characterColor": null,
+              "background": null
+            }
+          ],
           "topProducts": [
             "7700037146",
+            "7700038706",
             "7100122824",
-            "7500075154",
-            "7100112610"
+            "7700036603"
           ]
         },
         "navContent": {
@@ -386,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -448,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -479,7 +653,7 @@
                   "__entryId": "5FfnkqPsDNYjzL7ahrcGTy",
                   "label": "The Legend of Zelda",
                   "caption": "",
-                  "url": "https://zelda.nintendo.com/",
+                  "url": "/explore/characters/zelda/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909888/Global%20Nav/Explore/Characters-The-Legend-of-Zelda.png",
@@ -501,7 +675,7 @@
                   "subItems": [],
                   "activeMatch": "",
                   "id": "zelda",
-                  "hideOnLocale": true,
+                  "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -1084,12 +1258,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1134,12 +1312,16 @@
                     "dividerRepeat": "",
                     "dividerPosition": "center",
                     "image": "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test",
+                    "videos": [],
                     "images": [
                       "https://assets.nintendo.com/image/upload/q_auto:good/f_auto/dpr_2.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test"
                     ],
                     "gradient": [],
                     "responsiveBg": "\n        background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_2400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n\n        @media (max-width: 1800px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1800/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 1200px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 900px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_900/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 600px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_600/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 400px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_400/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n        @media (max-width: 300px) {\n          background-image: url(\"https://assets.nintendo.com/image/upload/c_fill,w_300/q_auto:good/f_auto/dpr_1.0/ncom/en_US/merchandising/My%20Nintendo%20Store/Hardware/Pattern-My-Nintendo-Store-test\");\n        }\n      ",
-                    "lottie": null
+                    "lottie": null,
+                    "overlay": "",
+                    "mobileOverlay": "",
+                    "slideshow": null
                   }
                 },
                 {
@@ -1270,6 +1452,46 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -1446,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1594,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2241,6 +2479,7 @@
             "membershipRequiredLabel": "",
             "disableSignUps": false,
             "signUpsDisabledLabel": "",
+            "icon": "",
             "url": ""
           },
           "deepLink": "",
@@ -2277,6 +2516,8 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
+      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Disney/Pixar Toy Story: Retro Roundup! para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Disney/Pixar Toy Story: Retro Roundup! para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2330,9 +2571,62 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Ação"
+        },
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/racing-games",
+          "label": "Corrida"
+        },
+        {
+          "url": "/store/games/tags/shooting-games",
+          "label": "Tiro"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Escolha a dificuldade"
+        },
+        {
+          "url": "/store/games/tags/choose-your-own-path-games",
+          "label": "Escolha seu caminho"
+        },
+        {
+          "url": "/store/games/tags/open-world-games",
+          "label": "Liberdade de movimento"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Personagens com voz"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Pixel art"
+        },
+        {
+          "url": "/store/games/tags/platforming-games",
+          "label": "Plataformas"
+        },
+        {
+          "url": "/store/games/tags/third-person-games",
+          "label": "Terceira pessoa"
+        },
+        {
+          "url": "/store/games/tags/games-to-play-together-on-one-console",
+          "label": "Jogue junto em um console"
+        },
+        {
+          "url": "/store/games/tags/multiplayer-games",
+          "label": "Para curtir com uma turma"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/4feac6bcfcd7cfe703d1231fff713afaa87840fd9282ba68046072235043ad6f"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/4feac6bcfcd7cfe703d1231fff713afaa87840fd9282ba68046072235043ad6f"
       },
       "linkedData": [
         {
@@ -2388,56 +2682,56 @@
             "@type": "ImageObject",
             "name": "Disney/Pixar Toy Story: Retro Roundup! gallery item 0",
             "description": "Disney/Pixar Toy Story: Retro Roundup! gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/4feac6bcfcd7cfe703d1231fff713afaa87840fd9282ba68046072235043ad6f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/4feac6bcfcd7cfe703d1231fff713afaa87840fd9282ba68046072235043ad6f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/4feac6bcfcd7cfe703d1231fff713afaa87840fd9282ba68046072235043ad6f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/4feac6bcfcd7cfe703d1231fff713afaa87840fd9282ba68046072235043ad6f",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Disney/Pixar Toy Story: Retro Roundup! gallery item 1",
             "description": "Disney/Pixar Toy Story: Retro Roundup! gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/6264ffeae036930b95f3633cc5f37ff0dd4bb9173092364dfc1ceebfc04e9ccb",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/6264ffeae036930b95f3633cc5f37ff0dd4bb9173092364dfc1ceebfc04e9ccb",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/6264ffeae036930b95f3633cc5f37ff0dd4bb9173092364dfc1ceebfc04e9ccb",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/6264ffeae036930b95f3633cc5f37ff0dd4bb9173092364dfc1ceebfc04e9ccb",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Disney/Pixar Toy Story: Retro Roundup! gallery item 2",
             "description": "Disney/Pixar Toy Story: Retro Roundup! gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/5700f09e36c76e1f19e71553c9e084bf460fe79b24e4b15090883958259efcbe",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/5700f09e36c76e1f19e71553c9e084bf460fe79b24e4b15090883958259efcbe",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/5700f09e36c76e1f19e71553c9e084bf460fe79b24e4b15090883958259efcbe",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/5700f09e36c76e1f19e71553c9e084bf460fe79b24e4b15090883958259efcbe",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Disney/Pixar Toy Story: Retro Roundup! gallery item 3",
             "description": "Disney/Pixar Toy Story: Retro Roundup! gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/7e90458e390507e41685ab4fc38c11c91836c41550a1edf9c1c074d1135d80ca",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/7e90458e390507e41685ab4fc38c11c91836c41550a1edf9c1c074d1135d80ca",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/7e90458e390507e41685ab4fc38c11c91836c41550a1edf9c1c074d1135d80ca",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/7e90458e390507e41685ab4fc38c11c91836c41550a1edf9c1c074d1135d80ca",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Disney/Pixar Toy Story: Retro Roundup! gallery item 4",
             "description": "Disney/Pixar Toy Story: Retro Roundup! gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/32d195e80c355159afd8a45e7e7b3278064413e52133f1070dfd7f49dcdbb30e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/32d195e80c355159afd8a45e7e7b3278064413e52133f1070dfd7f49dcdbb30e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/32d195e80c355159afd8a45e7e7b3278064413e52133f1070dfd7f49dcdbb30e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/32d195e80c355159afd8a45e7e7b3278064413e52133f1070dfd7f49dcdbb30e",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Disney/Pixar Toy Story: Retro Roundup! gallery item 5",
             "description": "Disney/Pixar Toy Story: Retro Roundup! gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/edcb376f9910f3c224d9c8eda1f1ace84b64d8b01ed84d4e4fad86b7b116bc8b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/edcb376f9910f3c224d9c8eda1f1ace84b64d8b01ed84d4e4fad86b7b116bc8b",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/edcb376f9910f3c224d9c8eda1f1ace84b64d8b01ed84d4e4fad86b7b116bc8b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/edcb376f9910f3c224d9c8eda1f1ace84b64d8b01ed84d4e4fad86b7b116bc8b",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Disney/Pixar Toy Story: Retro Roundup! gallery item 6",
             "description": "Disney/Pixar Toy Story: Retro Roundup! gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/2f61e711a0fda7162bb3d4c914441e7ee8c3f9a3c8992b0f66fe56ae616c3ee4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000109103/2f61e711a0fda7162bb3d4c914441e7ee8c3f9a3c8992b0f66fe56ae616c3ee4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/2f61e711a0fda7162bb3d4c914441e7ee8c3f9a3c8992b0f66fe56ae616c3ee4",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000109103/2f61e711a0fda7162bb3d4c914441e7ee8c3f9a3c8992b0f66fe56ae616c3ee4",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           }
         ],
@@ -2481,6 +2775,2268 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentRating",
+          "id": "iUuAOjCUcLd4OIchPuRmz",
+          "locale": "pt_BR",
+          "code": "livre",
+          "label": "Livre",
+          "requiresAgeGate": false,
+          "system": "CLASSIND",
+          "order": 0,
+          "highestRating": null
+        },
+        "Product:{\"sku\":\"7100105377\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Rugrats: Retro Rewind Collection",
+          "nsuid": "70010000105377",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 114.95,
+            "finalPrice": 114.95,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000105377/0665eb105bb42cabc20af663a0a9f3ce314014fdddd4cba899e7aa74a02752d6",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/25c0557b21ab4e00b011a18c92258405_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-05-22T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100105377",
+          "softwarePublisher": "Limited Run Games",
+          "softwareDeveloper": "Mighty Rabbit Studios",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "rugrats-retro-rewind-collection-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000105377/baceaf44e44f4ae820506695b5ef65795236d3041243b988918eb1c139a66869",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000105377/9b42190d3466120d6135c22a6d9a4e35e91cf345c6176870565989bcb698bebf",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000105377/38187ad6b1f326abf2ecf52db14b7926e2f392b5a80ac3ba1f10b4a6cd5a0e4c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000105377/b13658e2c07eee5561ebc300c79e96b14fc26ae3bf576ed83035778eefcb6779",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000105377/cf561446b0d6fc78b791a5b555f2e2b379522c824fca61808b95477be462f863",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000105377/0336447e4ad44d7dc6257b61056ab5e8cefa6342e9fc5d690f9ab9788bf00576",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "2ALcI9wIhmjhDwjT7cvZNe",
+          "locale": "pt_BR",
+          "label": "Linguagem Imprópria",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100105506\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000024808",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Bubsy 4D",
+          "nsuid": "70010000105506",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 52.95,
+            "finalPrice": 52.95,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000105506/a3cbfcab31a8e9960b959c52a2192eb02cf9210f1a8dcb7a942b214897fbc82c",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000105506/61fef799b5ae7ed0ba64a062f467bbe6b677740110ea2873e0a72984d5d41902",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-05-22T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100105506",
+          "softwarePublisher": "Atari",
+          "softwareDeveloper": "Fabraz",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Jogue pelo tempo mais rápido"
+              },
+              {
+                "__typename": "Tag",
+                "code": "RUN_AROUND",
+                "label": "Liberdade de movimento"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Placares online"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "bubsy-4d-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000105506/Video/2255a2c048171aecf0b7952bb30d2c053aceb050669f21e2ec2115a2a69b25c1",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000105506/Video/2d7cb3f4afc5f1ac9929eb7e1f21646cc14ebd9c56a250db824ce46b38a54677",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000105506/Video/89bbb67ca1616a46d34993cba2f0dfb5d7f21200d0b27c2d6040932c1bae92fc",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105506/cab7855e1ab533073713ce2e01b85254d194aed737c1c13f1ed660186d8ea9c9",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105506/9ddafa99d030a72f5315bad68eb2599e82999012afd7e4c5a9f813d25bd4403e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105506/7bdc8c5253cee72c9b2503059f963d35279e5fecb78a6feacf79e0c3614ae5b5",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105506/3032a9d833b90f8bb46ead740afdcd322d77360812c767345f6c35f4889feccd",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105506/384d051e7e1ac67a0dd63389f321de14578a6312404762595fec96b704821dff",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000105506/ae3635b8b047ce856508d7e586e8284c2c1f13c3d7e43e1a47e64eb13c5c66f0",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100092058\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Bubsy in: The Purrfect Collection",
+          "nsuid": "70010000092058",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 59.99,
+            "finalPrice": 59.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000092058/0285365fe7a846da8511bf95ca7a78e2c1b4a8442a7139e6642ab15174af81f9",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/79ca25b0e27546fbb10f4d029f33ba78_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2025-09-09T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100092058",
+          "softwarePublisher": "Atari",
+          "softwareDeveloper": "Limited Run Games",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Para curtir com uma turma"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "bubsy-in-the-purrfect-collection-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000092058/Video/9ea02fbadf8fba94e0b4a37170b7b2ea89e3be631421b6c7923810ee3ece431b",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000092058/3ce3cca92700285a193d64342be02236b382b28572a6872b1c130f48cd1cc73c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000092058/3f3865fe18e0eadaf5677951c9ad2900e814e2784b96a994086e76d3606e17e9",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000092058/414e5b73737518c033312b6d0f931a1709e0f2e666b8a855ec497b6858fa5999",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000092058/098f21fee885ab823bc9a13a6b6922c799119445b29e876681044e5ef28c18ce",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000092058/db45c82c7d96a065a6f589df98dee3080dbe465ffaee284721f88b10493453ff",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000092058/3120410c9bfa02e224209b02f4fd505a749e418884e51b640571983236dfdfcf",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"5dERYQhJyGsSv8Y71DP7zG\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "5dERYQhJyGsSv8Y71DP7zG",
+          "locale": "pt_BR",
+          "label": "Violência Fantasiosa",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100108238\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"5dERYQhJyGsSv8Y71DP7zG\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Sonic Frontiers – Edição Definitiva",
+          "nsuid": "70010000108238",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 250.9,
+            "finalPrice": 250.9,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000108238/fac34531ef37ddb8652dbfdf6c718dc5eacc0e4869dc52cad9ab12c0433e2735",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/28f4addac062414aba31346263b41947_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-06-23T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100108238",
+          "softwarePublisher": "SEGA",
+          "softwareDeveloper": "SONIC TEAM",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHOOSE_PATH",
+                "label": "Escolha seu caminho"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Jogue pelo tempo mais rápido"
+              },
+              {
+                "__typename": "Tag",
+                "code": "RUN_AROUND",
+                "label": "Liberdade de movimento"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Resolução de enigmas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "sonic-frontiers-definitive-edition-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000108238/26c0d105bd0040df204fe843bea2cd99d6295400e7276020d7e6087ca125ccea",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000108238/56ca752b160b2c3102287a53c20af8bedf505e390d0de579ec7fd9a836aa3587",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000108238/012908a96a4ef7b38d226891a7ce7c86ec0ec141ac0d19278b0669be58120706",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000108238/8208ce48955bf436b1caf6333dbcc0b356f7a00178d132f8440091e1b6c8f77f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000108238/9a63c6d25f54e81d80c4d8687f765f7c01c380c41271d4c227fee82b600f01d7",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100106414\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Rayman: 30th Anniversary Edition",
+          "nsuid": "70010000106414",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 99.99,
+            "finalPrice": 99.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000106414/e58254f9729ce098525dca8789358c40003d950be4e28fb108ddb820060ea2db",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/6708494498774e84b1a73264e3ebc7c1_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-02-13T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100106414",
+          "softwarePublisher": "Ubisoft",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "rayman-30th-anniversary-edition-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000106414/Video/e888fb5747aa498676e754266babdfadedf41846c01cd0a38d48906cbebf2f37",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000106414/f49f1a17f18e2b62ecdd1d100c442c4e454ae6f0acae592ea4df4b045d40ad12",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000106414/db5c0192b9ecc971a17f1e15bb6bd4462c561fb3e8095aec728202ad0d5442de",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000106414/7013a34198fe5a97a77e447d7a02e716278c8c0b1a1855b4eac5481e2619908a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000106414/3eb169a5859e528bf5c6e88bcb6e43a6c35d33ed97ba5ea3cbb2ba5a7b875df9",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000106414/2857d9ddeacea389f82d6e6fe8a68cbb4fa8ec6d91c93e49c1c5b910c383df46",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000106414/fa41f257c71ff59406729435a4c84cee07a4539d7e0d3cefaf7af6b3590e1ae1",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100065078\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"5dERYQhJyGsSv8Y71DP7zG\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Rocket Knight Adventures: Re-Sparked",
+          "nsuid": "70010000065078",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 149.5,
+            "finalPrice": 149.5,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000065078/01c028c03fea65c7c01b90346e86c908758094ae7fbe8ea28bec74d5bbedfc54",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/8614b503275e4df88a4c73b0320701a8_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2024-06-11T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100065078",
+          "softwarePublisher": "KONAMI",
+          "softwareDeveloper": "Limited Run Games, Inc.",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "rocket-knight-adventures-re-sparked-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000065078/Video/38594592fdadd6b9b6cefae8f6169a04c6ae35b7a44eb1ea79a0c60b53f33a60",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000065078/7736beeb6ed5f6706843eede48eb5ee9c0daa94e345a8f0046bed4a02faa7970",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000065078/f68c59a7d102b83e1a04ec30d86772356bd9eba16d0adaae85918d0a072f577a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000065078/0904ba315cc9191e128ce43c6d37abe3113e2f1975ec60c8bcba183cfd5eb6f1",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100058111\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"5dERYQhJyGsSv8Y71DP7zG\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Glover (QUByte Classics)",
+          "nsuid": "70010000058111",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 59.99,
+            "finalPrice": 59.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000058111/9acbed03835673094c0ed57c96f8695105c3c65ecaf1771584963d431461421c",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/9a77eb60bf694f25a0465ce4b51035d9_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2025-02-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100058111",
+          "softwarePublisher": "QUByte Interactive",
+          "softwareDeveloper": "QUByte Interactive",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "glover-qubyte-classics-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000058111/Video/dd755332aec46bcfa57191888aa0ace6613ff2ec7dfd3f8cf448bfddaa4dda40",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058111/f2563e161c7afb0eab4bb978dbe949a0e3c3a03a506c3ad628ee740209dff924",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058111/12eb61d9d36ee323a51cf9e86ddd778c42d579e76a3a8abc25145fa6b899f6cb",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058111/dbc7b5482ddca99d165759f627242da3da9b353ec0fdfcd3ab3136abda299e56",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058111/2e6529659eb20333ca05e8efa2b6928da7c6707a97be5a692c4417c3a9b7d9dc",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058111/c07f89052b1140bafd3d9457a16bdf4cb67af9cc29910984f64d81a464485882",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000058111/61db0019141d37ca3ac7f89c7eead0b81bc114902bb53d651fb036b6e50b2fec",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100091651\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Croc Legend of the Gobbos",
+          "nsuid": "70010000091651",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 149.5,
+            "finalPrice": 149.5,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000091651/04d3fcf77eafc6d41754dfcd9530c67fde7a66a2fad0b7f11944371b7858fe92",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/8060b273c68e4f0084ced573c90a3f73_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2025-04-02T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100091651",
+          "softwarePublisher": "Argonaut Games",
+          "softwareDeveloper": "Big Boat/Titanium",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Jogue pelo tempo mais rápido"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "croc-legend-of-the-gobbos-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000091651/6ad066a82adeb90b0e34019d35221eb7635a2325d26b1217df965c31ccb7f121",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000091651/9bee9aeca4e23872397c9467af7102694383891979685c87fd192a31dc87be8c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000091651/3a81ce8c984d8bd3794c199983183ce6dd808af1a3d958e373867fe10a2ced0a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000091651/d632a2f97279189ab72be44ed235503a8efe25359bbe50c351ec8c577e16e3dc",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000091651/c37374e6f2e9d89714815436e7fc7e5daba97dcf87be15df821d3533b368e8dc",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000091651/2f463c8533da840b38b0778f7b1cd937ac0d6b89455b3f4f89002d7ed6b4b307",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100099268\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"5dERYQhJyGsSv8Y71DP7zG\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "SUPER BOMBERMAN COLLECTION",
+          "nsuid": "70010000099268",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 114.9,
+            "finalPrice": 114.9,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000099268/6d24a983f8adc65528262beca39112d921c1dfaa7dafbf6279a6c4245db53bdd",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/0da29807d9314513b04f8e13c98d5070_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-02-05T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100099268",
+          "softwarePublisher": "KONAMI",
+          "softwareDeveloper": "Red Art Games",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Jogue pelo tempo mais rápido"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PARTY",
+                "label": "Grupo"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Para curtir com uma turma"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "super-bomberman-collection-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099268/35e901ab5cece58a66e2808a857c65ee15cbc658f414dd564b83854c1720fe4a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099268/76ddb275c0f01100ea55b35cebf6d77c4816792b5217dbdcaefc0013b0d35780",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099268/36b22446be36fb8a784af707664aa736c4f5790f4eb5a0c69a55ecf5d7fd1c91",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099268/b3ad18df2c5f3fca0c54e26d2a9fab632ac2fc3b4efe461407c25d9c277fe75b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099268/38efd171c149c71405d6c1a307b6258677191771f8c6276244e027cfde35be2c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000099268/ad7a3ec415eca4cb9c0165180b3eeb857fb0a84921044e6dc4acb46607944480",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100061087\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Super Kiwi 64",
+          "nsuid": "70010000061087",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 14.99,
+            "finalPrice": 14.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000061087/1000a6c8a0237ba02ef5421a72698e64303ea87503736999945d14de7ded11e1",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/af6e49b35b11426f81722086ebf33a03_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-12-02T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100061087",
+          "softwarePublisher": "Diplodocus Games",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CHOOSE_PATH",
+                "label": "Escolha seu caminho"
+              },
+              {
+                "__typename": "Tag",
+                "code": "RUN_AROUND",
+                "label": "Liberdade de movimento"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "super-kiwi-64-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000061087/Video/e73bce63ca52464555a3e6654879c732fed730e16010d4db0131c071c4211b08",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000061087/976f919e1c2a6f5446c6214dc2834fb06a2f7d7f68d0828c57693eb7b83fb2c8",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000061087/6d7f6d2763d4e8f3901e2bf3de757a3dd860f5b539b07f44a1f99e6eb40e9d6c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000061087/394d74196ced4c484bfc96f11a18bc1aab94211b92554b7ad47b657f5cdc0a0d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000061087/704b44e5c1e4d5714494b8949a347b0591386b3c2138ea538886ffe77121fcb3",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000061087/bc69a76c726e94d913859ed96a8a7f42ea4a7b9774e87ae62e4f3573b70f59ed",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000061087/3a891cb1029d9695e7c061684e9dca2b4d3c3131f9d2501d88636d575643cf3a",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100064845\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"5dERYQhJyGsSv8Y71DP7zG\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000020968",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": "2026-11-12T07:59:59Z",
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Penny’s Big Breakaway",
+          "nsuid": "70010000064845",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": true,
+            "regularPrice": 146.5,
+            "finalPrice": 49.99,
+            "pricePerUnit": null,
+            "percentOff": 65.88,
+            "amountOff": 96.51
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000064845/acbaccb83366579ceb2d091ca7e4ceb4f2edb97837ad748f3e392c88729cca96",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/005b89b4c6204f80979217cf7546325a_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2024-02-21T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100064845",
+          "softwarePublisher": "Fictions",
+          "softwareDeveloper": "Evening Star",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Jogue pelo placar mais alto"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Jogue pelo tempo mais rápido"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Placares online"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "pennys-big-breakaway-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000064845/Video/3fcc1f6eafb5b3f52ce2ab2ab71c10654f9baef7023c56f5f971a5afd5f2283c",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000064845/d761fcd5b4e10430a1bcbd013d0f9ac8ef9ddfcfa2088dcd3c105a630eb0f6f3",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000064845/b98bcf660214a7ca6a5e22702bae7fac844b7a12178663900d4706b00fd24b06",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000064845/6ecd0adaea6830549e9425571a70b2a2c7ee23b2a3150f74664a6fb171d1442e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000064845/5a28961721aa32b91f3ee0782849e0407df3f43971a919491c5ae2e3a279733e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000064845/8e50372035beeb4a244a7fdac598ee725bfd8780f46ab6bdb65f287efbc6978a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000064845/ccf3e614f1093e43beba983a69d50b6376df03749ef298ecb610aa7f56a91add",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100085242\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Tetris® Forever",
+          "nsuid": "70010000085242",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 101.99,
+            "finalPrice": 101.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000085242/9425172f0919466273c7bfa1b1b7b6df6b728268e72a1993998d0c14946383ea",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/fcbe706671044fce96458b08aac7afff_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2024-11-12T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100085242",
+          "softwarePublisher": "Atari",
+          "softwareDeveloper": "Digital Eclipse",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "PUZZLE",
+                "label": "Quebra-cabeça"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "tetris-forever-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000085242/Video/c38c00fbed2e87581e250b68c79aa0f881951dda1ae652c5bdd5ee1103392022",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000085242/4fe597d4d67448391d105739e2e0be94f23cbac18670a82523de4850d23a8881",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000085242/9695eec66c6c4cf07b2c47ed85a94c5fcf2bacdc0a8d51539a07f9d645fbb29b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000085242/92abf7bd2e9030a0b85b403a40663652c302aa645bec52be8407057421275b17",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000085242/bdf4ec6e2b15baaa8625449bfcd54ffb92d204a62f36e6f07c1bf1592b497647",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000085242/80654d00cba7215451e10878808fe25c581d824bdeb7147d260ad80415f9e1ec",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000085242/ca84ecc71eda1b84072e6962279695c70d8539bcdff82c5d7d43a6582be864a0",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100077922\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Tomba! Special Edition",
+          "nsuid": "70010000077922",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 113.41,
+            "finalPrice": 113.41,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000077922/c72af36d4c5fd7553831956a9c765e1f2d4f4c4ed48d5acfe79f2a861a1f7baf",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/89cefb13b044436d8edeeda5b3d28197_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2024-08-01T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100077922",
+          "softwarePublisher": "Limited Run Games",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Jogue pelo placar mais alto"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "tomba-special-edition-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000077922/Video/74ed831faa073856cd139b8b9775cfbec1abca50a647cfcbfc6d40bfa9a29c96",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000077922/5a46c9a76a22f10bad792f1510c138237c46c2e5df1df183de6fee34fb81dd86",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000077922/9800bf621cbdea68ac3014f7bc3e0a9622b31657a9dd2ca7041f0e524473c38d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000077922/881183e75f7a23b7af79ee41a31418ea2b2729772d619c44a79fb390abb59a00",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000077922/b5d7778f7f61ca9f0c964d59071fecba026f855193b7d9692d1054df0165a616",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000077922/b4b698bdb8b23c7409eb77e7156ff78da33a6242d80cb39ab8933eb638b47904",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000077922/0abdb8b6b7e624dd5f6396f84006cbb2f376be9f7ab67d365d37519fae72e64a",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100082320\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"5dERYQhJyGsSv8Y71DP7zG\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Rugrats: Adventures in Gameland",
+          "nsuid": "70010000082320",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 57.99,
+            "finalPrice": 57.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000082320/c308e7f937bcae8a3ae7cca7b3bf417b5a2e912a865047c6e1e693f425cf25a4",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/bc118b7c4f044717b4545d2a20cbf387_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2024-09-10T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100082320",
+          "softwarePublisher": "The MIX Games",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Resolução de enigmas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Para curtir com uma turma"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "rugrats-adventures-in-gameland-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000082320/8b8701ef9bc2649bc5d413ef9773cb7e50a12d3145cfa8d4ae0953384a3d656b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000082320/0946b104c61b295aa1a4e927dac42465c640876f60dbff473a7b2287c411b4de",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000082320/6fb243abd346f225817f5806444a32ab123f3f13e3628603e4ee65ef255fecc8",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000082320/703620335a99b29f27c7ff9ffac34eb710e37cebcabbaed0686d4d583723cce3",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000082320/0d39b338c27ba7cc33ddbb0e22839273321fe526201832c1e05760e1e76cd578",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000082320/5d403aa2d5efe908c5a65db199fe7e230dbd798290f0dbd62cf345162eb357d5",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100103978\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"5dERYQhJyGsSv8Y71DP7zG\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000024153",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Denshattack!",
+          "nsuid": "70010000103978",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 59.99,
+            "finalPrice": 59.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000103978/511255af56eb4fff904465d7faf42f999ad9ab452e537dfb0c0e51c77fa134ad",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/a6b237fd3c2a4733b3da383fd8201372_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-07-15T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100103978",
+          "softwarePublisher": "Fireshine Games",
+          "softwareDeveloper": "Undercoders",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Jogue pelo placar mais alto"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Placares online"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulação"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "denshattack-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000103978/Video/86a24e1c8eb7b005e39eedde1f187a6c07d14963fb5d4fce797b124f412e2078",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103978/a55f246b83dfcee5e3dc04504e55d4fc3923c347f0287fdc870388e21ff16dc1",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103978/6c5a951f20f5741c4530689a29b422c72c406433ef9166d4cddbb14475c96a2a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103978/8ac4e1275b681a3585a55e2a07321257b1c2a45a7c0296376b1d726272790799",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103978/5bc53390db334e0a6ebcf4577e48f3e62edc7a18f8b9bc68dac09b3bc6084dbe",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103978/b38299d73be4d3c85129b194a7e9dc71e9b3efbb13114541f73a57c48dbcf8a0",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000103978/3757201d95d1dfbb1cdfd0220b52309febd0879ad4dd8b43ed47819e4307ee00",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100109103\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2517,14 +5073,83 @@
           "url({\"relative\":true})": "/pt-br/store/products/disney-pixar-toy-story-retro-roundup-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHOOSE_PATH",
+                "label": "Escolha seu caminho"
+              },
+              {
+                "__typename": "Tag",
+                "code": "RUN_AROUND",
+                "label": "Liberdade de movimento"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "THIRD_PERSON",
+                "label": "Terceira pessoa"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              },
+              {
+                "__typename": "Tag",
+                "code": "RACING",
+                "label": "Corrida"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Tiro"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Para curtir com uma turma"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "0400376025bc2000",
           "appStoreUrl": null,
           "availability": [
-            "Em breve"
+            "Já disponivel"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2539,8 +5164,54 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
-          "crossSellProducts": null,
+          "containsEmbeddedBattery": false,
+          "crossSellProducts": [
+            {
+              "__ref": "Product:{\"sku\":\"7100105377\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100105506\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100092058\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100108238\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100106414\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100065078\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100058111\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100091651\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100099268\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100061087\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100064845\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100085242\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100077922\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100082320\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100103978\"}"
+            }
+          ],
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>Volte ao quarto do Andy com Woody, Buzz Lightyear e mais personagens clássicos em Toy Story: Retro Roundup! Esta coleção de cinco jogos apresenta versões de console e portátil de quatro títulos iniciais do Toy Story, além de A Bug's Life. Todos os jogos foram melhorados com novas características, melhorias de qualidade de vida e um baú lotado de brinquedos com conteúdos de bastidores. Revisite os sucessos dos anos 90 e inícios dos anos 2000 que você amava e compartilhe estes jogos com uma nova geração de fãs do Toy Story.<br><br><br>Jogue Toy Story (1995), Toy Story 2: Buzz Lightyear to the Rescue! (1999), Toy Story 2 (1999), Buzz Lightyear of Star Command (2000), Toy Story Racer (2001) e A Bug’s Life (1998). Inclui ao todo 11 versões dos jogos entre consoles e portáteis. Os jogos foram aprimorados com melhorias de qualidade de vida, incluindo rebobinar, os Códigos de Trapaça do Rex e mais. Rebobine para refazer saltos errados nas prateleiras do Andy ou quando receber muito dano do furioso robô de corda. Libere mais melhorias específicas de jogo como vidas infinitas ou invencibilidade com os Códigos de Trapaça do Rex.<br><br>Mergulhe nos bastidores da Digital Eclipse, apresentando entrevistas exclusivas com Jason Katz, roteirista-chefe da Pixar, Jim Hanks, dublador, Luigi Priore, vice-presidente/diretor-geral da Disney e Pixar Games e Jon Burton, fundador da TT Games, que ajudou a trazer estas aventuras à vida. Explore um museu virtual muito rico e cheio de documentos de design raros, fotos antigas do desenvolvimento e conteúdo de arquivo. Escute suas trilhas prediletas dos jogos no Reprodutor de Música, onde reunimos as trilhas sonoras de todos os jogos da coleção.<br><br>CARACTERÍSTICAS<br><br>- Jogue cinco jogos clássicos, incluindo quatro jogos do Toy Story e A Bug’s Life. Somando um total de 11 versões entre consoles e portáteis.<br>- Aprimoramentos e melhorias de qualidade de vida deixam os jogos mais fáceis de aprender e entender para jogadores de todas as idades. <br>- Rebobine para corrigir seus erros. Errou um pulo? Foi atingido vezes demais? Simplesmente segure um botão e volte aonde errou e tente novamente.<br>- Inclui uma experiência de bastidores com entrevistas de Jason Katz, roteirista-chefe da Pixar, Jim Hanks, dublador, Luigi Priore, vice-presidente/diretor-geral da Disney e Pixar Games e Jon Burton, fundador da TT Games.<br>- Explore o museu virtual cheio de documentos de design, fotos antigas do desenvolvimento e conteúdos de arquivo.<br>- Use os Códigos de Trapaça do Rex para vidas infinitas, invencibilidade ou para liberar todos os personagens ou fases.<br>- Aprenda o jogo com instruções de como jogar melhoradas e afie suas habilidades com o Modo Treino.<br>- Escute o Reprodutor de Música, que inclui as trilhas completas de todos os jogos da coleção.</p>",
@@ -2553,9 +5224,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000109103&v_loggedin=false&v_currency=BRL&v_price=76.95&v_country=BR",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2595,7 +5266,7 @@
           "productCode": "BEEPABHMA",
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/1d569d62d2e0428bbff762a0d459db0e_1024"
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/11c4de1da0744000a60d0aa976c4e48a_1024"
           },
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
@@ -2628,7 +5299,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "6952058880",
-                "totalRomSize": "7116685312",
+                "totalRomSize": "7573864448",
                 "platform": "BEE"
               }
             ]
@@ -2760,17 +5431,6 @@
             "label": "Jogos"
           }
         },
-        "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}": {
-          "__typename": "ContentRating",
-          "id": "iUuAOjCUcLd4OIchPuRmz",
-          "locale": "pt_BR",
-          "code": "livre",
-          "label": "Livre",
-          "requiresAgeGate": false,
-          "system": "CLASSIND",
-          "order": 0,
-          "highestRating": null
-        },
         "ROOT_QUERY": {
           "__typename": "Query",
           "product({\"input\":{\"urlKey\":\"disney-pixar-toy-story-retro-roundup-switch-2\"}})": {
@@ -2785,7 +5445,7 @@
   "query": {
     "slug": "disney-pixar-toy-story-retro-roundup-switch-2"
   },
-  "buildId": "5HAlXfjFAs8ppyJ4Ymve-",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
