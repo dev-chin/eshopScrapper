@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Beyond the Dark: Nightwatch Friend's Pass para Nintendo Switch 2 - Sitio Oficial de Nintendo para Colombia",
         "description": "Compra Beyond the Dark: Nightwatch Friend's Pass para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2514,9 +2571,30 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/stealth-games",
+          "label": "Sigilo"
+        },
+        {
+          "url": "/store/games/tags/co-op-games",
+          "label": "Cooperativo en línea"
+        },
+        {
+          "url": "/store/games/tags/play-together-on-multiple-consoles-games",
+          "label": "Juntos en varias consolas"
+        },
+        {
+          "url": "/store/games/tags/multiplayer-games",
+          "label": "Partidas en grupo"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/7ce96580677bc9199ef36d87f2d321bb1335edf0597c8f9e44c9f0cce828857a"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/7ce96580677bc9199ef36d87f2d321bb1335edf0597c8f9e44c9f0cce828857a"
       },
       "linkedData": [
         {
@@ -2572,56 +2650,56 @@
             "@type": "ImageObject",
             "name": "Beyond the Dark: Nightwatch Friend's Pass gallery item 0",
             "description": "Beyond the Dark: Nightwatch Friend's Pass gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/7ce96580677bc9199ef36d87f2d321bb1335edf0597c8f9e44c9f0cce828857a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/7ce96580677bc9199ef36d87f2d321bb1335edf0597c8f9e44c9f0cce828857a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/7ce96580677bc9199ef36d87f2d321bb1335edf0597c8f9e44c9f0cce828857a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/7ce96580677bc9199ef36d87f2d321bb1335edf0597c8f9e44c9f0cce828857a",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Beyond the Dark: Nightwatch Friend's Pass gallery item 1",
             "description": "Beyond the Dark: Nightwatch Friend's Pass gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/883322ad856898dd19e612be1dcf0fe4346e22165b36dd666f84ff1ca1d71111",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/883322ad856898dd19e612be1dcf0fe4346e22165b36dd666f84ff1ca1d71111",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/883322ad856898dd19e612be1dcf0fe4346e22165b36dd666f84ff1ca1d71111",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/883322ad856898dd19e612be1dcf0fe4346e22165b36dd666f84ff1ca1d71111",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Beyond the Dark: Nightwatch Friend's Pass gallery item 2",
             "description": "Beyond the Dark: Nightwatch Friend's Pass gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/5980a4c5f78d096cd4fdf94e3f7d85d07574f6a26eef4079c4670837e4b3b36c",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/5980a4c5f78d096cd4fdf94e3f7d85d07574f6a26eef4079c4670837e4b3b36c",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/5980a4c5f78d096cd4fdf94e3f7d85d07574f6a26eef4079c4670837e4b3b36c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/5980a4c5f78d096cd4fdf94e3f7d85d07574f6a26eef4079c4670837e4b3b36c",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Beyond the Dark: Nightwatch Friend's Pass gallery item 3",
             "description": "Beyond the Dark: Nightwatch Friend's Pass gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/cbabfce8ed7d10875326dd4d8bd72c9ba08f9abe46b9540152cb39b88c7f10e5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/cbabfce8ed7d10875326dd4d8bd72c9ba08f9abe46b9540152cb39b88c7f10e5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/cbabfce8ed7d10875326dd4d8bd72c9ba08f9abe46b9540152cb39b88c7f10e5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/cbabfce8ed7d10875326dd4d8bd72c9ba08f9abe46b9540152cb39b88c7f10e5",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Beyond the Dark: Nightwatch Friend's Pass gallery item 4",
             "description": "Beyond the Dark: Nightwatch Friend's Pass gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/8c4c3495f4a1209070dac68b8d92492fda3d16831bffceb96074a1273b795da1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/8c4c3495f4a1209070dac68b8d92492fda3d16831bffceb96074a1273b795da1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/8c4c3495f4a1209070dac68b8d92492fda3d16831bffceb96074a1273b795da1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/8c4c3495f4a1209070dac68b8d92492fda3d16831bffceb96074a1273b795da1",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Beyond the Dark: Nightwatch Friend's Pass gallery item 5",
             "description": "Beyond the Dark: Nightwatch Friend's Pass gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/0897e9c2692e1343b256f9900fa52eb08fb7b53698a667b7427f0de7af8096fe",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/0897e9c2692e1343b256f9900fa52eb08fb7b53698a667b7427f0de7af8096fe",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/0897e9c2692e1343b256f9900fa52eb08fb7b53698a667b7427f0de7af8096fe",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/0897e9c2692e1343b256f9900fa52eb08fb7b53698a667b7427f0de7af8096fe",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Beyond the Dark: Nightwatch Friend's Pass gallery item 6",
             "description": "Beyond the Dark: Nightwatch Friend's Pass gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/a66e6f08a4e8a54d7f90a065b2bb6a5f2967cc5d3625adb6b5aa3f3375162aa3",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130243/a66e6f08a4e8a54d7f90a065b2bb6a5f2967cc5d3625adb6b5aa3f3375162aa3",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/a66e6f08a4e8a54d7f90a065b2bb6a5f2967cc5d3625adb6b5aa3f3375162aa3",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000130243/a66e6f08a4e8a54d7f90a065b2bb6a5f2967cc5d3625adb6b5aa3f3375162aa3",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           }
         ],
@@ -2701,14 +2779,43 @@
           "url({\"relative\":true})": "/es-co/store/products/beyond-the-dark-nightwatch-friends-pass-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "STEALTH",
+                "label": "Sigilo"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperativo en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "LOCAL_CONNECTION",
+                "label": "Juntos en varias consolas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "0400151028f8e000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2723,12 +2830,12 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>BEYOND THE DARK: NIGHTWATCH <br>Elige en quién confiar. Uno de vosotros explorará una extraña casa. El otro observará a través de un sistema de vigilancia. Elige tu papel. Tendréis que comunicaros, observar e improvisar para sobrevivir.<br><br>El silencio es muerte. Hacer ruido es peligroso. LA ENTIDAD ESTÁ ESCUCHANDO.<br><br>UNA EXPERIENCIA DISEÑADA PARA DOS <br>Beyond the Dark: Nightwatch se basa en la cooperación asimétrica: cada jugador tiene un papel, unas herramientas y una información diferentes. El Explorador recorre la casa, busca pistas, abre nuevos caminos y se enfrenta al peligro cara a cara. El Supervisor utiliza cámaras, documentos, servicios y herramientas de vigilancia para comprender la situación y guiar a su compañero.<br><br>La comunicación es esencial. La determinación, imprescindible. NO PODÉIS ESCAPAR SOLOS.<br><br>UNA INVESTIGACIÓN LLENA DE TENSIÓN <br>Explora una casa misteriosa, analiza pistas, resuelve puzles y descubre la verdad que se oculta tras el más extraño de los lugares. Reduce al mínimo el ruido y cualquier perturbación.<br><br>Algunos peligros son visibles. Otros son intangibles. TODOS SON MORTALES.<br><br>JUEGA ONLINE, CON GAMESHARE O EN RED LOCAL E INVITA A ALGUIEN A ACOMPAÑARTE <br>Diseñado en torno a dos pantallas, perspectivas separadas y una experiencia de juego compartida, Beyond the Dark: Nightwatch convierte Nintendo Switch™ 2 en una experiencia cooperativa única. Invita a la persona en la que más confíes a vivir contigo una noche de tensión, coordinación, confianza… y quizá también de pánico.<br><br>No es solo un juego que terminar. Es una noche que recordar. <br><br>ENFRÉNTATE A TUS MIEDOS… EN COMPAÑÍA.<br></p>",
-          "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) y una cuenta Nintendo para el juego en línea. No está disponible en todos los países. Se requiere una conexión a internet para acceder a los servicios en línea. Aplican términos.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>Eso es la versión Friend's Pass. Para jugar, debes unirte a una sesión creada desde la versión de pago de Beyond The Dark: Nightwatch.</p><p>© 2026 ATLANTIS STUDIO. All Rights Reserved. BEYOND THE DARK® and the BEYOND THE DARK logo are registered trademarks of ATLANTIS STUDIO.</p>",
+          "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) y una cuenta Nintendo para el juego en línea. No está disponible en todos los países. Se requiere una conexión a internet para acceder a los servicios en línea. Aplican términos.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>Eso es la versión Friend's Pass. Para jugar, debes unirte a una sesión creada desde la versión de pago de Beyond The Dark: Nightwatch.</p><p>Eso es la versión Friend's Pass. Para jugar, debes unirte a una sesión creada desde la versión de pago de Beyond The Dark: Nightwatch.</p><p>© 2026 ATLANTIS STUDIO. All Rights Reserved. BEYOND THE DARK® and the BEYOND THE DARK logo are registered trademarks of ATLANTIS STUDIO.</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
           "dlcType": null,
@@ -2737,9 +2844,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000130243&v_loggedin=false&v_currency=COP&v_price=0.00&v_country=CO",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2822,7 +2929,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "7340032000",
-                "totalRomSize": "6964641792",
+                "totalRomSize": "7355760640",
                 "platform": "BEE"
               }
             ]
@@ -2989,7 +3096,7 @@
   "query": {
     "slug": "beyond-the-dark-nightwatch-friends-pass-switch-2"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "The Golden Seam para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
         "description": "Compra The Golden Seam para Nintendo Switch en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2516,7 +2573,7 @@
       "merchBanner": null,
       "customProductTags": [],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/734f0e9b27b5fc5f109e4f148fc784685b9c557aa0788021e09b6345d636115b"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/734f0e9b27b5fc5f109e4f148fc784685b9c557aa0788021e09b6345d636115b"
       },
       "linkedData": [
         {
@@ -2572,56 +2629,56 @@
             "@type": "ImageObject",
             "name": "The Golden Seam gallery item 0",
             "description": "The Golden Seam gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/734f0e9b27b5fc5f109e4f148fc784685b9c557aa0788021e09b6345d636115b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/734f0e9b27b5fc5f109e4f148fc784685b9c557aa0788021e09b6345d636115b",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/734f0e9b27b5fc5f109e4f148fc784685b9c557aa0788021e09b6345d636115b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/734f0e9b27b5fc5f109e4f148fc784685b9c557aa0788021e09b6345d636115b",
             "uploadDate": "2027-03-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Golden Seam gallery item 1",
             "description": "The Golden Seam gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/b394d60c1493dff31abe6a740cc43819a906d0d761db7932116ed4406586e0ed",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/b394d60c1493dff31abe6a740cc43819a906d0d761db7932116ed4406586e0ed",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/b394d60c1493dff31abe6a740cc43819a906d0d761db7932116ed4406586e0ed",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/b394d60c1493dff31abe6a740cc43819a906d0d761db7932116ed4406586e0ed",
             "uploadDate": "2027-03-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Golden Seam gallery item 2",
             "description": "The Golden Seam gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/fb3d34af935ad72003ec7bae52611e25670d34cb7d9209159611c636ec6a5d01",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/fb3d34af935ad72003ec7bae52611e25670d34cb7d9209159611c636ec6a5d01",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/fb3d34af935ad72003ec7bae52611e25670d34cb7d9209159611c636ec6a5d01",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/fb3d34af935ad72003ec7bae52611e25670d34cb7d9209159611c636ec6a5d01",
             "uploadDate": "2027-03-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Golden Seam gallery item 3",
             "description": "The Golden Seam gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/0c122a2b9323048c518a7686f8c3cdb5bee6eb0b8c871035112a294a8e2af605",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/0c122a2b9323048c518a7686f8c3cdb5bee6eb0b8c871035112a294a8e2af605",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/0c122a2b9323048c518a7686f8c3cdb5bee6eb0b8c871035112a294a8e2af605",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/0c122a2b9323048c518a7686f8c3cdb5bee6eb0b8c871035112a294a8e2af605",
             "uploadDate": "2027-03-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Golden Seam gallery item 4",
             "description": "The Golden Seam gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/539e3e6d12c8acaf1187cf1e163d56e89a78e8b2c11029f31b35158e0890c4de",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/539e3e6d12c8acaf1187cf1e163d56e89a78e8b2c11029f31b35158e0890c4de",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/539e3e6d12c8acaf1187cf1e163d56e89a78e8b2c11029f31b35158e0890c4de",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/539e3e6d12c8acaf1187cf1e163d56e89a78e8b2c11029f31b35158e0890c4de",
             "uploadDate": "2027-03-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Golden Seam gallery item 5",
             "description": "The Golden Seam gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/f5f160231a5299a57e76d0a4ef75ab88b526a1c0b10457b976637ab602ab7941",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/f5f160231a5299a57e76d0a4ef75ab88b526a1c0b10457b976637ab602ab7941",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/f5f160231a5299a57e76d0a4ef75ab88b526a1c0b10457b976637ab602ab7941",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/f5f160231a5299a57e76d0a4ef75ab88b526a1c0b10457b976637ab602ab7941",
             "uploadDate": "2027-03-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Golden Seam gallery item 6",
             "description": "The Golden Seam gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/e40d74c63278ab49ad1bf9739227987a9457eaa40fdb189595815a6345a12afa",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000137084/e40d74c63278ab49ad1bf9739227987a9457eaa40fdb189595815a6345a12afa",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/e40d74c63278ab49ad1bf9739227987a9457eaa40fdb189595815a6345a12afa",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000137084/e40d74c63278ab49ad1bf9739227987a9457eaa40fdb189595815a6345a12afa",
             "uploadDate": "2027-03-10T00:00:00.000Z"
           }
         ],
@@ -2711,6 +2768,7 @@
             "genres": [],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "010093102a212000",
           "appStoreUrl": null,
           "availability": [
@@ -2729,7 +2787,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2961,7 +3019,7 @@
   "query": {
     "slug": "the-golden-seam-switch"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

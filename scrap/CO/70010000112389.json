@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Warhammer Survivors para Nintendo Switch 2 - Sitio Oficial de Nintendo para Colombia",
         "description": "Compra Warhammer Survivors para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2514,9 +2571,30 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Arte pixelado"
+        },
+        {
+          "url": "/store/games/tags/raise-your-stats-games",
+          "label": "Mejora tus atributos"
+        },
+        {
+          "url": "/store/games/tags/games-with-random-maps-levels",
+          "label": "Recomenzar de cero tras las derrotas"
+        },
+        {
+          "url": "/store/games/tags/survival-games",
+          "label": "Supervivencia"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/530c3c41d5635893b66c8ff7e63c4e4cecc3c5dda91d3a8bb5c64309abe5e7ce"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/530c3c41d5635893b66c8ff7e63c4e4cecc3c5dda91d3a8bb5c64309abe5e7ce"
       },
       "linkedData": [
         {
@@ -2572,48 +2650,56 @@
             "@type": "ImageObject",
             "name": "Warhammer Survivors gallery item 0",
             "description": "Warhammer Survivors gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/530c3c41d5635893b66c8ff7e63c4e4cecc3c5dda91d3a8bb5c64309abe5e7ce",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/530c3c41d5635893b66c8ff7e63c4e4cecc3c5dda91d3a8bb5c64309abe5e7ce",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/530c3c41d5635893b66c8ff7e63c4e4cecc3c5dda91d3a8bb5c64309abe5e7ce",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/530c3c41d5635893b66c8ff7e63c4e4cecc3c5dda91d3a8bb5c64309abe5e7ce",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Warhammer Survivors gallery item 1",
             "description": "Warhammer Survivors gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/b7cedbbd0c78e8679125ddc5ebe198a1167207f2de231a2cb3fac838a58a91c1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/b7cedbbd0c78e8679125ddc5ebe198a1167207f2de231a2cb3fac838a58a91c1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/fa1b80c340c793b270a2972b2c55a4311dd73a8c878ebbc5d149bba07d3cb33d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/fa1b80c340c793b270a2972b2c55a4311dd73a8c878ebbc5d149bba07d3cb33d",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Warhammer Survivors gallery item 2",
             "description": "Warhammer Survivors gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/03e074f48ae012405e9dc2cb5f8f6642b0ef797a5923e5d0eecc3d1eda0f1961",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/03e074f48ae012405e9dc2cb5f8f6642b0ef797a5923e5d0eecc3d1eda0f1961",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/8b5e4c11d966767f5862d35316bfb0f7ae1a37dc2df34bebe38129b02082b92d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/8b5e4c11d966767f5862d35316bfb0f7ae1a37dc2df34bebe38129b02082b92d",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Warhammer Survivors gallery item 3",
             "description": "Warhammer Survivors gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/047448cb615e91c562c72ba84dbcc7a3c019431a00ad9f7cbca2ab2067b0a6fd",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/047448cb615e91c562c72ba84dbcc7a3c019431a00ad9f7cbca2ab2067b0a6fd",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/5f320b388f704d495c2f01a299f6b98223d6e46da99c7cfceaabfe9dfb3e0fcd",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/5f320b388f704d495c2f01a299f6b98223d6e46da99c7cfceaabfe9dfb3e0fcd",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Warhammer Survivors gallery item 4",
             "description": "Warhammer Survivors gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/e570441869501e78ee3bb2e366bbf36a5de9cc12bb73dc4a947d650d3fd26aa5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/e570441869501e78ee3bb2e366bbf36a5de9cc12bb73dc4a947d650d3fd26aa5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/77d3f858775fe21e95d5ae638dee3e860c4f12600d72ca8cf57b9687e45aff8d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/77d3f858775fe21e95d5ae638dee3e860c4f12600d72ca8cf57b9687e45aff8d",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Warhammer Survivors gallery item 5",
             "description": "Warhammer Survivors gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/9a8ea4eedbdb31ff5f878f69623c49d4ddc0674d812d5ac5f0d9902cc9a07e20",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000112389/9a8ea4eedbdb31ff5f878f69623c49d4ddc0674d812d5ac5f0d9902cc9a07e20",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/2a912b8ddf2bc85d0214c8852820f2ce19526194a792210b40e2b992f1e5131e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/2a912b8ddf2bc85d0214c8852820f2ce19526194a792210b40e2b992f1e5131e",
+            "uploadDate": "2026-11-10T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Warhammer Survivors gallery item 6",
+            "description": "Warhammer Survivors gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/fcfb0cd548e83f34961f6bd982fedd26339f1658c8e80cb31ba7abadfe0a0113",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000112389/fcfb0cd548e83f34961f6bd982fedd26339f1658c8e80cb31ba7abadfe0a0113",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           }
         ],
@@ -2693,10 +2779,38 @@
           "url({\"relative\":true})": "/es-co/store/products/warhammer-survivors-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Mejora tus atributos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "STARTING_OVER",
+                "label": "Recomenzar de cero tras las derrotas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SURVIVAL",
+                "label": "Supervivencia"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400786026244000",
           "appStoreUrl": null,
           "availability": [
@@ -2716,7 +2830,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2805,7 +2919,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "629145600",
-                "totalRomSize": "550502400",
+                "totalRomSize": "1026555904",
                 "platform": "BEE"
               }
             ]
@@ -2885,31 +2999,37 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000112389/b7cedbbd0c78e8679125ddc5ebe198a1167207f2de231a2cb3fac838a58a91c1",
+              "publicId": "store/software/switch2/70010000112389/fa1b80c340c793b270a2972b2c55a4311dd73a8c878ebbc5d149bba07d3cb33d",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000112389/03e074f48ae012405e9dc2cb5f8f6642b0ef797a5923e5d0eecc3d1eda0f1961",
+              "publicId": "store/software/switch2/70010000112389/8b5e4c11d966767f5862d35316bfb0f7ae1a37dc2df34bebe38129b02082b92d",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000112389/047448cb615e91c562c72ba84dbcc7a3c019431a00ad9f7cbca2ab2067b0a6fd",
+              "publicId": "store/software/switch2/70010000112389/5f320b388f704d495c2f01a299f6b98223d6e46da99c7cfceaabfe9dfb3e0fcd",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000112389/e570441869501e78ee3bb2e366bbf36a5de9cc12bb73dc4a947d650d3fd26aa5",
+              "publicId": "store/software/switch2/70010000112389/77d3f858775fe21e95d5ae638dee3e860c4f12600d72ca8cf57b9687e45aff8d",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000112389/9a8ea4eedbdb31ff5f878f69623c49d4ddc0674d812d5ac5f0d9902cc9a07e20",
+              "publicId": "store/software/switch2/70010000112389/2a912b8ddf2bc85d0214c8852820f2ce19526194a792210b40e2b992f1e5131e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000112389/fcfb0cd548e83f34961f6bd982fedd26339f1658c8e80cb31ba7abadfe0a0113",
               "resourceType": "image",
               "type": "upload"
             }
@@ -2977,7 +3097,7 @@
   "query": {
     "slug": "warhammer-survivors-switch-2"
   },
-  "buildId": "kqviNioiIY5sDFPjWpo9G",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

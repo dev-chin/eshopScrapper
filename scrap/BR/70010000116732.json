@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Spyder: Agent 8 para Nintendo Switch - Site Oficial da Nintendo para Brasil",
         "description": "Compre Spyder: Agent 8 para Nintendo Switch na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2516,7 +2573,7 @@
       "merchBanner": null,
       "customProductTags": [],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/b687afdf17758b8b996e2f80fd452dddb55124f432f04bdfa3612973662b86ed"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/b687afdf17758b8b996e2f80fd452dddb55124f432f04bdfa3612973662b86ed"
       },
       "linkedData": [
         {
@@ -2572,56 +2629,64 @@
             "@type": "ImageObject",
             "name": "Spyder: Agent 8 gallery item 0",
             "description": "Spyder: Agent 8 gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/b687afdf17758b8b996e2f80fd452dddb55124f432f04bdfa3612973662b86ed",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/b687afdf17758b8b996e2f80fd452dddb55124f432f04bdfa3612973662b86ed",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/b687afdf17758b8b996e2f80fd452dddb55124f432f04bdfa3612973662b86ed",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/b687afdf17758b8b996e2f80fd452dddb55124f432f04bdfa3612973662b86ed",
             "uploadDate": "2027-02-11T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Spyder: Agent 8 gallery item 1",
             "description": "Spyder: Agent 8 gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/e62810f59e28d6dcfccaa2129d9b6fa678cf4496f2ebc5ffccdcbf44c67660b9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/e62810f59e28d6dcfccaa2129d9b6fa678cf4496f2ebc5ffccdcbf44c67660b9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000116732/Video/77c1778bf61cd964b211588b78206fdf398f576146af78c1d5b777b16f4b0ed2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000116732/Video/77c1778bf61cd964b211588b78206fdf398f576146af78c1d5b777b16f4b0ed2",
             "uploadDate": "2027-02-11T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Spyder: Agent 8 gallery item 2",
             "description": "Spyder: Agent 8 gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/8d9b2bde6d62f2f03226fd426bc20a9a57f856a5df8d2174b9a12b7f56e7a052",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/8d9b2bde6d62f2f03226fd426bc20a9a57f856a5df8d2174b9a12b7f56e7a052",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/e62810f59e28d6dcfccaa2129d9b6fa678cf4496f2ebc5ffccdcbf44c67660b9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/e62810f59e28d6dcfccaa2129d9b6fa678cf4496f2ebc5ffccdcbf44c67660b9",
             "uploadDate": "2027-02-11T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Spyder: Agent 8 gallery item 3",
             "description": "Spyder: Agent 8 gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/89fe11ae7e6c07bd541805e59bede0bb6cf0f4c0c88e27185f8a41fc7a2c3a7a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/89fe11ae7e6c07bd541805e59bede0bb6cf0f4c0c88e27185f8a41fc7a2c3a7a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/8d9b2bde6d62f2f03226fd426bc20a9a57f856a5df8d2174b9a12b7f56e7a052",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/8d9b2bde6d62f2f03226fd426bc20a9a57f856a5df8d2174b9a12b7f56e7a052",
             "uploadDate": "2027-02-11T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Spyder: Agent 8 gallery item 4",
             "description": "Spyder: Agent 8 gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/aa7b583e437fff616da1621001b9ab6dc728fdda31e60c151730c7434b872de9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/aa7b583e437fff616da1621001b9ab6dc728fdda31e60c151730c7434b872de9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/89fe11ae7e6c07bd541805e59bede0bb6cf0f4c0c88e27185f8a41fc7a2c3a7a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/89fe11ae7e6c07bd541805e59bede0bb6cf0f4c0c88e27185f8a41fc7a2c3a7a",
             "uploadDate": "2027-02-11T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Spyder: Agent 8 gallery item 5",
             "description": "Spyder: Agent 8 gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/70e49774663eebe6eab1ab256758e69378292657afad12d1550c48489a49a955",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/70e49774663eebe6eab1ab256758e69378292657afad12d1550c48489a49a955",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/aa7b583e437fff616da1621001b9ab6dc728fdda31e60c151730c7434b872de9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/aa7b583e437fff616da1621001b9ab6dc728fdda31e60c151730c7434b872de9",
             "uploadDate": "2027-02-11T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Spyder: Agent 8 gallery item 6",
             "description": "Spyder: Agent 8 gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/fb7afe65a1c3081b92f23ad74eb2068c9bf739b94536d5b7f1c847b97ea88b51",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116732/fb7afe65a1c3081b92f23ad74eb2068c9bf739b94536d5b7f1c847b97ea88b51",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/70e49774663eebe6eab1ab256758e69378292657afad12d1550c48489a49a955",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/70e49774663eebe6eab1ab256758e69378292657afad12d1550c48489a49a955",
+            "uploadDate": "2027-02-11T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Spyder: Agent 8 gallery item 7",
+            "description": "Spyder: Agent 8 gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/fb7afe65a1c3081b92f23ad74eb2068c9bf739b94536d5b7f1c847b97ea88b51",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000116732/fb7afe65a1c3081b92f23ad74eb2068c9bf739b94536d5b7f1c847b97ea88b51",
             "uploadDate": "2027-02-11T00:00:00.000Z"
           }
         ],
@@ -2711,6 +2776,7 @@
             "genres": [],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0100961026e52000",
           "appStoreUrl": null,
           "availability": [
@@ -2729,7 +2795,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2812,13 +2878,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "1468006400",
-                "totalRomSize": "1501560832",
+                "totalRomSize": "1601175552",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "2411724800",
-                "totalRomSize": "1501560832",
+                "totalRomSize": "1601175552",
                 "platform": "BEE"
               }
             ]
@@ -2893,6 +2959,12 @@
             }
           ],
           "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000116732/Video/77c1778bf61cd964b211588b78206fdf398f576146af78c1d5b777b16f4b0ed2",
+              "resourceType": "video",
+              "type": "upload"
+            },
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000116732/e62810f59e28d6dcfccaa2129d9b6fa678cf4496f2ebc5ffccdcbf44c67660b9",
@@ -2986,7 +3058,7 @@
   "query": {
     "slug": "spyder-agent-8-switch"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

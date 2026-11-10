@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -2477,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Mi amigable vecindario para Nintendo Switch 2 - Sitio Oficial de Nintendo para Colombia",
         "description": "Compra Mi amigable vecindario para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2530,9 +2571,42 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/shooting-games",
+          "label": "Disparos"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Acertijos y deducción"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Elige el nivel de dificultad"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Personajes con voz"
+        },
+        {
+          "url": "/store/games/tags/first-person-games",
+          "label": "Primera persona"
+        },
+        {
+          "url": "/store/games/tags/survival-games",
+          "label": "Supervivencia"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/d63056f30080307a574bc766c0933d8a4cdaf41b0a74a2105997761d03918921"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/d63056f30080307a574bc766c0933d8a4cdaf41b0a74a2105997761d03918921"
       },
       "linkedData": [
         {
@@ -2588,64 +2662,64 @@
             "@type": "ImageObject",
             "name": "Mi amigable vecindario gallery item 0",
             "description": "Mi amigable vecindario gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/d63056f30080307a574bc766c0933d8a4cdaf41b0a74a2105997761d03918921",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/d63056f30080307a574bc766c0933d8a4cdaf41b0a74a2105997761d03918921",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/d63056f30080307a574bc766c0933d8a4cdaf41b0a74a2105997761d03918921",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/d63056f30080307a574bc766c0933d8a4cdaf41b0a74a2105997761d03918921",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "Mi amigable vecindario gallery item 1",
             "description": "Mi amigable vecindario gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000115443/Video/516f589d583d8658404a58b2978c1057823bffb815f2f41460bee37653a34a94",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000115443/Video/516f589d583d8658404a58b2978c1057823bffb815f2f41460bee37653a34a94",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000115443/Video/516f589d583d8658404a58b2978c1057823bffb815f2f41460bee37653a34a94",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000115443/Video/516f589d583d8658404a58b2978c1057823bffb815f2f41460bee37653a34a94",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mi amigable vecindario gallery item 2",
             "description": "Mi amigable vecindario gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/3c0dbe42a55b62d3aa1e22a51ed17c6dade442f72e273cd541a2195cf893e7b4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/3c0dbe42a55b62d3aa1e22a51ed17c6dade442f72e273cd541a2195cf893e7b4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/3c0dbe42a55b62d3aa1e22a51ed17c6dade442f72e273cd541a2195cf893e7b4",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/3c0dbe42a55b62d3aa1e22a51ed17c6dade442f72e273cd541a2195cf893e7b4",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mi amigable vecindario gallery item 3",
             "description": "Mi amigable vecindario gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/3ce9c5eda11c2c9a086e1477c6aed437732ba6ee1f44f5e0bd35c5d3841cd967",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/3ce9c5eda11c2c9a086e1477c6aed437732ba6ee1f44f5e0bd35c5d3841cd967",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/3ce9c5eda11c2c9a086e1477c6aed437732ba6ee1f44f5e0bd35c5d3841cd967",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/3ce9c5eda11c2c9a086e1477c6aed437732ba6ee1f44f5e0bd35c5d3841cd967",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mi amigable vecindario gallery item 4",
             "description": "Mi amigable vecindario gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/01f804f6b7ff2e959dfbae3af488f55b8ab53d1c438fb8403bc7a6c28f6106aa",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/01f804f6b7ff2e959dfbae3af488f55b8ab53d1c438fb8403bc7a6c28f6106aa",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/01f804f6b7ff2e959dfbae3af488f55b8ab53d1c438fb8403bc7a6c28f6106aa",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/01f804f6b7ff2e959dfbae3af488f55b8ab53d1c438fb8403bc7a6c28f6106aa",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mi amigable vecindario gallery item 5",
             "description": "Mi amigable vecindario gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/f4567b5e8bb5eb4c1da66aa1058d71b71f13f022d87d2c4979fc34f1ceb44a9e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/f4567b5e8bb5eb4c1da66aa1058d71b71f13f022d87d2c4979fc34f1ceb44a9e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/f4567b5e8bb5eb4c1da66aa1058d71b71f13f022d87d2c4979fc34f1ceb44a9e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/f4567b5e8bb5eb4c1da66aa1058d71b71f13f022d87d2c4979fc34f1ceb44a9e",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mi amigable vecindario gallery item 6",
             "description": "Mi amigable vecindario gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/34850f21aa25713ff44135100123ecdeea08a5448702fcf3650d23a554fc01d4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/34850f21aa25713ff44135100123ecdeea08a5448702fcf3650d23a554fc01d4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/34850f21aa25713ff44135100123ecdeea08a5448702fcf3650d23a554fc01d4",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/34850f21aa25713ff44135100123ecdeea08a5448702fcf3650d23a554fc01d4",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Mi amigable vecindario gallery item 7",
             "description": "Mi amigable vecindario gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/085d1aa1b935dbf1b4fd5dcb8520483c2530eb256869d5f287cc963ce16bc32a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000115443/085d1aa1b935dbf1b4fd5dcb8520483c2530eb256869d5f287cc963ce16bc32a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/085d1aa1b935dbf1b4fd5dcb8520483c2530eb256869d5f287cc963ce16bc32a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000115443/085d1aa1b935dbf1b4fd5dcb8520483c2530eb256869d5f287cc963ce16bc32a",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           }
         ],
@@ -2725,14 +2799,57 @@
           "url({\"relative\":true})": "/es-co/store/products/my-friendly-neighborhood-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Acertijos y deducción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FIRST_PERSON",
+                "label": "Primera persona"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SURVIVAL",
+                "label": "Supervivencia"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Disparos"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400d00026ab0000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2747,7 +2864,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2761,9 +2878,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000115443&v_loggedin=false&v_currency=COP&v_price=71900.00&v_country=CO",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -3020,7 +3137,7 @@
   "query": {
     "slug": "my-friendly-neighborhood-switch-2"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

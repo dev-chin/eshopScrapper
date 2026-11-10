@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Moomin: Midsummer Madness para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Moomin: Midsummer Madness para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2514,9 +2571,18 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Resolução de enigmas"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132135/389d41d74812806af5c4d8d2c7751e3024100956fa38a918932e8752a8d99c04"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132135/389d41d74812806af5c4d8d2c7751e3024100956fa38a918932e8752a8d99c04"
       },
       "linkedData": [
         {
@@ -2572,24 +2638,24 @@
             "@type": "ImageObject",
             "name": "Moomin: Midsummer Madness gallery item 0",
             "description": "Moomin: Midsummer Madness gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132135/389d41d74812806af5c4d8d2c7751e3024100956fa38a918932e8752a8d99c04",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132135/389d41d74812806af5c4d8d2c7751e3024100956fa38a918932e8752a8d99c04",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132135/389d41d74812806af5c4d8d2c7751e3024100956fa38a918932e8752a8d99c04",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132135/389d41d74812806af5c4d8d2c7751e3024100956fa38a918932e8752a8d99c04",
             "uploadDate": "2026-11-12T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Moomin: Midsummer Madness gallery item 1",
             "description": "Moomin: Midsummer Madness gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132135/09faf218bc74713eb534a5cec261ccc1a90a77d23f6bcb039fb05a420656c752",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132135/09faf218bc74713eb534a5cec261ccc1a90a77d23f6bcb039fb05a420656c752",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132135/09faf218bc74713eb534a5cec261ccc1a90a77d23f6bcb039fb05a420656c752",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132135/09faf218bc74713eb534a5cec261ccc1a90a77d23f6bcb039fb05a420656c752",
             "uploadDate": "2026-11-12T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Moomin: Midsummer Madness gallery item 2",
             "description": "Moomin: Midsummer Madness gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132135/334d0882330dad322f1e8ee6f3bba9c8cab2f5644c4aa00a832aa63505824448",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132135/334d0882330dad322f1e8ee6f3bba9c8cab2f5644c4aa00a832aa63505824448",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132135/334d0882330dad322f1e8ee6f3bba9c8cab2f5644c4aa00a832aa63505824448",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132135/334d0882330dad322f1e8ee6f3bba9c8cab2f5644c4aa00a832aa63505824448",
             "uploadDate": "2026-11-12T00:00:00.000Z"
           }
         ],
@@ -2669,10 +2735,23 @@
           "url({\"relative\":true})": "/pt-br/store/products/moomin-midsummer-madness-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Resolução de enigmas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "04003030294e6000",
           "appStoreUrl": null,
           "availability": [
@@ -2691,10 +2770,10 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
-          "demoNsuid": null,
+          "demoNsuid": "70030000025952",
           "description({\"html\":true})": "<p>Moomin: Midsummer Madness é uma aventura de apontar e clicar divertida para crianças e adultos.<br>Uma enchente repentina atingiu o Vale dos Mumins, e Mumin e Miminha precisam embarcar numa aventura emocionante para encontrar o caminho de volta para casa.<br>Muitas surpresas e reencontros com velhos amigos aguardam pelo caminho!<br><br>◆ Um jogo de aventura baseado no romance original de Tove Jansson!<br>Acompanhe a história de Loucuras de Verão no País dos Mumins, com recriações de diversas cenas marcantes e uma aventura totalmente nova criada exclusivamente para este jogo.<br><br>◆ Explore o belo Vale dos Mumins desenhado à mão<br>A arte acolhedora desenhada à mão e inspirada na obra original dá vida ao belo mundo do Vale dos Mumins.<br><br>◆ Divirta-se com conversas, exploração e minijogos<br>Converse com seus personagens favoritos e jogue minijogos únicos enquanto procura pistas escondidas para ajudar no seu progresso.<br><br>◆ Uma útil função de dicas<br>Não se preocupe se ficar sem saber como prosseguir: a função de dicas estará sempre à disposição para orientar seu caminho e possibilitar que você aproveite a aventura no seu próprio ritmo.<br><br>◆ Aproveite a personalidade e as habilidades especiais de cada personagem<br>Use as habilidades únicas de Mumin e Miminha para superar obstáculos,<br>resolver quebra-cabeças e encontrar o caminho de volta para casa.</p>",
           "disclaimer": "<p>Uma assinatura do Nintendo Switch Online (vendida separadamente) é necessária para a funcionalidade de cópia de segurança na nuvem.</p><p>Moomin: Midsummer Madness. Developed by Crossbridge Game Studios SASU. Published by Shochiku Co., Ltd. © Moomin Characters ™</p>",
           "displayChokingHazard": null,
@@ -2780,7 +2859,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "1504706560",
-                "totalRomSize": "1444937728",
+                "totalRomSize": "837812224",
                 "platform": "BEE"
               }
             ]
@@ -2911,7 +2990,7 @@
   "query": {
     "slug": "moomin-midsummer-madness-switch-2"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

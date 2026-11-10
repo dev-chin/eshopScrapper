@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Cotton Reboot! para Nintendo Switch 2 - Sitio Oficial de Nintendo para Chile",
         "description": "Compra Cotton Reboot! para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2514,9 +2571,26 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/shooting-games",
+          "label": "Disparos"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Arte pixelado"
+        },
+        {
+          "url": "/store/games/tags/online-scoreboard-games",
+          "label": "Clasificación en línea"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Elige el nivel de dificultad"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/24725d7f4529ad0833eadf00f4a280f8838593d3bb53c6400f8127b446954d61"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/24725d7f4529ad0833eadf00f4a280f8838593d3bb53c6400f8127b446954d61"
       },
       "linkedData": [
         {
@@ -2560,7 +2634,7 @@
             "maxValue": null,
             "unitText": "players"
           },
-          "contentRating": "Todos",
+          "contentRating": "Todos +10",
           "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000135218/24725d7f4529ad0833eadf00f4a280f8838593d3bb53c6400f8127b446954d61",
           "publisher": {
             "@type": "Organization",
@@ -2572,56 +2646,64 @@
             "@type": "ImageObject",
             "name": "Cotton Reboot! gallery item 0",
             "description": "Cotton Reboot! gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/24725d7f4529ad0833eadf00f4a280f8838593d3bb53c6400f8127b446954d61",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/24725d7f4529ad0833eadf00f4a280f8838593d3bb53c6400f8127b446954d61",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/24725d7f4529ad0833eadf00f4a280f8838593d3bb53c6400f8127b446954d61",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/24725d7f4529ad0833eadf00f4a280f8838593d3bb53c6400f8127b446954d61",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Cotton Reboot! gallery item 1",
             "description": "Cotton Reboot! gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/e5963dbaef9c7ce1044c9ed53ae4d5e2d76a435b9660d5dfa161e23a7c50ba92",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/e5963dbaef9c7ce1044c9ed53ae4d5e2d76a435b9660d5dfa161e23a7c50ba92",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000135218/Video/fb478dd6322d055346eb7273de1fbeb16b48e46c9ad63b8e37f0e198015bda9d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000135218/Video/fb478dd6322d055346eb7273de1fbeb16b48e46c9ad63b8e37f0e198015bda9d",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cotton Reboot! gallery item 2",
             "description": "Cotton Reboot! gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/583a3c39c153fbfddab50f93765d985fd945e61be95a4da0684f44c109e92b3e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/583a3c39c153fbfddab50f93765d985fd945e61be95a4da0684f44c109e92b3e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/e5963dbaef9c7ce1044c9ed53ae4d5e2d76a435b9660d5dfa161e23a7c50ba92",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/e5963dbaef9c7ce1044c9ed53ae4d5e2d76a435b9660d5dfa161e23a7c50ba92",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cotton Reboot! gallery item 3",
             "description": "Cotton Reboot! gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/3c8ad1015e01492624f481a16ac07965496197cca605d3e0e7e1c2b991eebb41",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/3c8ad1015e01492624f481a16ac07965496197cca605d3e0e7e1c2b991eebb41",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/583a3c39c153fbfddab50f93765d985fd945e61be95a4da0684f44c109e92b3e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/583a3c39c153fbfddab50f93765d985fd945e61be95a4da0684f44c109e92b3e",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cotton Reboot! gallery item 4",
             "description": "Cotton Reboot! gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/486c44ac10c5330961697f202c6afa1a523367cefbf38d90a8f9d9b4ed570e62",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/486c44ac10c5330961697f202c6afa1a523367cefbf38d90a8f9d9b4ed570e62",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/3c8ad1015e01492624f481a16ac07965496197cca605d3e0e7e1c2b991eebb41",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/3c8ad1015e01492624f481a16ac07965496197cca605d3e0e7e1c2b991eebb41",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cotton Reboot! gallery item 5",
             "description": "Cotton Reboot! gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/dde10cd1345736ef441c8d767acb118a9d8410acb3d589150a45252fe9cca789",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/dde10cd1345736ef441c8d767acb118a9d8410acb3d589150a45252fe9cca789",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/486c44ac10c5330961697f202c6afa1a523367cefbf38d90a8f9d9b4ed570e62",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/486c44ac10c5330961697f202c6afa1a523367cefbf38d90a8f9d9b4ed570e62",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cotton Reboot! gallery item 6",
             "description": "Cotton Reboot! gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/31cbede624a3b4ebdaf2e530c6492ad261c7dea86ed5e858caef7da111d16ba0",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135218/31cbede624a3b4ebdaf2e530c6492ad261c7dea86ed5e858caef7da111d16ba0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/dde10cd1345736ef441c8d767acb118a9d8410acb3d589150a45252fe9cca789",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/dde10cd1345736ef441c8d767acb118a9d8410acb3d589150a45252fe9cca789",
+            "uploadDate": "2026-10-22T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cotton Reboot! gallery item 7",
+            "description": "Cotton Reboot! gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/31cbede624a3b4ebdaf2e530c6492ad261c7dea86ed5e858caef7da111d16ba0",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000135218/31cbede624a3b4ebdaf2e530c6492ad261c7dea86ed5e858caef7da111d16ba0",
             "uploadDate": "2026-10-22T00:00:00.000Z"
           }
         ],
@@ -2701,14 +2783,37 @@
           "url({\"relative\":true})": "/es-cl/store/products/cotton-reboot-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Disparos"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400170029d6c000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2723,7 +2828,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2737,9 +2842,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000135218&v_loggedin=false&v_currency=CLP&v_price=17999.00&v_country=CL",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2845,11 +2950,14 @@
           "backgroundColor": "0c2b12",
           "contentDescriptors": [
             {
-              "__ref": "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_CL\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"4rXfJg3rY2e58ECl3iULqU\",\"locale\":\"es_CL\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"Xzh0bkCnhcZV1URA2wF96\",\"locale\":\"es_CL\"}"
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"es_CL\"}"
           },
           "headline": "Llega el clásico y adorable shoot 'em up, completamente renovado y mejorado. ¡Pasarás momentos mágicos con Cotton Reboot! ",
           "id": "70010000135218",
@@ -2887,6 +2995,12 @@
             }
           ],
           "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000135218/Video/fb478dd6322d055346eb7273de1fbeb16b48e46c9ad63b8e37f0e198015bda9d",
+              "resourceType": "video",
+              "type": "upload"
+            },
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000135218/e5963dbaef9c7ce1044c9ed53ae4d5e2d76a435b9660d5dfa161e23a7c50ba92",
@@ -2938,22 +3052,29 @@
             "label": "Juegos"
           }
         },
-        "ContentDescriptor:{\"id\":\"48NMszDk1XdHSyTR5xenri\",\"locale\":\"es_CL\"}": {
+        "ContentDescriptor:{\"id\":\"4rXfJg3rY2e58ECl3iULqU\",\"locale\":\"es_CL\"}": {
           "__typename": "ContentDescriptor",
-          "id": "48NMszDk1XdHSyTR5xenri",
+          "id": "4rXfJg3rY2e58ECl3iULqU",
           "locale": "es_CL",
-          "label": "Violencia moderada de fantasía",
+          "label": "Violencia de fantasía",
           "type": "CONTENT_DESCRIPTOR"
         },
-        "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}": {
-          "__typename": "ContentRating",
-          "id": "3PUsVpTIBTxVxmzL362ZkB",
+        "ContentDescriptor:{\"id\":\"Xzh0bkCnhcZV1URA2wF96\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "Xzh0bkCnhcZV1URA2wF96",
           "locale": "es_CL",
-          "code": "e",
-          "label": "Todos",
+          "label": "Temas insinuantes",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentRating",
+          "id": "4QzesqRbAOTJ05zgLM8Yce",
+          "locale": "es_CL",
+          "code": "e10",
+          "label": "Todos +10",
           "requiresAgeGate": false,
           "system": "ESRB",
-          "order": 6,
+          "order": 10,
           "highestRating": null
         },
         "ROOT_QUERY": {
@@ -2970,7 +3091,7 @@
   "query": {
     "slug": "cotton-reboot-switch-2"
   },
-  "buildId": "jHQcHQb0hHeIDSf7L2_BE",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

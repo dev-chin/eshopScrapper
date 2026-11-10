@@ -529,6 +529,37 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
+                  "url": "/explore/characters/mario/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
                   "url": "https://mario.nintendo.com/",
                   "icon": null,
                   "image": {
@@ -591,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -1427,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1745,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2430,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "SNØ: Ultimate Freeriding para Nintendo Switch 2 - Sitio Oficial de Nintendo para Peru",
         "description": "Compra SNØ: Ultimate Freeriding para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2483,9 +2571,34 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/sports-games",
+          "label": "Deportes"
+        },
+        {
+          "url": "/store/games/tags/online-scoreboard-games",
+          "label": "Clasificación en línea"
+        },
+        {
+          "url": "/store/games/tags/first-or-third-person-games",
+          "label": "Juega en primera o tercera persona"
+        },
+        {
+          "url": "/store/games/tags/roguelike-games",
+          "label": "Niveles y mapas aleatorios"
+        },
+        {
+          "url": "/store/games/tags/high-score-games",
+          "label": "Rompe récords"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/d1ac4aee777194856dff6da3846531f2eb3f3bfa14da6aee1dcc18a18d5b9671"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/d1ac4aee777194856dff6da3846531f2eb3f3bfa14da6aee1dcc18a18d5b9671"
       },
       "linkedData": [
         {
@@ -2500,7 +2613,7 @@
             "@type": "Offer",
             "url": "/es-pe/store/products/sn-ultimate-freeriding-switch-2/",
             "priceCurrency": "PEN",
-            "price": "47.12",
+            "price": "37.69",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2541,57 +2654,57 @@
             "@type": "ImageObject",
             "name": "SNØ: Ultimate Freeriding gallery item 0",
             "description": "SNØ: Ultimate Freeriding gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/d1ac4aee777194856dff6da3846531f2eb3f3bfa14da6aee1dcc18a18d5b9671",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/d1ac4aee777194856dff6da3846531f2eb3f3bfa14da6aee1dcc18a18d5b9671",
-            "uploadDate": "2026-10-21T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/d1ac4aee777194856dff6da3846531f2eb3f3bfa14da6aee1dcc18a18d5b9671",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/d1ac4aee777194856dff6da3846531f2eb3f3bfa14da6aee1dcc18a18d5b9671",
+            "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SNØ: Ultimate Freeriding gallery item 1",
             "description": "SNØ: Ultimate Freeriding gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/bc434d08005ce8696a7ef6e834f45a90db6c5dfedb26d7fb4838843056d6a08b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/bc434d08005ce8696a7ef6e834f45a90db6c5dfedb26d7fb4838843056d6a08b",
-            "uploadDate": "2026-10-21T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/bc434d08005ce8696a7ef6e834f45a90db6c5dfedb26d7fb4838843056d6a08b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/bc434d08005ce8696a7ef6e834f45a90db6c5dfedb26d7fb4838843056d6a08b",
+            "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SNØ: Ultimate Freeriding gallery item 2",
             "description": "SNØ: Ultimate Freeriding gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/eb7656980067589ad655a9b8d0b9155234a3ce6449270638ccfd54f26093f382",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/eb7656980067589ad655a9b8d0b9155234a3ce6449270638ccfd54f26093f382",
-            "uploadDate": "2026-10-21T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/eb7656980067589ad655a9b8d0b9155234a3ce6449270638ccfd54f26093f382",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/eb7656980067589ad655a9b8d0b9155234a3ce6449270638ccfd54f26093f382",
+            "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SNØ: Ultimate Freeriding gallery item 3",
             "description": "SNØ: Ultimate Freeriding gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/586098fceeeda377def6fb0157e8d523c35ae3dd5d1a298364b3ed2f0cb909d7",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/586098fceeeda377def6fb0157e8d523c35ae3dd5d1a298364b3ed2f0cb909d7",
-            "uploadDate": "2026-10-21T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/586098fceeeda377def6fb0157e8d523c35ae3dd5d1a298364b3ed2f0cb909d7",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/586098fceeeda377def6fb0157e8d523c35ae3dd5d1a298364b3ed2f0cb909d7",
+            "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SNØ: Ultimate Freeriding gallery item 4",
             "description": "SNØ: Ultimate Freeriding gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/ee11d7584e6c0c1fa20828961d42877a38966fd8491ca49781af4f4187be2349",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/ee11d7584e6c0c1fa20828961d42877a38966fd8491ca49781af4f4187be2349",
-            "uploadDate": "2026-10-21T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/ee11d7584e6c0c1fa20828961d42877a38966fd8491ca49781af4f4187be2349",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/ee11d7584e6c0c1fa20828961d42877a38966fd8491ca49781af4f4187be2349",
+            "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SNØ: Ultimate Freeriding gallery item 5",
             "description": "SNØ: Ultimate Freeriding gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/8801c04d538ab514c599264936fcb3a8e7b606364744745cba5a9cd1fae07d4e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/8801c04d538ab514c599264936fcb3a8e7b606364744745cba5a9cd1fae07d4e",
-            "uploadDate": "2026-10-21T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/8801c04d538ab514c599264936fcb3a8e7b606364744745cba5a9cd1fae07d4e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/8801c04d538ab514c599264936fcb3a8e7b606364744745cba5a9cd1fae07d4e",
+            "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SNØ: Ultimate Freeriding gallery item 6",
             "description": "SNØ: Ultimate Freeriding gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/773089606b5bde41af799b707d089d6dd0aa132f52334ce04c39b5b8c53eecb8",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000132570/773089606b5bde41af799b707d089d6dd0aa132f52334ce04c39b5b8c53eecb8",
-            "uploadDate": "2026-10-21T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/773089606b5bde41af799b707d089d6dd0aa132f52334ce04c39b5b8c53eecb8",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132570/773089606b5bde41af799b707d089d6dd0aa132f52334ce04c39b5b8c53eecb8",
+            "uploadDate": "2026-10-28T00:00:00.000Z"
           }
         ],
         {
@@ -2652,9 +2765,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 47.12,
-            "finalPrice": 47.12,
+            "finalPrice": 37.69,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2670,14 +2783,48 @@
           "url({\"relative\":true})": "/es-pe/store/products/sn-ultimate-freeriding-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "VIEWPOINT_SWITCHING",
+                "label": "Juega en primera o tercera persona"
+              },
+              {
+                "__typename": "Tag",
+                "code": "REPLAYABLE_MAP",
+                "label": "Niveles y mapas aleatorios"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Rompe récords"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SPORTS",
+                "label": "Deportes"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "04000bb029632000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2692,11 +2839,11 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
-          "description({\"html\":true})": "<p>SNØ es un juego de esquí de descenso con un diseño simple enfocado en la pura satisfacción de deslizarse por la nieve. Recorre montañas generadas por procedimientos, realiza trucos arriesgados y maniobras emocionantes al límite para lograr la puntuación más alta. Dominar los controles y el terreno es la clave para conseguir puntuaciones récord, haciendo que cada bajada sea una prueba de habilidad y fluidez.<br><br>Te espera un número infinito de montañas generadas por procedimientos. Decide si quieres luchar por los primeros lugares en las tablas de clasificación o simplemente disfrutar del recorrido en el modo ZEN: juega como más te guste.<br><br>Mensaje de los creadores:<br>SNØ fue hecho en Noruega por dos personas. Lo diseñamos para capturar la esencia del esquí de descenso de forma simple y divertida. Enfocado en sistemas de juego gratificantes, acción instantánea y controles fluidos, SNØ es perfecto para sesiones de juego cortas.<br><br>■ Lo que encontrarás en este juego:<br>• Un juego de freeride rápido y fluido<br>• Montañas infinitas generadas por procedimientos<br>• Tres estilos de deslizamiento: Esquís, Snowboard y Sit-ski<br>• Múltiples apariencias que requieren habilidad para desbloquear<br>• Comparte y vuelve a visitar montañas usando semillas (seeds)<br>• Soporte completo para teclado y control<br>• Modo ZEN opcional (sin puntos, solo tú y la montaña)<br>• Tablas de clasificación en línea globales y de amigos<br>• Visita las montañas con puntuaciones más altas directamente desde las tablas de clasificación<br>• Modos de cámara en primera persona, tercera persona y dron<br>• Modo foto<br><br>■ Lo que no encontrarás:<br>• Multijugador en línea<br>• Pistas bien preparadas<br>• Largos tiempos de carga</p>",
+          "description({\"html\":true})": "<p>SNØ es un juego de esquí de descenso con un diseño simple enfocado en la pura satisfacción de deslizarse por la nieve. Recorre montañas generadas por procedimientos, realiza trucos arriesgados y maniobras emocionantes al límite para lograr la puntuación más alta. Dominar los controles y el terreno es la clave para conseguir puntuaciones récord, haciendo que cada bajada sea una prueba de habilidad y fluidez.<br><br>Te espera un número infinito de montañas generadas por procedimientos. Decide si quieres luchar por los primeros lugares en las tablas de clasificación o simplemente disfrutar del recorrido en el modo ZEN: juega como más te guste.<br><br>Mensaje de los creadores:<br>SNØ fue hecho en Noruega por dos personas. Lo diseñamos para capturar la esencia del esquí de descenso de forma simple y divertida. Enfocado en sistemas de juego gratificantes, acción instantánea y controles fluidos, SNØ es perfecto para sesiones de juego cortas.<br><br>■ Lo que encontrarás en este juego:<br>• Un juego de freeride rápido y fluido<br>• Montañas infinitas generadas por procedimientos<br>• Tres estilos de deslizamiento: Esquís, Snowboard y Sit-ski<br>• Múltiples apariencias que requieren habilidad para desbloquear<br>• Comparte y vuelve a visitar montañas usando semillas (seeds)<br>• Modo ZEN opcional (sin puntos, solo tú y la montaña)<br>• Tablas de clasificación en línea globales y de amigos<br>• Visita las montañas con puntuaciones más altas directamente desde las tablas de clasificación<br>• Modos de cámara en primera persona, tercera persona y dron<br>• Modo foto<br><br>■ Lo que no encontrarás:<br>• Multijugador en línea<br>• Pistas bien preparadas<br>• Largos tiempos de carga</p>",
           "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) para utilizar la función de guardado de datos en la nube.</p><p>©Studio Gauntlet Licensed to and published by AMATA Games</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
@@ -2706,10 +2853,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000132570&v_loggedin=false&v_currency=PEN&v_price=37.69&v_country=PE",
+            "discountPriceEnd": "2026-11-11T14:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2741,7 +2888,7 @@
             "local": null,
             "online": null
           },
-          "description": "SNØ es un juego de esquí de descenso con un diseño simple enfocado en la pura satisfacción de deslizarse por la nieve. Recorre montañas generadas por procedimientos, realiza trucos arriesgados y maniobras emocionantes al límite para lograr la puntuación más alta. Dominar los controles y el terreno es la clave para conseguir puntuaciones récord, haciendo que cada bajada sea una prueba de habilidad y fluidez.\n\nTe espera un número infinito de montañas generadas por procedimientos. Decide si quieres luchar por los primeros lugares en las tablas de clasificación o simplemente disfrutar del recorrido en el modo ZEN: juega como más te guste.\n\nMensaje de los creadores:\nSNØ fue hecho en Noruega por dos personas. Lo diseñamos para capturar la esencia del esquí de descenso de forma simple y divertida. Enfocado en sistemas de juego gratificantes, acción instantánea y controles fluidos, SNØ es perfecto para sesiones de juego cortas.\n\n■ Lo que encontrarás en este juego:\n• Un juego de freeride rápido y fluido\n• Montañas infinitas generadas por procedimientos\n• Tres estilos de deslizamiento: Esquís, Snowboard y Sit-ski\n• Múltiples apariencias que requieren habilidad para desbloquear\n• Comparte y vuelve a visitar montañas usando semillas (seeds)\n• Soporte completo para teclado y control\n• Modo ZEN opcional (sin puntos, solo tú y la montaña)\n• Tablas de clasificación en línea globales y de amigos\n• Visita las montañas con puntuaciones más altas directamente desde las tablas de clasificación\n• Modos de cámara en primera persona, tercera persona y dron\n• Modo foto\n\n■ Lo que no encontrarás:\n• Multijugador en línea\n• Pistas bien preparadas\n• Largos tiempos de carga",
+          "description": "SNØ es un juego de esquí de descenso con un diseño simple enfocado en la pura satisfacción de deslizarse por la nieve. Recorre montañas generadas por procedimientos, realiza trucos arriesgados y maniobras emocionantes al límite para lograr la puntuación más alta. Dominar los controles y el terreno es la clave para conseguir puntuaciones récord, haciendo que cada bajada sea una prueba de habilidad y fluidez.\n\nTe espera un número infinito de montañas generadas por procedimientos. Decide si quieres luchar por los primeros lugares en las tablas de clasificación o simplemente disfrutar del recorrido en el modo ZEN: juega como más te guste.\n\nMensaje de los creadores:\nSNØ fue hecho en Noruega por dos personas. Lo diseñamos para capturar la esencia del esquí de descenso de forma simple y divertida. Enfocado en sistemas de juego gratificantes, acción instantánea y controles fluidos, SNØ es perfecto para sesiones de juego cortas.\n\n■ Lo que encontrarás en este juego:\n• Un juego de freeride rápido y fluido\n• Montañas infinitas generadas por procedimientos\n• Tres estilos de deslizamiento: Esquís, Snowboard y Sit-ski\n• Múltiples apariencias que requieren habilidad para desbloquear\n• Comparte y vuelve a visitar montañas usando semillas (seeds)\n• Modo ZEN opcional (sin puntos, solo tú y la montaña)\n• Tablas de clasificación en línea globales y de amigos\n• Visita las montañas con puntuaciones más altas directamente desde las tablas de clasificación\n• Modos de cámara en primera persona, tercera persona y dron\n• Modo foto\n\n■ Lo que no encontrarás:\n• Multijugador en línea\n• Pistas bien preparadas\n• Largos tiempos de carga",
           "playerCountDescription": null,
           "platinumPoints": null,
           "prePurchase": null,
@@ -2781,7 +2928,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "296747008",
+                "totalRomSize": "377487360",
                 "platform": "BEE"
               }
             ]
@@ -2889,7 +3036,7 @@
               "type": "upload"
             }
           ],
-          "releaseDate": "2026-10-21T00:00:00.000Z",
+          "releaseDate": "2026-10-28T00:00:00.000Z",
           "releaseDateDisplay": null,
           "softwareContents": [],
           "softwarePublisher": "AMATA",
@@ -2935,7 +3082,7 @@
   "query": {
     "slug": "sn-ultimate-freeriding-switch-2"
   },
-  "buildId": "Fe4Jjdjck2zFQNntuq1z6",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

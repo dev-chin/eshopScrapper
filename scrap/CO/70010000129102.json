@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -2477,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Hillthorn para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
         "description": "Compra Hillthorn para Nintendo Switch en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2530,9 +2571,18 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Acertijos y deducción"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/39c06134cd12653df6ada78b8317b685160f4c10d7e993dc01e1c2df668df240"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/39c06134cd12653df6ada78b8317b685160f4c10d7e993dc01e1c2df668df240"
       },
       "linkedData": [
         {
@@ -2588,48 +2638,56 @@
             "@type": "ImageObject",
             "name": "Hillthorn gallery item 0",
             "description": "Hillthorn gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/39c06134cd12653df6ada78b8317b685160f4c10d7e993dc01e1c2df668df240",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/39c06134cd12653df6ada78b8317b685160f4c10d7e993dc01e1c2df668df240",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/39c06134cd12653df6ada78b8317b685160f4c10d7e993dc01e1c2df668df240",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/39c06134cd12653df6ada78b8317b685160f4c10d7e993dc01e1c2df668df240",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Hillthorn gallery item 1",
             "description": "Hillthorn gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/e786a5746ee6881faefe3391d50a170805edf679887981bc7f3320d17fe46ba9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/e786a5746ee6881faefe3391d50a170805edf679887981bc7f3320d17fe46ba9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000129102/Video/53b8737291ce4540f376cae05b0174809c150b5bbb952e6ba62eda01144832e6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000129102/Video/53b8737291ce4540f376cae05b0174809c150b5bbb952e6ba62eda01144832e6",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hillthorn gallery item 2",
             "description": "Hillthorn gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/e5fc9357ea8f18ddb0806b21a94ab7da894cffaf624ff14c864b0dcf45740e89",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/e5fc9357ea8f18ddb0806b21a94ab7da894cffaf624ff14c864b0dcf45740e89",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/e786a5746ee6881faefe3391d50a170805edf679887981bc7f3320d17fe46ba9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/e786a5746ee6881faefe3391d50a170805edf679887981bc7f3320d17fe46ba9",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hillthorn gallery item 3",
             "description": "Hillthorn gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/09406e08345bc2e1b877477b93cd7e0bd07da130fd842ec7eb3fdb53c5570dd9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/09406e08345bc2e1b877477b93cd7e0bd07da130fd842ec7eb3fdb53c5570dd9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/e5fc9357ea8f18ddb0806b21a94ab7da894cffaf624ff14c864b0dcf45740e89",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/e5fc9357ea8f18ddb0806b21a94ab7da894cffaf624ff14c864b0dcf45740e89",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hillthorn gallery item 4",
             "description": "Hillthorn gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/9a7f82d99956d44c90a628791cccc49deff97113b7a3eb9cf39cd8cbb8bacce3",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/9a7f82d99956d44c90a628791cccc49deff97113b7a3eb9cf39cd8cbb8bacce3",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/09406e08345bc2e1b877477b93cd7e0bd07da130fd842ec7eb3fdb53c5570dd9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/09406e08345bc2e1b877477b93cd7e0bd07da130fd842ec7eb3fdb53c5570dd9",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hillthorn gallery item 5",
             "description": "Hillthorn gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/f6101b7da99100b6535b09cf330ab1277bc55005d1eb2f27807effa793a9b6cb",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129102/f6101b7da99100b6535b09cf330ab1277bc55005d1eb2f27807effa793a9b6cb",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/9a7f82d99956d44c90a628791cccc49deff97113b7a3eb9cf39cd8cbb8bacce3",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/9a7f82d99956d44c90a628791cccc49deff97113b7a3eb9cf39cd8cbb8bacce3",
+            "uploadDate": "2026-11-10T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Hillthorn gallery item 6",
+            "description": "Hillthorn gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/f6101b7da99100b6535b09cf330ab1277bc55005d1eb2f27807effa793a9b6cb",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000129102/f6101b7da99100b6535b09cf330ab1277bc55005d1eb2f27807effa793a9b6cb",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           }
         ],
@@ -2715,15 +2773,26 @@
           "url({\"relative\":true})": "/es-co/store/products/hillthorn-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Acertijos y deducción"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0100981028cae000",
           "appStoreUrl": null,
-          "availability": [
-            "Próximos lanzamientos"
-          ],
+          "availability": [],
           "baseSoftware": [],
           "categories": [
             {
@@ -2737,7 +2806,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2820,13 +2889,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "255852544",
+                "totalRomSize": "440401920",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "255852544",
+                "totalRomSize": "440401920",
                 "platform": "BEE"
               }
             ]
@@ -2907,6 +2976,12 @@
             }
           ],
           "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000129102/Video/53b8737291ce4540f376cae05b0174809c150b5bbb952e6ba62eda01144832e6",
+              "resourceType": "video",
+              "type": "upload"
+            },
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000129102/e786a5746ee6881faefe3391d50a170805edf679887981bc7f3320d17fe46ba9",
@@ -3009,7 +3084,7 @@
   "query": {
     "slug": "hillthorn-switch"
   },
-  "buildId": "Jfx4ML5jnnTZgLao6zEN0",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

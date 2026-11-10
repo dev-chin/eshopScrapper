@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -2477,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Glow Box para Nintendo Switch 2 - Sitio Oficial de Nintendo para Colombia",
         "description": "Compra Glow Box para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2530,9 +2571,14 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/story-games",
+          "label": "Aventura narrativa"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/df1fe08e5422f18a17ae3c12906c8ea4c05b5f9e4469fa93e74c6f03047ef038"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/df1fe08e5422f18a17ae3c12906c8ea4c05b5f9e4469fa93e74c6f03047ef038"
       },
       "linkedData": [
         {
@@ -2588,56 +2634,56 @@
             "@type": "ImageObject",
             "name": "Glow Box gallery item 0",
             "description": "Glow Box gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/df1fe08e5422f18a17ae3c12906c8ea4c05b5f9e4469fa93e74c6f03047ef038",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/df1fe08e5422f18a17ae3c12906c8ea4c05b5f9e4469fa93e74c6f03047ef038",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/df1fe08e5422f18a17ae3c12906c8ea4c05b5f9e4469fa93e74c6f03047ef038",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/df1fe08e5422f18a17ae3c12906c8ea4c05b5f9e4469fa93e74c6f03047ef038",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Glow Box gallery item 1",
             "description": "Glow Box gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/203ced462bf4bf464c7be64f7d3cd7fe469c672b5ed9b6bce90acbd630cfcdf6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/203ced462bf4bf464c7be64f7d3cd7fe469c672b5ed9b6bce90acbd630cfcdf6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/203ced462bf4bf464c7be64f7d3cd7fe469c672b5ed9b6bce90acbd630cfcdf6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/203ced462bf4bf464c7be64f7d3cd7fe469c672b5ed9b6bce90acbd630cfcdf6",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Glow Box gallery item 2",
             "description": "Glow Box gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/54520ce922a756701243b1e95a36c11bfe1c14ef43f08fd579243d66b20eae08",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/54520ce922a756701243b1e95a36c11bfe1c14ef43f08fd579243d66b20eae08",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/54520ce922a756701243b1e95a36c11bfe1c14ef43f08fd579243d66b20eae08",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/54520ce922a756701243b1e95a36c11bfe1c14ef43f08fd579243d66b20eae08",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Glow Box gallery item 3",
             "description": "Glow Box gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/162eb57f293c6478c89f227a2d3306e5f31707f418fc54db639f6bcb49a2ebcc",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/162eb57f293c6478c89f227a2d3306e5f31707f418fc54db639f6bcb49a2ebcc",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/162eb57f293c6478c89f227a2d3306e5f31707f418fc54db639f6bcb49a2ebcc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/162eb57f293c6478c89f227a2d3306e5f31707f418fc54db639f6bcb49a2ebcc",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Glow Box gallery item 4",
             "description": "Glow Box gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/47f78cdd0b20a676c3282498c281b8b61a526a44221f20d86eff466a8a235df0",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/47f78cdd0b20a676c3282498c281b8b61a526a44221f20d86eff466a8a235df0",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/47f78cdd0b20a676c3282498c281b8b61a526a44221f20d86eff466a8a235df0",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/47f78cdd0b20a676c3282498c281b8b61a526a44221f20d86eff466a8a235df0",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Glow Box gallery item 5",
             "description": "Glow Box gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/9e6459ca05bc2a86c2eb921e9ec4f8a6b7dfc611ea642ef4ac8468359d779283",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/9e6459ca05bc2a86c2eb921e9ec4f8a6b7dfc611ea642ef4ac8468359d779283",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/9e6459ca05bc2a86c2eb921e9ec4f8a6b7dfc611ea642ef4ac8468359d779283",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/9e6459ca05bc2a86c2eb921e9ec4f8a6b7dfc611ea642ef4ac8468359d779283",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Glow Box gallery item 6",
             "description": "Glow Box gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/836110ca8b624d5da3478b792480ac06c357501b5a869150df2ad5e7d22645a9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000137375/836110ca8b624d5da3478b792480ac06c357501b5a869150df2ad5e7d22645a9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/836110ca8b624d5da3478b792480ac06c357501b5a869150df2ad5e7d22645a9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000137375/836110ca8b624d5da3478b792480ac06c357501b5a869150df2ad5e7d22645a9",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           }
         ],
@@ -2718,13 +2764,21 @@
           "tags": {
             "__typename": "Tags",
             "features": [],
-            "genres": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "TEXT_ADVENTURE",
+                "label": "Aventura narrativa"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "04004be02a364000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2739,7 +2793,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2753,9 +2807,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000137375&v_loggedin=false&v_currency=COP&v_price=8499.00&v_country=CO",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2988,7 +3042,7 @@
   "query": {
     "slug": "glow-box-switch-2"
   },
-  "buildId": "Jfx4ML5jnnTZgLao6zEN0",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Jogos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Jogos do Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Jogos do Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Hela: of Mice & Magic para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre Hela: of Mice & Magic para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2516,7 +2573,7 @@
       "merchBanner": null,
       "customProductTags": [],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/29fbce2a483eff6f5994cd4b8491ff3e61afc572acd2830f537c1fcaf6f6a579"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/29fbce2a483eff6f5994cd4b8491ff3e61afc572acd2830f537c1fcaf6f6a579"
       },
       "linkedData": [
         {
@@ -2575,56 +2632,72 @@
             "@type": "ImageObject",
             "name": "Hela: of Mice & Magic gallery item 0",
             "description": "Hela: of Mice & Magic gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/29fbce2a483eff6f5994cd4b8491ff3e61afc572acd2830f537c1fcaf6f6a579",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/29fbce2a483eff6f5994cd4b8491ff3e61afc572acd2830f537c1fcaf6f6a579",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/29fbce2a483eff6f5994cd4b8491ff3e61afc572acd2830f537c1fcaf6f6a579",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/29fbce2a483eff6f5994cd4b8491ff3e61afc572acd2830f537c1fcaf6f6a579",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Hela: of Mice & Magic gallery item 1",
             "description": "Hela: of Mice & Magic gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/e8b9915d3c58234655a72ddd9496def9a35ec426db43ac1636fc3c2730f09ae4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/e8b9915d3c58234655a72ddd9496def9a35ec426db43ac1636fc3c2730f09ae4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000100021/Video/abbe9362a4a23f97bf6939a46429225c88933f7cf5c7f8519c94572faf210008",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000100021/Video/abbe9362a4a23f97bf6939a46429225c88933f7cf5c7f8519c94572faf210008",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Hela: of Mice & Magic gallery item 2",
             "description": "Hela: of Mice & Magic gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/0bfd91dded98327a5e74a995bc95972829cce018d429466bf0e3d70fe4353783",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/0bfd91dded98327a5e74a995bc95972829cce018d429466bf0e3d70fe4353783",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000100021/Video/ec91aee3946e6e5cbabb42d3f2e4776b9207d371659b7519602e2c1a6add25a2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000100021/Video/ec91aee3946e6e5cbabb42d3f2e4776b9207d371659b7519602e2c1a6add25a2",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hela: of Mice & Magic gallery item 3",
             "description": "Hela: of Mice & Magic gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/afa6e428b79ff06813c33f2f7657768e922d0297daeae10ab017a469ea77cffa",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/afa6e428b79ff06813c33f2f7657768e922d0297daeae10ab017a469ea77cffa",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/e8b9915d3c58234655a72ddd9496def9a35ec426db43ac1636fc3c2730f09ae4",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/e8b9915d3c58234655a72ddd9496def9a35ec426db43ac1636fc3c2730f09ae4",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hela: of Mice & Magic gallery item 4",
             "description": "Hela: of Mice & Magic gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/c82a5c61e8d0d6576d01436e939ca34a136eb401efda83bcbada6ddae5c749c9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/c82a5c61e8d0d6576d01436e939ca34a136eb401efda83bcbada6ddae5c749c9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/0bfd91dded98327a5e74a995bc95972829cce018d429466bf0e3d70fe4353783",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/0bfd91dded98327a5e74a995bc95972829cce018d429466bf0e3d70fe4353783",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hela: of Mice & Magic gallery item 5",
             "description": "Hela: of Mice & Magic gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/bbe4361ed5cd3b9c83c9477b1a1e1e21ed81f2ef4d200d40feac458f35a0e3ad",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/bbe4361ed5cd3b9c83c9477b1a1e1e21ed81f2ef4d200d40feac458f35a0e3ad",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/afa6e428b79ff06813c33f2f7657768e922d0297daeae10ab017a469ea77cffa",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/afa6e428b79ff06813c33f2f7657768e922d0297daeae10ab017a469ea77cffa",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Hela: of Mice & Magic gallery item 6",
             "description": "Hela: of Mice & Magic gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/13bccdec254d8292ce30dd088656fece0fa92194e32635116f040994810e483e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000100021/13bccdec254d8292ce30dd088656fece0fa92194e32635116f040994810e483e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/c82a5c61e8d0d6576d01436e939ca34a136eb401efda83bcbada6ddae5c749c9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/c82a5c61e8d0d6576d01436e939ca34a136eb401efda83bcbada6ddae5c749c9",
+            "uploadDate": "2026-12-01T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Hela: of Mice & Magic gallery item 7",
+            "description": "Hela: of Mice & Magic gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/bbe4361ed5cd3b9c83c9477b1a1e1e21ed81f2ef4d200d40feac458f35a0e3ad",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/bbe4361ed5cd3b9c83c9477b1a1e1e21ed81f2ef4d200d40feac458f35a0e3ad",
+            "uploadDate": "2026-12-01T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Hela: of Mice & Magic gallery item 8",
+            "description": "Hela: of Mice & Magic gallery item 8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/13bccdec254d8292ce30dd088656fece0fa92194e32635116f040994810e483e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000100021/13bccdec254d8292ce30dd088656fece0fa92194e32635116f040994810e483e",
             "uploadDate": "2026-12-01T00:00:00.000Z"
           }
         ],
@@ -2708,6 +2781,7 @@
             "genres": [],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "04001900240d4000",
           "appStoreUrl": null,
           "availability": [
@@ -2726,7 +2800,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2913,6 +2987,18 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000100021/Video/abbe9362a4a23f97bf6939a46429225c88933f7cf5c7f8519c94572faf210008",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000100021/Video/ec91aee3946e6e5cbabb42d3f2e4776b9207d371659b7519602e2c1a6add25a2",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000100021/e8b9915d3c58234655a72ddd9496def9a35ec426db43ac1636fc3c2730f09ae4",
               "resourceType": "image",
               "type": "upload"
@@ -2994,7 +3080,7 @@
   "query": {
     "slug": "hela-of-mice-and-magic-switch-2"
   },
-  "buildId": "Fe4Jjdjck2zFQNntuq1z6",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

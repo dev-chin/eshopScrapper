@@ -91,9 +91,9 @@
             {
               "__contentType": "menuItem",
               "__entryId": "74oMBK4LioFzShJtzMUTdp",
-              "label": "Nintendo Switch 2 Bundle",
+              "label": "Nintendo Switch 2 Bundles",
               "caption": "",
-              "url": "/store/products/nintendo-switch-2-nintendo-switch-sports-resort-bundle-129088/",
+              "url": "/store/showroom/nintendo-switch-2-bundle/",
               "icon": null,
               "image": null,
               "hideOn": null,
@@ -107,9 +107,9 @@
             {
               "__contentType": "menuItem",
               "__entryId": "7lMKuwutLMkkdUvg4rF04h",
-              "label": "Customer Appreciation Sale",
+              "label": "Games on sale",
               "caption": "",
-              "url": "/store/sales-and-deals/customer-appreciation-sale/#sort=df&p=0",
+              "url": "/store/sales-and-deals/",
               "icon": null,
               "image": null,
               "hideOn": null,
@@ -170,24 +170,49 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "4ofhXnH4mIoRulsWhxPz6",
-              "label": "Metroid™ Ravenous",
-              "caption": "",
-              "url": "/store/products/metroid-ravenous-switch-2/",
+              "__entryId": "6o5UFLGstQbUz4dMJXsiQP",
+              "label": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "caption": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
+              "url": "/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "tags": [
+                  "70050000081248",
+                  "70050000081248-C"
+                ],
                 "type": "upload",
-                "bytes": 2728371,
-                "width": 1646,
-                "format": "png",
-                "height": 926,
-                "version": 1788968467,
+                "bytes": 2122019,
+                "width": 1920,
+                "format": "jpg",
+                "height": 1080,
+                "context": {
+                  "custom": {
+                    "en-CA:70050000081248": "1",
+                    "en-US:70050000081248": "1",
+                    "es-AR:70050000081248": "1",
+                    "es-CL:70050000081248": "1",
+                    "es-CO:70050000081248": "1",
+                    "es-MX:70050000081248": "1",
+                    "es-PE:70050000081248": "1",
+                    "fr-CA:70050000081248": "1",
+                    "pt-BR:70050000081248": "1",
+                    "en-CA:70050000081248-C": "1",
+                    "en-US:70050000081248-C": "1",
+                    "es-AR:70050000081248-C": "1",
+                    "es-CL:70050000081248-C": "1",
+                    "es-CO:70050000081248-C": "1",
+                    "es-MX:70050000081248-C": "1",
+                    "es-PE:70050000081248-C": "1",
+                    "fr-CA:70050000081248-C": "1",
+                    "pt-BR:70050000081248-C": "1"
+                  }
+                },
+                "version": 1788966774,
                 "metadata": {},
-                "public_id": "ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead",
-                "created_at": "2026-09-09T15:41:07Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788968467/ncom/en_US/articles/2026/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/MR/ND_Lead.png",
+                "public_id": "store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58",
+                "created_at": "2026-09-09T15:12:54Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -504,7 +529,7 @@
                   "__entryId": "3yxYtKK6cBttMdVyVliyqh",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -527,6 +552,37 @@
                   "activeMatch": "",
                   "id": "mario",
                   "hideOnLocale": false,
+                  "characterColor": "#484848",
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "4ImHfC73Kc8MnaibVwAEks",
+                  "label": "Super Mario",
+                  "caption": "",
+                  "url": "https://mario.nintendo.com/",
+                  "icon": null,
+                  "image": {
+                    "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "tags": [],
+                    "type": "upload",
+                    "bytes": 18737,
+                    "width": 96,
+                    "format": "png",
+                    "height": 96,
+                    "version": 1741909890,
+                    "duration": null,
+                    "metadata": {},
+                    "public_id": "Global Nav/Explore/Characters-Super-Mario",
+                    "created_at": "2025-03-13T23:51:30Z",
+                    "secure_url": "https://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
+                    "resource_type": "image"
+                  },
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": "mario",
+                  "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
                 },
@@ -566,7 +622,7 @@
                   "__entryId": "2mVuBD9Ji6lbMKaygYeEPp",
                   "label": "Super Mario",
                   "caption": "",
-                  "url": "https://mario.nintendo.com/fr",
+                  "url": "/explore/characters/mario/",
                   "icon": null,
                   "image": {
                     "url": "http://assets.nintendo.com/image/upload/v1741909890/Global%20Nav/Explore/Characters-Super-Mario.png",
@@ -1402,6 +1458,46 @@
                   "hideOnLocale": false,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1572,8 +1668,8 @@
                   "url": "https://support.nintendo.com/service-center",
                   "icon": {
                     "__contentType": "icon",
-                    "__entryId": "57ezfmnWmvEqdcDb1caaXh",
-                    "id": "SupportRepairIcon"
+                    "__entryId": "2pGzGymw4n91zaL7AObP55",
+                    "id": "SupportServiceIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -1720,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Games",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Nintendo Switch 2 games",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Nintendo Switch games",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2607,6 +2719,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "DESOLUS for Nintendo Switch 2 - Nintendo Official Site",
         "description": "Shop DESOLUS for Nintendo Switch 2 at Nintendo Store. See game details, editions, and availability.",
@@ -2664,9 +2777,18 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Adventure"
+        },
+        {
+          "url": "/store/games/tags/puzzle-games",
+          "label": "Puzzle"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/359aa172eecf70a9cd7810be013021a3ef38440403ad842098162f1b3410b640"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/359aa172eecf70a9cd7810be013021a3ef38440403ad842098162f1b3410b640"
       },
       "linkedData": [
         {
@@ -2681,7 +2803,7 @@
             "@type": "Offer",
             "url": "/us/store/products/desolus-switch-2/",
             "priceCurrency": "USD",
-            "price": "19.99",
+            "price": "17.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2722,64 +2844,64 @@
             "@type": "ImageObject",
             "name": "DESOLUS gallery item 0",
             "description": "DESOLUS gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/359aa172eecf70a9cd7810be013021a3ef38440403ad842098162f1b3410b640",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/359aa172eecf70a9cd7810be013021a3ef38440403ad842098162f1b3410b640",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/359aa172eecf70a9cd7810be013021a3ef38440403ad842098162f1b3410b640",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/359aa172eecf70a9cd7810be013021a3ef38440403ad842098162f1b3410b640",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
             "name": "DESOLUS gallery item 1",
             "description": "DESOLUS gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000133037/Video/4fa7ba20eab45e2f12dab5132e0f7a92d98db2f12256c05e3c067cdf8f47da40",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0//store/software/switch2/70010000133037/Video/4fa7ba20eab45e2f12dab5132e0f7a92d98db2f12256c05e3c067cdf8f47da40",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000133037/Video/4fa7ba20eab45e2f12dab5132e0f7a92d98db2f12256c05e3c067cdf8f47da40",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000133037/Video/4fa7ba20eab45e2f12dab5132e0f7a92d98db2f12256c05e3c067cdf8f47da40",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DESOLUS gallery item 2",
             "description": "DESOLUS gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/31fa717fe839e72fc020b9b712a90e1ef91821533a5e195a727bbcaa2a3df26e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/31fa717fe839e72fc020b9b712a90e1ef91821533a5e195a727bbcaa2a3df26e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/31fa717fe839e72fc020b9b712a90e1ef91821533a5e195a727bbcaa2a3df26e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/31fa717fe839e72fc020b9b712a90e1ef91821533a5e195a727bbcaa2a3df26e",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DESOLUS gallery item 3",
             "description": "DESOLUS gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/10dd5e8f557c3f34e80ff9588f9503871357be01523668aec060e556667849bb",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/10dd5e8f557c3f34e80ff9588f9503871357be01523668aec060e556667849bb",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/10dd5e8f557c3f34e80ff9588f9503871357be01523668aec060e556667849bb",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/10dd5e8f557c3f34e80ff9588f9503871357be01523668aec060e556667849bb",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DESOLUS gallery item 4",
             "description": "DESOLUS gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/63a5ccf1ccf46e283d52985ff78c9b72c38aa793fdb571706fa9431ebddfc2eb",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/63a5ccf1ccf46e283d52985ff78c9b72c38aa793fdb571706fa9431ebddfc2eb",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/63a5ccf1ccf46e283d52985ff78c9b72c38aa793fdb571706fa9431ebddfc2eb",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/63a5ccf1ccf46e283d52985ff78c9b72c38aa793fdb571706fa9431ebddfc2eb",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DESOLUS gallery item 5",
             "description": "DESOLUS gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/a73c7a0a760d4c654644960f83a41d2e18c91f75c9d3a577e6d91d369930fc18",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/a73c7a0a760d4c654644960f83a41d2e18c91f75c9d3a577e6d91d369930fc18",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/a73c7a0a760d4c654644960f83a41d2e18c91f75c9d3a577e6d91d369930fc18",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/a73c7a0a760d4c654644960f83a41d2e18c91f75c9d3a577e6d91d369930fc18",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DESOLUS gallery item 6",
             "description": "DESOLUS gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/3432410713d511e61dc2b6db770091543458858b3027f144c80df30751146073",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/3432410713d511e61dc2b6db770091543458858b3027f144c80df30751146073",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/3432410713d511e61dc2b6db770091543458858b3027f144c80df30751146073",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/3432410713d511e61dc2b6db770091543458858b3027f144c80df30751146073",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "DESOLUS gallery item 7",
             "description": "DESOLUS gallery item 7",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/a95ef34f5630abc27bd5edb29c35c67ffb5981b29faf1dde23815af657c02f07",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000133037/a95ef34f5630abc27bd5edb29c35c67ffb5981b29faf1dde23815af657c02f07",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/a95ef34f5630abc27bd5edb29c35c67ffb5981b29faf1dde23815af657c02f07",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000133037/a95ef34f5630abc27bd5edb29c35c67ffb5981b29faf1dde23815af657c02f07",
             "uploadDate": "2026-10-15T00:00:00.000Z"
           }
         ],
@@ -2841,9 +2963,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "USD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 19.99,
-            "finalPrice": 19.99,
+            "finalPrice": 17.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2860,13 +2982,25 @@
           "tags": {
             "__typename": "Tags",
             "features": [],
-            "genres": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Adventure"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PUZZLE",
+                "label": "Puzzle"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "040070002972e000",
           "appStoreUrl": null,
           "availability": [
-            "Coming soon"
+            "Available now"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2881,7 +3015,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2895,10 +3029,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000133037&v_loggedin=false&v_currency=USD&v_price=17.99&v_country=US",
+            "discountPriceEnd": "2026-12-14T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2970,7 +3104,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "3713007616",
-                "totalRomSize": "3629121536",
+                "totalRomSize": "3967811584",
                 "platform": "BEE"
               }
             ]
@@ -3148,7 +3282,7 @@
   "query": {
     "slug": "desolus-switch-2"
   },
-  "buildId": "bncN6kVjVCnuA6I-ctMMo",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

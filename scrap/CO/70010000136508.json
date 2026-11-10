@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "SULFUR para Nintendo Switch 2 - Sitio Oficial de Nintendo para Colombia",
         "description": "Compra SULFUR para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2514,9 +2571,38 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/shooting-games",
+          "label": "Disparos"
+        },
+        {
+          "url": "/store/games/tags/motion-control-games",
+          "label": "Controles por movimiento"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Elige el nivel de dificultad"
+        },
+        {
+          "url": "/store/games/tags/first-person-games",
+          "label": "Primera persona"
+        },
+        {
+          "url": "/store/games/tags/games-with-random-maps-levels",
+          "label": "Recomenzar de cero tras las derrotas"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/7c2e3998bbdbfb5ab31b6ee8971465348d499e639468c958cf40ead69a6a375d"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/7c2e3998bbdbfb5ab31b6ee8971465348d499e639468c958cf40ead69a6a375d"
       },
       "linkedData": [
         {
@@ -2531,7 +2617,7 @@
             "@type": "Offer",
             "url": "/es-co/store/products/sulfur-switch-2/",
             "priceCurrency": "COP",
-            "price": "47040.00",
+            "price": "58800.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2572,56 +2658,56 @@
             "@type": "ImageObject",
             "name": "SULFUR gallery item 0",
             "description": "SULFUR gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/7c2e3998bbdbfb5ab31b6ee8971465348d499e639468c958cf40ead69a6a375d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/7c2e3998bbdbfb5ab31b6ee8971465348d499e639468c958cf40ead69a6a375d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/7c2e3998bbdbfb5ab31b6ee8971465348d499e639468c958cf40ead69a6a375d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/7c2e3998bbdbfb5ab31b6ee8971465348d499e639468c958cf40ead69a6a375d",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SULFUR gallery item 1",
             "description": "SULFUR gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/620f48f03201fd37f1f3affc9c104531430d8501a6cc7c01c6e9bb0d7f152ca1",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/620f48f03201fd37f1f3affc9c104531430d8501a6cc7c01c6e9bb0d7f152ca1",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/620f48f03201fd37f1f3affc9c104531430d8501a6cc7c01c6e9bb0d7f152ca1",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/620f48f03201fd37f1f3affc9c104531430d8501a6cc7c01c6e9bb0d7f152ca1",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SULFUR gallery item 2",
             "description": "SULFUR gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/ad219e07c0affa45b32dd66ae483f9cf09d537d3e481fc7d24b719716823acbf",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/ad219e07c0affa45b32dd66ae483f9cf09d537d3e481fc7d24b719716823acbf",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/ad219e07c0affa45b32dd66ae483f9cf09d537d3e481fc7d24b719716823acbf",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/ad219e07c0affa45b32dd66ae483f9cf09d537d3e481fc7d24b719716823acbf",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SULFUR gallery item 3",
             "description": "SULFUR gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/77f1db247feccbc6f57046fe0f6ec85ca5c5289f34dbccf5f6077359b45a00ce",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/77f1db247feccbc6f57046fe0f6ec85ca5c5289f34dbccf5f6077359b45a00ce",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/77f1db247feccbc6f57046fe0f6ec85ca5c5289f34dbccf5f6077359b45a00ce",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/77f1db247feccbc6f57046fe0f6ec85ca5c5289f34dbccf5f6077359b45a00ce",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SULFUR gallery item 4",
             "description": "SULFUR gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/b1b82b178b58366097bd1e28c313c66575732faa2c976736dc095c20efec8376",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/b1b82b178b58366097bd1e28c313c66575732faa2c976736dc095c20efec8376",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/b1b82b178b58366097bd1e28c313c66575732faa2c976736dc095c20efec8376",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/b1b82b178b58366097bd1e28c313c66575732faa2c976736dc095c20efec8376",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SULFUR gallery item 5",
             "description": "SULFUR gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/2e21f565b5b79c93a5dba1f9b8f8b459f3d6738d916bf59a88b0e5be325fdb8f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/2e21f565b5b79c93a5dba1f9b8f8b459f3d6738d916bf59a88b0e5be325fdb8f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/2e21f565b5b79c93a5dba1f9b8f8b459f3d6738d916bf59a88b0e5be325fdb8f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/2e21f565b5b79c93a5dba1f9b8f8b459f3d6738d916bf59a88b0e5be325fdb8f",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "SULFUR gallery item 6",
             "description": "SULFUR gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/14efccc3fa871de373c40c58c5eb24a24b53e0b9a7ed0d45fa227fc4d8e3881e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000136508/14efccc3fa871de373c40c58c5eb24a24b53e0b9a7ed0d45fa227fc4d8e3881e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/14efccc3fa871de373c40c58c5eb24a24b53e0b9a7ed0d45fa227fc4d8e3881e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136508/14efccc3fa871de373c40c58c5eb24a24b53e0b9a7ed0d45fa227fc4d8e3881e",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           }
         ],
@@ -2683,9 +2769,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "COP",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 58800,
-            "finalPrice": 47040,
+            "finalPrice": 58800,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2701,15 +2787,53 @@
           "url({\"relative\":true})": "/es-co/store/products/sulfur-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MOTION_CONTROL",
+                "label": "Controles por movimiento"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FIRST_PERSON",
+                "label": "Primera persona"
+              },
+              {
+                "__typename": "Tag",
+                "code": "STARTING_OVER",
+                "label": "Recomenzar de cero tras las derrotas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Disparos"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0400c8b028f8c000",
           "appStoreUrl": null,
           "availability": [
-            "Reserva",
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2724,7 +2848,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2737,11 +2861,11 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": true,
+            "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000136508&v_loggedin=false&v_currency=COP&v_price=47040.00&v_country=CO",
-            "discountPriceEnd": "2026-11-05T17:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000136508&v_loggedin=false&v_currency=COP&v_price=58800.00&v_country=CO",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -2760,7 +2884,7 @@
           "metaDescription": null,
           "metaTitle": null,
           "miscDescriptions": null,
-          "miscNetworkDescriptions": "Estas funciones están disponibles en televisores compatibles:\n- Salida de 120 Hz",
+          "miscNetworkDescriptions": "Estas funciones están disponibles en televisores compatibles:\n- Salida de HDR\n- Salida de 120 Hz",
           "miscPeripheralDescriptions": null,
           "numberOfPlayers": {
             "__typename": "NumberOfPlayers",
@@ -2813,12 +2937,12 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "1006632960",
-                "totalRomSize": "1008730112",
+                "totalRomSize": "2061500416",
                 "platform": "BEE"
               }
             ]
           },
-          "softwareDeveloper": "Albiin",
+          "softwareDeveloper": "Perfect Random",
           "startShippingDate": null,
           "topLegalDisclaimer": null,
           "upc": null,
@@ -2849,7 +2973,13 @@
               "__ref": "ContentDescriptor:{\"id\":\"2yLZuBB4hcU7TFOhEj94R2\",\"locale\":\"es_CO\"}"
             },
             {
-              "__ref": "ContentDescriptor:{\"id\":\"5uicHBTMphOYucWLfCKNxd\",\"locale\":\"es_CO\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"6J04EzHn8F68LQivQWA8sw\",\"locale\":\"es_CO\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"e9P6BVD54hYvrkChYrgXk\",\"locale\":\"es_CO\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"45tDlAomCY9ukpHytMbwfl\",\"locale\":\"es_CO\"}"
             },
             {
               "__ref": "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"es_CO\"}"
@@ -2961,11 +3091,25 @@
           "label": "Sangre",
           "type": "CONTENT_DESCRIPTOR"
         },
-        "ContentDescriptor:{\"id\":\"5uicHBTMphOYucWLfCKNxd\",\"locale\":\"es_CO\"}": {
+        "ContentDescriptor:{\"id\":\"6J04EzHn8F68LQivQWA8sw\",\"locale\":\"es_CO\"}": {
           "__typename": "ContentDescriptor",
-          "id": "5uicHBTMphOYucWLfCKNxd",
+          "id": "6J04EzHn8F68LQivQWA8sw",
           "locale": "es_CO",
-          "label": "Uso de alcohol",
+          "label": "Referencia a drogas",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentDescriptor:{\"id\":\"e9P6BVD54hYvrkChYrgXk\",\"locale\":\"es_CO\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "e9P6BVD54hYvrkChYrgXk",
+          "locale": "es_CO",
+          "label": "Lenguaje",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentDescriptor:{\"id\":\"45tDlAomCY9ukpHytMbwfl\",\"locale\":\"es_CO\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "45tDlAomCY9ukpHytMbwfl",
+          "locale": "es_CO",
+          "label": "Uso de alcohol y tabaco",
           "type": "CONTENT_DESCRIPTOR"
         },
         "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"es_CO\"}": {
@@ -3000,7 +3144,7 @@
   "query": {
     "slug": "sulfur-switch-2"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

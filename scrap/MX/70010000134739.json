@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Joe & Mac Retro Collection para Nintendo Switch 2 - Sitio Oficial de Nintendo para Mexico",
         "description": "Compra Joe & Mac Retro Collection para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2514,9 +2571,30 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Arte pixelado"
+        },
+        {
+          "url": "/store/games/tags/platforming-games",
+          "label": "Plataformas"
+        },
+        {
+          "url": "/store/games/tags/games-to-play-together-on-one-console",
+          "label": "Juntos en una consola"
+        },
+        {
+          "url": "/store/games/tags/multiplayer-games",
+          "label": "Partidas en grupo"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/30435d1326264fea381a39a7a35ad20701a2b358ef516638599f96900e7ac911"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/30435d1326264fea381a39a7a35ad20701a2b358ef516638599f96900e7ac911"
       },
       "linkedData": [
         {
@@ -2572,56 +2650,72 @@
             "@type": "ImageObject",
             "name": "Joe & Mac Retro Collection gallery item 0",
             "description": "Joe & Mac Retro Collection gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/30435d1326264fea381a39a7a35ad20701a2b358ef516638599f96900e7ac911",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/30435d1326264fea381a39a7a35ad20701a2b358ef516638599f96900e7ac911",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/30435d1326264fea381a39a7a35ad20701a2b358ef516638599f96900e7ac911",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/30435d1326264fea381a39a7a35ad20701a2b358ef516638599f96900e7ac911",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Joe & Mac Retro Collection gallery item 1",
             "description": "Joe & Mac Retro Collection gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/961998b82f168bdf3e685023cd9d038db0b21d3585bd9736833f58d8c2ff0f85",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/961998b82f168bdf3e685023cd9d038db0b21d3585bd9736833f58d8c2ff0f85",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134739/Video/652843a29cd93677a45dda71fae62a883f71fc224e256c3dc6a967ba01571f41",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134739/Video/652843a29cd93677a45dda71fae62a883f71fc224e256c3dc6a967ba01571f41",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Joe & Mac Retro Collection gallery item 2",
             "description": "Joe & Mac Retro Collection gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/357dea5eda39ae2da442c44ee95f74e70d8466c71b7d604a5771813e8f90c4ca",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/357dea5eda39ae2da442c44ee95f74e70d8466c71b7d604a5771813e8f90c4ca",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134739/Video/beef856a4dcae3ed45bb9fca478d520ac0841db936a64828600969d74f416cf3",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134739/Video/beef856a4dcae3ed45bb9fca478d520ac0841db936a64828600969d74f416cf3",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Joe & Mac Retro Collection gallery item 3",
             "description": "Joe & Mac Retro Collection gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/97c2fc306b8989229f8e0acf371bfae83a46ffe7b80c45307cb2af15ccc930cb",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/97c2fc306b8989229f8e0acf371bfae83a46ffe7b80c45307cb2af15ccc930cb",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/961998b82f168bdf3e685023cd9d038db0b21d3585bd9736833f58d8c2ff0f85",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/961998b82f168bdf3e685023cd9d038db0b21d3585bd9736833f58d8c2ff0f85",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Joe & Mac Retro Collection gallery item 4",
             "description": "Joe & Mac Retro Collection gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/586b5d23ab9fe172de058079c2230a55b80444a66f7243a3e7557000ea665088",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/586b5d23ab9fe172de058079c2230a55b80444a66f7243a3e7557000ea665088",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/d453ab1c7f02c120a618d6013326c92110a24cefddde9d5c9e964d422cfbfc04",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/d453ab1c7f02c120a618d6013326c92110a24cefddde9d5c9e964d422cfbfc04",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Joe & Mac Retro Collection gallery item 5",
             "description": "Joe & Mac Retro Collection gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/09b64acfdaaad69431061926a9181c39705c44408a6b471d7a89c8977da93bb2",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/09b64acfdaaad69431061926a9181c39705c44408a6b471d7a89c8977da93bb2",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/357dea5eda39ae2da442c44ee95f74e70d8466c71b7d604a5771813e8f90c4ca",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/357dea5eda39ae2da442c44ee95f74e70d8466c71b7d604a5771813e8f90c4ca",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Joe & Mac Retro Collection gallery item 6",
             "description": "Joe & Mac Retro Collection gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/d453ab1c7f02c120a618d6013326c92110a24cefddde9d5c9e964d422cfbfc04",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134739/d453ab1c7f02c120a618d6013326c92110a24cefddde9d5c9e964d422cfbfc04",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/09b64acfdaaad69431061926a9181c39705c44408a6b471d7a89c8977da93bb2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/09b64acfdaaad69431061926a9181c39705c44408a6b471d7a89c8977da93bb2",
+            "uploadDate": "2026-10-29T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Joe & Mac Retro Collection gallery item 7",
+            "description": "Joe & Mac Retro Collection gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/97c2fc306b8989229f8e0acf371bfae83a46ffe7b80c45307cb2af15ccc930cb",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/97c2fc306b8989229f8e0acf371bfae83a46ffe7b80c45307cb2af15ccc930cb",
+            "uploadDate": "2026-10-29T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Joe & Mac Retro Collection gallery item 8",
+            "description": "Joe & Mac Retro Collection gallery item 8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/586b5d23ab9fe172de058079c2230a55b80444a66f7243a3e7557000ea665088",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134739/586b5d23ab9fe172de058079c2230a55b80444a66f7243a3e7557000ea665088",
             "uploadDate": "2026-10-29T00:00:00.000Z"
           }
         ],
@@ -2701,14 +2795,44 @@
           "url({\"relative\":true})": "/es-mx/store/products/joe-and-mac-retro-collection-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "0400db8029c0c000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2723,7 +2847,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2737,9 +2861,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000134739&v_loggedin=false&v_currency=MXN&v_price=349.00&v_country=MX",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2812,7 +2936,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "1153433600",
-                "totalRomSize": "1089470464",
+                "totalRomSize": "1331691520",
                 "platform": "BEE"
               }
             ]
@@ -2889,13 +3013,37 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000134739/Video/652843a29cd93677a45dda71fae62a883f71fc224e256c3dc6a967ba01571f41",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000134739/Video/beef856a4dcae3ed45bb9fca478d520ac0841db936a64828600969d74f416cf3",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000134739/961998b82f168bdf3e685023cd9d038db0b21d3585bd9736833f58d8c2ff0f85",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000134739/d453ab1c7f02c120a618d6013326c92110a24cefddde9d5c9e964d422cfbfc04",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000134739/357dea5eda39ae2da442c44ee95f74e70d8466c71b7d604a5771813e8f90c4ca",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000134739/09b64acfdaaad69431061926a9181c39705c44408a6b471d7a89c8977da93bb2",
               "resourceType": "image",
               "type": "upload"
             },
@@ -2908,18 +3056,6 @@
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000134739/586b5d23ab9fe172de058079c2230a55b80444a66f7243a3e7557000ea665088",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000134739/09b64acfdaaad69431061926a9181c39705c44408a6b471d7a89c8977da93bb2",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000134739/d453ab1c7f02c120a618d6013326c92110a24cefddde9d5c9e964d422cfbfc04",
               "resourceType": "image",
               "type": "upload"
             }
@@ -2975,7 +3111,7 @@
   "query": {
     "slug": "joe-and-mac-retro-collection-switch-2"
   },
-  "buildId": "Fe4Jjdjck2zFQNntuq1z6",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

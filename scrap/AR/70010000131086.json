@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -1776,10 +1816,26 @@
               "subItems": [
                 {
                   "__contentType": "menuItem",
-                  "__entryId": "2sVJPtataio37KjnrbS4SL",
-                  "label": "Juegos",
+                  "__entryId": "4DaPrguKbquhuDkk2SK32r",
+                  "label": "Juegos de Nintendo Switch 2",
                   "caption": "",
-                  "url": "/store/games/",
+                  "url": "/store/games/nintendo-switch-2-games/",
+                  "icon": null,
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "2sVJPtataio37KjnrbS4SL",
+                  "label": "Juegos de Nintendo Switch",
+                  "caption": "",
+                  "url": "/store/games/nintendo-switch-games/",
                   "icon": null,
                   "image": null,
                   "hideOn": null,
@@ -2461,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "Frog Sqwad para Nintendo Switch 2 - Sitio Oficial de Nintendo para Argentina",
         "description": "Compra Frog Sqwad para Nintendo Switch 2 en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2514,9 +2571,30 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Acertijos y deducción"
+        },
+        {
+          "url": "/store/games/tags/platforming-games",
+          "label": "Plataformas"
+        },
+        {
+          "url": "/store/games/tags/co-op-games",
+          "label": "Cooperativo en línea"
+        },
+        {
+          "url": "/store/games/tags/crossplay-games",
+          "label": "Multiplataforma"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/f2f72c64a66a93748cd536f902ca23365f233bbe0cac05caa170a8ba1a5a0709"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/f2f72c64a66a93748cd536f902ca23365f233bbe0cac05caa170a8ba1a5a0709"
       },
       "linkedData": [
         {
@@ -2531,7 +2609,7 @@
             "@type": "Offer",
             "url": "/es-ar/store/products/frog-sqwad-switch-2/",
             "priceCurrency": "ARS",
-            "price": "10720.00",
+            "price": "8576.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2572,48 +2650,48 @@
             "@type": "ImageObject",
             "name": "Frog Sqwad gallery item 0",
             "description": "Frog Sqwad gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/f2f72c64a66a93748cd536f902ca23365f233bbe0cac05caa170a8ba1a5a0709",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/f2f72c64a66a93748cd536f902ca23365f233bbe0cac05caa170a8ba1a5a0709",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/f2f72c64a66a93748cd536f902ca23365f233bbe0cac05caa170a8ba1a5a0709",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/f2f72c64a66a93748cd536f902ca23365f233bbe0cac05caa170a8ba1a5a0709",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Frog Sqwad gallery item 1",
             "description": "Frog Sqwad gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/632aa52563e41f594330c3bc0dedd05070f2afde26a3a9770ec8eb476d079af2",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/632aa52563e41f594330c3bc0dedd05070f2afde26a3a9770ec8eb476d079af2",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/632aa52563e41f594330c3bc0dedd05070f2afde26a3a9770ec8eb476d079af2",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/632aa52563e41f594330c3bc0dedd05070f2afde26a3a9770ec8eb476d079af2",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Frog Sqwad gallery item 2",
             "description": "Frog Sqwad gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/2824d14e0753d5d7f42cd930f7ddf6ebe6c48a8915c38bf6cc5fd438fc6428b5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/2824d14e0753d5d7f42cd930f7ddf6ebe6c48a8915c38bf6cc5fd438fc6428b5",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/2824d14e0753d5d7f42cd930f7ddf6ebe6c48a8915c38bf6cc5fd438fc6428b5",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/2824d14e0753d5d7f42cd930f7ddf6ebe6c48a8915c38bf6cc5fd438fc6428b5",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Frog Sqwad gallery item 3",
             "description": "Frog Sqwad gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/0577ea40dbe53031353463bbe916024a96ab066a77a39f6cb61209e3926ae468",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/0577ea40dbe53031353463bbe916024a96ab066a77a39f6cb61209e3926ae468",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/0577ea40dbe53031353463bbe916024a96ab066a77a39f6cb61209e3926ae468",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/0577ea40dbe53031353463bbe916024a96ab066a77a39f6cb61209e3926ae468",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Frog Sqwad gallery item 4",
             "description": "Frog Sqwad gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/acab36fa38506e41bc73b0a3e2ccadb8c4f0ddc7f4287ad2885070e6406ef12a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/acab36fa38506e41bc73b0a3e2ccadb8c4f0ddc7f4287ad2885070e6406ef12a",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/acab36fa38506e41bc73b0a3e2ccadb8c4f0ddc7f4287ad2885070e6406ef12a",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/acab36fa38506e41bc73b0a3e2ccadb8c4f0ddc7f4287ad2885070e6406ef12a",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Frog Sqwad gallery item 5",
             "description": "Frog Sqwad gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/cbe69924899a0f519cd8e159762bbf2092250dc5498008b28ba69edd28799837",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131086/cbe69924899a0f519cd8e159762bbf2092250dc5498008b28ba69edd28799837",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/cbe69924899a0f519cd8e159762bbf2092250dc5498008b28ba69edd28799837",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131086/cbe69924899a0f519cd8e159762bbf2092250dc5498008b28ba69edd28799837",
             "uploadDate": "2026-10-28T00:00:00.000Z"
           }
         ],
@@ -2657,6 +2735,60 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "Product:{\"sku\":\"7500079329\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Nuevos lanzamientos",
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch 2"
+            ]
+          },
+          "id": "70050000079329",
+          "isSalableQty": true,
+          "locale": "es_AR",
+          "name": "Paquete de mecenas de Frog Sqwad",
+          "nsuid": "70050000079329",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "ARS",
+            "discounted": false,
+            "regularPrice": 6700,
+            "finalPrice": 6700,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70050000079329/dc8005a326508f7cf80e9101793c8a06f403c6db03925c0b0a936570178b261e",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-10-28T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500079329",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "frog-sqwad-supporter-pack-70050000079329-switch-2"
+        },
         "Product:{\"sku\":\"7100131086\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -2675,9 +2807,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "ARS",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 10720,
-            "finalPrice": 10720,
+            "finalPrice": 8576,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2693,14 +2825,44 @@
           "url({\"relative\":true})": "/es-ar/store/products/frog-sqwad-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Acertijos y deducción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperativo en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CROSS_PLATFORM",
+                "label": "Multiplataforma"
+              }
+            ]
           },
+          "accessibilityTags": null,
           "applicationId": "040004c028cb2000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2715,12 +2877,12 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>Características del juego<br>A lengüetazo limpio: Tu lengua te ayudará a hacer todo lo que se te antoje. Colúmpiate a través del mundo del juego, recoge objetos y empuja a tus amistades para meterlas en situaciones inesperadas.<br><br>Juntos por las alcantarillas: Pon rumbo a las alcantarillas y haz acopio de todo lo que puedas. Deberás regresar en equipo, ¡pase lo que pase!<br><br>La cuota lo es todo: Lleva comida suficiente para cumplir con la cuota diaria y mantener contento al rey del pantano, así desbloquearás nuevas aventuras para tu grupo.<br><br>¡Usa todo lo que encuentres!: Experimenta con todo lo que encuentres. Apila, tira e improvisa a tu manera en cada partida.<br><br>Saluda a los lugareños: Las alcantarillas están repletas de extrañas criaturas que le dan un toque caótico a tu experiencia.<br><br>El tamaño importa: Cuanto más comas, más crecerás, ¡hasta que termines rodando en forma de megarrana gigantesca!<br><br>Las ranitas diminutas necesitan ayuda: Si te golpean y se te cae la comida, ¡volverás a ser un renacuajo y tu equipo deberá ayudarte!<br><br>Alto y claro: Habla con naturalidad mientras juegas; la boca de tu rana se moverá al ritmo de cada risa y cada grito en ese momento.<br><br>En equipo es mejor<br>Juega con hasta 7 amigos anfibios en una alocada aventura por las alcantarillas donde la física es la protagonista. Balancéate por las tuberías con tu lengua pegajosa, arrastra enormes alimentos por estrechos túneles, resuelve los problemas a tu manera y, de vez en cuando, lanza a tus compañeros por los aires. Todo sea por servir al siempre hambriento Rey del pantano.<br><br>Busca comida<br>Explora unas alcantarillas que están en constante cambio: cada partida te deparará nuevos peligros, encuentros extraños y una comida por la que vale la pena jugarse la vida. Sigue comiendo y creciendo, y cuando quieras darte cuenta, ¡te habrás convertido en una megarrana de lo más encantadora! <br><br>¡Y que no te coman!<br>El apetito del rey del pantano aumenta cada día. Gasta el oro que tanto te costó ganar en nuevos juguetes y cachivaches para dar un giro a tus próximas partidas y trabaja mano a mano para cumplir con la cuota diaria. Al rey le da igual de dónde proviene su próxima comida. </p>",
-          "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) y una cuenta Nintendo para el juego en línea. No está disponible en todos los países. Se requiere una conexión a internet para acceder a los servicios en línea. Aplican términos.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>https://www.panicstations.com/terms-privacy</p><p>©2026 Panic Stations Ltd. All rights reserved</p>",
+          "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) y una cuenta Nintendo para el juego en línea. No está disponible en todos los países. Se requiere una conexión a internet para acceder a los servicios en línea. Aplican términos.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>- Conexión a internet</p><p>https://www.panicstations.com/terms-privacy</p><p>©2026 Panic Stations Ltd. All rights reserved</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
           "dlcType": null,
@@ -2729,10 +2891,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000131086&v_loggedin=false&v_currency=ARS&v_price=8576.00&v_country=AR",
+            "discountPriceEnd": "2026-11-12T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2781,7 +2943,11 @@
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
-          "downloadableContents": [],
+          "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7500079329\"}"
+            }
+          ],
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
@@ -2986,9 +3152,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "ARS",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 16099,
-            "finalPrice": 16099,
+            "finalPrice": 12879.2,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3052,7 +3218,7 @@
   "query": {
     "slug": "frog-sqwad-switch-2"
   },
-  "buildId": "jHQcHQb0hHeIDSf7L2_BE",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

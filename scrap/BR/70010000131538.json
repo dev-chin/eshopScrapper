@@ -1458,6 +1458,46 @@
                   "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
                 }
               ],
               "activeMatch": "/store",
@@ -2477,6 +2517,7 @@
         ]
       },
       "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "MODEL Debut3 #nicola para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
         "description": "Compre MODEL Debut3 #nicola para Nintendo Switch 2 na Nintendo Store. Confira detalhes do jogo, edições e disponibilidade.",
@@ -2530,9 +2571,30 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/story-games",
+          "label": "Aventura narrativa"
+        },
+        {
+          "url": "/store/games/tags/simulation-games",
+          "label": "Simulação"
+        },
+        {
+          "url": "/store/games/tags/build-and-create-games",
+          "label": "Crie e jogue"
+        },
+        {
+          "url": "/store/games/tags/character-customization-games",
+          "label": "Customização de personagem"
+        },
+        {
+          "url": "/store/games/tags/romance-games",
+          "label": "Romance"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/5a5957c47ae6a21521bae1e53afafa4020ae4e3461a7f2692139e3d26d239865"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/5a5957c47ae6a21521bae1e53afafa4020ae4e3461a7f2692139e3d26d239865"
       },
       "linkedData": [
         {
@@ -2547,7 +2609,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/model-debut3-nicola-switch-2/",
             "priceCurrency": "BRL",
-            "price": "152.66",
+            "price": "218.09",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2588,56 +2650,56 @@
             "@type": "ImageObject",
             "name": "MODEL Debut3 #nicola gallery item 0",
             "description": "MODEL Debut3 #nicola gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/5a5957c47ae6a21521bae1e53afafa4020ae4e3461a7f2692139e3d26d239865",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/5a5957c47ae6a21521bae1e53afafa4020ae4e3461a7f2692139e3d26d239865",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/5a5957c47ae6a21521bae1e53afafa4020ae4e3461a7f2692139e3d26d239865",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/5a5957c47ae6a21521bae1e53afafa4020ae4e3461a7f2692139e3d26d239865",
             "uploadDate": "2026-10-14T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "MODEL Debut3 #nicola gallery item 1",
             "description": "MODEL Debut3 #nicola gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/0343365262df89233e0cdc85bfdfb7d89cd5cf597ad333be5cc7a539de3cf860",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/0343365262df89233e0cdc85bfdfb7d89cd5cf597ad333be5cc7a539de3cf860",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/0343365262df89233e0cdc85bfdfb7d89cd5cf597ad333be5cc7a539de3cf860",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/0343365262df89233e0cdc85bfdfb7d89cd5cf597ad333be5cc7a539de3cf860",
             "uploadDate": "2026-10-14T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "MODEL Debut3 #nicola gallery item 2",
             "description": "MODEL Debut3 #nicola gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/42bd86b12afc397a778c78a1e55d2e473f99161115d8153a28b7f7e61af0a04e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/42bd86b12afc397a778c78a1e55d2e473f99161115d8153a28b7f7e61af0a04e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/42bd86b12afc397a778c78a1e55d2e473f99161115d8153a28b7f7e61af0a04e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/42bd86b12afc397a778c78a1e55d2e473f99161115d8153a28b7f7e61af0a04e",
             "uploadDate": "2026-10-14T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "MODEL Debut3 #nicola gallery item 3",
             "description": "MODEL Debut3 #nicola gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/6ff5cfbfe558005359676da1e69bef8e04aa2c06a6878ee83835dc07e7ae53ef",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/6ff5cfbfe558005359676da1e69bef8e04aa2c06a6878ee83835dc07e7ae53ef",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/6ff5cfbfe558005359676da1e69bef8e04aa2c06a6878ee83835dc07e7ae53ef",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/6ff5cfbfe558005359676da1e69bef8e04aa2c06a6878ee83835dc07e7ae53ef",
             "uploadDate": "2026-10-14T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "MODEL Debut3 #nicola gallery item 4",
             "description": "MODEL Debut3 #nicola gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/4e426a8eb68c4bb2fee8ee1955634149011fa7fab314f091afb134c1e2cdc8cf",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/4e426a8eb68c4bb2fee8ee1955634149011fa7fab314f091afb134c1e2cdc8cf",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/4e426a8eb68c4bb2fee8ee1955634149011fa7fab314f091afb134c1e2cdc8cf",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/4e426a8eb68c4bb2fee8ee1955634149011fa7fab314f091afb134c1e2cdc8cf",
             "uploadDate": "2026-10-14T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "MODEL Debut3 #nicola gallery item 5",
             "description": "MODEL Debut3 #nicola gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/1e220964b4f50d5ffb7064e0507d181dfb78aba486c55236a28d27fbdf9e7590",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/1e220964b4f50d5ffb7064e0507d181dfb78aba486c55236a28d27fbdf9e7590",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/1e220964b4f50d5ffb7064e0507d181dfb78aba486c55236a28d27fbdf9e7590",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/1e220964b4f50d5ffb7064e0507d181dfb78aba486c55236a28d27fbdf9e7590",
             "uploadDate": "2026-10-14T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "MODEL Debut3 #nicola gallery item 6",
             "description": "MODEL Debut3 #nicola gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/68e900f752b2553cdce3ac5c6714d4ab57eaa15b87b3bb507feeb9750583173b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131538/68e900f752b2553cdce3ac5c6714d4ab57eaa15b87b3bb507feeb9750583173b",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/68e900f752b2553cdce3ac5c6714d4ab57eaa15b87b3bb507feeb9750583173b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000131538/68e900f752b2553cdce3ac5c6714d4ab57eaa15b87b3bb507feeb9750583173b",
             "uploadDate": "2026-10-14T00:00:00.000Z"
           }
         ],
@@ -2699,9 +2761,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 218.09,
-            "finalPrice": 152.66,
+            "finalPrice": 218.09,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2717,14 +2779,41 @@
           "url({\"relative\":true})": "/pt-br/store/products/model-debut3-nicola-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CRAFT_PLAY",
+                "label": "Crie e jogue"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_CUSTOMIZE",
+                "label": "Customização de personagem"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ROMANCE",
+                "label": "Romance"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "TEXT_ADVENTURE",
+                "label": "Aventura narrativa"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulação"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "04003de029350000",
           "appStoreUrl": null,
           "availability": [
-            "Novos lançamentos",
             "Já disponivel"
           ],
           "baseSoftware": [],
@@ -2740,7 +2829,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2756,8 +2845,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000131538&v_loggedin=false&v_currency=BRL&v_price=152.66&v_country=BR",
-            "discountPriceEnd": "2026-11-04T07:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000131538&v_loggedin=false&v_currency=BRL&v_price=218.09&v_country=BR",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -2977,7 +3066,7 @@
   "query": {
     "slug": "model-debut3-nicola-switch-2"
   },
-  "buildId": "I8caFxgoFBdcXYJLrfA7_",
+  "buildId": "DaPC3MAPibJekH4nGSpkK",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
