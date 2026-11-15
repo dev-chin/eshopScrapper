@@ -1174,26 +1174,6 @@
                   "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2796,7 +2796,6 @@
           "applicationId": "0100b2401d2a8000",
           "appStoreUrl": null,
           "availability": [
-            "Novos lançamentos",
             "Já disponivel"
           ],
           "baseSoftware": [],
@@ -2813,7 +2812,7 @@
           ],
           "capacity": null,
           "containsEmbeddedBattery": false,
-          "crossSellProducts": null,
+          "crossSellProducts": [],
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>The Urban Myth Dissolution Center – your one-stop solution for dissolving and dealing with cursed relics, monstrous oddities, and dimensional anomalies!<br>Take on cases revolving around urban myths as Azami Fukurai, the heroine, under the supervision of Ayumu Meguriya, Level S psychic and Center Director...<br><br>■Game Overview<br>The game takes you on an episodic digital mystery adventure, exploring various urban myths that haunt the internet, all presented in stunning psychedelic pixel art.<br><br>The player takes control of Azami for the detective legwork, collecting circumstantial evidence and social network posts to unravel the truth behind each urban myth, as well as the hidden pasts of each client, and why they came to encounter each oddity. The dissolution of each urban myth leads to unexpected consequences and hidden truths...<br><br>■The Urban Myth Dissolution Center<br>The Urban Myth Dissolution Center is a privately owned institution specializing in adaptive researchーboth onsite and onlineー, collection, and psychic divination, led by Center Director Ayumu Meguriya, focusing on the numerous urban myths that roam the offline and online worlds.</p>",
@@ -3226,7 +3225,7 @@
   "query": {
     "slug": "urban-myth-dissolution-center-nintendo-switch-2-edition-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

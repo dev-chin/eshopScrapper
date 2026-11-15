@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": false,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -3374,6 +3374,9 @@
               "__ref": "ContentDescriptor:{\"id\":\"4rXfJg3rY2e58ECl3iULqU\",\"locale\":\"en_US\"}"
             },
             {
+              "__ref": "ContentDescriptor:{\"id\":\"e9P6BVD54hYvrkChYrgXk\",\"locale\":\"en_US\"}"
+            },
+            {
               "__ref": "ContentDescriptor:{\"id\":\"Xzh0bkCnhcZV1URA2wF96\",\"locale\":\"en_US\"}"
             },
             {
@@ -3594,6 +3597,13 @@
           "label": "Fantasy Violence",
           "type": "CONTENT_DESCRIPTOR"
         },
+        "ContentDescriptor:{\"id\":\"e9P6BVD54hYvrkChYrgXk\",\"locale\":\"en_US\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "e9P6BVD54hYvrkChYrgXk",
+          "locale": "en_US",
+          "label": "Language",
+          "type": "CONTENT_DESCRIPTOR"
+        },
         "ContentDescriptor:{\"id\":\"Xzh0bkCnhcZV1URA2wF96\",\"locale\":\"en_US\"}": {
           "__typename": "ContentDescriptor",
           "id": "Xzh0bkCnhcZV1URA2wF96",
@@ -3633,7 +3643,7 @@
   "query": {
     "slug": "shelterra-the-skyworld-nintendo-switch-2-edition-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

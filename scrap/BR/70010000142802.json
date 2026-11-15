@@ -1174,26 +1174,6 @@
                   "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2571,7 +2571,16 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Ação"
+        },
+        {
+          "url": "/store/games/tags/raise-your-stats-games",
+          "label": "Melhore suas estatísticas"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/cee0713df0f75fbf7847ee7e95039a548045d5711484c2f003566aebe8b8e5db"
       },
@@ -2631,7 +2640,7 @@
             "description": "Astro Chef: Cosmic Kitchen gallery item 0",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/cee0713df0f75fbf7847ee7e95039a548045d5711484c2f003566aebe8b8e5db",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/cee0713df0f75fbf7847ee7e95039a548045d5711484c2f003566aebe8b8e5db",
-            "uploadDate": "2026-11-17T00:00:00.000Z"
+            "uploadDate": "2026-11-26T00:00:00.000Z"
           },
           {
             "@type": "VideoObject",
@@ -2639,7 +2648,7 @@
             "description": "Astro Chef: Cosmic Kitchen gallery item 1",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000142802/Video/4fd00e0a16106812ddd63142b58c6d6f08a0fb9e3bb2dfc7623b627af66c89b5",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000142802/Video/4fd00e0a16106812ddd63142b58c6d6f08a0fb9e3bb2dfc7623b627af66c89b5",
-            "uploadDate": "2026-11-17T00:00:00.000Z"
+            "uploadDate": "2026-11-26T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
@@ -2647,7 +2656,7 @@
             "description": "Astro Chef: Cosmic Kitchen gallery item 2",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/8197a5bebcafe5161341c9101f9714c7d2c16a37aaffe0835eee20c3c65d3b64",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/8197a5bebcafe5161341c9101f9714c7d2c16a37aaffe0835eee20c3c65d3b64",
-            "uploadDate": "2026-11-17T00:00:00.000Z"
+            "uploadDate": "2026-11-26T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
@@ -2655,7 +2664,7 @@
             "description": "Astro Chef: Cosmic Kitchen gallery item 3",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/769d3f9d25865c8b9f46af2af429fc80ce0e22f0d59fc36abc8dd34c10ae66d4",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/769d3f9d25865c8b9f46af2af429fc80ce0e22f0d59fc36abc8dd34c10ae66d4",
-            "uploadDate": "2026-11-17T00:00:00.000Z"
+            "uploadDate": "2026-11-26T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
@@ -2663,7 +2672,7 @@
             "description": "Astro Chef: Cosmic Kitchen gallery item 4",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/672c93b6a634c8565b7daac9d73daca40db4bdb27d6bdf39cf27e6e1a8de2aa0",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/672c93b6a634c8565b7daac9d73daca40db4bdb27d6bdf39cf27e6e1a8de2aa0",
-            "uploadDate": "2026-11-17T00:00:00.000Z"
+            "uploadDate": "2026-11-26T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
@@ -2671,7 +2680,7 @@
             "description": "Astro Chef: Cosmic Kitchen gallery item 5",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/811c30586aeeb1f5f8a8d7e0115c203cfbbad018b0b162e967a2d60002a734db",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/811c30586aeeb1f5f8a8d7e0115c203cfbbad018b0b162e967a2d60002a734db",
-            "uploadDate": "2026-11-17T00:00:00.000Z"
+            "uploadDate": "2026-11-26T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
@@ -2679,7 +2688,7 @@
             "description": "Astro Chef: Cosmic Kitchen gallery item 6",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/35e5e9eb66f93cc4b6285a40d15304179dcfcf19dc219d76b93b39b27c0da7ad",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/35e5e9eb66f93cc4b6285a40d15304179dcfcf19dc219d76b93b39b27c0da7ad",
-            "uploadDate": "2026-11-17T00:00:00.000Z"
+            "uploadDate": "2026-11-26T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
@@ -2687,7 +2696,7 @@
             "description": "Astro Chef: Cosmic Kitchen gallery item 7",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/32de20f14bd3cfc0a9adf4955d2a6697fc40687c03f970754f765b11765a1c02",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142802/32de20f14bd3cfc0a9adf4955d2a6697fc40687c03f970754f765b11765a1c02",
-            "uploadDate": "2026-11-17T00:00:00.000Z"
+            "uploadDate": "2026-11-26T00:00:00.000Z"
           }
         ],
         {
@@ -2772,8 +2781,20 @@
           "url({\"relative\":true})": "/pt-br/store/products/astro-chef-cosmic-kitchen-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -2992,7 +3013,7 @@
               "type": "upload"
             }
           ],
-          "releaseDate": "2026-11-17T00:00:00.000Z",
+          "releaseDate": "2026-11-26T00:00:00.000Z",
           "releaseDateDisplay": null,
           "softwareContents": [],
           "softwarePublisher": "UMURO",
@@ -3039,7 +3060,7 @@
   "query": {
     "slug": "astro-chef-cosmic-kitchen-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

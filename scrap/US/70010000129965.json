@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": false,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2777,7 +2777,32 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Action"
+        },
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Adventure"
+        },
+        {
+          "url": "/store/games/tags/character-customization-games",
+          "label": "Character customization"
+        },
+        {
+          "url": "/store/games/tags/platforming-games",
+          "label": "Platforming"
+        },
+        {
+          "url": "/store/games/tags/crossplay-games",
+          "label": "Cross-platform play"
+        },
+        {
+          "url": "/store/games/tags/co-op-games",
+          "label": "Online co-op"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000129965/ad4ca250a6af81b570279be849ed9440bb9eb111ab88930ede3bc6ab1169e73b"
       },
@@ -2964,9 +2989,42 @@
           "url({\"relative\":true})": "/us/store/products/spirit-crossing-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_CUSTOMIZE",
+                "label": "Character customization"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Platforming"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Action"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Adventure"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "CROSS_PLATFORM",
+                "label": "Cross-platform play"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Online co-op"
+              }
+            ]
           },
           "accessibilityTags": null,
           "applicationId": "040062b028e76000",
@@ -2993,7 +3051,7 @@
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>Glide through pastel clouds, heal troubled spirits along the way, and design your own home nestled high on a mountain peak. Befriend strangers around a warm campfire, or share memories while lazily fishing in the sky with a friend.<br><br>In Spirit Crossing, you can play together or by yourself, for as long as you like. Each stranger you befriend blooms into color, revealing the unique person behind their gray shadow.  Make a friend, or just quietly share the same little corner of the world. Our game is built around small acts of kindness, and the way even brief connections can make us feel a little less alone.<br><br>Show off your style with hundreds of hairstyles, dyes, head coverings, prosthetics, and mix-and-match outfits, then bring it all to life with dozens of expressive emotes. Come as you are, or try on someone new! Then design the ultimate space to host your friends, from cozy cottage to full-blown castle. Fill it with enough furniture, plants, rugs, lamps, and tiny trinkets to ensure no shelf goes tragically undecorated.<br><br>From Spry Fox:<br>Spirit Crossing has been in development for over five years. At the heart of this project is our belief that games should bring people together, encourage kindness, and reduce loneliness in this chaotic world we live in.</p>",
-          "disclaimer": "<p>Nintendo Switch Online membership (sold separately) and Nintendo Account required for online play. Not available in all countries. Internet access required for online features. Terms apply.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a></p><p>- Internet connection</p><p>This product can only be played on Nintendo Switch™ 2. A separate product, \"Spirit Crossing\", is available for Nintendo Switch™.<br>Save data and Additional Contents are not compatible between the two versions. Please be careful to avoid duplicate or mistaken purchases.</p><p>© Spry Fox Inc</p>",
+          "disclaimer": "<p>Nintendo Switch Online membership (sold separately) and Nintendo Account required for online play. Not available in all countries. Internet access required for online features. Terms apply.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a></p><p>- Internet connection</p><p>Spirit Crossing enables players to chat with each other. You must be 13+ to play Spirit Crossing.</p><p>This product can only be played on Nintendo Switch™ 2. A separate product, \"Spirit Crossing\", is available for Nintendo Switch™.<br>Save data and Additional Contents are not compatible between the two versions. Please be careful to avoid duplicate or mistaken purchases.</p><p>© Spry Fox Inc</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
           "dlcType": null,
@@ -3306,7 +3364,7 @@
   "query": {
     "slug": "spirit-crossing-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

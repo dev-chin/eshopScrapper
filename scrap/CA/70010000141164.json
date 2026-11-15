@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1456,6 +1436,26 @@
                   "activeMatch": "",
                   "id": null,
                   "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
                 },
@@ -2741,9 +2741,9 @@
           "__typename": "Product",
           "backgroundColor": "102226",
           "categories": [
-            "Games",
+            "Nintendo 3DS Family",
             "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -3058,7 +3058,7 @@
                 },
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-01T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -3081,12 +3081,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 89.99,
-                  "finalPrice": 89.99,
+                  "finalPrice": 8.99,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 90.01,
+                  "amountOff": 81
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -3251,8 +3251,8 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
             },
             {
               "__typename": "Category",
@@ -3261,8 +3261,8 @@
             },
             {
               "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -4447,9 +4447,9 @@
           "__typename": "Product",
           "backgroundColor": "0588f8",
           "categories": [
-            "Games",
+            "Nintendo Switch",
             "Nintendo 3DS Family",
-            "Nintendo Switch"
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -4664,7 +4664,7 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
                   "resourceType": "image",
                   "type": "fetch"
                 },
@@ -4834,7 +4834,7 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
                   "resourceType": "image",
                   "type": "fetch"
                 },
@@ -5004,7 +5004,7 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
             "resourceType": "image",
             "type": "fetch"
           },
@@ -5044,8 +5044,8 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
@@ -5054,8 +5054,8 @@
             },
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -5117,8 +5117,8 @@
           "backgroundColor": "d1d3cf",
           "categories": [
             "Nintendo 3DS Family",
-            "Games",
-            "Nintendo Switch"
+            "Nintendo Switch",
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -5452,13 +5452,13 @@
             },
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -7095,9 +7095,9 @@
           "__typename": "Product",
           "backgroundColor": "80879c",
           "categories": [
-            "Games",
+            "Nintendo 3DS Family",
             "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -7431,8 +7431,8 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
             },
             {
               "__typename": "Category",
@@ -7441,8 +7441,8 @@
             },
             {
               "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -8467,9 +8467,9 @@
           "__typename": "Product",
           "backgroundColor": "1e1311",
           "categories": [
-            "Games",
             "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Nintendo 3DS Family",
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -8834,11 +8834,6 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
-            },
-            {
-              "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
             },
@@ -8846,6 +8841,11 @@
               "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -8897,9 +8897,9 @@
           "__typename": "Product",
           "backgroundColor": "081f3c",
           "categories": [
-            "Games",
             "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Nintendo 3DS Family",
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -9214,11 +9214,6 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
-            },
-            {
-              "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
             },
@@ -9226,6 +9221,11 @@
               "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -9277,9 +9277,9 @@
           "__typename": "Product",
           "backgroundColor": "2b1488",
           "categories": [
-            "Games",
             "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Nintendo 3DS Family",
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -9571,8 +9571,8 @@
                 "locale": "en_CA",
                 "manufacturer": null,
                 "maxQtyAllowedInCart": null,
-                "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
-                "nsuid": "70070000014384",
+                "name": "Mario + Rabbids® Sparks of Hope: + Rayman Edition",
+                "nsuid": "70070000018644",
                 "platform": {
                   "__typename": "Platform",
                   "label": "Nintendo Switch",
@@ -9584,28 +9584,28 @@
                   "__typename": "Prices",
                   "currency": "CAD",
                   "discounted": false,
-                  "regularPrice": 119.99,
-                  "finalPrice": 119.99,
+                  "regularPrice": 89.99,
+                  "finalPrice": 89.99,
                   "pricePerUnit": null,
                   "percentOff": 0,
                   "amountOff": 0
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
+                  "publicId": "store/software/switch/70070000018644/2be85ecbf4e0641ac32aaf511725581f8afa14f007f3781fd86ee48f46ab5ac6",
                   "resourceType": "image",
                   "type": "upload"
                 },
                 "productImageSquare": null,
                 "qtyAllowedPerCustomer": null,
-                "releaseDate": "2022-10-20T00:00:00.000Z",
+                "releaseDate": "2023-08-30T00:00:00.000Z",
                 "releaseDateDisplay": null,
                 "requiresLogin": null,
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
                 "showWidely": true,
-                "sku": "7700014384",
+                "sku": "7700018644",
                 "softwarePublisher": "Ubisoft",
                 "softwareDeveloper": null,
                 "tags": {
@@ -9619,7 +9619,7 @@
                   "code": "GAMES",
                   "label": "Games"
                 },
-                "urlKey": "mario-plus-rabbids-sparks-of-hope-gold-edition-switch",
+                "urlKey": "mario-plus-rabbids-sparks-of-hope-plus-rayman-edition-switch",
                 "visibleInSearch": true
               }
             },
@@ -9679,8 +9679,8 @@
                 "locale": "en_CA",
                 "manufacturer": null,
                 "maxQtyAllowedInCart": null,
-                "name": "Mario + Rabbids® Sparks of Hope: + Rayman Edition",
-                "nsuid": "70070000018644",
+                "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
+                "nsuid": "70070000014384",
                 "platform": {
                   "__typename": "Platform",
                   "label": "Nintendo Switch",
@@ -9692,28 +9692,28 @@
                   "__typename": "Prices",
                   "currency": "CAD",
                   "discounted": false,
-                  "regularPrice": 89.99,
-                  "finalPrice": 89.99,
+                  "regularPrice": 119.99,
+                  "finalPrice": 119.99,
                   "pricePerUnit": null,
                   "percentOff": 0,
                   "amountOff": 0
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "store/software/switch/70070000018644/2be85ecbf4e0641ac32aaf511725581f8afa14f007f3781fd86ee48f46ab5ac6",
+                  "publicId": "store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
                   "resourceType": "image",
                   "type": "upload"
                 },
                 "productImageSquare": null,
                 "qtyAllowedPerCustomer": null,
-                "releaseDate": "2023-08-30T00:00:00.000Z",
+                "releaseDate": "2022-10-20T00:00:00.000Z",
                 "releaseDateDisplay": null,
                 "requiresLogin": null,
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
                 "showWidely": true,
-                "sku": "7700018644",
+                "sku": "7700014384",
                 "softwarePublisher": "Ubisoft",
                 "softwareDeveloper": null,
                 "tags": {
@@ -9727,7 +9727,7 @@
                   "code": "GAMES",
                   "label": "Games"
                 },
-                "urlKey": "mario-plus-rabbids-sparks-of-hope-plus-rayman-edition-switch",
+                "urlKey": "mario-plus-rabbids-sparks-of-hope-gold-edition-switch",
                 "visibleInSearch": true
               }
             }
@@ -9839,11 +9839,6 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
-            },
-            {
-              "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
             },
@@ -9851,6 +9846,11 @@
               "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -9907,9 +9907,9 @@
           "__typename": "Product",
           "backgroundColor": "e6d8d8",
           "categories": [
-            "Games",
             "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Nintendo 3DS Family",
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -10046,7 +10046,7 @@
                 "dlcType": null,
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-11-22T23:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -10069,12 +10069,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 34.99,
-                  "finalPrice": 34.99,
+                  "finalPrice": 13.99,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 60.02,
+                  "amountOff": 21
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -10186,7 +10186,7 @@
           "dlcType": null,
           "eshopDetails": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-11-22T23:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -10205,12 +10205,12 @@
           "prices": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 34.99,
-            "finalPrice": 34.99,
+            "finalPrice": 13.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 60.02,
+            "amountOff": 21
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -10257,11 +10257,6 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
-            },
-            {
-              "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
             },
@@ -10269,6 +10264,11 @@
               "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -10276,9 +10276,10 @@
           "apparelType": null,
           "baseColors": [],
           "collectibleType": null,
-          "collectionPriceRange": "$20 - $39.99",
+          "collectionPriceRange": "$10 - $19.99",
           "collectionPriceRangeFilter": [
-            "$20 - $39.99"
+            "On sale",
+            "$10 - $19.99"
           ],
           "controllerType": null,
           "corePlatforms": [
@@ -10300,20 +10301,23 @@
           "playerCount": "4+",
           "playerCountDescription": null,
           "plushType": null,
-          "priceRange": "$20 - $39.99",
+          "priceRange": "$10 - $19.99",
           "priceRangeFilter": [
-            "$20 - $39.99"
+            "On sale",
+            "$10 - $19.99"
           ],
           "productType": [
             "Games"
           ],
           "replacementPart": null,
-          "topLevelFilters": [],
+          "topLevelFilters": [
+            "Deals"
+          ],
           "toyType": [],
-          "sortdiscountPriceEnd": null,
-          "sortFinalPrice": 34.99,
-          "sortAmountOff": 0,
-          "sortPercentOff": 0,
+          "sortdiscountPriceEnd": "2026-11-22T23:59:59Z",
+          "sortFinalPrice": 13.99,
+          "sortAmountOff": 21,
+          "sortPercentOff": 60.02,
           "waysToPlayLabels": [
             "Compete online",
             "Meet up and play together",
@@ -10327,9 +10331,9 @@
           "__typename": "Product",
           "backgroundColor": "030304",
           "categories": [
+            "Games",
             "Nintendo 3DS Family",
-            "Nintendo Switch",
-            "Games"
+            "Nintendo Switch"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -10694,6 +10698,11 @@
           "graphCategories": [
             {
               "__typename": "Category",
+              "id": "games",
+              "name": "Games"
+            },
+            {
+              "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
             },
@@ -10701,11 +10710,6 @@
               "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
-            },
-            {
-              "__typename": "Category",
-              "id": "games",
-              "name": "Games"
             }
           ],
           "genres": [],
@@ -10757,9 +10761,9 @@
           "__typename": "Product",
           "backgroundColor": "d6f0fa",
           "categories": [
-            "Games",
+            "Nintendo Switch",
             "Nintendo 3DS Family",
-            "Nintendo Switch"
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -11552,8 +11556,8 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
@@ -11562,8 +11566,8 @@
             },
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -11717,51 +11721,59 @@
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "LarsGadiel gallery item 1",
             "description": "LarsGadiel gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/8c3b8291e90b50549a2d5ad4c64f507d6221028b3c87de623163d52016d8213d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/8c3b8291e90b50549a2d5ad4c64f507d6221028b3c87de623163d52016d8213d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000141164/Video/7797372c5981b4e7c3038b022dc7016b7eefcffcc941596f4f825092ea6e60aa",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000141164/Video/7797372c5981b4e7c3038b022dc7016b7eefcffcc941596f4f825092ea6e60aa",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "LarsGadiel gallery item 2",
             "description": "LarsGadiel gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/5a8765afab3f67d55e1c9fbcf190115db476be1388232b982649cf751084388b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/5a8765afab3f67d55e1c9fbcf190115db476be1388232b982649cf751084388b",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/540566e12e731a4c491e1c63eeaf752ae4e9d0d4fcfdb161bd24c8a7e9246179",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/540566e12e731a4c491e1c63eeaf752ae4e9d0d4fcfdb161bd24c8a7e9246179",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "LarsGadiel gallery item 3",
             "description": "LarsGadiel gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/1bb51c94f79bff52b3ef1b34677ed34eb589fa5cebe1737629cd844b8ad5edd4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/1bb51c94f79bff52b3ef1b34677ed34eb589fa5cebe1737629cd844b8ad5edd4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/dceda65ae8e9348277d0a6716bc2c352958957f7eb391bdf5b3a234b09fbe75c",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/dceda65ae8e9348277d0a6716bc2c352958957f7eb391bdf5b3a234b09fbe75c",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "LarsGadiel gallery item 4",
             "description": "LarsGadiel gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/a2b0b8acffba77b2a088db0954abad15cb52682a9757c008af8ad18571e0fe10",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/a2b0b8acffba77b2a088db0954abad15cb52682a9757c008af8ad18571e0fe10",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/368a4adb159fa33dfff2c66656154137fedbd4691fe9d8fa8621cca7ad27a05f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/368a4adb159fa33dfff2c66656154137fedbd4691fe9d8fa8621cca7ad27a05f",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "LarsGadiel gallery item 5",
             "description": "LarsGadiel gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/d567ffc1366d9bafc30a95af9be5dd05f8de3eb2308fa2fcb627099ff0d7f1d9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/d567ffc1366d9bafc30a95af9be5dd05f8de3eb2308fa2fcb627099ff0d7f1d9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/41cf695508618cd004705ec7826b8ff6142be9d1f190aa65f03a376f3db9032d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/41cf695508618cd004705ec7826b8ff6142be9d1f190aa65f03a376f3db9032d",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "LarsGadiel gallery item 6",
             "description": "LarsGadiel gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/b3ed5de0e0848f2f10186fe240d352a1059f8bf896b1beab7c7704fa137b83ac",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/b3ed5de0e0848f2f10186fe240d352a1059f8bf896b1beab7c7704fa137b83ac",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/c06dfa56f107508f21d07696115f12894f06b612081f9736fd97a62914e002da",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/c06dfa56f107508f21d07696115f12894f06b612081f9736fd97a62914e002da",
+            "uploadDate": "2026-12-04T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "LarsGadiel gallery item 7",
+            "description": "LarsGadiel gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/c56f3fcc9f3bdec7bd7fbee69f3ed114a085d3610ad8c5b6fd20d9f00a41b69b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000141164/c56f3fcc9f3bdec7bd7fbee69f3ed114a085d3610ad8c5b6fd20d9f00a41b69b",
             "uploadDate": "2026-12-04T00:00:00.000Z"
           }
         ],
@@ -11900,7 +11912,7 @@
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
-          "description({\"html\":true})": "<p>LarsGadiel is the prequel to Xenon Valkyrie. Originally designed as a true 8-bit game, it was never released... until now!<br><br>This version stays pixel-faithful to the original and adds quality-of-life improvements, with a reworked HUD and map designed for today's screens.<br><br>Features<br>- An authentic old-school Metroidvania<br>- A huge, maze-like map full of secrets<br>- An exclusive second world and a New Game+ mode<br>- A new exploration system with an updated HUD and an improved map<br>- Teleporters to travel quickly across the world<br>- RPG elements, with weapons that level up<br>- Mechanics inspired by modern Metroidvanias, seamlessly integrated<br>- An authentic chiptune soundtrack using the capabilities of the original 8-bit sound chip<br>- Several visual modes, including a retro CRT filter<br>- A real challenge for seasoned players</p>",
+          "description({\"html\":true})": "<p>LarsGadiel is the prequel to Xenon Valkyrie. Originally designed as a true 8-bit game, it was never released... until now!<br><br>This version stays pixel-faithful to the original and adds quality-of-life improvements, with a reworked HUD and map designed for today's screens.<br><br>Features<br>- An authentic old-school Metroidvania<br>- A huge, maze-like map full of secrets<br>- 8 to 12 hours to complete the game, including the exclusive second world<br>- A new exploration system with an updated HUD and an improved map<br>- Teleporters to travel quickly across the world<br>- RPG elements, with weapons that level up<br>- Mechanics inspired by modern Metroidvanias, seamlessly integrated<br>- An authentic chiptune soundtrack using the capabilities of the original 8-bit sound chip<br>- Several visual modes, including a retro CRT filter<br>- New Game+, a real challenge for seasoned players</p>",
           "disclaimer": "<p>A Nintendo Switch Online membership (sold separately) is required for Save Data Cloud backup.</p><p>COWCAT/Diabolical Mind 2026. All rights reserved.</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
@@ -11945,7 +11957,7 @@
             "local": null,
             "online": null
           },
-          "description": "LarsGadiel is the prequel to Xenon Valkyrie. Originally designed as a true 8-bit game, it was never released... until now!\n\nThis version stays pixel-faithful to the original and adds quality-of-life improvements, with a reworked HUD and map designed for today's screens.\n\nFeatures\n- An authentic old-school Metroidvania\n- A huge, maze-like map full of secrets\n- An exclusive second world and a New Game+ mode\n- A new exploration system with an updated HUD and an improved map\n- Teleporters to travel quickly across the world\n- RPG elements, with weapons that level up\n- Mechanics inspired by modern Metroidvanias, seamlessly integrated\n- An authentic chiptune soundtrack using the capabilities of the original 8-bit sound chip\n- Several visual modes, including a retro CRT filter\n- A real challenge for seasoned players",
+          "description": "LarsGadiel is the prequel to Xenon Valkyrie. Originally designed as a true 8-bit game, it was never released... until now!\n\nThis version stays pixel-faithful to the original and adds quality-of-life improvements, with a reworked HUD and map designed for today's screens.\n\nFeatures\n- An authentic old-school Metroidvania\n- A huge, maze-like map full of secrets\n- 8 to 12 hours to complete the game, including the exclusive second world\n- A new exploration system with an updated HUD and an improved map\n- Teleporters to travel quickly across the world\n- RPG elements, with weapons that level up\n- Mechanics inspired by modern Metroidvanias, seamlessly integrated\n- An authentic chiptune soundtrack using the capabilities of the original 8-bit sound chip\n- Several visual modes, including a retro CRT filter\n- New Game+, a real challenge for seasoned players",
           "playerCountDescription": null,
           "platinumPoints": null,
           "prePurchase": null,
@@ -12062,37 +12074,43 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000141164/8c3b8291e90b50549a2d5ad4c64f507d6221028b3c87de623163d52016d8213d",
+              "publicId": "/store/software/switch/70010000141164/Video/7797372c5981b4e7c3038b022dc7016b7eefcffcc941596f4f825092ea6e60aa",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000141164/540566e12e731a4c491e1c63eeaf752ae4e9d0d4fcfdb161bd24c8a7e9246179",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000141164/5a8765afab3f67d55e1c9fbcf190115db476be1388232b982649cf751084388b",
+              "publicId": "store/software/switch/70010000141164/dceda65ae8e9348277d0a6716bc2c352958957f7eb391bdf5b3a234b09fbe75c",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000141164/1bb51c94f79bff52b3ef1b34677ed34eb589fa5cebe1737629cd844b8ad5edd4",
+              "publicId": "store/software/switch/70010000141164/368a4adb159fa33dfff2c66656154137fedbd4691fe9d8fa8621cca7ad27a05f",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000141164/a2b0b8acffba77b2a088db0954abad15cb52682a9757c008af8ad18571e0fe10",
+              "publicId": "store/software/switch/70010000141164/41cf695508618cd004705ec7826b8ff6142be9d1f190aa65f03a376f3db9032d",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000141164/d567ffc1366d9bafc30a95af9be5dd05f8de3eb2308fa2fcb627099ff0d7f1d9",
+              "publicId": "store/software/switch/70010000141164/c06dfa56f107508f21d07696115f12894f06b612081f9736fd97a62914e002da",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000141164/b3ed5de0e0848f2f10186fe240d352a1059f8bf896b1beab7c7704fa137b83ac",
+              "publicId": "store/software/switch/70010000141164/c56f3fcc9f3bdec7bd7fbee69f3ed114a085d3610ad8c5b6fd20d9f00a41b69b",
               "resourceType": "image",
               "type": "upload"
             }
@@ -12359,13 +12377,13 @@
           "backgroundColor": "102226",
           "categories": [
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_3ds_family"
             },
             {
               "__ref": "Category:nintendo_switch"
             },
             {
-              "__ref": "Category:nintendo_3ds_family"
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -12522,7 +12540,7 @@
           },
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-01T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -12545,12 +12563,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 89.99,
-            "finalPrice": 89.99,
+            "finalPrice": 8.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 90.01,
+            "amountOff": 81
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -13401,7 +13419,7 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
             "resourceType": "image",
             "type": "fetch"
           },
@@ -13495,13 +13513,13 @@
           "backgroundColor": "0588f8",
           "categories": [
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
             },
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -13688,7 +13706,7 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
             "resourceType": "image",
             "type": "fetch"
           },
@@ -13913,10 +13931,10 @@
               "__ref": "Category:nintendo_3ds_family"
             },
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_switch"
             },
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -15245,13 +15263,13 @@
           "backgroundColor": "80879c",
           "categories": [
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_3ds_family"
             },
             {
               "__ref": "Category:nintendo_switch"
             },
             {
-              "__ref": "Category:nintendo_3ds_family"
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -16101,13 +16119,13 @@
           "backgroundColor": "1e1311",
           "categories": [
             {
-              "__ref": "Category:games"
-            },
-            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
+            },
+            {
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -16333,13 +16351,13 @@
           "backgroundColor": "081f3c",
           "categories": [
             {
-              "__ref": "Category:games"
-            },
-            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
+            },
+            {
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -16563,13 +16581,13 @@
           "backgroundColor": "2b1488",
           "categories": [
             {
-              "__ref": "Category:games"
-            },
-            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
+            },
+            {
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -16707,7 +16725,7 @@
               "label": "ROM Bundle",
               "value": "ROM Bundle",
               "product": {
-                "__ref": "Product:{\"sku\":\"7700014384\"}"
+                "__ref": "Product:{\"sku\":\"7700018644\"}"
               }
             },
             {
@@ -16715,97 +16733,10 @@
               "label": "ROM Bundle",
               "value": "ROM Bundle",
               "product": {
-                "__ref": "Product:{\"sku\":\"7700018644\"}"
+                "__ref": "Product:{\"sku\":\"7700014384\"}"
               }
             }
           ]
-        },
-        "Product:{\"sku\":\"7700014384\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Available now"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"4kpZ8QUz0vjA16X6DzpbES\",\"locale\":\"en_CA\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"en_CA\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"en_CA\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": {
-            "__typename": "DlcType",
-            "label": "ROM Bundle",
-            "code": "ROM_BUNDLE"
-          },
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "en_CA",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
-          "nsuid": "70070000014384",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "CAD",
-            "discounted": false,
-            "regularPrice": 119.99,
-            "finalPrice": 119.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": null,
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2022-10-20T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": null,
-          "size": null,
-          "showWidely": true,
-          "sku": "7700014384",
-          "softwarePublisher": "Ubisoft",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Games"
-          },
-          "urlKey": "mario-plus-rabbids-sparks-of-hope-gold-edition-switch",
-          "visibleInSearch": true
         },
         "Product:{\"sku\":\"7700018644\"}": {
           "__typename": "Product",
@@ -16894,6 +16825,93 @@
           "urlKey": "mario-plus-rabbids-sparks-of-hope-plus-rayman-edition-switch",
           "visibleInSearch": true
         },
+        "Product:{\"sku\":\"7700014384\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Available now"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"4kpZ8QUz0vjA16X6DzpbES\",\"locale\":\"en_CA\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"en_CA\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"en_CA\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "ROM Bundle",
+            "code": "ROM_BUNDLE"
+          },
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "en_CA",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
+          "nsuid": "70070000014384",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CAD",
+            "discounted": false,
+            "regularPrice": 119.99,
+            "finalPrice": 119.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": null,
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-10-20T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": null,
+          "size": null,
+          "showWidely": true,
+          "sku": "7700014384",
+          "softwarePublisher": "Ubisoft",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Games"
+          },
+          "urlKey": "mario-plus-rabbids-sparks-of-hope-gold-edition-switch",
+          "visibleInSearch": true
+        },
         "Product:{\"sku\":\"7100033942\"}": {
           "__typename": "Product",
           "availability": [
@@ -16912,7 +16930,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-11-22T23:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16935,12 +16953,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 34.99,
-            "finalPrice": 34.99,
+            "finalPrice": 13.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 60.02,
+            "amountOff": 21
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -17024,13 +17042,13 @@
           "backgroundColor": "e6d8d8",
           "categories": [
             {
-              "__ref": "Category:games"
-            },
-            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
+            },
+            {
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -17040,9 +17058,10 @@
             "apparel": null,
             "baseColors": [],
             "collectible": null,
-            "priceRange({\"type\":\"ALL\"})": "$20 - $39.99",
+            "priceRange({\"type\":\"ALL\"})": "$10 - $19.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
-              "$20 - $39.99"
+              "On sale",
+              "$10 - $19.99"
             ],
             "controller": null,
             "corePlatforms": [
@@ -17062,15 +17081,18 @@
               "Save Data Cloud"
             ],
             "plush": null,
-            "priceRange": "$20 - $39.99",
+            "priceRange": "$10 - $19.99",
             "priceRangeFilter": [
-              "$20 - $39.99"
+              "On sale",
+              "$10 - $19.99"
             ],
             "productType": [
               "Games"
             ],
             "replacementPart": null,
-            "topLevelFilters": [],
+            "topLevelFilters": [
+              "Deals"
+            ],
             "toy": []
           },
           "franchise": null,
@@ -17265,13 +17287,13 @@
           "backgroundColor": "030304",
           "categories": [
             {
+              "__ref": "Category:games"
+            },
+            {
               "__ref": "Category:nintendo_3ds_family"
             },
             {
               "__ref": "Category:nintendo_switch"
-            },
-            {
-              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -17555,13 +17577,13 @@
           "backgroundColor": "d6f0fa",
           "categories": [
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
             },
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -17968,7 +17990,7 @@
   "query": {
     "slug": "larsgadiel-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

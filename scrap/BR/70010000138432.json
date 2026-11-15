@@ -1174,26 +1174,6 @@
                   "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2571,7 +2571,28 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/party-games",
+          "label": "Grupo"
+        },
+        {
+          "url": "/store/games/tags/tabletop-games",
+          "label": "Jogos de mesa"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Escolha a dificuldade"
+        },
+        {
+          "url": "/store/games/tags/games-to-play-together-on-one-console",
+          "label": "Jogue junto em um console"
+        },
+        {
+          "url": "/store/games/tags/multiplayer-games",
+          "label": "Para curtir com uma turma"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000138432/b73931b0de8a33f1dee51cf79e003779a44b5347568a3422bf3ebace366b1b79"
       },
@@ -2710,11 +2731,6 @@
         }
       ],
       "initialApolloState": {
-        "Category:games": {
-          "__typename": "Category",
-          "id": "games",
-          "name": "Games"
-        },
         "Category:nintendo_switch": {
           "__typename": "Category",
           "id": "nintendo_switch",
@@ -2724,6 +2740,11 @@
           "__typename": "Category",
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
+        },
+        "Category:games": {
+          "__typename": "Category",
+          "id": "games",
+          "name": "Games"
         },
         "Product:{\"sku\":\"7100138432\"}": {
           "__typename": "Product",
@@ -2761,26 +2782,55 @@
           "url({\"relative\":true})": "/pt-br/store/products/prinny-party-going-overboard-nintendo-switch-2-edition-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "PARTY",
+                "label": "Grupo"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TABLETOP",
+                "label": "Jogos de mesa"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Jogue junto em um console"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Para curtir com uma turma"
+              }
+            ]
           },
           "accessibilityTags": null,
           "applicationId": "0100643028646000",
           "appStoreUrl": null,
           "availability": [
-            "Em breve"
+            "Novos lançamentos",
+            "Já disponivel"
           ],
           "baseSoftware": [],
           "categories": [
-            {
-              "__ref": "Category:games"
-            },
             {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
+            },
+            {
+              "__ref": "Category:games"
             }
           ],
           "capacity": null,
@@ -2798,9 +2848,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000138432&v_loggedin=false&v_currency=BRL&v_price=159.99&v_country=BR",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2861,19 +2911,24 @@
                 "__typename": "Rights",
                 "isLendable": true,
                 "titleId": "0100643028646000"
+              },
+              {
+                "__typename": "Rights",
+                "isLendable": true,
+                "titleId": "0100643028647001"
               }
             ],
             "romSizes": [
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "552599552",
+                "totalRomSize": "599785472",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "552599552",
+                "totalRomSize": "1408237568",
                 "platform": "BEE"
               }
             ]
@@ -3094,11 +3149,6 @@
                 "__typename": "Tag",
                 "code": "DIFFICULTY_LEVEL",
                 "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
               }
             ],
             "genres": [
@@ -3106,6 +3156,11 @@
                 "__typename": "Tag",
                 "code": "PARTY",
                 "label": "Grupo"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TABLETOP",
+                "label": "Jogos de mesa"
               }
             ],
             "waysToPlay": [
@@ -3199,7 +3254,7 @@
   "query": {
     "slug": "prinny-party-going-overboard-nintendo-switch-2-edition-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

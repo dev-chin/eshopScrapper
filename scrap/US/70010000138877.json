@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": false,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2945,362 +2945,6 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
-        "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_US\"}": {
-          "__typename": "ContentRating",
-          "id": "3PUsVpTIBTxVxmzL362ZkB",
-          "locale": "en_US",
-          "code": "e",
-          "label": "Everyone",
-          "requiresAgeGate": false,
-          "system": "ESRB",
-          "order": 6,
-          "highestRating": null
-        },
-        "Product:{\"sku\":\"7100045346\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Available now"
-          ],
-          "color": null,
-          "contentDescriptors": [],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_US\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "en_US",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Monster Truck Arena",
-          "nsuid": "70010000045346",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "USD",
-            "discounted": false,
-            "regularPrice": 13.99,
-            "finalPrice": 13.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000045346/e5cd2cd7d12c741e415d9ba59207f697e8003da9dbc1cc884f8d0df8395e9f0e",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/c6b663b9cb3c46e48bdf982b1b68feae_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2021-09-24T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100045346",
-          "softwarePublisher": "BoomHits",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "JUMPING",
-                "label": "Platforming"
-              },
-              {
-                "__typename": "Tag",
-                "code": "TIME_ATTACK",
-                "label": "Play for the fastest time"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Action"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SPORTS",
-                "label": "Sports"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Games"
-          },
-          "urlKey": "monster-truck-arena-switch",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000045346/Video/39f97ba3697d9cc4de89f716f4ae313f2438ba59505dc3d1611939a11ba58e2f",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000045346/d701d07f13c5410d30602a9df768da2c63935d3e561fd02c39c15b71eb473334",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000045346/a92a49b6ac8975fa0746ccbedc936ef0c0cd8eadeb53a37fbcad5118c2985fa5",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000045346/b4a69b8e5aadad08b6c3b61d1553d75b0eb3e907132a19a32e0eb408463012ba",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000045346/a8ac636ad53f8bf75f1505b308e207ed0effb9760735fd47eece44ceede0261a",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000045346/1844872be98e0f46a13c90aef2c62fe4a0b6939c2379460cb5a9f7b541e9d34a",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000045346/df047b3a4008598a2c000c5884c88e9398a04bed0515709ebea5ab99544b783c",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "ContentDescriptor:{\"id\":\"1fOO8u72qzax9Ei8Hhkj3b\",\"locale\":\"en_US\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "1fOO8u72qzax9Ei8Hhkj3b",
-          "locale": "en_US",
-          "label": "Mild Language",
-          "type": "CONTENT_DESCRIPTOR"
-        },
-        "ContentDescriptor:{\"id\":\"whVhiOlf5dKb2zseJDgGr\",\"locale\":\"en_US\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "whVhiOlf5dKb2zseJDgGr",
-          "locale": "en_US",
-          "label": "Use of Tobacco",
-          "type": "CONTENT_DESCRIPTOR"
-        },
-        "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"en_US\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "PuUlZqXPrK4WzWD2LWYLV",
-          "locale": "en_US",
-          "label": "Users Interact",
-          "type": "INTERACTIVE_ELEMENT"
-        },
-        "Product:{\"sku\":\"7100027433\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Available now"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"1fOO8u72qzax9Ei8Hhkj3b\",\"locale\":\"en_US\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"whVhiOlf5dKb2zseJDgGr\",\"locale\":\"en_US\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"en_US\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_US\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "en_US",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Monster Truck Championship",
-          "nsuid": "70010000027433",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "USD",
-            "discounted": false,
-            "regularPrice": 29.99,
-            "finalPrice": 29.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000027433/f893b72e8b834a2e75a68eb72ff612984014e5ede8f21c958276478233390304",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/509712ca039c4639b91c16933da79373_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2020-11-24T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100027433",
-          "softwarePublisher": "Nacon",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Choose your difficulty"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SCORE_ATTACK",
-                "label": "Play for a high score"
-              },
-              {
-                "__typename": "Tag",
-                "code": "TIME_ATTACK",
-                "label": "Play for the fastest time"
-              },
-              {
-                "__typename": "Tag",
-                "code": "VIEWPOINT_SWITCHING",
-                "label": "Play in first- or third-person"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "RACING",
-                "label": "Racing"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SIMULATION",
-                "label": "Simulation"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SPORTS",
-                "label": "Sports"
-              }
-            ],
-            "waysToPlay": [
-              {
-                "__typename": "Tag",
-                "code": "ONLINE_BATTLE",
-                "label": "Compete online"
-              },
-              {
-                "__typename": "Tag",
-                "code": "FRIEND_MATCHING",
-                "label": "Play online with friends"
-              }
-            ]
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Games"
-          },
-          "urlKey": "monster-truck-championship-switch",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000027433/Video/f85c51ac36aff936c66933bc4488012ed4616f974bdcfbfa21231f47db171312",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000027433/4e96a39abb27614e0b5f49fb56579133e56148a5e113e9ab9b659de6e152d07f",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000027433/df23ca065f1490d96838ea17a0caf831255e49e1b053d973e22bf948d812417d",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000027433/da9c80794357d1b245612d35429aa8b09330f641cbbf932fffb23e8998f7ce26",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000027433/abc9748ddc07e27cb530c295a770523d537a1e9f19903603aa483506dcbabf2a",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000027433/122615713e389d4a44312eacd3bd57db14357cac6783d8f807c51343dd8095db",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
         "Product:{\"sku\":\"7100138877\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -3383,14 +3027,7 @@
           ],
           "capacity": null,
           "containsEmbeddedBattery": false,
-          "crossSellProducts": [
-            {
-              "__ref": "Product:{\"sku\":\"7100045346\"}"
-            },
-            {
-              "__ref": "Product:{\"sku\":\"7100027433\"}"
-            }
-          ],
+          "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>Catch the largest of lunkers from a variety of picturesque locales! Join three good friends as they spend the last days of summer together with one last memorable fishing trip! Catch over 40 species of fish from 14 different fishing locations and craft over 50 different kinds of tackle to lure the rarest of fish! You can even keep fish in a beautiful aquarium while leveling up and gaining new and exciting skills!<br>• Play as three different characters, each with their own strengths, weaknesses, and personalities!<br>• Craft and upgrade over 50 kinds of reels, rods, and lures!<br>• Fish everywhere from a gentle river stream to a tropical forest!<br>• Keep and view fish in your aquarium!<br>• Take on different fishing challenges and side quests!<br>• Cook and eat different meals and snacks with unique effects that will help your angling!</p>",
@@ -3746,6 +3383,17 @@
             "waysToPlay": []
           }
         },
+        "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_US\"}": {
+          "__typename": "ContentRating",
+          "id": "3PUsVpTIBTxVxmzL362ZkB",
+          "locale": "en_US",
+          "code": "e",
+          "label": "Everyone",
+          "requiresAgeGate": false,
+          "system": "ESRB",
+          "order": 6,
+          "highestRating": null
+        },
         "ROOT_QUERY": {
           "__typename": "Query",
           "product({\"input\":{\"urlKey\":\"reel-fishing-days-of-summer-nintendo-switch-2-edition-switch-2\"}})": {
@@ -3760,7 +3408,7 @@
   "query": {
     "slug": "reel-fishing-days-of-summer-nintendo-switch-2-edition-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

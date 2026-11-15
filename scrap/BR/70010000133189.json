@@ -1174,26 +1174,6 @@
                   "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2634,49 +2634,65 @@
             "uploadDate": "2026-12-10T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Cat Me If You Can gallery item 1",
             "description": "Cat Me If You Can gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/c456d565e2c8d38b7fcefad7845b7b846661ecdb2c92ef02e0d4b349183ebb12",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/c456d565e2c8d38b7fcefad7845b7b846661ecdb2c92ef02e0d4b349183ebb12",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000133189/Video/3c6b8d6aacc5a1b81cb03dd36ffdb6bb5743a14602dcb8b1ed833a078a54a28f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000133189/Video/3c6b8d6aacc5a1b81cb03dd36ffdb6bb5743a14602dcb8b1ed833a078a54a28f",
             "uploadDate": "2026-12-10T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Cat Me If You Can gallery item 2",
             "description": "Cat Me If You Can gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/2b2b51e6ceb0ed5c008d00d8df4974894f717720a275afd22a198de2a6c684fc",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/2b2b51e6ceb0ed5c008d00d8df4974894f717720a275afd22a198de2a6c684fc",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000133189/Video/5a7ba1d82a22773fd3614f43d9e6cd08f40d172088d86e14a2a8b1da2dc76928",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000133189/Video/5a7ba1d82a22773fd3614f43d9e6cd08f40d172088d86e14a2a8b1da2dc76928",
             "uploadDate": "2026-12-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cat Me If You Can gallery item 3",
             "description": "Cat Me If You Can gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/ab276a0f9b1b4469b1f66832a94053573072da6348894c623ff3533020f3a46e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/ab276a0f9b1b4469b1f66832a94053573072da6348894c623ff3533020f3a46e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/c456d565e2c8d38b7fcefad7845b7b846661ecdb2c92ef02e0d4b349183ebb12",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/c456d565e2c8d38b7fcefad7845b7b846661ecdb2c92ef02e0d4b349183ebb12",
             "uploadDate": "2026-12-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cat Me If You Can gallery item 4",
             "description": "Cat Me If You Can gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/51df1f0be7f652f41867af79ff558aee67b17d7b8f0163f6ef832c7d1febec0f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/51df1f0be7f652f41867af79ff558aee67b17d7b8f0163f6ef832c7d1febec0f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/2b2b51e6ceb0ed5c008d00d8df4974894f717720a275afd22a198de2a6c684fc",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/2b2b51e6ceb0ed5c008d00d8df4974894f717720a275afd22a198de2a6c684fc",
             "uploadDate": "2026-12-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cat Me If You Can gallery item 5",
             "description": "Cat Me If You Can gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/8ad650f41f7cdbb67c10a7745592ad02ceed3e568a7d7d52d08170d54fc43546",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/8ad650f41f7cdbb67c10a7745592ad02ceed3e568a7d7d52d08170d54fc43546",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/ab276a0f9b1b4469b1f66832a94053573072da6348894c623ff3533020f3a46e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/ab276a0f9b1b4469b1f66832a94053573072da6348894c623ff3533020f3a46e",
             "uploadDate": "2026-12-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Cat Me If You Can gallery item 6",
             "description": "Cat Me If You Can gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/51df1f0be7f652f41867af79ff558aee67b17d7b8f0163f6ef832c7d1febec0f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/51df1f0be7f652f41867af79ff558aee67b17d7b8f0163f6ef832c7d1febec0f",
+            "uploadDate": "2026-12-10T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cat Me If You Can gallery item 7",
+            "description": "Cat Me If You Can gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/8ad650f41f7cdbb67c10a7745592ad02ceed3e568a7d7d52d08170d54fc43546",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/8ad650f41f7cdbb67c10a7745592ad02ceed3e568a7d7d52d08170d54fc43546",
+            "uploadDate": "2026-12-10T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Cat Me If You Can gallery item 8",
+            "description": "Cat Me If You Can gallery item 8",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/da808e3916a7c885b196d2c166fd3d37b5d3cd8d83758d2235280774294455dc",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133189/da808e3916a7c885b196d2c166fd3d37b5d3cd8d83758d2235280774294455dc",
             "uploadDate": "2026-12-10T00:00:00.000Z"
@@ -2949,6 +2965,18 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000133189/Video/3c6b8d6aacc5a1b81cb03dd36ffdb6bb5743a14602dcb8b1ed833a078a54a28f",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000133189/Video/5a7ba1d82a22773fd3614f43d9e6cd08f40d172088d86e14a2a8b1da2dc76928",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000133189/c456d565e2c8d38b7fcefad7845b7b846661ecdb2c92ef02e0d4b349183ebb12",
               "resourceType": "image",
               "type": "upload"
@@ -3033,7 +3061,7 @@
   "query": {
     "slug": "cat-me-if-you-can-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
