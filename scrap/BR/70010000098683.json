@@ -1174,26 +1174,6 @@
                   "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -3536,23 +3536,6 @@
                 }
               ],
               "product": {
-                "__ref": "Product:{\"sku\":\"7700041258\"}"
-              }
-            },
-            {
-              "__typename": "ProductVariation",
-              "label": "ROM Bundle",
-              "value": "ROM Bundle",
-              "type": "edition",
-              "attributes": [
-                {
-                  "__typename": "ProductVariationAttribute",
-                  "label": "ROM Bundle",
-                  "type": "edition",
-                  "value": "ROM Bundle"
-                }
-              ],
-              "product": {
                 "__ref": "Product:{\"sku\":\"7700037360\"}"
               }
             },
@@ -3571,6 +3554,23 @@
               ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7700032303\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700041258\"}"
               }
             }
           ],
@@ -3899,44 +3899,6 @@
             "waysToPlay": []
           }
         },
-        "Product:{\"sku\":\"7700041258\"}": {
-          "__typename": "Product",
-          "compatibility": null,
-          "nsuid": "70070000041258",
-          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 9",
-          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-9-switch",
-          "upgradeDescription": null,
-          "isSalableQty": true,
-          "isUpgrade": false,
-          "locale": "pt_BR",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": true,
-            "regularPrice": 76.89,
-            "finalPrice": 38.44,
-            "pricePerUnit": null
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000041258/01cc8ac6585bb5a325710c62fee8da84180660fc8fb9fcebd658cd5d48b6b5ac"
-          },
-          "size": null,
-          "soldOutPermanent": null,
-          "sku": "7700041258",
-          "url({\"relative\":true})": "/pt-br/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-9-switch/",
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          }
-        },
         "Product:{\"sku\":\"7700037360\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -4013,6 +3975,44 @@
             "waysToPlay": []
           }
         },
+        "Product:{\"sku\":\"7700041258\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000041258",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 9",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-9-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "pt_BR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 76.89,
+            "finalPrice": 76.89,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000041258/01cc8ac6585bb5a325710c62fee8da84180660fc8fb9fcebd658cd5d48b6b5ac"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700041258",
+          "url({\"relative\":true})": "/pt-br/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-9-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
         "ContentRating:{\"id\":\"iUuAOjCUcLd4OIchPuRmz\",\"locale\":\"pt_BR\"}": {
           "__typename": "ContentRating",
           "id": "iUuAOjCUcLd4OIchPuRmz",
@@ -4038,7 +4038,7 @@
   "query": {
     "slug": "pixel-cross-stitch-color-by-number-seasons-collection-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
