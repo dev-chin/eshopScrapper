@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2625,7 +2625,7 @@
             "@type": "Offer",
             "url": "/es-mx/store/products/ski-jumping-world-cup-switch/",
             "priceCurrency": "MXN",
-            "price": "159.00",
+            "price": "111.30",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2679,49 +2679,57 @@
             "uploadDate": "2026-11-12T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Ski Jumping World Cup gallery item 2",
             "description": "Ski Jumping World Cup gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/ef9bda69dc5780024bfbd5684e2d26a4868946484e6b2d698c3f3ebef669ef7e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/ef9bda69dc5780024bfbd5684e2d26a4868946484e6b2d698c3f3ebef669ef7e",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000118178/Video/abb69dfc304fa5205eada0d05b06db6415a2cf0682dfc200b11e74e2cf653a94",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000118178/Video/abb69dfc304fa5205eada0d05b06db6415a2cf0682dfc200b11e74e2cf653a94",
             "uploadDate": "2026-11-12T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Ski Jumping World Cup gallery item 3",
             "description": "Ski Jumping World Cup gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/e1a9d778cca3fca263d0969852186edeec210c953e01fb8eb3528db4cc26eee8",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/e1a9d778cca3fca263d0969852186edeec210c953e01fb8eb3528db4cc26eee8",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/ef9bda69dc5780024bfbd5684e2d26a4868946484e6b2d698c3f3ebef669ef7e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/ef9bda69dc5780024bfbd5684e2d26a4868946484e6b2d698c3f3ebef669ef7e",
             "uploadDate": "2026-11-12T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Ski Jumping World Cup gallery item 4",
             "description": "Ski Jumping World Cup gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/e6cf2fbf7afd118c9e7869ec2953d8459f0dccc7d7dcb5de4834a4cb91169726",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/e6cf2fbf7afd118c9e7869ec2953d8459f0dccc7d7dcb5de4834a4cb91169726",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/e1a9d778cca3fca263d0969852186edeec210c953e01fb8eb3528db4cc26eee8",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/e1a9d778cca3fca263d0969852186edeec210c953e01fb8eb3528db4cc26eee8",
             "uploadDate": "2026-11-12T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Ski Jumping World Cup gallery item 5",
             "description": "Ski Jumping World Cup gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/073dafba3576d6120961b3b48624cbad883680dcf1e115456e37be21aa7941f9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/073dafba3576d6120961b3b48624cbad883680dcf1e115456e37be21aa7941f9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/e6cf2fbf7afd118c9e7869ec2953d8459f0dccc7d7dcb5de4834a4cb91169726",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/e6cf2fbf7afd118c9e7869ec2953d8459f0dccc7d7dcb5de4834a4cb91169726",
             "uploadDate": "2026-11-12T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Ski Jumping World Cup gallery item 6",
             "description": "Ski Jumping World Cup gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/659ebc2af38e7723aa68db7a98509dbc488e5d1e18cebef2b5b5fb35151f5dfd",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/659ebc2af38e7723aa68db7a98509dbc488e5d1e18cebef2b5b5fb35151f5dfd",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/073dafba3576d6120961b3b48624cbad883680dcf1e115456e37be21aa7941f9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/073dafba3576d6120961b3b48624cbad883680dcf1e115456e37be21aa7941f9",
             "uploadDate": "2026-11-12T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Ski Jumping World Cup gallery item 7",
             "description": "Ski Jumping World Cup gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/659ebc2af38e7723aa68db7a98509dbc488e5d1e18cebef2b5b5fb35151f5dfd",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/659ebc2af38e7723aa68db7a98509dbc488e5d1e18cebef2b5b5fb35151f5dfd",
+            "uploadDate": "2026-11-12T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Ski Jumping World Cup gallery item 8",
+            "description": "Ski Jumping World Cup gallery item 8",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/cc4241b4a280977a70dcc72bfbb41a1672b610ef993b10f17a3031d5ce6f3e34",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000118178/cc4241b4a280977a70dcc72bfbb41a1672b610ef993b10f17a3031d5ce6f3e34",
             "uploadDate": "2026-11-12T00:00:00.000Z"
@@ -2791,9 +2799,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "MXN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 159,
-            "finalPrice": 159,
+            "finalPrice": 111.3,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2865,7 +2873,8 @@
           "applicationId": "01004ce027210000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2884,7 +2893,7 @@
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
-          "description({\"html\":true})": "<p>Ski Jumping World Cup lleva a los jugadores a las colinas de salto de esquí más icónicas del mundo, ofreciendo competencia tanto en modos para un jugador como en partidas en línea contra rivales de todo el mundo. Siente la adrenalina del salto de esquí mientras compites en 18 colinas variadas, participas en la Copa del Mundo o creas tu propio torneo adaptado a tus preferencias.<br><br>Supérate en torneos competitivos, perfecciona tu técnica en el modo de práctica o desafía a jugadores de todo el mundo en emocionantes duelos en línea.<br><br>Precisión. Nervios. Vuelo.<br>Te damos la bienvenida a Ski Jumping World Cup, donde cada salto importa.<br><br>Características<br><br>• Modos de juego variados<br>Empieza con el tutorial, mejora tus habilidades en el modo de entrenamiento y luego muestra todo tu potencial en las competencias de la Copa del Mundo o crea tu propio torneo con colinas seleccionadas y un número personalizado de participantes.<br><br>• 18 colinas<br>Compite en los escenarios de salto de esquí más reconocibles, incluidas 5 pistas iluminadas disponibles en un modo nocturno adicional.<br><br>• Física avanzada<br>Controla a tu saltador durante el vuelo, lucha contra el viento y apunta a los mejores resultados.<br><br>• Modos multijugador<br>Enfréntate a otros jugadores en multijugador en línea o en el clásico modo por turnos.<br><br>• Atmósfera inmersiva<br>El clima dinámico, las condiciones de viento realistas y los gráficos detallados recrean la intensidad y la belleza del salto de esquí.</p>",
+          "description({\"html\":true})": "<p>Ski Jumping World Cup lleva a los jugadores a las colinas de salto de esquí más icónicas del mundo, ofreciendo competencia tanto en modos para un jugador como en partidas en línea contra rivales de todo el mundo. Siente la adrenalina del salto de esquí mientras compites en 19 colinas variadas, participas en la Copa del Mundo o creas tu propio torneo adaptado a tus preferencias.<br><br>Supérate en torneos competitivos, perfecciona tu técnica en el modo de práctica o desafía a jugadores de todo el mundo en emocionantes duelos en línea.<br><br>Precisión. Nervios. Vuelo.<br>Te damos la bienvenida a Ski Jumping World Cup, donde cada salto importa.<br><br>Características<br><br>• Modos de juego variados<br>Empieza con el tutorial, mejora tus habilidades en el modo de entrenamiento y luego muestra todo tu potencial en las competencias de la Copa del Mundo o crea tu propio torneo con colinas seleccionadas y un número personalizado de participantes.<br><br>• 19 colinas<br>Compite en los escenarios de salto de esquí más reconocibles, incluidas 5 pistas iluminadas disponibles en un modo nocturno adicional.<br><br>• Física avanzada<br>Controla a tu saltador durante el vuelo, lucha contra el viento y apunta a los mejores resultados.<br><br>• Modos multijugador<br>Enfréntate a otros jugadores en multijugador en línea o en el clásico modo por turnos.<br><br>• Atmósfera inmersiva<br>El clima dinámico, las condiciones de viento realistas y los gráficos detallados recrean la intensidad y la belleza del salto de esquí.<br><br>• Modo de destrucción total<br>Elige uno de los saltadores especiales y causa estragos por toda la colina.<br><br>• Da en el blanco<br>Pon a prueba tu precisión intentando alcanzar una distancia objetivo seleccionada al azar.</p>",
           "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) y una cuenta Nintendo para el juego en línea. No está disponible en todos los países. Se requiere una conexión a internet para acceder a los servicios en línea. Aplican términos.&nbsp;<a href=\"https://nintendo.com/online\">nintendo.com/online</a>.</p><p>© 2026 Developed by Storm Trident S. A., published by Forever Entertainment S. A.</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
@@ -2894,10 +2903,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000118178&v_loggedin=false&v_currency=MXN&v_price=111.30&v_country=MX",
+            "discountPriceEnd": "2026-11-26T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2934,7 +2943,7 @@
               "label": "4+"
             }
           },
-          "description": "Ski Jumping World Cup lleva a los jugadores a las colinas de salto de esquí más icónicas del mundo, ofreciendo competencia tanto en modos para un jugador como en partidas en línea contra rivales de todo el mundo. Siente la adrenalina del salto de esquí mientras compites en 18 colinas variadas, participas en la Copa del Mundo o creas tu propio torneo adaptado a tus preferencias.\n\nSupérate en torneos competitivos, perfecciona tu técnica en el modo de práctica o desafía a jugadores de todo el mundo en emocionantes duelos en línea.\n\nPrecisión. Nervios. Vuelo.\nTe damos la bienvenida a Ski Jumping World Cup, donde cada salto importa.\n\nCaracterísticas\n\n• Modos de juego variados\nEmpieza con el tutorial, mejora tus habilidades en el modo de entrenamiento y luego muestra todo tu potencial en las competencias de la Copa del Mundo o crea tu propio torneo con colinas seleccionadas y un número personalizado de participantes.\n\n• 18 colinas\nCompite en los escenarios de salto de esquí más reconocibles, incluidas 5 pistas iluminadas disponibles en un modo nocturno adicional.\n\n• Física avanzada\nControla a tu saltador durante el vuelo, lucha contra el viento y apunta a los mejores resultados.\n\n• Modos multijugador\nEnfréntate a otros jugadores en multijugador en línea o en el clásico modo por turnos.\n\n• Atmósfera inmersiva\nEl clima dinámico, las condiciones de viento realistas y los gráficos detallados recrean la intensidad y la belleza del salto de esquí.",
+          "description": "Ski Jumping World Cup lleva a los jugadores a las colinas de salto de esquí más icónicas del mundo, ofreciendo competencia tanto en modos para un jugador como en partidas en línea contra rivales de todo el mundo. Siente la adrenalina del salto de esquí mientras compites en 19 colinas variadas, participas en la Copa del Mundo o creas tu propio torneo adaptado a tus preferencias.\n\nSupérate en torneos competitivos, perfecciona tu técnica en el modo de práctica o desafía a jugadores de todo el mundo en emocionantes duelos en línea.\n\nPrecisión. Nervios. Vuelo.\nTe damos la bienvenida a Ski Jumping World Cup, donde cada salto importa.\n\nCaracterísticas\n\n• Modos de juego variados\nEmpieza con el tutorial, mejora tus habilidades en el modo de entrenamiento y luego muestra todo tu potencial en las competencias de la Copa del Mundo o crea tu propio torneo con colinas seleccionadas y un número personalizado de participantes.\n\n• 19 colinas\nCompite en los escenarios de salto de esquí más reconocibles, incluidas 5 pistas iluminadas disponibles en un modo nocturno adicional.\n\n• Física avanzada\nControla a tu saltador durante el vuelo, lucha contra el viento y apunta a los mejores resultados.\n\n• Modos multijugador\nEnfréntate a otros jugadores en multijugador en línea o en el clásico modo por turnos.\n\n• Atmósfera inmersiva\nEl clima dinámico, las condiciones de viento realistas y los gráficos detallados recrean la intensidad y la belleza del salto de esquí.\n\n• Modo de destrucción total\nElige uno de los saltadores especiales y causa estragos por toda la colina.\n\n• Da en el blanco\nPon a prueba tu precisión intentando alcanzar una distancia objetivo seleccionada al azar.",
           "playerCountDescription": null,
           "platinumPoints": null,
           "prePurchase": null,
@@ -3058,6 +3067,12 @@
             },
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000118178/Video/abb69dfc304fa5205eada0d05b06db6415a2cf0682dfc200b11e74e2cf653a94",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000118178/ef9bda69dc5780024bfbd5684e2d26a4868946484e6b2d698c3f3ebef669ef7e",
               "resourceType": "image",
               "type": "upload"
@@ -3140,7 +3155,7 @@
   "query": {
     "slug": "ski-jumping-world-cup-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

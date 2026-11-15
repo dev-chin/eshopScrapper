@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2601,7 +2601,7 @@
             "@type": "Offer",
             "url": "/es-mx/store/products/type-noise-shonen-shojo-switch/",
             "priceCurrency": "MXN",
-            "price": "227.99",
+            "price": "113.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2647,49 +2647,57 @@
             "uploadDate": "2026-11-13T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Type-NOISE: Shonen Shojo gallery item 1",
             "description": "Type-NOISE: Shonen Shojo gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/fb751e42206e0787b82e096730aa9640fc536dacc32454bdcca1798271cdb9f9",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/fb751e42206e0787b82e096730aa9640fc536dacc32454bdcca1798271cdb9f9",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000125203/Video/9b9dcb2d59bcd000969744c998b708066279b198544579062365f43bd97599fe",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000125203/Video/9b9dcb2d59bcd000969744c998b708066279b198544579062365f43bd97599fe",
             "uploadDate": "2026-11-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Type-NOISE: Shonen Shojo gallery item 2",
             "description": "Type-NOISE: Shonen Shojo gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/eed0f0172e476fc19d9730d3e7c8a528750ebbfcdc41463de4b03f1ac748dd9f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/eed0f0172e476fc19d9730d3e7c8a528750ebbfcdc41463de4b03f1ac748dd9f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/fb751e42206e0787b82e096730aa9640fc536dacc32454bdcca1798271cdb9f9",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/fb751e42206e0787b82e096730aa9640fc536dacc32454bdcca1798271cdb9f9",
             "uploadDate": "2026-11-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Type-NOISE: Shonen Shojo gallery item 3",
             "description": "Type-NOISE: Shonen Shojo gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/3fbbc4e420f87b8eddea9e347b36ea3b8f2e13e6491e5f5cf6ee60f456924ee6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/3fbbc4e420f87b8eddea9e347b36ea3b8f2e13e6491e5f5cf6ee60f456924ee6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/eed0f0172e476fc19d9730d3e7c8a528750ebbfcdc41463de4b03f1ac748dd9f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/eed0f0172e476fc19d9730d3e7c8a528750ebbfcdc41463de4b03f1ac748dd9f",
             "uploadDate": "2026-11-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Type-NOISE: Shonen Shojo gallery item 4",
             "description": "Type-NOISE: Shonen Shojo gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/fe11e036278bcef7277383f168def0ac4242f265598c9a0e7c48e45277b94599",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/fe11e036278bcef7277383f168def0ac4242f265598c9a0e7c48e45277b94599",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/3fbbc4e420f87b8eddea9e347b36ea3b8f2e13e6491e5f5cf6ee60f456924ee6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/3fbbc4e420f87b8eddea9e347b36ea3b8f2e13e6491e5f5cf6ee60f456924ee6",
             "uploadDate": "2026-11-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Type-NOISE: Shonen Shojo gallery item 5",
             "description": "Type-NOISE: Shonen Shojo gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/82372427fc193e1024bc5702935b8cd2bc0e9f15b0d207972996f46c1c6737c7",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/82372427fc193e1024bc5702935b8cd2bc0e9f15b0d207972996f46c1c6737c7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/fe11e036278bcef7277383f168def0ac4242f265598c9a0e7c48e45277b94599",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/fe11e036278bcef7277383f168def0ac4242f265598c9a0e7c48e45277b94599",
             "uploadDate": "2026-11-13T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Type-NOISE: Shonen Shojo gallery item 6",
             "description": "Type-NOISE: Shonen Shojo gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/82372427fc193e1024bc5702935b8cd2bc0e9f15b0d207972996f46c1c6737c7",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/82372427fc193e1024bc5702935b8cd2bc0e9f15b0d207972996f46c1c6737c7",
+            "uploadDate": "2026-11-13T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Type-NOISE: Shonen Shojo gallery item 7",
+            "description": "Type-NOISE: Shonen Shojo gallery item 7",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/d84de3f7ff4150f3cf756e1ed52c75f699fc1f280841a63a7494951ad0371938",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000125203/d84de3f7ff4150f3cf756e1ed52c75f699fc1f280841a63a7494951ad0371938",
             "uploadDate": "2026-11-13T00:00:00.000Z"
@@ -2759,9 +2767,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "MXN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 227.99,
-            "finalPrice": 227.99,
+            "finalPrice": 113.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2802,7 +2810,8 @@
           "applicationId": "01009ff028314000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2831,10 +2840,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000125203&v_loggedin=false&v_currency=MXN&v_price=113.99&v_country=MX",
+            "discountPriceEnd": "2026-11-27T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2979,6 +2988,12 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000125203/Video/9b9dcb2d59bcd000969744c998b708066279b198544579062365f43bd97599fe",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000125203/fb751e42206e0787b82e096730aa9640fc536dacc32454bdcca1798271cdb9f9",
               "resourceType": "image",
               "type": "upload"
@@ -3055,7 +3070,7 @@
   "query": {
     "slug": "type-noise-shonen-shojo-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

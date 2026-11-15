@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2630,7 +2630,7 @@
             "maxValue": null,
             "unitText": "players"
           },
-          "contentRating": "Todos",
+          "contentRating": "Todos +10",
           "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000134017/00a0c5edef61f838b2df2afb23bcd9d799b3cbbdd2db9cafbd43591664aeed5c",
           "publisher": {
             "@type": "Organization",
@@ -2647,49 +2647,65 @@
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "TANUKI: Pon's Summer  gallery item 1",
             "description": "TANUKI: Pon's Summer  gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/3da9cf216497fe27e5f5e4bae4889fcc213be3dc694cdccf6ea71776c70a91e4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/3da9cf216497fe27e5f5e4bae4889fcc213be3dc694cdccf6ea71776c70a91e4",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134017/Video/f7f4044be9a8369f6016486bc475789f23f746ca9b999dc91440064bd68add65",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134017/Video/f7f4044be9a8369f6016486bc475789f23f746ca9b999dc91440064bd68add65",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "TANUKI: Pon's Summer  gallery item 2",
             "description": "TANUKI: Pon's Summer  gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/63064a141679eff075c52f4917c6c1e0f80b98235789443b00472ec85a1c1265",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/63064a141679eff075c52f4917c6c1e0f80b98235789443b00472ec85a1c1265",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134017/Video/27c527b1161770596f14dd929b9aae7329dc8a59d005f539f42e236634a3372e",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000134017/Video/27c527b1161770596f14dd929b9aae7329dc8a59d005f539f42e236634a3372e",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "TANUKI: Pon's Summer  gallery item 3",
             "description": "TANUKI: Pon's Summer  gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/b0982eb486466d1609e8c91d2419b4084107c3772c696a46cad78907fd72c53d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/b0982eb486466d1609e8c91d2419b4084107c3772c696a46cad78907fd72c53d",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/3da9cf216497fe27e5f5e4bae4889fcc213be3dc694cdccf6ea71776c70a91e4",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/3da9cf216497fe27e5f5e4bae4889fcc213be3dc694cdccf6ea71776c70a91e4",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "TANUKI: Pon's Summer  gallery item 4",
             "description": "TANUKI: Pon's Summer  gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/d2e5b51afa1ca21a224dc831e9855f140bfbbe8d98b9f747c51178c0eb879828",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/d2e5b51afa1ca21a224dc831e9855f140bfbbe8d98b9f747c51178c0eb879828",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/63064a141679eff075c52f4917c6c1e0f80b98235789443b00472ec85a1c1265",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/63064a141679eff075c52f4917c6c1e0f80b98235789443b00472ec85a1c1265",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "TANUKI: Pon's Summer  gallery item 5",
             "description": "TANUKI: Pon's Summer  gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/efa2f61b1e8dcfa38a11755acbe356dc1a89b73ca9f7d8254af387b794a9a48f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/efa2f61b1e8dcfa38a11755acbe356dc1a89b73ca9f7d8254af387b794a9a48f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/b0982eb486466d1609e8c91d2419b4084107c3772c696a46cad78907fd72c53d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/b0982eb486466d1609e8c91d2419b4084107c3772c696a46cad78907fd72c53d",
             "uploadDate": "2026-11-10T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "TANUKI: Pon's Summer  gallery item 6",
             "description": "TANUKI: Pon's Summer  gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/d2e5b51afa1ca21a224dc831e9855f140bfbbe8d98b9f747c51178c0eb879828",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/d2e5b51afa1ca21a224dc831e9855f140bfbbe8d98b9f747c51178c0eb879828",
+            "uploadDate": "2026-11-10T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "TANUKI: Pon's Summer  gallery item 7",
+            "description": "TANUKI: Pon's Summer  gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/efa2f61b1e8dcfa38a11755acbe356dc1a89b73ca9f7d8254af387b794a9a48f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/efa2f61b1e8dcfa38a11755acbe356dc1a89b73ca9f7d8254af387b794a9a48f",
+            "uploadDate": "2026-11-10T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "TANUKI: Pon's Summer  gallery item 8",
+            "description": "TANUKI: Pon's Summer  gallery item 8",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/a18c8d620fb196f16eb6f8c42928606b5cbf6bb45f26815a2866d23562b9c051",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000134017/a18c8d620fb196f16eb6f8c42928606b5cbf6bb45f26815a2866d23562b9c051",
             "uploadDate": "2026-11-10T00:00:00.000Z"
@@ -2796,8 +2812,8 @@
           "applicationId": "040082b029a3a000",
           "appStoreUrl": null,
           "availability": [
-            "Reserva",
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2825,7 +2841,7 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": true,
+            "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
             "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000134017&v_loggedin=false&v_currency=CLP&v_price=9999.00&v_country=CL",
@@ -2935,10 +2951,13 @@
           "contentDescriptors": [
             {
               "__ref": "ContentDescriptor:{\"id\":\"1rY0FixUY9JBYh0QojE6LH\",\"locale\":\"es_CL\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"4rXfJg3rY2e58ECl3iULqU\",\"locale\":\"es_CL\"}"
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}"
+            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"es_CL\"}"
           },
           "headline": "Durante un cálido verano…",
           "id": "70010000134017",
@@ -2976,6 +2995,18 @@
             }
           ],
           "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000134017/Video/f7f4044be9a8369f6016486bc475789f23f746ca9b999dc91440064bd68add65",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000134017/Video/27c527b1161770596f14dd929b9aae7329dc8a59d005f539f42e236634a3372e",
+              "resourceType": "video",
+              "type": "upload"
+            },
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000134017/3da9cf216497fe27e5f5e4bae4889fcc213be3dc694cdccf6ea71776c70a91e4",
@@ -3046,15 +3077,22 @@
           "label": "Referencia al alcohol",
           "type": "CONTENT_DESCRIPTOR"
         },
-        "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_CL\"}": {
-          "__typename": "ContentRating",
-          "id": "3PUsVpTIBTxVxmzL362ZkB",
+        "ContentDescriptor:{\"id\":\"4rXfJg3rY2e58ECl3iULqU\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "4rXfJg3rY2e58ECl3iULqU",
           "locale": "es_CL",
-          "code": "e",
-          "label": "Todos",
+          "label": "Violencia de fantasía",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"es_CL\"}": {
+          "__typename": "ContentRating",
+          "id": "4QzesqRbAOTJ05zgLM8Yce",
+          "locale": "es_CL",
+          "code": "e10",
+          "label": "Todos +10",
           "requiresAgeGate": false,
           "system": "ESRB",
-          "order": 6,
+          "order": 10,
           "highestRating": null
         },
         "ROOT_QUERY": {
@@ -3071,7 +3109,7 @@
   "query": {
     "slug": "tanuki-pons-summer-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

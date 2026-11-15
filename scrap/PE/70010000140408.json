@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2715,11 +2715,6 @@
         }
       ],
       "initialApolloState": {
-        "Category:games": {
-          "__typename": "Category",
-          "id": "games",
-          "name": "Games"
-        },
         "Category:nintendo_switch": {
           "__typename": "Category",
           "id": "nintendo_switch",
@@ -2729,6 +2724,11 @@
           "__typename": "Category",
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
+        },
+        "Category:games": {
+          "__typename": "Category",
+          "id": "games",
+          "name": "Games"
         },
         "Product:{\"sku\":\"7100140408\"}": {
           "__typename": "Product",
@@ -2785,20 +2785,20 @@
           "baseSoftware": [],
           "categories": [
             {
-              "__ref": "Category:games"
-            },
-            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
+            },
+            {
+              "__ref": "Category:games"
             }
           ],
           "capacity": null,
           "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
-          "demoNsuid": null,
+          "demoNsuid": "70030000026376",
           "description({\"html\":true})": "<p>¿Buena memoria? ¿Reflejos rápidos? ¿Facilidad con los números? ¡Pon a prueba tus habilidades en Smartopus: IQ Quest!<br><br>Sumérgete en 21 divertidos minijuegos, descubre tus puntos fuertes y tendrás algo que comentar con tus amigos. Comparen resultados: ¿quién destaca en matemáticas, quién tiene buena memoria y quién obtiene una edad cerebral sorprendente? ¡Un poco de rivalidad amistosa puede ser la excusa perfecta para otro intento!<br><br>Siete categorías por descubrir<br>Explora Color, Identificación, Conocimientos, Matemáticas, Memoria, Reflejos y Visualización, con tres etapas en cada una.<br><br>Juega con colores, distingue diferencias, usa tus conocimientos, enfréntate a los números, prueba tu memoria, reacciona rápido y ejercita el pensamiento visual. ¡Puede que tu categoría favorita te sorprenda!<br><br>Elige tu reto<br>Elige una categoría en el modo Individual para una breve pausa mental o varios intentos en tu etapa favorita. Céntrate en una habilidad o cambia de aires. No hace falta destacar en todo para disfrutar descubriendo tus puntos fuertes.<br><br>Amplía tu aventura<br>Empieza por la primera etapa de cada categoría. Consigue al menos 50 puntos para desbloquear la siguiente y sigue tu progreso en el mapa. Cada etapa trae un nuevo reto y otra puntuación que perseguir.<br><br>A la aventura en Supervivencia<br>¿Quieres variar? Recorre las siete categorías en el modo Supervivencia y avanza por las etapas a medida que las desbloqueas. ¡Cambia de marcha cuando cada habilidad tome el protagonismo!<br><br>Descubre tu edad cerebral<br>Completa tu recorrido de Supervivencia para conocer tu edad cerebral: un resultado divertido basado en tu rendimiento. Compáralo con el de tus amigos o mira cómo cambia la próxima vez que completes el recorrido. ¿Cuál será el tuyo?<br><br>Descubre dónde destacas<br>Consulta las mejores puntuaciones para comparar tus resultados por categoría. ¿Los números son tu fuerte? ¿Tu memoria merece más reconocimiento? Tus resultados pueden ayudarte a decidir a qué jugar después.<br><br>Repite una categoría con menor puntuación o vuelve a tu especialidad para marcar un récord personal que tus amigos puedan intentar superar. ¡Comparen resultados y que empiece el rivalidad amistosa!<br><br>¿Otro intento?<br>Vuelve a las etapas desbloqueadas cuando quieras. Familiarízate con los retos, persigue tus récords y disfruta cuando aquello que parecía difícil por fin encaja.<br><br>Tu próximo récord te espera. ¡Sumérgete con Smartopus!<br><br>La edad cerebral es una función de entretenimiento basada en el rendimiento dentro del juego, no una evaluación científica ni médica.</p>",
           "disclaimer": "<p>Se requiere una suscripción a Nintendo Switch Online (se vende por separado) para utilizar la función de guardado de datos en la nube.</p><p>© 2026 Smartopus: IQ Quest. All rights reserved.</p>",
           "displayChokingHazard": null,
@@ -3045,7 +3045,7 @@
   "query": {
     "slug": "smartopus-iq-quest-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

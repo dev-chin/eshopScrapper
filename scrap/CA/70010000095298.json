@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1456,6 +1436,26 @@
                   "activeMatch": "",
                   "id": null,
                   "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
                 },
@@ -2991,7 +2991,7 @@
           "order": 6,
           "highestRating": null
         },
-        "Product:{\"sku\":\"7100066160\"}": {
+        "Product:{\"sku\":\"7100128076\"}": {
           "__typename": "Product",
           "availability": [
             "Available now"
@@ -3023,12 +3023,12 @@
           "locale": "en_CA",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": "Go-Go Town!",
-          "nsuid": "70010000066160",
+          "name": "Go-Go Town! – Nintendo Switch 2 Edition",
+          "nsuid": "70010000128076",
           "platform": {
             "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
           },
           "platinumPoints": null,
           "prePurchase": null,
@@ -3036,23 +3036,23 @@
             "__typename": "Prices",
             "currency": "CAD",
             "discounted": true,
-            "regularPrice": 38.99,
-            "finalPrice": 35.09,
+            "regularPrice": 42.99,
+            "finalPrice": 38.69,
             "pricePerUnit": null,
             "percentOff": 10,
-            "amountOff": 3.9
+            "amountOff": 4.3
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000066160/ca8180b647d0d4af33edd14244e1abcd2ddf939095a9bfe5cecf8f1c89d8cc99",
+            "publicId": "store/software/switch2/70010000128076/6f049023ace03909d42fbba9684616c5f1ed56aea1d8dcdeb1e46fcc1e88ec3d",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/f7a93fae57944e7581c7aba6857cb888_1024",
+            "publicId": "store/software/switch2/70010000128076/68ba7c923a4d5a4d86e848bd8a9a751d6797635b024aa17a3ae54b9520caeab4",
             "resourceType": "image",
-            "type": "fetch"
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-07-16T00:00:00.000Z",
@@ -3062,9 +3062,9 @@
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100066160",
+          "sku": "7100128076",
           "softwarePublisher": "Prideful Sloth",
-          "softwareDeveloper": null,
+          "softwareDeveloper": "Prideful Sloth Pty Ltd",
           "tags": {
             "__typename": "Tags",
             "features": [
@@ -3109,42 +3109,48 @@
             "code": "GAMES",
             "label": "Games"
           },
-          "urlKey": "go-go-town-switch",
+          "urlKey": "go-go-town-nintendo-switch-2-edition-switch-2",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000066160/0a501ff6145f20f07dec39df16875de949585206b3a9b35a978876ce5d7b85f1",
+              "publicId": "/store/software/switch2/70010000128076/Video/de8aeaebeb8a0e57301c3897be606d7431bbe5bb2285903a2c7ec8baacb4875f",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000128076/6e64b346f155eb21756733977fb97f35b3a876c0ae695f053967efc8c776e56d",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000066160/0a3fb5f2649a536a2d7053e436634e7184c793006c8283c028e785b2ad22b69b",
+              "publicId": "store/software/switch2/70010000128076/4100fc83452e98122beb8c8cb49e5a709183d89231b4facbffdf2150f5ae7918",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000066160/882f8c9efb8cb175184c33252031edb1b5f33c891e4024b0728a11a33a2a329a",
+              "publicId": "store/software/switch2/70010000128076/f6991fe59baa5cec82ee69f196b28caaaf8fd0370cbc910396c5fa450a2ddf3d",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000066160/2c10716fd8ebd88853e09758ed6b01cfb5135f4e93dca46116f2eac57ba67ae5",
+              "publicId": "store/software/switch2/70010000128076/0e5e8f176fe1c3fd0420b519f263f0e5647553a16aa2fb42026b2ed888f4e220",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000066160/717157eab37050a3b6f833a2ab09b8a23fddc0748eeb5df937a7afb679ff7bbc",
+              "publicId": "store/software/switch2/70010000128076/b792257248384f6d47e9bdd8ff740b8659bfcee8b0f9877676c46f87b4bd3c65",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000066160/92768acdf60ecf21aa81207a0e4ebb7b3d4ad727f6d2a3e1863a01afe710d9e4",
+              "publicId": "store/software/switch2/70010000128076/5e5bea6a831f93662d07929d5043cc32d7471c43637273710a6db63dc11df975",
               "resourceType": "image",
               "type": "upload"
             }
@@ -3857,7 +3863,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-12T07:59:59Z",
+            "discountPriceEnd": null,
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -3880,12 +3886,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 51.99,
-            "finalPrice": 35.99,
+            "finalPrice": 51.99,
             "pricePerUnit": null,
-            "percentOff": 30.78,
-            "amountOff": 16
+            "percentOff": 0,
+            "amountOff": 0
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -4320,7 +4326,7 @@
             }
           ]
         },
-        "Product:{\"sku\":\"7100105385\"}": {
+        "Product:{\"sku\":\"7100112303\"}": {
           "__typename": "Product",
           "availability": [
             "Available now"
@@ -4345,12 +4351,12 @@
           "locale": "en_CA",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": "Cast n Chill",
-          "nsuid": "70010000105385",
+          "name": "Cast n Chill - Nintendo Switch™ 2 Edition",
+          "nsuid": "70010000112303",
           "platform": {
             "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
           },
           "platinumPoints": null,
           "prePurchase": null,
@@ -4366,13 +4372,13 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000105385/f23cf240576eea81f9026f2fe4c84b683edc0627f3706d7be83401f18d0d8596",
+            "publicId": "store/software/switch2/70010000112303/583861248a19a41281199d2dc5e43bed8cb4915a806dc76815d0b2f48ea702c6",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/2f045fdb604e40e8b9eb5a10d36563cd_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/b8894e1965b84550a184f78871f3a215_1024",
             "resourceType": "image",
             "type": "fetch"
           },
@@ -4384,9 +4390,9 @@
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100105385",
+          "sku": "7100112303",
           "softwarePublisher": "Wombat Brawler",
-          "softwareDeveloper": null,
+          "softwareDeveloper": "Wombat Brawler",
           "tags": {
             "__typename": "Tags",
             "features": [],
@@ -4405,6 +4411,16 @@
             "waysToPlay": [
               {
                 "__typename": "Tag",
+                "code": "GAMESHARE_GAMECHAT",
+                "label": "GameShare over GameChat"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GAMESHARE_LOCAL",
+                "label": "GameShare with local users"
+              },
+              {
+                "__typename": "Tag",
                 "code": "FRIENDS_FAMILY",
                 "label": "Meet up and play together"
               },
@@ -4420,48 +4436,202 @@
             "code": "GAMES",
             "label": "Games"
           },
-          "urlKey": "cast-n-chill-switch",
+          "urlKey": "cast-n-chill-nintendo-switch-2-edition-switch-2",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000105385/Video/f7ecba018cf7c93951f2c922c85184c57689c019d5aa9b28570083137d7cf553",
+              "publicId": "/store/software/switch2/70010000112303/Video/2a3e6e6246adbead2ab8d9e3190159dfa5da4cc73348e973fd65f70b46bd02c7",
               "resourceType": "video",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000105385/814ab77ca08d341cecfe56986c7c0b09e742c88d408141bc81440659dd6aa121",
+              "publicId": "store/software/switch2/70010000112303/814ab77ca08d341cecfe56986c7c0b09e742c88d408141bc81440659dd6aa121",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000105385/9c1fdc5eab00c44525f78f158d8465cbaa33ff90d5a511336e0ba3ff04ad2a66",
+              "publicId": "store/software/switch2/70010000112303/9c1fdc5eab00c44525f78f158d8465cbaa33ff90d5a511336e0ba3ff04ad2a66",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000105385/3885eef2fc776ad24a26e3a41bb7b8ffc5d52d005f0af3d68405d3fa9a61038b",
+              "publicId": "store/software/switch2/70010000112303/3885eef2fc776ad24a26e3a41bb7b8ffc5d52d005f0af3d68405d3fa9a61038b",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000105385/546d99ccc63f951fdfad36e2c63a8677ae05590d58ebc2f14b6215af431da306",
+              "publicId": "store/software/switch2/70010000112303/546d99ccc63f951fdfad36e2c63a8677ae05590d58ebc2f14b6215af431da306",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000105385/13419a6b8f4136d801b95469958008fc87b72025d7b71809b9b298a4e6276fd8",
+              "publicId": "store/software/switch2/70010000112303/13419a6b8f4136d801b95469958008fc87b72025d7b71809b9b298a4e6276fd8",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000105385/d963053c968878e35e59faf49130a18440f914696622c6ff478ecfa165237387",
+              "publicId": "store/software/switch2/70010000112303/8d2c64324aebecf5a19a8814760fe911aadaa61121672137ad5e3585b29228ae",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100013165\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Available now"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"en_CA\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"en_CA\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_CA\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "en_CA",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Farm Together",
+          "nsuid": "70010000013165",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CAD",
+            "discounted": false,
+            "regularPrice": 22.79,
+            "finalPrice": 22.79,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000013165/982d383107fecd2949ca0dfa2ff48dec749e820d42424cf4d7642c11b17fb6c0",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/49b9c4bd660b4a6b8a486e43e590a116_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2019-02-01T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100013165",
+          "softwarePublisher": "Milkstone Studios",
+          "softwareDeveloper": "Milkstone Studios",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulation"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Meet up and play together"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Play online with friends"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Play together on one console"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Games"
+          },
+          "urlKey": "farm-together-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000013165/Video/9682980d3974eea143ef3ddba9b5a5dd0c896a4272b87680dad23ce45e3d58f7",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000013165/4ff86598f23bd0b84240a974bbc058bc81d83ca78eb3087e8b912fdc38a1a553",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000013165/439627643f885454d7ecf96ac7fad80475bb088e98e74574ba1cfd63fb370d7e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000013165/01035a03372f5ddd1736749a6e405df572e552a61f028c89b079c86c94df43c6",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000013165/f49db7b2908fe724e5c0945cd7ef58fd54d78f37ed8b513ef4804f66bda7d60f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000013165/ac5fa4f6849cb2351725323527e1664087e4210b56b4efbe9c14c2d388f8d49e",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000013165/9348a130a491a15938cf6cd64a173cd4569b69e670a909897726f8869356e560",
               "resourceType": "image",
               "type": "upload"
             }
@@ -4671,7 +4841,7 @@
             }
           ]
         },
-        "Product:{\"sku\":\"7100013165\"}": {
+        "Product:{\"sku\":\"7100052933\"}": {
           "__typename": "Product",
           "availability": [
             "Available now"
@@ -4679,20 +4849,17 @@
           "color": null,
           "contentDescriptors": [
             {
-              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"en_CA\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"en_CA\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"7KOoNYQ2rND5E5vgWQjxlt\",\"locale\":\"en_CA\"}"
             }
           ],
           "contentRating": {
             "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_CA\"}"
           },
-          "demoNsuid": null,
+          "demoNsuid": "70030000019732",
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-11-17T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -4703,8 +4870,8 @@
           "locale": "en_CA",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": "Farm Together",
-          "nsuid": "70010000013165",
+          "name": "Moving Out 2",
+          "nsuid": "70010000052933",
           "platform": {
             "__typename": "Platform",
             "label": "Nintendo Switch",
@@ -4715,51 +4882,67 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
-            "regularPrice": 22.79,
-            "finalPrice": 22.79,
+            "discounted": true,
+            "regularPrice": 38.99,
+            "finalPrice": 9.74,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 75.02,
+            "amountOff": 29.25
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000013165/982d383107fecd2949ca0dfa2ff48dec749e820d42424cf4d7642c11b17fb6c0",
+            "publicId": "store/software/switch/70010000052933/ca4daae0eaae22b18cefda3e0ca948516794309d5a885b650671d9ec1987843d",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/49b9c4bd660b4a6b8a486e43e590a116_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/6e9ea8940da44dd0976139e2e734aed5_1024",
             "resourceType": "image",
             "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
-          "releaseDate": "2019-02-01T00:00:00.000Z",
+          "releaseDate": "2023-08-15T00:00:00.000Z",
           "releaseDateDisplay": null,
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100013165",
-          "softwarePublisher": "Milkstone Studios",
-          "softwareDeveloper": "Milkstone Studios",
+          "sku": "7100052933",
+          "softwarePublisher": "Team17",
+          "softwareDeveloper": "SMG Studios + DevM Games",
           "tags": {
             "__typename": "Tags",
-            "features": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Play for the fastest time"
+              }
+            ],
             "genres": [
               {
                 "__typename": "Tag",
-                "code": "SIMULATION",
-                "label": "Simulation"
+                "code": "ACTION",
+                "label": "Action"
               }
             ],
             "waysToPlay": [
               {
                 "__typename": "Tag",
+                "code": "CROSS_PLATFORM",
+                "label": "Cross-platform play"
+              },
+              {
+                "__typename": "Tag",
                 "code": "FRIENDS_FAMILY",
                 "label": "Meet up and play together"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Online co-op"
               },
               {
                 "__typename": "Tag",
@@ -4778,48 +4961,48 @@
             "code": "GAMES",
             "label": "Games"
           },
-          "urlKey": "farm-together-switch",
+          "urlKey": "moving-out-2-switch",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000013165/Video/9682980d3974eea143ef3ddba9b5a5dd0c896a4272b87680dad23ce45e3d58f7",
+              "publicId": "/store/software/switch/70010000052933/Video/09257dee11b41a974ca73a0f00231fac1102c740d75151eaceda15ba83021b70",
               "resourceType": "video",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000013165/4ff86598f23bd0b84240a974bbc058bc81d83ca78eb3087e8b912fdc38a1a553",
+              "publicId": "store/software/switch/70010000052933/7e33190f597c59fd8c7a6aa975979d5729e50a71fffa776b55bee273a32f34c4",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000013165/439627643f885454d7ecf96ac7fad80475bb088e98e74574ba1cfd63fb370d7e",
+              "publicId": "store/software/switch/70010000052933/b39b6e3395ccaaab75f3a661074f6cd75ceae414b55d3f9c4d77d8abdc68f9dd",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000013165/01035a03372f5ddd1736749a6e405df572e552a61f028c89b079c86c94df43c6",
+              "publicId": "store/software/switch/70010000052933/2275a778a93a3038a63fcaf17a4053ba44a65b883dafb1771a41cbfbee121b04",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000013165/f49db7b2908fe724e5c0945cd7ef58fd54d78f37ed8b513ef4804f66bda7d60f",
+              "publicId": "store/software/switch/70010000052933/1f72513a0247316938deac41b3e182c6e5deb6c30a381c1812fff8c4c7db6da4",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000013165/ac5fa4f6849cb2351725323527e1664087e4210b56b4efbe9c14c2d388f8d49e",
+              "publicId": "store/software/switch/70010000052933/3aed3dc2b92907e2ed6c7ba1b6df3ef4058c543fd4ddb9e34d720dc8fda8adc1",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000013165/9348a130a491a15938cf6cd64a173cd4569b69e670a909897726f8869356e560",
+              "publicId": "store/software/switch/70010000052933/7359db94b3072ef62daae49f28acaf233860196715da01433c18a08d8ead5f9c",
               "resourceType": "image",
               "type": "upload"
             }
@@ -5004,173 +5187,6 @@
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000058468/25efe3f95f42453940367d82b92b263018411133e7e21b4a98da70ddb3461d9a",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "Product:{\"sku\":\"7100052933\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Available now"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"7KOoNYQ2rND5E5vgWQjxlt\",\"locale\":\"en_CA\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_CA\"}"
-          },
-          "demoNsuid": "70030000019732",
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-17T07:59:59Z",
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "en_CA",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Moving Out 2",
-          "nsuid": "70010000052933",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "CAD",
-            "discounted": true,
-            "regularPrice": 38.99,
-            "finalPrice": 9.74,
-            "pricePerUnit": null,
-            "percentOff": 75.02,
-            "amountOff": 29.25
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000052933/ca4daae0eaae22b18cefda3e0ca948516794309d5a885b650671d9ec1987843d",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/6e9ea8940da44dd0976139e2e734aed5_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2023-08-15T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100052933",
-          "softwarePublisher": "Team17",
-          "softwareDeveloper": "SMG Studios + DevM Games",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "TIME_ATTACK",
-                "label": "Play for the fastest time"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Action"
-              }
-            ],
-            "waysToPlay": [
-              {
-                "__typename": "Tag",
-                "code": "CROSS_PLATFORM",
-                "label": "Cross-platform play"
-              },
-              {
-                "__typename": "Tag",
-                "code": "FRIENDS_FAMILY",
-                "label": "Meet up and play together"
-              },
-              {
-                "__typename": "Tag",
-                "code": "ONLINE_COOP",
-                "label": "Online co-op"
-              },
-              {
-                "__typename": "Tag",
-                "code": "FRIEND_MATCHING",
-                "label": "Play online with friends"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SHARING",
-                "label": "Play together on one console"
-              }
-            ]
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Games"
-          },
-          "urlKey": "moving-out-2-switch",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000052933/Video/09257dee11b41a974ca73a0f00231fac1102c740d75151eaceda15ba83021b70",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000052933/7e33190f597c59fd8c7a6aa975979d5729e50a71fffa776b55bee273a32f34c4",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000052933/b39b6e3395ccaaab75f3a661074f6cd75ceae414b55d3f9c4d77d8abdc68f9dd",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000052933/2275a778a93a3038a63fcaf17a4053ba44a65b883dafb1771a41cbfbee121b04",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000052933/1f72513a0247316938deac41b3e182c6e5deb6c30a381c1812fff8c4c7db6da4",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000052933/3aed3dc2b92907e2ed6c7ba1b6df3ef4058c543fd4ddb9e34d720dc8fda8adc1",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000052933/7359db94b3072ef62daae49f28acaf233860196715da01433c18a08d8ead5f9c",
               "resourceType": "image",
               "type": "upload"
             }
@@ -5558,6 +5574,183 @@
             }
           ]
         },
+        "ContentDescriptor:{\"id\":\"5uPwGhjVIx0Kn0AdAAZJXf\",\"locale\":\"en_CA\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "5uPwGhjVIx0Kn0AdAAZJXf",
+          "locale": "en_CA",
+          "label": "Mild Violence",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100068159\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Available now"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"1rY0FixUY9JBYh0QojE6LH\",\"locale\":\"en_CA\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"5uPwGhjVIx0Kn0AdAAZJXf\",\"locale\":\"en_CA\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_CA\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "en_CA",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Everybody 1-2-Switch!™",
+          "nsuid": "70010000068159",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CAD",
+            "discounted": false,
+            "regularPrice": 39.99,
+            "finalPrice": 39.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000068159/de4985f3b03b7b50565be4b906ded22186f8365cc8c25bcbe1ed76882df39a17",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/03d180c97b35423e9b532e15668fc3a3_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2023-06-30T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100068159",
+          "softwarePublisher": "Nintendo",
+          "softwareDeveloper": "Nintendo.",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Choose your difficulty"
+              },
+              {
+                "__typename": "Tag",
+                "code": "VARIOUS_GAMES",
+                "label": "Minigames"
+              },
+              {
+                "__typename": "Tag",
+                "code": "MOTION_CONTROL",
+                "label": "Motion controls"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Action"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PARTY",
+                "label": "Party"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Meet up and play together"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Play together on one console"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Games"
+          },
+          "urlKey": "everybody-1-2-switch-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000068159/Video/0b123785bba1c202918941ec52317d752883109ba7b2ca622c4f6988f01d6b52",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068159/5607f688c086c8efda4b11cc475a5bc724da219b865ab4c0e03b40e3c3dc3b24",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068159/7bcf4e472d63f36982e2d366e9c8a1cf24606f25c5f9fdc07a60a0235b0df5ba",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068159/2c4a2143eb8747dd39936cb4dc5ab4f95dce06933e0fa72520386012963e015a",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068159/e7bbfa0b556dba6faa5864c87150801d7e8ac89f68e757c73036452d5f2c71e7",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068159/79719eac0b17f7d6d019e766c1ab21930f6da3e5b5cfb541089cf47b9b34d167",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000068159/766481627b4bee911897bf2464da2c161265dd04b6f5feebed4605a04c23d365",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100077858\"}": {
           "__typename": "Product",
           "availability": [
@@ -5737,183 +5930,6 @@
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000077858/f7827a06b103c006b5ba265af1c99c6260fe84cc986aee724cc34fb6c3c10648",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "ContentDescriptor:{\"id\":\"5uPwGhjVIx0Kn0AdAAZJXf\",\"locale\":\"en_CA\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "5uPwGhjVIx0Kn0AdAAZJXf",
-          "locale": "en_CA",
-          "label": "Mild Violence",
-          "type": "CONTENT_DESCRIPTOR"
-        },
-        "Product:{\"sku\":\"7100068159\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Available now"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"1rY0FixUY9JBYh0QojE6LH\",\"locale\":\"en_CA\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"5uPwGhjVIx0Kn0AdAAZJXf\",\"locale\":\"en_CA\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_CA\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "en_CA",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Everybody 1-2-Switch!™",
-          "nsuid": "70010000068159",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "CAD",
-            "discounted": false,
-            "regularPrice": 39.99,
-            "finalPrice": 39.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000068159/de4985f3b03b7b50565be4b906ded22186f8365cc8c25bcbe1ed76882df39a17",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/03d180c97b35423e9b532e15668fc3a3_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2023-06-30T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100068159",
-          "softwarePublisher": "Nintendo",
-          "softwareDeveloper": "Nintendo.",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Choose your difficulty"
-              },
-              {
-                "__typename": "Tag",
-                "code": "VARIOUS_GAMES",
-                "label": "Minigames"
-              },
-              {
-                "__typename": "Tag",
-                "code": "MOTION_CONTROL",
-                "label": "Motion controls"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Action"
-              },
-              {
-                "__typename": "Tag",
-                "code": "PARTY",
-                "label": "Party"
-              }
-            ],
-            "waysToPlay": [
-              {
-                "__typename": "Tag",
-                "code": "FRIENDS_FAMILY",
-                "label": "Meet up and play together"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SHARING",
-                "label": "Play together on one console"
-              }
-            ]
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Games"
-          },
-          "urlKey": "everybody-1-2-switch-switch",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000068159/Video/0b123785bba1c202918941ec52317d752883109ba7b2ca622c4f6988f01d6b52",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000068159/5607f688c086c8efda4b11cc475a5bc724da219b865ab4c0e03b40e3c3dc3b24",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000068159/7bcf4e472d63f36982e2d366e9c8a1cf24606f25c5f9fdc07a60a0235b0df5ba",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000068159/2c4a2143eb8747dd39936cb4dc5ab4f95dce06933e0fa72520386012963e015a",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000068159/e7bbfa0b556dba6faa5864c87150801d7e8ac89f68e757c73036452d5f2c71e7",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000068159/79719eac0b17f7d6d019e766c1ab21930f6da3e5b5cfb541089cf47b9b34d167",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000068159/766481627b4bee911897bf2464da2c161265dd04b6f5feebed4605a04c23d365",
               "resourceType": "image",
               "type": "upload"
             }
@@ -6380,212 +6396,6 @@
             }
           ]
         },
-        "ContentDescriptor:{\"id\":\"4iPYmFuuycedeb6UrbsN5v\",\"locale\":\"en_CA\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "4iPYmFuuycedeb6UrbsN5v",
-          "locale": "en_CA",
-          "label": "In-Game Purchases (Includes Random Items)",
-          "type": "INTERACTIVE_ELEMENT"
-        },
-        "Product:{\"sku\":\"7100116953\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Available now"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"en_CA\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"4iPYmFuuycedeb6UrbsN5v\",\"locale\":\"en_CA\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"en_CA\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "en_CA",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "NBA 2K27",
-          "nsuid": "70010000116953",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch 2",
-            "code": "NINTENDO_SWITCH_2"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "CAD",
-            "discounted": false,
-            "regularPrice": 89.99,
-            "finalPrice": 89.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000116953/32da48f93d677d3c2c8b7198447ae3da7b9b12a7fe372291a39d2af63d5b27c4",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000116953/7e8f05843f86a543d64ff1ea3a5963073e882ec2f988494cbc7fecdd51678b18",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-09-04T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100116953",
-          "softwarePublisher": "2K",
-          "softwareDeveloper": "Visual Concepts",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_CUSTOMIZE",
-                "label": "Character customization"
-              },
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Choose your difficulty"
-              },
-              {
-                "__typename": "Tag",
-                "code": "ONLINE_RANKING",
-                "label": "Online scoreboards"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SCORE_ATTACK",
-                "label": "Play for a high score"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Raise your stats"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Voiced characters"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Action"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SIMULATION",
-                "label": "Simulation"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SPORTS",
-                "label": "Sports"
-              }
-            ],
-            "waysToPlay": [
-              {
-                "__typename": "Tag",
-                "code": "ONLINE_BATTLE",
-                "label": "Compete online"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GAMESHARE_GAMECHAT",
-                "label": "GameShare over GameChat"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GAMESHARE_LOCAL",
-                "label": "GameShare with local users"
-              },
-              {
-                "__typename": "Tag",
-                "code": "FRIENDS_FAMILY",
-                "label": "Meet up and play together"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SHARING",
-                "label": "Play together on one console"
-              }
-            ]
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Games"
-          },
-          "urlKey": "nba-2k27-switch-2",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000116953/0e7e64aadb89b19e15605083c549b7b3167c3b6793b04fd12b4c5c813fffe5c8",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000116953/837af188df0f930c240c9faae324e2d1f5b7ce8aa31e7ad06711c5b7daddbc88",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000116953/da2b428151353aebc850627376061abdc5d89f90ec7953fe111566a1106962b7",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000116953/dab6e376a41ca34b2ac625ebca6b479089c09bf5a5f1b19d768db845cd6b6908",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000116953/8509d9450bf9a21f9d6ac6b7f4392b984f66ff9dc8225768e8c9411c06146e17",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000116953/f9ef604f3767706a1a2196d80387dca95c2792f6d01437af4ac031836b58b939",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
         "NewsArticle:{\"id\":\"56MXHh176Q2AsQSvG7lHHp\",\"locale\":\"en_CA\"}": {
           "__typename": "NewsArticle",
           "id": "56MXHh176Q2AsQSvG7lHHp",
@@ -6704,7 +6514,7 @@
           "containsEmbeddedBattery": false,
           "crossSellProducts": [
             {
-              "__ref": "Product:{\"sku\":\"7100066160\"}"
+              "__ref": "Product:{\"sku\":\"7100128076\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100105247\"}"
@@ -6728,19 +6538,19 @@
               "__ref": "Product:{\"sku\":\"7100080179\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100105385\"}"
-            },
-            {
-              "__ref": "Product:{\"sku\":\"7100105869\"}"
+              "__ref": "Product:{\"sku\":\"7100112303\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100013165\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100058468\"}"
+              "__ref": "Product:{\"sku\":\"7100105869\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100052933\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100058468\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100080664\"}"
@@ -6749,10 +6559,10 @@
               "__ref": "Product:{\"sku\":\"7100077705\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100077858\"}"
+              "__ref": "Product:{\"sku\":\"7100068159\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100068159\"}"
+              "__ref": "Product:{\"sku\":\"7100077858\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100029721\"}"
@@ -6762,9 +6572,6 @@
             },
             {
               "__ref": "Product:{\"sku\":\"7100020891\"}"
-            },
-            {
-              "__ref": "Product:{\"sku\":\"7100116953\"}"
             }
           ],
           "countryOfOrigin": null,
@@ -7031,7 +6838,7 @@
   "query": {
     "slug": "survival-kids-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

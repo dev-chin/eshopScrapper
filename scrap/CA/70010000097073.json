@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1456,6 +1436,26 @@
                   "activeMatch": "",
                   "id": null,
                   "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
                   "characterColor": null,
                   "background": null
                 },
@@ -3058,7 +3058,7 @@
                 },
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-01T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -3081,12 +3081,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 89.99,
-                  "finalPrice": 89.99,
+                  "finalPrice": 8.99,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 90.01,
+                  "amountOff": 81
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -4447,9 +4447,9 @@
           "__typename": "Product",
           "backgroundColor": "0588f8",
           "categories": [
+            "Nintendo Switch",
             "Games",
-            "Nintendo 3DS Family",
-            "Nintendo Switch"
+            "Nintendo 3DS Family"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -4664,7 +4664,7 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
                   "resourceType": "image",
                   "type": "fetch"
                 },
@@ -4834,7 +4834,7 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
                   "resourceType": "image",
                   "type": "fetch"
                 },
@@ -5004,7 +5004,7 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
             "resourceType": "image",
             "type": "fetch"
           },
@@ -5044,6 +5044,11 @@
           "graphCategories": [
             {
               "__typename": "Category",
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
+            },
+            {
+              "__typename": "Category",
               "id": "games",
               "name": "Games"
             },
@@ -5051,11 +5056,6 @@
               "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
-            },
-            {
-              "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
             }
           ],
           "genres": [],
@@ -8467,9 +8467,9 @@
           "__typename": "Product",
           "backgroundColor": "1e1311",
           "categories": [
-            "Games",
             "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Nintendo 3DS Family",
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -8834,11 +8834,6 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
-            },
-            {
-              "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
             },
@@ -8846,6 +8841,11 @@
               "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -9571,8 +9571,8 @@
                 "locale": "en_CA",
                 "manufacturer": null,
                 "maxQtyAllowedInCart": null,
-                "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
-                "nsuid": "70070000014384",
+                "name": "Mario + Rabbids® Sparks of Hope: + Rayman Edition",
+                "nsuid": "70070000018644",
                 "platform": {
                   "__typename": "Platform",
                   "label": "Nintendo Switch",
@@ -9584,28 +9584,28 @@
                   "__typename": "Prices",
                   "currency": "CAD",
                   "discounted": false,
-                  "regularPrice": 119.99,
-                  "finalPrice": 119.99,
+                  "regularPrice": 89.99,
+                  "finalPrice": 89.99,
                   "pricePerUnit": null,
                   "percentOff": 0,
                   "amountOff": 0
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
+                  "publicId": "store/software/switch/70070000018644/2be85ecbf4e0641ac32aaf511725581f8afa14f007f3781fd86ee48f46ab5ac6",
                   "resourceType": "image",
                   "type": "upload"
                 },
                 "productImageSquare": null,
                 "qtyAllowedPerCustomer": null,
-                "releaseDate": "2022-10-20T00:00:00.000Z",
+                "releaseDate": "2023-08-30T00:00:00.000Z",
                 "releaseDateDisplay": null,
                 "requiresLogin": null,
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
                 "showWidely": true,
-                "sku": "7700014384",
+                "sku": "7700018644",
                 "softwarePublisher": "Ubisoft",
                 "softwareDeveloper": null,
                 "tags": {
@@ -9619,7 +9619,7 @@
                   "code": "GAMES",
                   "label": "Games"
                 },
-                "urlKey": "mario-plus-rabbids-sparks-of-hope-gold-edition-switch",
+                "urlKey": "mario-plus-rabbids-sparks-of-hope-plus-rayman-edition-switch",
                 "visibleInSearch": true
               }
             },
@@ -9679,8 +9679,8 @@
                 "locale": "en_CA",
                 "manufacturer": null,
                 "maxQtyAllowedInCart": null,
-                "name": "Mario + Rabbids® Sparks of Hope: + Rayman Edition",
-                "nsuid": "70070000018644",
+                "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
+                "nsuid": "70070000014384",
                 "platform": {
                   "__typename": "Platform",
                   "label": "Nintendo Switch",
@@ -9692,28 +9692,28 @@
                   "__typename": "Prices",
                   "currency": "CAD",
                   "discounted": false,
-                  "regularPrice": 89.99,
-                  "finalPrice": 89.99,
+                  "regularPrice": 119.99,
+                  "finalPrice": 119.99,
                   "pricePerUnit": null,
                   "percentOff": 0,
                   "amountOff": 0
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "store/software/switch/70070000018644/2be85ecbf4e0641ac32aaf511725581f8afa14f007f3781fd86ee48f46ab5ac6",
+                  "publicId": "store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
                   "resourceType": "image",
                   "type": "upload"
                 },
                 "productImageSquare": null,
                 "qtyAllowedPerCustomer": null,
-                "releaseDate": "2023-08-30T00:00:00.000Z",
+                "releaseDate": "2022-10-20T00:00:00.000Z",
                 "releaseDateDisplay": null,
                 "requiresLogin": null,
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
                 "showWidely": true,
-                "sku": "7700018644",
+                "sku": "7700014384",
                 "softwarePublisher": "Ubisoft",
                 "softwareDeveloper": null,
                 "tags": {
@@ -9727,7 +9727,7 @@
                   "code": "GAMES",
                   "label": "Games"
                 },
-                "urlKey": "mario-plus-rabbids-sparks-of-hope-plus-rayman-edition-switch",
+                "urlKey": "mario-plus-rabbids-sparks-of-hope-gold-edition-switch",
                 "visibleInSearch": true
               }
             }
@@ -10046,7 +10046,7 @@
                 "dlcType": null,
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-11-22T23:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -10069,12 +10069,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 34.99,
-                  "finalPrice": 34.99,
+                  "finalPrice": 13.99,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 60.02,
+                  "amountOff": 21
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -10186,7 +10186,7 @@
           "dlcType": null,
           "eshopDetails": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-11-22T23:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -10205,12 +10205,12 @@
           "prices": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 34.99,
-            "finalPrice": 34.99,
+            "finalPrice": 13.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 60.02,
+            "amountOff": 21
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -10276,9 +10276,10 @@
           "apparelType": null,
           "baseColors": [],
           "collectibleType": null,
-          "collectionPriceRange": "$20 - $39.99",
+          "collectionPriceRange": "$10 - $19.99",
           "collectionPriceRangeFilter": [
-            "$20 - $39.99"
+            "On sale",
+            "$10 - $19.99"
           ],
           "controllerType": null,
           "corePlatforms": [
@@ -10300,20 +10301,23 @@
           "playerCount": "4+",
           "playerCountDescription": null,
           "plushType": null,
-          "priceRange": "$20 - $39.99",
+          "priceRange": "$10 - $19.99",
           "priceRangeFilter": [
-            "$20 - $39.99"
+            "On sale",
+            "$10 - $19.99"
           ],
           "productType": [
             "Games"
           ],
           "replacementPart": null,
-          "topLevelFilters": [],
+          "topLevelFilters": [
+            "Deals"
+          ],
           "toyType": [],
-          "sortdiscountPriceEnd": null,
-          "sortFinalPrice": 34.99,
-          "sortAmountOff": 0,
-          "sortPercentOff": 0,
+          "sortdiscountPriceEnd": "2026-11-22T23:59:59Z",
+          "sortFinalPrice": 13.99,
+          "sortAmountOff": 21,
+          "sortPercentOff": 60.02,
           "waysToPlayLabels": [
             "Compete online",
             "Meet up and play together",
@@ -10757,9 +10761,9 @@
           "__typename": "Product",
           "backgroundColor": "d6f0fa",
           "categories": [
+            "Nintendo Switch",
             "Games",
-            "Nintendo 3DS Family",
-            "Nintendo Switch"
+            "Nintendo 3DS Family"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -11552,6 +11556,11 @@
           "graphCategories": [
             {
               "__typename": "Category",
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
+            },
+            {
+              "__typename": "Category",
               "id": "games",
               "name": "Games"
             },
@@ -11559,11 +11568,6 @@
               "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
-            },
-            {
-              "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
             }
           ],
           "genres": [],
@@ -12529,7 +12533,7 @@
           },
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-01T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -12552,12 +12556,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 89.99,
-            "finalPrice": 89.99,
+            "finalPrice": 8.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 90.01,
+            "amountOff": 81
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -13419,7 +13423,7 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
             "resourceType": "image",
             "type": "fetch"
           },
@@ -13513,13 +13517,13 @@
           "backgroundColor": "0588f8",
           "categories": [
             {
+              "__ref": "Category:nintendo_switch"
+            },
+            {
               "__ref": "Category:games"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
-            },
-            {
-              "__ref": "Category:nintendo_switch"
             }
           ],
           "edition": "Standard Edition",
@@ -13706,7 +13710,7 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
             "resourceType": "image",
             "type": "fetch"
           },
@@ -16112,13 +16116,13 @@
           "backgroundColor": "1e1311",
           "categories": [
             {
-              "__ref": "Category:games"
-            },
-            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
+            },
+            {
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -16718,7 +16722,7 @@
               "label": "ROM Bundle",
               "value": "ROM Bundle",
               "product": {
-                "__ref": "Product:{\"sku\":\"7700014384\"}"
+                "__ref": "Product:{\"sku\":\"7700018644\"}"
               }
             },
             {
@@ -16726,97 +16730,10 @@
               "label": "ROM Bundle",
               "value": "ROM Bundle",
               "product": {
-                "__ref": "Product:{\"sku\":\"7700018644\"}"
+                "__ref": "Product:{\"sku\":\"7700014384\"}"
               }
             }
           ]
-        },
-        "Product:{\"sku\":\"7700014384\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Available now"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"4kpZ8QUz0vjA16X6DzpbES\",\"locale\":\"en_CA\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"en_CA\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"en_CA\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": {
-            "__typename": "DlcType",
-            "label": "ROM Bundle",
-            "code": "ROM_BUNDLE"
-          },
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "en_CA",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
-          "nsuid": "70070000014384",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "CAD",
-            "discounted": false,
-            "regularPrice": 119.99,
-            "finalPrice": 119.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": null,
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2022-10-20T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": null,
-          "size": null,
-          "showWidely": true,
-          "sku": "7700014384",
-          "softwarePublisher": "Ubisoft",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Games"
-          },
-          "urlKey": "mario-plus-rabbids-sparks-of-hope-gold-edition-switch",
-          "visibleInSearch": true
         },
         "Product:{\"sku\":\"7700018644\"}": {
           "__typename": "Product",
@@ -16905,6 +16822,93 @@
           "urlKey": "mario-plus-rabbids-sparks-of-hope-plus-rayman-edition-switch",
           "visibleInSearch": true
         },
+        "Product:{\"sku\":\"7700014384\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Available now"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"4kpZ8QUz0vjA16X6DzpbES\",\"locale\":\"en_CA\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"en_CA\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"en_CA\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "ROM Bundle",
+            "code": "ROM_BUNDLE"
+          },
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "en_CA",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
+          "nsuid": "70070000014384",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "CAD",
+            "discounted": false,
+            "regularPrice": 119.99,
+            "finalPrice": 119.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": null,
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-10-20T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": null,
+          "size": null,
+          "showWidely": true,
+          "sku": "7700014384",
+          "softwarePublisher": "Ubisoft",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Games"
+          },
+          "urlKey": "mario-plus-rabbids-sparks-of-hope-gold-edition-switch",
+          "visibleInSearch": true
+        },
         "Product:{\"sku\":\"7100033942\"}": {
           "__typename": "Product",
           "availability": [
@@ -16923,7 +16927,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-11-22T23:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16946,12 +16950,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 34.99,
-            "finalPrice": 34.99,
+            "finalPrice": 13.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 60.02,
+            "amountOff": 21
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -17051,9 +17055,10 @@
             "apparel": null,
             "baseColors": [],
             "collectible": null,
-            "priceRange({\"type\":\"ALL\"})": "$20 - $39.99",
+            "priceRange({\"type\":\"ALL\"})": "$10 - $19.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
-              "$20 - $39.99"
+              "On sale",
+              "$10 - $19.99"
             ],
             "controller": null,
             "corePlatforms": [
@@ -17073,15 +17078,18 @@
               "Save Data Cloud"
             ],
             "plush": null,
-            "priceRange": "$20 - $39.99",
+            "priceRange": "$10 - $19.99",
             "priceRangeFilter": [
-              "$20 - $39.99"
+              "On sale",
+              "$10 - $19.99"
             ],
             "productType": [
               "Games"
             ],
             "replacementPart": null,
-            "topLevelFilters": [],
+            "topLevelFilters": [
+              "Deals"
+            ],
             "toy": []
           },
           "franchise": null,
@@ -17566,13 +17574,13 @@
           "backgroundColor": "d6f0fa",
           "categories": [
             {
+              "__ref": "Category:nintendo_switch"
+            },
+            {
               "__ref": "Category:games"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
-            },
-            {
-              "__ref": "Category:nintendo_switch"
             }
           ],
           "edition": "Standard Edition",
@@ -17979,7 +17987,7 @@
   "query": {
     "slug": "apocalypse-market-simulator-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
