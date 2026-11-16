@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2831,7 +2831,10 @@
           "platinumPoints": null,
           "prePurchase": null,
           "productCode": "BEEPABLMA",
-          "productImage({\"shape\":\"square\"})": null,
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/cbcb37706fec427791a1d511447e9520_1024"
+          },
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
@@ -3080,7 +3083,7 @@
   "query": {
     "slug": "rayman-legends-retold-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
