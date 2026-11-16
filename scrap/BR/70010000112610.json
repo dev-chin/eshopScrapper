@@ -1174,26 +1174,6 @@
                   "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2947,13 +2947,6 @@
             }
           ]
         },
-        "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "KkLQrHCCToJZKveG6gCBj",
-          "locale": "pt_BR",
-          "label": "Drogas Lícitas",
-          "type": "CONTENT_DESCRIPTOR"
-        },
         "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}": {
           "__typename": "ContentRating",
           "id": "42AaRtWfQWuYEkAjYIf4ZG",
@@ -2964,6 +2957,169 @@
           "system": "CLASSIND",
           "order": 12,
           "highestRating": null
+        },
+        "Product:{\"sku\":\"7100117100\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000024934",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "FINAL FANTASY RESONANCE",
+          "nsuid": "70010000117100",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 284.9,
+            "finalPrice": 284.9,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000117100/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000117100/aa9e3c398a075cc7f17856074cf4fc2e5fcda84af16ed1c60219596eee85e0a1",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-10-22T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100117100",
+          "softwarePublisher": "SQUARE ENIX",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "final-fantasy-resonance-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000117100/Video/7b39c166f6009465e07f8ec0cf646ecd641a455935791f292bbd51358c4894f0",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000117100/34ee79b147d6fba61ce74c4efb0f8ac42890765253280d21c90ba94093d403a6",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000117100/b75217192395f4a538c4d4456870a700295fa1eedf2d95c574a31d639bf06a45",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000117100/2a7d0115869090cc01b64dc3e8306cf6e8f61ad5f7bcd3fcd88548181404da3c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000117100/db35a71b018900196d707c81a27a9c7b5f4a0ab309410cb19bddc8523f4d6367",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000117100/79218cf971e42b598e76524398356acb57711dbab9a1861cad77bbc807dbbb99",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000117100/d807e25b5a5acb0553bad1ea61b5b8a23d42734fe752d6402a39fc38e0c49951",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "KkLQrHCCToJZKveG6gCBj",
+          "locale": "pt_BR",
+          "label": "Drogas Lícitas",
+          "type": "CONTENT_DESCRIPTOR"
         },
         "Product:{\"sku\":\"7100095321\"}": {
           "__typename": "Product",
@@ -3140,7 +3296,7 @@
           "label": "Linguagem Imprópria",
           "type": "CONTENT_DESCRIPTOR"
         },
-        "Product:{\"sku\":\"7100106034\"}": {
+        "Product:{\"sku\":\"7100098734\"}": {
           "__typename": "Product",
           "availability": [
             "Já disponivel"
@@ -3175,12 +3331,12 @@
           "locale": "pt_BR",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": "Trails in the Sky 1st Chapter: Nintendo Switch™ 2 Edition",
-          "nsuid": "70010000106034",
+          "name": "Trails in the Sky 1st Chapter",
+          "nsuid": "70010000098734",
           "platform": {
             "__typename": "Platform",
-            "label": "Nintendo Switch 2",
-            "code": "NINTENDO_SWITCH_2"
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
           },
           "platinumPoints": null,
           "prePurchase": null,
@@ -3188,21 +3344,21 @@
             "__typename": "Prices",
             "currency": "BRL",
             "discounted": true,
-            "regularPrice": 304.9,
-            "finalPrice": 152.45,
+            "regularPrice": 299.9,
+            "finalPrice": 149.95,
             "pricePerUnit": null,
             "percentOff": 50,
-            "amountOff": 152.45
+            "amountOff": 149.95
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000106034/19d6caf3b23ba6cc0a23a57ffb3d7451305d997a243aeb9a8825098003aee815",
+            "publicId": "store/software/switch/70010000098734/e88d63283c907aede15ae6f532f4a3e05ec2dbaa307bccf0b27bd9635b3f0d06",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/0934f90072594d62bd1ecfe00f08f5fd_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/e7f46526dac54c19a7fe8768549441ad_1024",
             "resourceType": "image",
             "type": "fetch"
           },
@@ -3214,7 +3370,7 @@
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100106034",
+          "sku": "7100098734",
           "softwarePublisher": "GungHo America",
           "softwareDeveloper": "Nihon Falcom",
           "tags": {
@@ -3260,48 +3416,24 @@
             "code": "GAMES",
             "label": "Jogos"
           },
-          "urlKey": "trails-in-the-sky-1st-chapter-nintendo-switch-2-edition-switch-2",
+          "urlKey": "trails-in-the-sky-1st-chapter-switch",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000106034/ab158b51270c0c50b776f5b7e2f6206a6794946f3141764d6b2da0780697b8a7",
+              "publicId": "store/software/switch/70010000098734/5abde926e2b70279171a5f8fa12df9713305873631f76258888f5c0299dbd32d",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000106034/5abde926e2b70279171a5f8fa12df9713305873631f76258888f5c0299dbd32d",
+              "publicId": "store/software/switch/70010000098734/94eda61a8a7bc1fb9b1b55a687f32fb4d4c817724c821a00d6517bc699df5074",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000106034/d66685ee9945fdf6e84b87955ebbd2175f4ba0df996b87e79f6e2156699a2bf4",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000106034/94eda61a8a7bc1fb9b1b55a687f32fb4d4c817724c821a00d6517bc699df5074",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000106034/ae7ce6a6d417573b05ddc6f1aabb83ea117c30547eab8468aefc59c15a102fad",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000106034/5be01c1815c2f6ea3a8b9de22952619d58ac0937ccdfe73fc97bfa280ce58bac",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000106034/ca57994cf968a8fe2038dcea706d4e3df0cd2b3dc9b2aba6b98f2e6a29628266",
+              "publicId": "store/software/switch/70010000098734/5be01c1815c2f6ea3a8b9de22952619d58ac0937ccdfe73fc97bfa280ce58bac",
               "resourceType": "image",
               "type": "upload"
             }
@@ -3483,154 +3615,6 @@
             }
           ]
         },
-        "Product:{\"sku\":\"7100101698\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Já disponivel"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"2wcgunipfqkNf5lLszuJ1n\",\"locale\":\"pt_BR\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
-          },
-          "demoNsuid": "70030000023926",
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-17T07:59:59Z",
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "pt_BR",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-          "nsuid": "70010000101698",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch 2",
-            "code": "NINTENDO_SWITCH_2"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": true,
-            "regularPrice": 229.9,
-            "finalPrice": 45.98,
-            "pricePerUnit": null,
-            "percentOff": 80,
-            "amountOff": 183.92
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000101698/833214b25828c4b093c4abde2564f399991438c9498594b3d88f3fc54dad4d75",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/67c917e7758040eab53bf8d081b8d2f9_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-01-22T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100101698",
-          "softwarePublisher": "SQUARE ENIX",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Personagens com voz"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ROLE_PLAYING",
-                "label": "RPG"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Jogos"
-          },
-          "urlKey": "final-fantasy-vii-remake-intergrade-switch-2",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101698/8e35ead634c04d2bc8370277bb70c2a37184fda3c64ab10929bb9fc6c922c272",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101698/4100b329a61be50f3aa125d6141d8838a3367ef41149ca4d97da53e4497a04dc",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101698/821373a2e0ecabf1e4027953a149e6d4b164c78e20921030d489eabbcace00a3",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101698/92a3f2749e2330b7b50b252acab3adf8807d96ca72bd3a8ca7004729941f33be",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101698/394429d630a5a72e74cb70005f5992bd6d22cde0dd2ee2fc266e5eb3f022318b",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101698/2547e52ce2a8de6df016b13178b31c0c1d11c81cb259be287594442a2f109fc0",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
         "Product:{\"sku\":\"7100098990\"}": {
           "__typename": "Product",
           "availability": [
@@ -3784,6 +3768,154 @@
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000098990/c5e48d56f5b666e17be3f9d4b777ea875b0abd128a788f41aee79ac0eeddfae9",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100101698\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"2wcgunipfqkNf5lLszuJ1n\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000023926",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": "2026-11-17T07:59:59Z",
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+          "nsuid": "70010000101698",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": true,
+            "regularPrice": 229.9,
+            "finalPrice": 45.98,
+            "pricePerUnit": null,
+            "percentOff": 80,
+            "amountOff": 183.92
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000101698/833214b25828c4b093c4abde2564f399991438c9498594b3d88f3fc54dad4d75",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/67c917e7758040eab53bf8d081b8d2f9_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-01-22T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100101698",
+          "softwarePublisher": "SQUARE ENIX",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "final-fantasy-vii-remake-intergrade-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101698/8e35ead634c04d2bc8370277bb70c2a37184fda3c64ab10929bb9fc6c922c272",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101698/4100b329a61be50f3aa125d6141d8838a3367ef41149ca4d97da53e4497a04dc",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101698/821373a2e0ecabf1e4027953a149e6d4b164c78e20921030d489eabbcace00a3",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101698/92a3f2749e2330b7b50b252acab3adf8807d96ca72bd3a8ca7004729941f33be",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101698/394429d630a5a72e74cb70005f5992bd6d22cde0dd2ee2fc266e5eb3f022318b",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101698/2547e52ce2a8de6df016b13178b31c0c1d11c81cb259be287594442a2f109fc0",
               "resourceType": "image",
               "type": "upload"
             }
@@ -4112,6 +4244,190 @@
             }
           ]
         },
+        "ContentDescriptor:{\"id\":\"6CWbgf23u8XC8kWN5nh71W\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "6CWbgf23u8XC8kWN5nh71W",
+          "locale": "pt_BR",
+          "label": "Usuários Interagem",
+          "type": "INTERACTIVE_ELEMENT"
+        },
+        "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "6ImeQrxdxQvC5IifpKVgWw",
+          "locale": "pt_BR",
+          "label": "Compras on-line",
+          "type": "INTERACTIVE_ELEMENT"
+        },
+        "Product:{\"sku\":\"7100111577\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"6CWbgf23u8XC8kWN5nh71W\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "RuneScape: Dragonwilds",
+          "nsuid": "70010000111577",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 114.99,
+            "finalPrice": 114.99,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000111577/783247637f11956b97ef7fb07206bd7e3ab62286289256bab0330994c24985de",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/a780b45457974568aae0141307b93997_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-09-15T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100111577",
+          "softwarePublisher": "Jagex",
+          "softwareDeveloper": "Jagex",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SURVIVAL",
+                "label": "Sobrevivência"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_COOP",
+                "label": "Cooperação online"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Jogue online com amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CROSS_PLATFORM",
+                "label": "Multiplataforma"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "runescape-dragonwilds-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111577/bf0b1131c6393fca96ed4ad0a60eaa5c6d7acf650bb039f8b6503c4a2f0641b0",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111577/174336b6360cf3b5be4daa7d893627c8f8e14c8447a85ea710cc332ff87e6a3f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111577/e75c8d835e79f3bbc4b2769206f8b009b2bf6f0513f0689a1b7920c84c9183d8",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111577/abaf713eeff8483dbdfa4365f4c9cc2ac10a5ec4fbfacfd3b2166e62b706af3c",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111577/24eb1e6671bbc5951a3605d1dd55fede1ce2b1e3aed074d40c71abfc00736f7d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111577/d07248d9bfba5990ccd4b3f9af312fd3fbf4a34613d299546cd61c68273191e1",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100056360\"}": {
           "__typename": "Product",
           "availability": [
@@ -4266,551 +4582,6 @@
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000056360/bb3fb7df9387a8580966aeab46939fc9daa51d0010569b58103af55ccff6a01e",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "6ImeQrxdxQvC5IifpKVgWw",
-          "locale": "pt_BR",
-          "label": "Compras on-line",
-          "type": "INTERACTIVE_ELEMENT"
-        },
-        "Product:{\"sku\":\"7100097756\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Já disponivel"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
-          },
-          "demoNsuid": "70030000023072",
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "pt_BR",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Monster Hunter Stories 3: Twisted Reflection",
-          "nsuid": "70010000097756",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch 2",
-            "code": "NINTENDO_SWITCH_2"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": false,
-            "regularPrice": 339,
-            "finalPrice": 339,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000097756/29e212a61e622133e16904cc8dcb80fe1df1f52b3beb53d5e1ba5bc0d64736a6",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000097756/0ac6792d8edf7d2818913b9d372daad7b7e5e11f9f3fa6745621f7634c1bfb73",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-03-13T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100097756",
-          "softwarePublisher": "CAPCOM",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_CUSTOMIZE",
-                "label": "Customização de personagem"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Personagens com voz"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ROLE_PLAYING",
-                "label": "RPG"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Jogos"
-          },
-          "urlKey": "monster-hunter-stories-3-twisted-reflection-switch-2",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000097756/Video/a4ad9390a519a1cb125d155d6fa5b10dd151c7e9e616bb297362e113b11be7d2",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000097756/Video/f92bbd3ca9be0002cb8fdc0dfe705cc235fe04655131de0209623bba7e45f630",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000097756/Video/853bb44246d1794b643bacd2164610dff87b7bf3427c11ccdc3fa1241dc3af24",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000097756/Video/b32ccf371843ec960c7b9cc00bdf0bc9ff8f4e6fbd0c5d1a78b0141f8d29ae8a",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000097756/Video/1cccbc6cbb667260dbe029c321057d1d21b33eb54278edbc830872eaadbcef49",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000097756/Video/2e858bc21bfeb515daaf993553e1441673d43e9811052b189c101557925c808e",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097756/f2281afb00a5c32aecdc1cf752b3a54368d836fce7c6de31f1045ff088397915",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097756/c4b268c6dc5de561a184dae4c1913fe12bbe7c61cdc8a9467548db31f021df23",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097756/2326aad24c8911c9b0252b42d18608a422b80f1f5a2d9b998196b26db4522a69",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097756/cf4b5344614c09079e0e70b839b522b599d2c92e0b4339e14f83f435be2d6a24",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097756/03c7d68aa8d72150c90eab531400693df164da22b063dfe920fa4ddf2d5b4f63",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000097756/47c64acb428b22f89531408121bd963e061be216c043ed01f8ad017c3cdee468",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "ContentDescriptor:{\"id\":\"6CWbgf23u8XC8kWN5nh71W\",\"locale\":\"pt_BR\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "6CWbgf23u8XC8kWN5nh71W",
-          "locale": "pt_BR",
-          "label": "Usuários Interagem",
-          "type": "INTERACTIVE_ELEMENT"
-        },
-        "Product:{\"sku\":\"7100111577\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Já disponivel"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"6CWbgf23u8XC8kWN5nh71W\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "pt_BR",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "RuneScape: Dragonwilds",
-          "nsuid": "70010000111577",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch 2",
-            "code": "NINTENDO_SWITCH_2"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": false,
-            "regularPrice": 114.99,
-            "finalPrice": 114.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000111577/783247637f11956b97ef7fb07206bd7e3ab62286289256bab0330994c24985de",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/77375230829044799c7220e02a24a36d_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-09-15T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100111577",
-          "softwarePublisher": "Jagex",
-          "softwareDeveloper": "Jagex",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SURVIVAL",
-                "label": "Sobrevivência"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Ação"
-              }
-            ],
-            "waysToPlay": [
-              {
-                "__typename": "Tag",
-                "code": "ONLINE_COOP",
-                "label": "Cooperação online"
-              },
-              {
-                "__typename": "Tag",
-                "code": "FRIEND_MATCHING",
-                "label": "Jogue online com amigos"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CROSS_PLATFORM",
-                "label": "Multiplataforma"
-              }
-            ]
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Jogos"
-          },
-          "urlKey": "runescape-dragonwilds-switch-2",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111577/bf0b1131c6393fca96ed4ad0a60eaa5c6d7acf650bb039f8b6503c4a2f0641b0",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111577/174336b6360cf3b5be4daa7d893627c8f8e14c8447a85ea710cc332ff87e6a3f",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111577/e75c8d835e79f3bbc4b2769206f8b009b2bf6f0513f0689a1b7920c84c9183d8",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111577/abaf713eeff8483dbdfa4365f4c9cc2ac10a5ec4fbfacfd3b2166e62b706af3c",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111577/24eb1e6671bbc5951a3605d1dd55fede1ce2b1e3aed074d40c71abfc00736f7d",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111577/d07248d9bfba5990ccd4b3f9af312fd3fbf4a34613d299546cd61c68273191e1",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "Product:{\"sku\":\"7100101665\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Já disponivel"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
-          },
-          "demoNsuid": "70030000023801",
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "pt_BR",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "PRAGMATA",
-          "nsuid": "70010000101665",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch 2",
-            "code": "NINTENDO_SWITCH_2"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": false,
-            "regularPrice": 299,
-            "finalPrice": 299,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000101665/3a8331b2f7b73d1fdb9b92dd9afdb2aff9602f1d89a9cfa171bf2561e480076e",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000101665/ebd537fe4a923118cd8d9ee4e57a8d6faede280e6adfbe42bcb8fe78470de3df",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-04-17T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100101665",
-          "softwarePublisher": "CAPCOM",
-          "softwareDeveloper": "CAPCOM CO., LTD.",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "MOTION_CONTROL",
-                "label": "Controles de movimento"
-              },
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Personagens com voz"
-              },
-              {
-                "__typename": "Tag",
-                "code": "THIRD_PERSON",
-                "label": "Terceira pessoa"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Ação"
-              },
-              {
-                "__typename": "Tag",
-                "code": "ADVENTURE",
-                "label": "Aventura"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SHOOTING",
-                "label": "Tiro"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Jogos"
-          },
-          "urlKey": "pragmata-switch-2",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch2/70010000101665/Video/db654dd74445c3e3a49a0a2523203d6779306ce95b987d49cf1ba9f26d0515ef",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101665/0e08bade3593b5f6c3b9c27d1d1cbf6ec562e5ea6cfe57c2bd513e902e335e39",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101665/2dd53cb4fc41d8af857e45411330f474b2c4098c522bd7d74e93cc2c14abe704",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101665/1e32d9b30cac869787e727b6c7c0efcc247a104cb3a1d308e128b4e779fdbd32",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101665/713758eb53d92e5210c5c4e872ddd38b58df386992c4c51a0cc93f94184a9234",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101665/74592dbacb3dcb745d805e653d0c1987246f08329610954872b68b4497ce96aa",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000101665/3413bea7ce918a79a1bb63e36a6eb6e4ceea8e6cd151f6706b616b891879557a",
               "resourceType": "image",
               "type": "upload"
             }
@@ -4999,6 +4770,193 @@
             }
           ]
         },
+        "Product:{\"sku\":\"7100097756\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000023072",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Monster Hunter Stories 3: Twisted Reflection",
+          "nsuid": "70010000097756",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 339,
+            "finalPrice": 339,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000097756/29e212a61e622133e16904cc8dcb80fe1df1f52b3beb53d5e1ba5bc0d64736a6",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000097756/0ac6792d8edf7d2818913b9d372daad7b7e5e11f9f3fa6745621f7634c1bfb73",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-03-13T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100097756",
+          "softwarePublisher": "CAPCOM",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_CUSTOMIZE",
+                "label": "Customização de personagem"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "monster-hunter-stories-3-twisted-reflection-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000097756/Video/a4ad9390a519a1cb125d155d6fa5b10dd151c7e9e616bb297362e113b11be7d2",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000097756/Video/f92bbd3ca9be0002cb8fdc0dfe705cc235fe04655131de0209623bba7e45f630",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000097756/Video/853bb44246d1794b643bacd2164610dff87b7bf3427c11ccdc3fa1241dc3af24",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000097756/Video/b32ccf371843ec960c7b9cc00bdf0bc9ff8f4e6fbd0c5d1a78b0141f8d29ae8a",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000097756/Video/1cccbc6cbb667260dbe029c321057d1d21b33eb54278edbc830872eaadbcef49",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000097756/Video/2e858bc21bfeb515daaf993553e1441673d43e9811052b189c101557925c808e",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000097756/f2281afb00a5c32aecdc1cf752b3a54368d836fce7c6de31f1045ff088397915",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000097756/c4b268c6dc5de561a184dae4c1913fe12bbe7c61cdc8a9467548db31f021df23",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000097756/2326aad24c8911c9b0252b42d18608a422b80f1f5a2d9b998196b26db4522a69",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000097756/cf4b5344614c09079e0e70b839b522b599d2c92e0b4339e14f83f435be2d6a24",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000097756/03c7d68aa8d72150c90eab531400693df164da22b063dfe920fa4ddf2d5b4f63",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000097756/47c64acb428b22f89531408121bd963e061be216c043ed01f8ad017c3cdee468",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100120477\"}": {
           "__typename": "Product",
           "availability": [
@@ -5139,6 +5097,180 @@
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000120477/f59a68570795b890ab7a08367ed82e2bd6a1d7a72c11b930fdbaac7cef47e804",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100101665\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": "70030000023801",
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "PRAGMATA",
+          "nsuid": "70010000101665",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 299,
+            "finalPrice": 299,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000101665/3a8331b2f7b73d1fdb9b92dd9afdb2aff9602f1d89a9cfa171bf2561e480076e",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000101665/ebd537fe4a923118cd8d9ee4e57a8d6faede280e6adfbe42bcb8fe78470de3df",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-04-17T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100101665",
+          "softwarePublisher": "CAPCOM",
+          "softwareDeveloper": "CAPCOM CO., LTD.",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MOTION_CONTROL",
+                "label": "Controles de movimento"
+              },
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "THIRD_PERSON",
+                "label": "Terceira pessoa"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHOOTING",
+                "label": "Tiro"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "pragmata-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000101665/Video/db654dd74445c3e3a49a0a2523203d6779306ce95b987d49cf1ba9f26d0515ef",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101665/0e08bade3593b5f6c3b9c27d1d1cbf6ec562e5ea6cfe57c2bd513e902e335e39",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101665/2dd53cb4fc41d8af857e45411330f474b2c4098c522bd7d74e93cc2c14abe704",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101665/1e32d9b30cac869787e727b6c7c0efcc247a104cb3a1d308e128b4e779fdbd32",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101665/713758eb53d92e5210c5c4e872ddd38b58df386992c4c51a0cc93f94184a9234",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101665/74592dbacb3dcb745d805e653d0c1987246f08329610954872b68b4497ce96aa",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000101665/3413bea7ce918a79a1bb63e36a6eb6e4ceea8e6cd151f6706b616b891879557a",
               "resourceType": "image",
               "type": "upload"
             }
@@ -5624,154 +5756,6 @@
             }
           ]
         },
-        "Product:{\"sku\":\"7100111119\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Já disponivel"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
-          },
-          "demoNsuid": "70030000024054",
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-16T07:59:59Z",
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "pt_BR",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Digimon Story Time Stranger",
-          "nsuid": "70010000111119",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch 2",
-            "code": "NINTENDO_SWITCH_2"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": true,
-            "regularPrice": 339.9,
-            "finalPrice": 237.93,
-            "pricePerUnit": null,
-            "percentOff": 30,
-            "amountOff": 101.97
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000111119/225c7b045cc768ed3d62344ef745952291e01af45386c94257031d01b7dfb0a2",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/1631196763b849d4b156147671ee2752_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-07-10T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100111119",
-          "softwarePublisher": "Bandai Namco Entertainment",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Personagens com voz"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ROLE_PLAYING",
-                "label": "RPG"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Jogos"
-          },
-          "urlKey": "digimon-story-time-stranger-switch-2",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111119/5b3ca76c58d49711a198a6c6d9ad686d797a4a6670f0a4f638ac5fe80857ffb3",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111119/fe3aa56796aa86760fa6ec8185fc2c39a11632fe17fef9bdd29fe8b3e92950ee",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111119/97edbf1230011b06f8718cbb328c14328ed4416d6af4f3f566d1866eacf576db",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111119/8f58a7bf4260d8b32468b3edefe38c8a9269e5b8b542d6333f7fb3981c2b880b",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111119/a4b86e654b83365f4397b807057c13dbc957c9c9b8c5e8f5b7e07d5540aacb52",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111119/1111579c5471980d3e6515e7c685d8a2549e3ed16aed9cc33eae56ae15bb40e6",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
         "ContentDescriptor:{\"id\":\"1rfYFWTZ8KTPL9nM5fmOCw\",\"locale\":\"pt_BR\"}": {
           "__typename": "ContentDescriptor",
           "id": "1rfYFWTZ8KTPL9nM5fmOCw",
@@ -5985,7 +5969,7 @@
             }
           ]
         },
-        "Product:{\"sku\":\"7100039876\"}": {
+        "Product:{\"sku\":\"7100111119\"}": {
           "__typename": "Product",
           "availability": [
             "Já disponivel"
@@ -5996,17 +5980,17 @@
               "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
             },
             {
-              "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
+            "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
           },
-          "demoNsuid": null,
+          "demoNsuid": "70030000024054",
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-11-16T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -6017,48 +6001,48 @@
           "locale": "pt_BR",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": ".hack//G.U. Last Recode",
-          "nsuid": "70010000039876",
+          "name": "Digimon Story Time Stranger",
+          "nsuid": "70010000111119",
           "platform": {
             "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
           },
           "platinumPoints": null,
           "prePurchase": null,
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": false,
-            "regularPrice": 249.9,
-            "finalPrice": 249.9,
+            "discounted": true,
+            "regularPrice": 339.9,
+            "finalPrice": 237.93,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 30,
+            "amountOff": 101.97
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000039876/98e4d1676ceb6fd61a210429a26c7a6ae3627c765e2875adbcc270965b940432",
+            "publicId": "store/software/switch2/70010000111119/225c7b045cc768ed3d62344ef745952291e01af45386c94257031d01b7dfb0a2",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/1b1a3448d9854831b0b40971614aad80_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/1631196763b849d4b156147671ee2752_1024",
             "resourceType": "image",
             "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
-          "releaseDate": "2022-03-11T00:00:00.000Z",
+          "releaseDate": "2026-07-10T00:00:00.000Z",
           "releaseDateDisplay": null,
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100039876",
+          "sku": "7100111119",
           "softwarePublisher": "Bandai Namco Entertainment",
-          "softwareDeveloper": "CyberConnect2 Co., Ltd.",
+          "softwareDeveloper": null,
           "tags": {
             "__typename": "Tags",
             "features": [
@@ -6081,11 +6065,6 @@
             "genres": [
               {
                 "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Ação"
-              },
-              {
-                "__typename": "Tag",
                 "code": "ROLE_PLAYING",
                 "label": "RPG"
               }
@@ -6097,60 +6076,48 @@
             "code": "GAMES",
             "label": "Jogos"
           },
-          "urlKey": "hack-g-u-last-recode-switch",
+          "urlKey": "digimon-story-time-stranger-switch-2",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000039876/Video/23e82e7f54683f8520499b52f9d4794fd16d147d7ea56a206bc7e6710c7a7c0c",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000039876/Video/505671c164b5ce8300fa5be3d53f766887352fcaf0aac795567e8be1897465e7",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000039876/5f8cbb22271e28e0cc255bca0d43dc6361c12d3ee14ccea6e89c659461c1af7d",
+              "publicId": "store/software/switch2/70010000111119/5b3ca76c58d49711a198a6c6d9ad686d797a4a6670f0a4f638ac5fe80857ffb3",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000039876/97eb8b66e120bf50dbf0702afeddce3e7cf72f7f71b3512823d648045717dbcd",
+              "publicId": "store/software/switch2/70010000111119/fe3aa56796aa86760fa6ec8185fc2c39a11632fe17fef9bdd29fe8b3e92950ee",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000039876/2e93f177e04e0bd6537768f3621940f34828d91d3de8667c4ea69496e1944b19",
+              "publicId": "store/software/switch2/70010000111119/97edbf1230011b06f8718cbb328c14328ed4416d6af4f3f566d1866eacf576db",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000039876/399a1eb192465feffc90cee9e2fb9b0ca198a1b378d1fa6064d02f40dd251651",
+              "publicId": "store/software/switch2/70010000111119/8f58a7bf4260d8b32468b3edefe38c8a9269e5b8b542d6333f7fb3981c2b880b",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000039876/304843f05a795901b0259188c00e3b23a153ecaba85336c0246b560365f3bddc",
+              "publicId": "store/software/switch2/70010000111119/a4b86e654b83365f4397b807057c13dbc957c9c9b8c5e8f5b7e07d5540aacb52",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000039876/bc8da164860d70e7665325e639c82e81e92b6b7b9213fa81d8e4f41414650065",
+              "publicId": "store/software/switch2/70010000111119/1111579c5471980d3e6515e7c685d8a2549e3ed16aed9cc33eae56ae15bb40e6",
               "resourceType": "image",
               "type": "upload"
             }
           ]
         },
-        "Product:{\"sku\":\"7100111758\"}": {
+        "Product:{\"sku\":\"7100118137\"}": {
           "__typename": "Product",
           "availability": [
             "Já disponivel"
@@ -6159,18 +6126,12 @@
           "contentDescriptors": [
             {
               "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"2wcgunipfqkNf5lLszuJ1n\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}"
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
+            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
           },
-          "demoNsuid": null,
+          "demoNsuid": "70030000024990",
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
@@ -6185,8 +6146,8 @@
           "locale": "pt_BR",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": "Tales of ARISE - Beyond the Dawn Edition",
-          "nsuid": "70010000111758",
+          "name": "KINGDOM HEARTS III + Re Mind (DLC)",
+          "nsuid": "70010000118137",
           "platform": {
             "__typename": "Platform",
             "label": "Nintendo Switch 2",
@@ -6198,35 +6159,35 @@
             "__typename": "Prices",
             "currency": "BRL",
             "discounted": false,
-            "regularPrice": 284.9,
-            "finalPrice": 284.9,
+            "regularPrice": 229.9,
+            "finalPrice": 229.9,
             "pricePerUnit": null,
             "percentOff": 0,
             "amountOff": 0
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000111758/9045ed5b3a7fed4a41c27994d27b7c029da1fb5bce0b8bc69a195d24c9718028",
+            "publicId": "store/software/switch2/70010000118137/9b7440699aa33b96d1a3ea967226d13711858f866360963463613a111d44ee47",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000111758/2af23f454e0baf4a33c0bb5bdd41bc1aed8a1b4bebea83a500034cb40588d0b2",
+            "publicId": "store/software/switch2/70010000118137/1e0b11e96d0a7b910bfa07c7256716f6e4bb0d030fb0adc4a6aac8da885ba747",
             "resourceType": "image",
             "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-05-22T00:00:00.000Z",
+          "releaseDate": "2026-10-08T00:00:00.000Z",
           "releaseDateDisplay": null,
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100111758",
-          "softwarePublisher": "Bandai Namco Entertainment",
-          "softwareDeveloper": "Bandai Namco Studios Inc.",
+          "sku": "7100118137",
+          "softwarePublisher": "SQUARE ENIX",
+          "softwareDeveloper": "SQUARE ENIX",
           "tags": {
             "__typename": "Tags",
             "features": [
@@ -6265,42 +6226,30 @@
             "code": "GAMES",
             "label": "Jogos"
           },
-          "urlKey": "tales-of-arise-beyond-the-dawn-edition-switch-2",
+          "urlKey": "kingdom-hearts-iii-plus-re-mind-dlc-switch-2",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111758/390f5df736aa3784ac489879ecf4d50848a6763b658e501f9262df357bddac23",
+              "publicId": "store/software/switch2/70010000118137/232490eda6303e072bac1dda9f6ebaa9d441714c03fb2c3539a85abccfe3629e",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111758/1f7134f2347d37d2b0c45f0f075a4bcc6642e1d13435f905aa77831e97ed6e01",
+              "publicId": "store/software/switch2/70010000118137/c5109e130c3411565e87bdbdf4f2a7c405fc3008ca0e939b7021aa19899b239c",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111758/59497393b49df1907bbfc685a8d7c44d1940128bb1be0efc974a790cc52bd38f",
+              "publicId": "store/software/switch2/70010000118137/6f7572e4519a7cad6e356fecc24ff19cafdd1c10f4047bcc2f611652e1f1e5d6",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111758/9ed88b04a1afd385e54a235126dbe7027d0f2144df298d78277933f9d5d9bf07",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111758/b439b9c338f56b7bd0c23a0ddc7d4999f916c992104dbeeb383ef5df70fb2b13",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000111758/b2e121e9de0b9c2ee23cfea82f008288969932f1abbf70b3b4a4b78524f0a054",
+              "publicId": "store/software/switch2/70010000118137/b306ecebb3d0d48be81f33c0c4ff900a494fd2134386b45b826f9d44f28397d3",
               "resourceType": "image",
               "type": "upload"
             }
@@ -6489,6 +6438,327 @@
             }
           ]
         },
+        "Product:{\"sku\":\"7100111758\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"2wcgunipfqkNf5lLszuJ1n\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Tales of ARISE - Beyond the Dawn Edition",
+          "nsuid": "70010000111758",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 284.9,
+            "finalPrice": 284.9,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000111758/9045ed5b3a7fed4a41c27994d27b7c029da1fb5bce0b8bc69a195d24c9718028",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000111758/2af23f454e0baf4a33c0bb5bdd41bc1aed8a1b4bebea83a500034cb40588d0b2",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-05-22T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100111758",
+          "softwarePublisher": "Bandai Namco Entertainment",
+          "softwareDeveloper": "Bandai Namco Studios Inc.",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "tales-of-arise-beyond-the-dawn-edition-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111758/390f5df736aa3784ac489879ecf4d50848a6763b658e501f9262df357bddac23",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111758/1f7134f2347d37d2b0c45f0f075a4bcc6642e1d13435f905aa77831e97ed6e01",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111758/59497393b49df1907bbfc685a8d7c44d1940128bb1be0efc974a790cc52bd38f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111758/9ed88b04a1afd385e54a235126dbe7027d0f2144df298d78277933f9d5d9bf07",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111758/b439b9c338f56b7bd0c23a0ddc7d4999f916c992104dbeeb383ef5df70fb2b13",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000111758/b2e121e9de0b9c2ee23cfea82f008288969932f1abbf70b3b4a4b78524f0a054",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100039876\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"2ALcI9wIhmjhDwjT7cvZNe\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": ".hack//G.U. Last Recode",
+          "nsuid": "70010000039876",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 249.9,
+            "finalPrice": 249.9,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000039876/98e4d1676ceb6fd61a210429a26c7a6ae3627c765e2875adbcc270965b940432",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/1b1a3448d9854831b0b40971614aad80_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-03-11T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100039876",
+          "softwarePublisher": "Bandai Namco Entertainment",
+          "softwareDeveloper": "CyberConnect2 Co., Ltd.",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "hack-g-u-last-recode-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000039876/Video/23e82e7f54683f8520499b52f9d4794fd16d147d7ea56a206bc7e6710c7a7c0c",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000039876/Video/505671c164b5ce8300fa5be3d53f766887352fcaf0aac795567e8be1897465e7",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039876/5f8cbb22271e28e0cc255bca0d43dc6361c12d3ee14ccea6e89c659461c1af7d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039876/97eb8b66e120bf50dbf0702afeddce3e7cf72f7f71b3512823d648045717dbcd",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039876/2e93f177e04e0bd6537768f3621940f34828d91d3de8667c4ea69496e1944b19",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039876/399a1eb192465feffc90cee9e2fb9b0ca198a1b378d1fa6064d02f40dd251651",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039876/304843f05a795901b0259188c00e3b23a153ecaba85336c0246b560365f3bddc",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000039876/bc8da164860d70e7665325e639c82e81e92b6b7b9213fa81d8e4f41414650065",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100098088\"}": {
           "__typename": "Product",
           "availability": [
@@ -6667,144 +6937,6 @@
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000098088/bd50ba578c7172bc27b81b80b7ba246f5ea16bf15dcf27cd1a949ba7cb1da481",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "Product:{\"sku\":\"7100118137\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Já disponivel"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
-          },
-          "demoNsuid": "70030000024990",
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "pt_BR",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "KINGDOM HEARTS III + Re Mind (DLC)",
-          "nsuid": "70010000118137",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch 2",
-            "code": "NINTENDO_SWITCH_2"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": false,
-            "regularPrice": 229.9,
-            "finalPrice": 229.9,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000118137/9b7440699aa33b96d1a3ea967226d13711858f866360963463613a111d44ee47",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000118137/1e0b11e96d0a7b910bfa07c7256716f6e4bb0d030fb0adc4a6aac8da885ba747",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-10-08T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100118137",
-          "softwarePublisher": "SQUARE ENIX",
-          "softwareDeveloper": "SQUARE ENIX",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Personagens com voz"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Ação"
-              },
-              {
-                "__typename": "Tag",
-                "code": "ROLE_PLAYING",
-                "label": "RPG"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Jogos"
-          },
-          "urlKey": "kingdom-hearts-iii-plus-re-mind-dlc-switch-2",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000118137/232490eda6303e072bac1dda9f6ebaa9d441714c03fb2c3539a85abccfe3629e",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000118137/c5109e130c3411565e87bdbdf4f2a7c405fc3008ca0e939b7021aa19899b239c",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000118137/6f7572e4519a7cad6e356fecc24ff19cafdd1c10f4047bcc2f611652e1f1e5d6",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000118137/b306ecebb3d0d48be81f33c0c4ff900a494fd2134386b45b826f9d44f28397d3",
               "resourceType": "image",
               "type": "upload"
             }
@@ -7121,333 +7253,6 @@
             }
           ]
         },
-        "Product:{\"sku\":\"7100093189\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Já disponivel"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "pt_BR",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "BALL x PIT",
-          "nsuid": "70010000093189",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": false,
-            "regularPrice": 46.99,
-            "finalPrice": 46.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000093189/3f67124a60d193e93f331a1d023d3b33e25e0ab54b00a7827be84233c38fd60f",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/4fb6feba5e574d7a80cde254c7bfbab7_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2025-10-15T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100093189",
-          "softwarePublisher": "Devolver Digital",
-          "softwareDeveloper": "Kenny Sun",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "TIME_ATTACK",
-                "label": "Jogue pelo tempo mais rápido"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
-              },
-              {
-                "__typename": "Tag",
-                "code": "PIXEL_ART",
-                "label": "Pixel art"
-              },
-              {
-                "__typename": "Tag",
-                "code": "ONLINE_RANKING",
-                "label": "Placares online"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Ação"
-              },
-              {
-                "__typename": "Tag",
-                "code": "ADVENTURE",
-                "label": "Aventura"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SHOOTING",
-                "label": "Tiro"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Jogos"
-          },
-          "urlKey": "ball-x-pit-switch",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000093189/Video/7036a5cc82780c4f2fe62b9368cf83179d23f557f0891b539d301e1c1620a7bb",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000093189/Video/0469f11c3ae6a4c0bb52b26f4cc66e5e8debcf0f47dcbbf648d79d009e039ddc",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000093189/22e236760a3581199b94c63eb8085c226312452f2226500f265cea48df79c14f",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000093189/d501bdbc81388dee720926fac7f4f787bbabea499ba9602b94a0b177974699e9",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000093189/a1acbc41554e8462b16fce7cc12deeadf8410e54308261ae839e1e92ea02417f",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000093189/f27019ad07b988133841d91f8482b5a1854badba20cd18376be2aa5ddbe872b5",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000093189/683168ee8e894005a81af76352d48937fb10c1b06e9c80f50c30dd26d32cce39",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000093189/d2295db354e63c443ab9d61a51eb2fb4a095b484d8eaaf77bbe3e30af4e00ddc",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "Product:{\"sku\":\"7100088802\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Já disponivel"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-17T07:59:59Z",
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "pt_BR",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
-          "nsuid": "70010000088802",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": true,
-            "regularPrice": 249.5,
-            "finalPrice": 149.7,
-            "pricePerUnit": null,
-            "percentOff": 40,
-            "amountOff": 99.8
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000088802/11a925adc5d9adb1c937bb13a972e530257a4b3cad695bb467a9fa5b32e7a851",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/d9dac82dd133488fbad66253f6f8294c_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2025-09-30T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100088802",
-          "softwarePublisher": "SQUARE ENIX",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Personagens com voz"
-              },
-              {
-                "__typename": "Tag",
-                "code": "PIXEL_ART",
-                "label": "Pixel art"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "STRATEGY",
-                "label": "Estratégia"
-              },
-              {
-                "__typename": "Tag",
-                "code": "ROLE_PLAYING",
-                "label": "RPG"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Jogos"
-          },
-          "urlKey": "final-fantasy-tactics-the-ivalice-chronicles-switch",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000088802/830654ca35accbee0ac86e1ec4c73674879679728f268b908dce90111d23561b",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000088802/fc3d6a8a3b8ac47058cd9dedcf7bc28721dca6fa5e806ab231d553848e6d95be",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000088802/84ad1ef921eb2d59e09ef2d4a7d573415de2e1e97fe4f1784e2b3c43f096de95",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000088802/9932b6d1503f0fe1d359c2f677cefc9352446e5316ec5c881aa2d81d09c14b3b",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000088802/b48e58d583d5bae4d2aabc6c6b3eee195f2720051fd6ace09c62c54b3bce3534",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000088802/6bfe517da928446dbd0f0d6b98bb52ba78e5bbe2d649698881a43abd6d10b8c0",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
         "Product:{\"sku\":\"7100097419\"}": {
           "__typename": "Product",
           "availability": [
@@ -7622,7 +7427,7 @@
             }
           ]
         },
-        "Product:{\"sku\":\"7100084983\"}": {
+        "Product:{\"sku\":\"7100108201\"}": {
           "__typename": "Product",
           "availability": [
             "Já disponivel"
@@ -7631,25 +7436,16 @@
           "contentDescriptors": [
             {
               "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"2wcgunipfqkNf5lLszuJ1n\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"6ImeQrxdxQvC5IifpKVgWw\",\"locale\":\"pt_BR\"}"
             }
           ],
           "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"78c8Cs44c3ZXpnrvKu1f2t\",\"locale\":\"pt_BR\"}"
+            "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
           },
           "demoNsuid": null,
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-21T07:59:59Z",
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -7660,12 +7456,12 @@
           "locale": "pt_BR",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": "Rune Factory: Guardians of Azuma",
-          "nsuid": "70010000084983",
+          "name": "BALL x PIT – Nintendo Switch 2 Edition",
+          "nsuid": "70010000108201",
           "platform": {
             "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
           },
           "platinumPoints": null,
           "prePurchase": null,
@@ -7673,35 +7469,35 @@
             "__typename": "Prices",
             "currency": "BRL",
             "discounted": true,
-            "regularPrice": 239.99,
-            "finalPrice": 131.99,
+            "regularPrice": 46.99,
+            "finalPrice": 23.49,
             "pricePerUnit": null,
-            "percentOff": 45,
-            "amountOff": 108
+            "percentOff": 50.01,
+            "amountOff": 23.5
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000084983/7ec291f721828330e708c641fa008fc8f384acc0b37114c8e00377d9899d1a43",
+            "publicId": "store/software/switch2/70010000108201/7a7e95363a7b69294e446a53354f7a073b3a6c21fd1f4f02bce0c938efaa96c7",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/1f167fd1f71e4eb4a570e2549ae83e9a_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/b16407440ba845dab9ec2145f4a6a19a_1024",
             "resourceType": "image",
             "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
-          "releaseDate": "2025-06-05T00:00:00.000Z",
+          "releaseDate": "2025-10-28T00:00:00.000Z",
           "releaseDateDisplay": null,
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100084983",
-          "softwarePublisher": "Marvelous (XSEED)",
-          "softwareDeveloper": "Marvelous",
+          "sku": "7100108201",
+          "softwarePublisher": "Devolver Digital",
+          "softwareDeveloper": "Kenny Sun",
           "tags": {
             "__typename": "Tags",
             "features": [
@@ -7712,18 +7508,23 @@
               },
               {
                 "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Jogue pelo tempo mais rápido"
+              },
+              {
+                "__typename": "Tag",
                 "code": "GROWTH",
                 "label": "Melhore suas estatísticas"
               },
               {
                 "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Personagens com voz"
+                "code": "PIXEL_ART",
+                "label": "Pixel art"
               },
               {
                 "__typename": "Tag",
-                "code": "ROMANCE",
-                "label": "Romance"
+                "code": "ONLINE_RANKING",
+                "label": "Placares online"
               }
             ],
             "genres": [
@@ -7734,13 +7535,13 @@
               },
               {
                 "__typename": "Tag",
-                "code": "ROLE_PLAYING",
-                "label": "RPG"
+                "code": "ADVENTURE",
+                "label": "Aventura"
               },
               {
                 "__typename": "Tag",
-                "code": "SIMULATION",
-                "label": "Simulação"
+                "code": "SHOOTING",
+                "label": "Tiro"
               }
             ],
             "waysToPlay": []
@@ -7750,48 +7551,60 @@
             "code": "GAMES",
             "label": "Jogos"
           },
-          "urlKey": "rune-factory-guardians-of-azuma-switch",
+          "urlKey": "ball-x-pit-nintendo-switch-2-edition-switch-2",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000084983/619ef2f7e1fd4819aec4fc68efdbc41cd09e3bef806da691048b2f963707541a",
+              "publicId": "/store/software/switch2/70010000108201/Video/0abd0c0d35b986db84587b4a4f79fbe4f6256ea60512b34c73e0c9c473a67b9b",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000108201/Video/c262cb8c7f9b8a4badb73e63c2d711e9f0752db2d8d9f515e756243247b65ec9",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000108201/22e236760a3581199b94c63eb8085c226312452f2226500f265cea48df79c14f",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000084983/415a4848f340c3f8eb845e08c6f437ce5b85cb574de1716b2c87857209aa4218",
+              "publicId": "store/software/switch2/70010000108201/d501bdbc81388dee720926fac7f4f787bbabea499ba9602b94a0b177974699e9",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000084983/4186c063b3268babdc2f78e7485fa7b2cc5fc407a286bc8e1acd43116714ae3b",
+              "publicId": "store/software/switch2/70010000108201/a1acbc41554e8462b16fce7cc12deeadf8410e54308261ae839e1e92ea02417f",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000084983/97282e18fdf8fcf84ac3f202a273b26521401a672917eb562c97d37c68330dda",
+              "publicId": "store/software/switch2/70010000108201/f27019ad07b988133841d91f8482b5a1854badba20cd18376be2aa5ddbe872b5",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000084983/6057a00b87c55dd36c7a29e1de7e47ef58e48de2f0e4bbe6ca05f65fe861c25f",
+              "publicId": "store/software/switch2/70010000108201/683168ee8e894005a81af76352d48937fb10c1b06e9c80f50c30dd26d32cce39",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000084983/e3b61168d419dd826c9e4f9bd4bae1427be3c10206be4987f25fc5faa95eac10",
+              "publicId": "store/software/switch2/70010000108201/d2295db354e63c443ab9d61a51eb2fb4a095b484d8eaaf77bbe3e30af4e00ddc",
               "resourceType": "image",
               "type": "upload"
             }
           ]
         },
-        "Product:{\"sku\":\"7100062079\"}": {
+        "Product:{\"sku\":\"7100100754\"}": {
           "__typename": "Product",
           "availability": [
             "Já disponivel"
@@ -7800,18 +7613,12 @@
           "contentDescriptors": [
             {
               "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"2wcgunipfqkNf5lLszuJ1n\",\"locale\":\"pt_BR\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"KkLQrHCCToJZKveG6gCBj\",\"locale\":\"pt_BR\"}"
             }
           ],
           "contentRating": {
             "__ref": "ContentRating:{\"id\":\"42AaRtWfQWuYEkAjYIf4ZG\",\"locale\":\"pt_BR\"}"
           },
-          "demoNsuid": "70030000019950",
+          "demoNsuid": null,
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
@@ -7826,12 +7633,12 @@
           "locale": "pt_BR",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": "STAR OCEAN THE SECOND STORY R",
-          "nsuid": "70010000062079",
+          "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles Nintendo Switch™ 2 Edition",
+          "nsuid": "70010000100754",
           "platform": {
             "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
           },
           "platinumPoints": null,
           "prePurchase": null,
@@ -7840,34 +7647,34 @@
             "currency": "BRL",
             "discounted": true,
             "regularPrice": 249.5,
-            "finalPrice": 124.75,
+            "finalPrice": 149.7,
             "pricePerUnit": null,
-            "percentOff": 50,
-            "amountOff": 124.75
+            "percentOff": 40,
+            "amountOff": 99.8
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000062079/cf5c6b1ef6ae06f2841170513e83d9f1322025375523052447b3debe607b59e6",
+            "publicId": "store/software/switch2/70010000100754/a79ce10127b30deb1b647f11aa85333fee47cb1237bc1b23c8a3a4ef3b1aef1a",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/a44ec11fca144c62b86710291bba0434_1024",
+            "publicId": "store/software/switch2/70010000100754/0f0193cd72c848a19f4d57604f524289ed0e8fe80a51d350e7e6a06aa387a4b9",
             "resourceType": "image",
-            "type": "fetch"
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
-          "releaseDate": "2023-11-02T00:00:00.000Z",
+          "releaseDate": "2025-09-30T00:00:00.000Z",
           "releaseDateDisplay": null,
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100062079",
+          "sku": "7100100754",
           "softwarePublisher": "SQUARE ENIX",
-          "softwareDeveloper": "Gemdrops, Inc.",
+          "softwareDeveloper": null,
           "tags": {
             "__typename": "Tags",
             "features": [
@@ -7875,11 +7682,6 @@
                 "__typename": "Tag",
                 "code": "DIFFICULTY_LEVEL",
                 "label": "Escolha a dificuldade"
-              },
-              {
-                "__typename": "Tag",
-                "code": "GROWTH",
-                "label": "Melhore suas estatísticas"
               },
               {
                 "__typename": "Tag",
@@ -7895,8 +7697,8 @@
             "genres": [
               {
                 "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Ação"
+                "code": "STRATEGY",
+                "label": "Estratégia"
               },
               {
                 "__typename": "Tag",
@@ -7911,42 +7713,188 @@
             "code": "GAMES",
             "label": "Jogos"
           },
-          "urlKey": "star-ocean-the-second-story-r-switch",
+          "urlKey": "final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition-switch-2",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000062079/e78c0a263f0f3c80d9d1a73571e498598e9cc196dd3a370035dd1686904ccaee",
+              "publicId": "store/software/switch2/70010000100754/830654ca35accbee0ac86e1ec4c73674879679728f268b908dce90111d23561b",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000062079/a6f0d97da780a95187345faca84b56cdfc37448fa8d1cff1af0bfecd3c91d3d7",
+              "publicId": "store/software/switch2/70010000100754/fc3d6a8a3b8ac47058cd9dedcf7bc28721dca6fa5e806ab231d553848e6d95be",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000062079/a011b4efe19c76be36b13c746745361a5711ea884fcaabad984958e8d49140d5",
+              "publicId": "store/software/switch2/70010000100754/84ad1ef921eb2d59e09ef2d4a7d573415de2e1e97fe4f1784e2b3c43f096de95",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000062079/f8409c10b68dba26fcf59d68e948978087f8f1d443059985f6cae45e34e7ef72",
+              "publicId": "store/software/switch2/70010000100754/9932b6d1503f0fe1d359c2f677cefc9352446e5316ec5c881aa2d81d09c14b3b",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000062079/4e5973aaf5fdb786d3ce40249a8ec8a5a4a81cdaf40036374e90591adb6971d0",
+              "publicId": "store/software/switch2/70010000100754/b48e58d583d5bae4d2aabc6c6b3eee195f2720051fd6ace09c62c54b3bce3534",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000062079/93a1ca46e376bc3b7e6b21d5536e249e5fb80a0c57d3dd90ca759d88f57616fe",
+              "publicId": "store/software/switch2/70010000100754/6bfe517da928446dbd0f0d6b98bb52ba78e5bbe2d649698881a43abd6d10b8c0",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100113865\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Já disponivel"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"53jUD584Tx7hI4qBCCzqLI\",\"locale\":\"pt_BR\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"24uuBIBLmgMf3GWO9Ezg7W\",\"locale\":\"pt_BR\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": "2026-11-17T07:59:59Z",
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "pt_BR",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "FINAL FANTASY X/X-2 HD Remaster",
+          "nsuid": "70010000113865",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": true,
+            "regularPrice": 284.9,
+            "finalPrice": 142.45,
+            "pricePerUnit": null,
+            "percentOff": 50,
+            "amountOff": 142.45
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000113865/1d64f4ba11f085404d1b255a1686683fa65a26117bee7b0d4d60d31985d25f2c",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch2/70010000113865/f5aa971b97f9465be8e2771239ae636dbfc359bd789904c4e176e1b3d7d1d66a",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-07-23T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100113865",
+          "softwarePublisher": "SQUARE ENIX",
+          "softwareDeveloper": null,
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Melhore suas estatísticas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personagens com voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "RPG"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Jogos"
+          },
+          "urlKey": "final-fantasy-x-x-2-hd-remaster-switch-2",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000113865/Video/af2c6a5baebc8229c29f6c79d2f1e33c6233dd127e5a837c547dcbac4508c4d4",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/f01b2cba3374ca974481a41b7fbe59c9a0d4aa02a99a31e7a27cff5d30b2802d",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/a40864e2a40d42b3e63015e693d8ea303ac99c8bc892e6c03c1c1b21c7c20c54",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/fe6b3d6b4095d45067322715d142be35cf6ea910fdd4787c74d308f6f7855de6",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/3175da14b170c48e6a4092c5140de3f2af1f14221e89ba0185a544358456db0f",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/42a2d52b281f815c76c253501d16834dd1723cee88f8e77b2ae387a0cdb37812",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch2/70010000113865/bff60055c21193b4dc751518ac692058a9683bdd2cd9f06a932fd6cf2754ffa1",
               "resourceType": "image",
               "type": "upload"
             }
@@ -8626,19 +8574,22 @@
               "__ref": "Product:{\"sku\":\"7100112477\"}"
             },
             {
+              "__ref": "Product:{\"sku\":\"7100117100\"}"
+            },
+            {
               "__ref": "Product:{\"sku\":\"7100095321\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100106034\"}"
+              "__ref": "Product:{\"sku\":\"7100098734\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100116884\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100101698\"}"
+              "__ref": "Product:{\"sku\":\"7100098990\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100098990\"}"
+              "__ref": "Product:{\"sku\":\"7100101698\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100097827\"}"
@@ -8647,22 +8598,22 @@
               "__ref": "Product:{\"sku\":\"7100118131\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100056360\"}"
-            },
-            {
-              "__ref": "Product:{\"sku\":\"7100097756\"}"
-            },
-            {
               "__ref": "Product:{\"sku\":\"7100111577\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100101665\"}"
+              "__ref": "Product:{\"sku\":\"7100056360\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100104247\"}"
             },
             {
+              "__ref": "Product:{\"sku\":\"7100097756\"}"
+            },
+            {
               "__ref": "Product:{\"sku\":\"7100120477\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100101665\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100100027\"}"
@@ -8674,25 +8625,25 @@
               "__ref": "Product:{\"sku\":\"7100098265\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100111119\"}"
-            },
-            {
               "__ref": "Product:{\"sku\":\"7100112254\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100039876\"}"
+              "__ref": "Product:{\"sku\":\"7100111119\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100111758\"}"
+              "__ref": "Product:{\"sku\":\"7100118137\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100124568\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100098088\"}"
+              "__ref": "Product:{\"sku\":\"7100111758\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100118137\"}"
+              "__ref": "Product:{\"sku\":\"7100039876\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100098088\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100095325\"}"
@@ -8701,19 +8652,16 @@
               "__ref": "Product:{\"sku\":\"7100009443\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100093189\"}"
-            },
-            {
-              "__ref": "Product:{\"sku\":\"7100088802\"}"
-            },
-            {
               "__ref": "Product:{\"sku\":\"7100097419\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100084983\"}"
+              "__ref": "Product:{\"sku\":\"7100108201\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100062079\"}"
+              "__ref": "Product:{\"sku\":\"7100100754\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7100113865\"}"
             }
           ],
           "countryOfOrigin": null,
@@ -8845,7 +8793,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "125829120000",
-                "totalRomSize": "117331460096",
+                "totalRomSize": "117335654400",
                 "platform": "BEE"
               }
             ]
@@ -9214,7 +9162,7 @@
   "query": {
     "slug": "final-fantasy-xiv-online-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
