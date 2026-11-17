@@ -1174,26 +1174,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2571,7 +2571,20 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Acertijos y deducción"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Personajes con voz"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/a328152fdebe9c78f95e88d2519741d9b79816d92434b718def53a0e2fa4ccae"
       },
@@ -2634,49 +2647,57 @@
             "uploadDate": "2026-11-17T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Academia Unicornio: La Isla de la Magia gallery item 1",
             "description": "Academia Unicornio: La Isla de la Magia gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/41625cb33538506c4b5ef31c709a6ae10be305c848ea2f628cdb6b4acbace878",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/41625cb33538506c4b5ef31c709a6ae10be305c848ea2f628cdb6b4acbace878",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000119549/Video/206aad2ad86af72c9b161a16dfeee8bd77f971c27762ff565cd1fce1dca1f407",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch/70010000119549/Video/206aad2ad86af72c9b161a16dfeee8bd77f971c27762ff565cd1fce1dca1f407",
             "uploadDate": "2026-11-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Academia Unicornio: La Isla de la Magia gallery item 2",
             "description": "Academia Unicornio: La Isla de la Magia gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/33cb00a3e41176781f4896262ff8959fcddb29e5fcb137f474ebe21660b2b139",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/33cb00a3e41176781f4896262ff8959fcddb29e5fcb137f474ebe21660b2b139",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/41625cb33538506c4b5ef31c709a6ae10be305c848ea2f628cdb6b4acbace878",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/41625cb33538506c4b5ef31c709a6ae10be305c848ea2f628cdb6b4acbace878",
             "uploadDate": "2026-11-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Academia Unicornio: La Isla de la Magia gallery item 3",
             "description": "Academia Unicornio: La Isla de la Magia gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/5c8cdffa1b085882290de79a2fb0b235989a270fa6731461af8d4b470cb61776",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/5c8cdffa1b085882290de79a2fb0b235989a270fa6731461af8d4b470cb61776",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/33cb00a3e41176781f4896262ff8959fcddb29e5fcb137f474ebe21660b2b139",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/33cb00a3e41176781f4896262ff8959fcddb29e5fcb137f474ebe21660b2b139",
             "uploadDate": "2026-11-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Academia Unicornio: La Isla de la Magia gallery item 4",
             "description": "Academia Unicornio: La Isla de la Magia gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/1cea8ebce21ac5f4a41917fa046702c1bf9ed1e3bafd0d8669a077f86fbcccec",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/1cea8ebce21ac5f4a41917fa046702c1bf9ed1e3bafd0d8669a077f86fbcccec",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/5c8cdffa1b085882290de79a2fb0b235989a270fa6731461af8d4b470cb61776",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/5c8cdffa1b085882290de79a2fb0b235989a270fa6731461af8d4b470cb61776",
             "uploadDate": "2026-11-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Academia Unicornio: La Isla de la Magia gallery item 5",
             "description": "Academia Unicornio: La Isla de la Magia gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/2de699875d7054d20e3450916cfcb72fde48e1cb03486411584089991dd8163f",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/2de699875d7054d20e3450916cfcb72fde48e1cb03486411584089991dd8163f",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/1cea8ebce21ac5f4a41917fa046702c1bf9ed1e3bafd0d8669a077f86fbcccec",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/1cea8ebce21ac5f4a41917fa046702c1bf9ed1e3bafd0d8669a077f86fbcccec",
             "uploadDate": "2026-11-17T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Academia Unicornio: La Isla de la Magia gallery item 6",
             "description": "Academia Unicornio: La Isla de la Magia gallery item 6",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/2de699875d7054d20e3450916cfcb72fde48e1cb03486411584089991dd8163f",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/2de699875d7054d20e3450916cfcb72fde48e1cb03486411584089991dd8163f",
+            "uploadDate": "2026-11-17T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Academia Unicornio: La Isla de la Magia gallery item 7",
+            "description": "Academia Unicornio: La Isla de la Magia gallery item 7",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/da9c797d740544f5dc3e3b0ef1db1ce09f3a3cb1198ec2f69b94878ba61dd3ed",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000119549/da9c797d740544f5dc3e3b0ef1db1ce09f3a3cb1198ec2f69b94878ba61dd3ed",
             "uploadDate": "2026-11-17T00:00:00.000Z"
@@ -2764,16 +2785,31 @@
           "url({\"relative\":true})": "/es-co/store/products/unicorn-academy-island-of-magic-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Acertijos y deducción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
           "applicationId": "0100b76027538000",
           "appStoreUrl": null,
-          "availability": [
-            "Próximos lanzamientos"
-          ],
+          "availability": [],
           "baseSoftware": [],
           "categories": [
             {
@@ -2870,13 +2906,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "3806330880",
+                "totalRomSize": "3807379456",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "3806330880",
+                "totalRomSize": "3807379456",
                 "platform": "BEE"
               }
             ]
@@ -2951,6 +2987,12 @@
             }
           ],
           "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000119549/Video/206aad2ad86af72c9b161a16dfeee8bd77f971c27762ff565cd1fce1dca1f407",
+              "resourceType": "video",
+              "type": "upload"
+            },
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch/70010000119549/41625cb33538506c4b5ef31c709a6ae10be305c848ea2f628cdb6b4acbace878",
@@ -3046,7 +3088,7 @@
   "query": {
     "slug": "unicorn-academy-island-of-magic-switch"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

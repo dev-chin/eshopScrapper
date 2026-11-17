@@ -1174,26 +1174,6 @@
                   "hideOnLocale": false,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1449,6 +1429,26 @@
                     "__contentType": "icon",
                     "__entryId": "1eUxLArOQ2sdnsQOFfSeAA",
                     "id": "CharacterIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
                   },
                   "image": null,
                   "hideOn": null,
@@ -2587,8 +2587,8 @@
           "offers": {
             "@type": "Offer",
             "url": "/pt-br/store/products/romancing-saga-3-destinies-united-switch-2/",
-            "priceCurrency": null,
-            "price": null,
+            "priceCurrency": "BRL",
+            "price": "339.90",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2631,55 +2631,63 @@
             "description": "Romancing SaGa 3: Destinies United gallery item 0",
             "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/679853dcdb6c5251a11354f2862f41048ae9e04adbe75be5588e1d706a9e6195",
             "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/679853dcdb6c5251a11354f2862f41048ae9e04adbe75be5588e1d706a9e6195",
-            "uploadDate": "2027-02-16T00:00:00.000Z"
+            "uploadDate": "2027-02-04T00:00:00.000Z"
           },
           {
-            "@type": "ImageObject",
+            "@type": "VideoObject",
             "name": "Romancing SaGa 3: Destinies United gallery item 1",
             "description": "Romancing SaGa 3: Destinies United gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/9365eebcc0f5543b7ee53bc98b31e7f621484d2151d31c4d50e3857491d3d977",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/9365eebcc0f5543b7ee53bc98b31e7f621484d2151d31c4d50e3857491d3d977",
-            "uploadDate": "2027-02-16T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000114053/Video/9822ac00de7048849d3400d3506e563339d745e4cb55ae0287a983d1f73aa600",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0//store/software/switch2/70010000114053/Video/9822ac00de7048849d3400d3506e563339d745e4cb55ae0287a983d1f73aa600",
+            "uploadDate": "2027-02-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Romancing SaGa 3: Destinies United gallery item 2",
             "description": "Romancing SaGa 3: Destinies United gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/dc816aa15381c0fe3a9ece8ef02bcafda1707a4f62712f6fd2c917189cb110b6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/dc816aa15381c0fe3a9ece8ef02bcafda1707a4f62712f6fd2c917189cb110b6",
-            "uploadDate": "2027-02-16T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/9365eebcc0f5543b7ee53bc98b31e7f621484d2151d31c4d50e3857491d3d977",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/9365eebcc0f5543b7ee53bc98b31e7f621484d2151d31c4d50e3857491d3d977",
+            "uploadDate": "2027-02-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Romancing SaGa 3: Destinies United gallery item 3",
             "description": "Romancing SaGa 3: Destinies United gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/b93b71b851a3887fbbc15861da2b9c660846cdc628a17fde8dcf6c9b489ac56a",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/b93b71b851a3887fbbc15861da2b9c660846cdc628a17fde8dcf6c9b489ac56a",
-            "uploadDate": "2027-02-16T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/dc816aa15381c0fe3a9ece8ef02bcafda1707a4f62712f6fd2c917189cb110b6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/dc816aa15381c0fe3a9ece8ef02bcafda1707a4f62712f6fd2c917189cb110b6",
+            "uploadDate": "2027-02-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Romancing SaGa 3: Destinies United gallery item 4",
             "description": "Romancing SaGa 3: Destinies United gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/f76c7136d3cb1743ce3cc71ca5d978c8eb75aff3fdb902b49fdadef734a516c4",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/f76c7136d3cb1743ce3cc71ca5d978c8eb75aff3fdb902b49fdadef734a516c4",
-            "uploadDate": "2027-02-16T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/be8c97fe1a67d53250916d8fe6c38fcc99bd1125d01d1ddb7220519d638da308",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/be8c97fe1a67d53250916d8fe6c38fcc99bd1125d01d1ddb7220519d638da308",
+            "uploadDate": "2027-02-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Romancing SaGa 3: Destinies United gallery item 5",
             "description": "Romancing SaGa 3: Destinies United gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/26eb8dbb7ea2a68efcb98bbc574ac420254b71487d58443b5eadc9548f47e8f5",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/26eb8dbb7ea2a68efcb98bbc574ac420254b71487d58443b5eadc9548f47e8f5",
-            "uploadDate": "2027-02-16T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/8aa4fc5af40e5fa33e8c10246084d5ffb787eb067beffc2c6fe4bc6a753321c3",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/8aa4fc5af40e5fa33e8c10246084d5ffb787eb067beffc2c6fe4bc6a753321c3",
+            "uploadDate": "2027-02-04T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "Romancing SaGa 3: Destinies United gallery item 6",
             "description": "Romancing SaGa 3: Destinies United gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/962c2e00354a293f17516e40b4f517da133831479910afdbd7884938b4b5690e",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/962c2e00354a293f17516e40b4f517da133831479910afdbd7884938b4b5690e",
-            "uploadDate": "2027-02-16T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/f8d92e58b67133ba5d2e0ac76a73e6bf01e2a0fc65c26ce4734161bb1c29da41",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/f8d92e58b67133ba5d2e0ac76a73e6bf01e2a0fc65c26ce4734161bb1c29da41",
+            "uploadDate": "2027-02-04T00:00:00.000Z"
+          },
+          {
+            "@type": "ImageObject",
+            "name": "Romancing SaGa 3: Destinies United gallery item 7",
+            "description": "Romancing SaGa 3: Destinies United gallery item 7",
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/9f06d321fa4e39d5451e551c4415c748f50c54e2809f07a36adca1c5b48e3b24",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000114053/9f06d321fa4e39d5451e551c4415c748f50c54e2809f07a36adca1c5b48e3b24",
+            "uploadDate": "2027-02-04T00:00:00.000Z"
           }
         ],
         {
@@ -2757,7 +2765,7 @@
             "resourceType": "image",
             "type": "upload"
           },
-          "releaseDate": "2027-02-16T00:00:00.000Z",
+          "releaseDate": "2027-02-04T00:00:00.000Z",
           "releaseDateDisplay": null,
           "showWidely": true,
           "sku": "7500077485",
@@ -2783,7 +2791,14 @@
             "label": "Nintendo Switch 2",
             "code": "NINTENDO_SWITCH_2"
           },
-          "prices({\"personalized\":false})": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 339.9,
+            "finalPrice": 339.9,
+            "pricePerUnit": null
+          },
           "productImage": {
             "__typename": "CloudinaryAsset",
             "publicId": "store/software/switch2/70010000114053/679853dcdb6c5251a11354f2862f41048ae9e04adbe75be5588e1d706a9e6195",
@@ -2825,7 +2840,7 @@
           "countryOfOrigin": null,
           "demoNsuid": null,
           "description({\"html\":true})": "<p>*Este jogo só é compatível com o Nintendo Switch™ 2. Observe que não é possível jogar no Nintendo Switch™.<br>*Também há uma versão para Nintendo Switch™ deste jogo. Selecione cuidadosamente a versão desejada. <br><br>Romancing SaGa 3, o aclamado JRPG lançado originalmente em 1995, no Japão, retorna com um remake completo em 3D. Esta versão traz uma releitura de uma aventura clássica para novos jogadores e fãs de longa data da série SaGa.<br><br>■História<br>A cada 300 anos, Morastrum, ou Star of Death, ergue-se no céu, condenando todos os nascidos sob sua presença, exceto pela misteriosa Child of Destiny. Cerca de 20 anos após sua última aparição, uma insurreição em Loanne revela uma ameaça ainda pior: os Four Sinistrals querem reabrir os portões para o Abyss. Oito heróis unidos pelo destino devem se unir para salvar o mundo.<br><br>■Personagens<br>Escolha entre oito protagonistas, cada um com uma história única, e recrute mais de vinte aliados para a sua equipe<br><br>■Gráficos<br>Inspirado na pixel art original e nas ilustrações de Tomomi Kobayashi, o remake traz designs de personagens assinados por Yoshiro Ambe e ambientes inteiramente em 3D.<br><br>■Sistema de narrativa livre<br>Suas escolhas moldam a aventura, desde as histórias que você vivencia até a ordem em que você enfrenta os Sinistrals, criando uma experiência única ao começar cada jornada.<br><br>■Sistemas de batalha e poder dos personagens<br>Recursos clássicos da série SaGa retornam, como Glimmer e Formation, além de um novo sistema de batalha com linha do tempo e United Attacks, oferecendo combate tático mais profundo.<br><br>■Dificuldade<br>Escolha entre os modos Casual, Normal ou Classic para ajustar o desafio ao seu estilo de jogo.<br><br>■Música e dublagem<br>O compositor original, Kenji Ito, supervisionou o novo arranjo musical, e os jogadores podem alternar entre a trilha original ou a nova versão.<br></p>",
-          "disclaimer": "<p>Uma assinatura do Nintendo Switch Online (vendida separadamente) é necessária para a funcionalidade de cópia de segurança na nuvem.</p><p>*Este jogo só é compatível com o Nintendo Switch™ 2. Observe que não é possível jogar no Nintendo Switch™.<br>*Também há uma versão para Nintendo Switch™ deste jogo. Selecione cuidadosamente a versão desejada. <br>*Não é possível transferir dados salvos da versão de Nintendo Switch™ 2 para a versão de Nintendo Switch™.<br>*Não é possível transferir dados salvos da versão de Nintendo Switch™ para a versão de Nintendo Switch™ 2.</p><p>© SQUARE ENIX</p>",
+          "disclaimer": "<p>Uma assinatura do Nintendo Switch Online (vendida separadamente) é necessária para a funcionalidade de cópia de segurança na nuvem.</p><p>*Este jogo só é compatível com o Nintendo Switch™ 2. Observe que não é possível jogar no Nintendo Switch™.<br>*Também há uma versão para Nintendo Switch™ deste jogo. Selecione cuidadosamente a versão desejada. <br>*Não é possível transferir dados salvos da versão de Nintendo Switch™ 2 para a versão de Nintendo Switch™.</p><p>© SQUARE ENIX</p>",
           "displayChokingHazard": null,
           "displayProp65": null,
           "dlcType": null,
@@ -2878,7 +2893,7 @@
             "__typename": "CloudinaryAsset",
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000114053/461953d171f9d87747cb5c2ec87112f70c1ba45d5f1b1a16315acdb1ab860132"
           },
-          "publisherNotifications({\"html\":true})": "<p>*Este jogo só é compatível com o Nintendo Switch™ 2. Observe que não é possível jogar no Nintendo Switch™.<br>*Também há uma versão para Nintendo Switch™ deste jogo. Selecione cuidadosamente a versão desejada. <br>*Não é possível transferir dados salvos da versão de Nintendo Switch™ 2 para a versão de Nintendo Switch™.<br>*Não é possível transferir dados salvos da versão de Nintendo Switch™ para a versão de Nintendo Switch™ 2.</p>",
+          "publisherNotifications({\"html\":true})": "<p>*Este jogo só é compatível com o Nintendo Switch™ 2. Observe que não é possível jogar no Nintendo Switch™.<br>*Também há uma versão para Nintendo Switch™ deste jogo. Selecione cuidadosamente a versão desejada. <br>*Não é possível transferir dados salvos da versão de Nintendo Switch™ 2 para a versão de Nintendo Switch™.<br>A data de lançamento de Romancing SaGa 3: Destinies United foi alterada de 16 de fevereiro de 2027 para 4 de fevereiro de 2027.</p>",
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [
@@ -3007,6 +3022,12 @@
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch2/70010000114053/Video/9822ac00de7048849d3400d3506e563339d745e4cb55ae0287a983d1f73aa600",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000114053/9365eebcc0f5543b7ee53bc98b31e7f621484d2151d31c4d50e3857491d3d977",
               "resourceType": "image",
               "type": "upload"
@@ -3019,30 +3040,30 @@
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000114053/b93b71b851a3887fbbc15861da2b9c660846cdc628a17fde8dcf6c9b489ac56a",
+              "publicId": "store/software/switch2/70010000114053/be8c97fe1a67d53250916d8fe6c38fcc99bd1125d01d1ddb7220519d638da308",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000114053/f76c7136d3cb1743ce3cc71ca5d978c8eb75aff3fdb902b49fdadef734a516c4",
+              "publicId": "store/software/switch2/70010000114053/8aa4fc5af40e5fa33e8c10246084d5ffb787eb067beffc2c6fe4bc6a753321c3",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000114053/26eb8dbb7ea2a68efcb98bbc574ac420254b71487d58443b5eadc9548f47e8f5",
+              "publicId": "store/software/switch2/70010000114053/f8d92e58b67133ba5d2e0ac76a73e6bf01e2a0fc65c26ce4734161bb1c29da41",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch2/70010000114053/962c2e00354a293f17516e40b4f517da133831479910afdbd7884938b4b5690e",
+              "publicId": "store/software/switch2/70010000114053/9f06d321fa4e39d5451e551c4415c748f50c54e2809f07a36adca1c5b48e3b24",
               "resourceType": "image",
               "type": "upload"
             }
           ],
-          "releaseDate": "2027-02-16T00:00:00.000Z",
+          "releaseDate": "2027-02-04T00:00:00.000Z",
           "releaseDateDisplay": null,
           "softwareContents": [],
           "softwarePublisher": "SQUARE ENIX",
@@ -3074,7 +3095,14 @@
             "label": "Nintendo Switch 2",
             "code": "NINTENDO_SWITCH_2"
           },
-          "prices({\"personalized\":false})": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 455.9,
+            "finalPrice": 455.9,
+            "pricePerUnit": null
+          },
           "productImage": {
             "__typename": "CloudinaryAsset",
             "publicId": "store/software/switch2/70070000038891/f09aabd4cefe0bb3b134f559f10211acf022edbea77c4e51e1fa925d6c028b02"
@@ -3136,7 +3164,7 @@
   "query": {
     "slug": "romancing-saga-3-destinies-united-switch-2"
   },
-  "buildId": "DaPC3MAPibJekH4nGSpkK",
+  "buildId": "cC8aJ885DEifwyKjZlyft",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
