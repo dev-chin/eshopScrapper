@@ -1758,7 +1758,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Suicide Guy Deluxe Plus para Nintendo Switch - Site Oficial da Nintendo para Brasil",
@@ -2571,7 +2570,20 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Ação"
+        },
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Resolução de enigmas"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000136857/0e2ac4f5da23ea96415dd8bf31963223e4825cb36bd5d826f88b911f36203260"
       },
@@ -2715,11 +2727,6 @@
         }
       ],
       "initialApolloState": {
-        "Category:nintendo_3ds_family": {
-          "__typename": "Category",
-          "id": "nintendo_3ds_family",
-          "name": "Nintendo 3DS Family"
-        },
         "Category:games": {
           "__typename": "Category",
           "id": "games",
@@ -2729,6 +2736,11 @@
           "__typename": "Category",
           "id": "nintendo_switch",
           "name": "Nintendo Switch"
+        },
+        "Category:nintendo_3ds_family": {
+          "__typename": "Category",
+          "id": "nintendo_3ds_family",
+          "name": "Nintendo 3DS Family"
         },
         "Product:{\"sku\":\"7100136857\"}": {
           "__typename": "Product",
@@ -2772,8 +2784,25 @@
           "url({\"relative\":true})": "/pt-br/store/products/suicide-guy-deluxe-plus-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Resolução de enigmas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -2785,13 +2814,13 @@
           "baseSoftware": [],
           "categories": [
             {
-              "__ref": "Category:nintendo_3ds_family"
-            },
-            {
               "__ref": "Category:games"
             },
             {
               "__ref": "Category:nintendo_switch"
+            },
+            {
+              "__ref": "Category:nintendo_3ds_family"
             }
           ],
           "capacity": null,
@@ -3070,7 +3099,7 @@
   "query": {
     "slug": "suicide-guy-deluxe-plus-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

@@ -1758,7 +1758,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Cielvia-Inherited By Defeat- para Nintendo Switch - Site Oficial da Nintendo para Brasil",
@@ -2609,7 +2608,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/cielvia-inherited-by-defeat-switch/",
             "priceCurrency": "BRL",
-            "price": "34.99",
+            "price": "29.74",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2775,9 +2774,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 34.99,
-            "finalPrice": 34.99,
+            "finalPrice": 29.74,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2828,7 +2827,8 @@
           "applicationId": "0100192029870000",
           "appStoreUrl": null,
           "availability": [
-            "Em breve"
+            "Novos lançamentos",
+            "Já disponivel"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2846,7 +2846,7 @@
           "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
-          "demoNsuid": null,
+          "demoNsuid": "70030000026394",
           "description({\"html\":true})": "<p>A jovem Cielvia continua lutando em um mundo repleto de monstros.<br><br>A Forma de Luz é especializada em ataques à distância, enquanto a Forma de Escuridão se destaca no combate corpo a corpo.<br>Alterne entre essas duas formas para enfrentar hordas de inimigos e chefes poderosos.<br><br>A derrota não é o fim.<br>Adquira novos poderes durante as batalhas, crie sua própria combinação de habilidades e tente novamente quantas vezes for necessário.<br><br>【Um sistema de combate que alterna entre luz e escuridão】<br>A Forma de Luz permite realizar ataques à distância que atingem grandes áreas, enquanto a Forma de Escuridão oferece poderosos ataques corpo a corpo.<br>Alterne entre as formas de acordo com a situação e descubra a melhor maneira de lutar.<br><br>【Uma combinação diferente de habilidades a cada partida】<br>As diversas habilidades adquiridas durante o jogo transformam sua maneira de lutar.<br>Você vai fortalecer seus ataques ou aumentar suas chances de sobrevivência?<br>Suas escolhas podem criar estilos de jogo completamente diferentes.<br><br>【Fique mais forte a cada derrota】<br>Ao ser derrotado por um inimigo, você poderá, em certas ocasiões, extrair uma habilidade especial dele.<br>Mesmo diante de adversários formidáveis, é possível conquistar novos poderes e desafiá-los novamente.<br><br>【Inimigos e chefes únicos】<br>Monstros com características e habilidades distintas surgirão em seu caminho.<br>Observe seus padrões de ataque, explore suas fraquezas e conquiste a vitória.<br><br>※ Este jogo não oferece suporte ao português.<br>Idiomas disponíveis no jogo: inglês, japonês e chinês simplificado.</p>",
           "disclaimer": "<p>Uma assinatura do Nintendo Switch Online (vendida separadamente) é necessária para a funcionalidade de cópia de segurança na nuvem.</p><p>※ Este jogo não oferece suporte ao idioma português.<br>Idiomas disponíveis no jogo: inglês, japonês e chinês simplificado.</p><p>© 2026 MomomoGameWorks All Rights Reserved.</p>",
           "displayChokingHazard": null,
@@ -2857,10 +2857,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000139597&v_loggedin=false&v_currency=BRL&v_price=29.74&v_country=BR",
+            "discountPriceEnd": "2027-01-01T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2926,13 +2926,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "1258291200",
-                "totalRomSize": "1051721728",
+                "totalRomSize": "1130364928",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "1051721728",
+                "totalRomSize": "1130364928",
                 "platform": "BEE"
               }
             ]
@@ -3107,7 +3107,7 @@
   "query": {
     "slug": "cielvia-inherited-by-defeat-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

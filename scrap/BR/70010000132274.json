@@ -1758,7 +1758,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "GRIME II para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
@@ -2571,7 +2570,24 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Ação"
+        },
+        {
+          "url": "/store/games/tags/choose-your-difficulty-games",
+          "label": "Escolha a dificuldade"
+        },
+        {
+          "url": "/store/games/tags/games-where-you-explore-to-open-up-areas",
+          "label": "Exploração"
+        },
+        {
+          "url": "/store/games/tags/platforming-games",
+          "label": "Plataformas"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000132274/23c7593019b44b1bf0864a1a0debef8e620db59218289664ad57bd2ff6f236c0"
       },
@@ -2758,8 +2774,30 @@
           "url({\"relative\":true})": "/pt-br/store/products/grime-ii-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Escolha a dificuldade"
+              },
+              {
+                "__typename": "Tag",
+                "code": "PIONEERING",
+                "label": "Exploração"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Ação"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3046,7 +3084,7 @@
   "query": {
     "slug": "grime-ii-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

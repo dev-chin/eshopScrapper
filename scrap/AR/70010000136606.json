@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "BloodRush: Undying Wish para Nintendo Switch - Sitio Oficial de Nintendo para Argentina",
@@ -2691,11 +2690,6 @@
         }
       ],
       "initialApolloState": {
-        "Category:nintendo_3ds_family": {
-          "__typename": "Category",
-          "id": "nintendo_3ds_family",
-          "name": "Nintendo 3DS Family"
-        },
         "Category:games": {
           "__typename": "Category",
           "id": "games",
@@ -2705,6 +2699,11 @@
           "__typename": "Category",
           "id": "nintendo_switch",
           "name": "Nintendo Switch"
+        },
+        "Category:nintendo_3ds_family": {
+          "__typename": "Category",
+          "id": "nintendo_3ds_family",
+          "name": "Nintendo 3DS Family"
         },
         "Product:{\"sku\":\"7100136606\"}": {
           "__typename": "Product",
@@ -2761,13 +2760,13 @@
           "baseSoftware": [],
           "categories": [
             {
-              "__ref": "Category:nintendo_3ds_family"
-            },
-            {
               "__ref": "Category:games"
             },
             {
               "__ref": "Category:nintendo_switch"
+            },
+            {
+              "__ref": "Category:nintendo_3ds_family"
             }
           ],
           "capacity": null,
@@ -3031,7 +3030,7 @@
   "query": {
     "slug": "bloodrush-undying-wish-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
