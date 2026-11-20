@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Suicide Guy Deluxe Plus para Nintendo Switch - Sitio Oficial de Nintendo para Mexico",
@@ -2571,7 +2570,20 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Acertijos y deducción"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000136857/0e2ac4f5da23ea96415dd8bf31963223e4825cb36bd5d826f88b911f36203260"
       },
@@ -2772,8 +2784,25 @@
           "url({\"relative\":true})": "/es-mx/store/products/suicide-guy-deluxe-plus-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Acertijos y deducción"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3070,7 +3099,7 @@
   "query": {
     "slug": "suicide-guy-deluxe-plus-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "SHybWvCxiwOikeT8hv1KP",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

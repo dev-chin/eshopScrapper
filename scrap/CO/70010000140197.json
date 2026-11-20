@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "The Abjuration Stand para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
@@ -2811,7 +2810,8 @@
           "applicationId": "01006c602aac2000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2840,9 +2840,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000140197&v_loggedin=false&v_currency=COP&v_price=37900.00&v_country=CO",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -3089,7 +3089,7 @@
   "query": {
     "slug": "the-abjuration-stand-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "SHybWvCxiwOikeT8hv1KP",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Gravity Switch para Nintendo Switch - Sitio Oficial de Nintendo para Mexico",
@@ -2571,7 +2570,16 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/puzzle-games",
+          "label": "Rompecabezas"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Arte pixelado"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000142131/c801fbea0ea0ec9f283933136ce6d0a18700b6630c7f1c26ec0509baf05c8f94"
       },
@@ -2764,8 +2772,20 @@
           "url({\"relative\":true})": "/es-mx/store/products/gravity-switch-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "PUZZLE",
+                "label": "Rompecabezas"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3040,7 +3060,7 @@
   "query": {
     "slug": "gravity-switch-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "SHybWvCxiwOikeT8hv1KP",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

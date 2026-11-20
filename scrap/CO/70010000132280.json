@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "GRIME II para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
@@ -2571,7 +2570,20 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/games-where-you-explore-to-open-up-areas",
+          "label": "Exploración"
+        },
+        {
+          "url": "/store/games/tags/platforming-games",
+          "label": "Plataformas"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000132280/23c7593019b44b1bf0864a1a0debef8e620db59218289664ad57bd2ff6f236c0"
       },
@@ -2763,8 +2775,25 @@
           "url({\"relative\":true})": "/es-co/store/products/grime-ii-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIONEERING",
+                "label": "Exploración"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3056,7 +3085,7 @@
   "query": {
     "slug": "grime-ii-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "SHybWvCxiwOikeT8hv1KP",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Ritebound para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -2793,7 +2792,8 @@
           "applicationId": "01004a902a6e2000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2822,9 +2822,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000138626&v_loggedin=false&v_currency=PEN&v_price=34.99&v_country=PE",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -3071,7 +3071,7 @@
   "query": {
     "slug": "ritebound-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "SHybWvCxiwOikeT8hv1KP",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
