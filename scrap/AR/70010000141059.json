@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Purgatory -NARAKU- para Nintendo Switch - Sitio Oficial de Nintendo para Argentina",
@@ -2609,7 +2608,7 @@
             "@type": "Offer",
             "url": "/es-ar/store/products/purgatory-naraku-switch/",
             "priceCurrency": "ARS",
-            "price": "5690.00",
+            "price": "5121.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2759,9 +2758,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "ARS",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 5690,
-            "finalPrice": 5690,
+            "finalPrice": 5121,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2812,7 +2811,8 @@
           "applicationId": "010068202abd6000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2841,10 +2841,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000141059&v_loggedin=false&v_currency=ARS&v_price=5121.00&v_country=AR",
+            "discountPriceEnd": "2026-12-03T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -3080,7 +3080,7 @@
   "query": {
     "slug": "purgatory-naraku-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

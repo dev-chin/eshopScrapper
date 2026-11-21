@@ -170,49 +170,24 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "6o5UFLGstQbUz4dMJXsiQP",
-              "label": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
-              "caption": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
-              "url": "/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
+              "__entryId": "5UKndPHw6XcJmjo6LSR8KS",
+              "label": "My Mario™",
+              "caption": "My Mario™",
+              "url": "/store/merchandise/my-mario-products/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
-                "tags": [
-                  "70050000081248",
-                  "70050000081248-C"
-                ],
+                "url": "http://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
+                "tags": [],
                 "type": "upload",
-                "bytes": 2122019,
+                "bytes": 2970935,
                 "width": 1920,
-                "format": "jpg",
+                "format": "png",
                 "height": 1080,
-                "context": {
-                  "custom": {
-                    "en-CA:70050000081248": "1",
-                    "en-US:70050000081248": "1",
-                    "es-AR:70050000081248": "1",
-                    "es-CL:70050000081248": "1",
-                    "es-CO:70050000081248": "1",
-                    "es-MX:70050000081248": "1",
-                    "es-PE:70050000081248": "1",
-                    "fr-CA:70050000081248": "1",
-                    "pt-BR:70050000081248": "1",
-                    "en-CA:70050000081248-C": "1",
-                    "en-US:70050000081248-C": "1",
-                    "es-AR:70050000081248-C": "1",
-                    "es-CL:70050000081248-C": "1",
-                    "es-CO:70050000081248-C": "1",
-                    "es-MX:70050000081248-C": "1",
-                    "es-PE:70050000081248-C": "1",
-                    "fr-CA:70050000081248-C": "1",
-                    "pt-BR:70050000081248-C": "1"
-                  }
-                },
-                "version": 1788966774,
+                "version": 1770770996,
                 "metadata": {},
-                "public_id": "store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58",
-                "created_at": "2026-09-09T15:12:54Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "public_id": "ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1",
+                "created_at": "2026-01-08T01:19:24Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2718,7 +2693,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Winx Club - Moonlight Quest for Nintendo Switch - Nintendo Official Site",
@@ -2794,7 +2768,7 @@
             "@type": "Offer",
             "url": "/us/store/products/winx-club-moonlight-quest-switch/",
             "priceCurrency": "USD",
-            "price": "39.99",
+            "price": "33.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2920,6 +2894,60 @@
           "id": "nintendo_switch",
           "name": "Nintendo Switch"
         },
+        "Product:{\"sku\":\"7500083866\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Pre-order",
+            "Coming soon"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000083866",
+          "isSalableQty": true,
+          "locale": "en_US",
+          "name": "Bloom Cardix Transformation Skin",
+          "nsuid": "70050000083866",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "USD",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000083866/11228521d1ec93dec625a08a2ecf2db35852f07501f9b64fdbfaa34f10c3eb39",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-11-30T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500083866",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Games"
+          },
+          "urlKey": "bloom-cardix-transformation-skin-70050000083866-switch"
+        },
         "Product:{\"sku\":\"7100126474\"}": {
           "__typename": "Product",
           "compatibility": {
@@ -2944,9 +2972,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "USD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 39.99,
-            "finalPrice": 39.99,
+            "finalPrice": 33.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2970,6 +2998,7 @@
           "applicationId": "010052002750a000",
           "appStoreUrl": null,
           "availability": [
+            "Pre-order",
             "Coming soon"
           ],
           "baseSoftware": [],
@@ -2998,11 +3027,11 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPreorderable": true,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000126474&v_loggedin=false&v_currency=USD&v_price=33.99&v_country=US",
+            "discountPriceEnd": "2026-11-30T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -3046,7 +3075,11 @@
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
-          "downloadableContents": [],
+          "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7500083866\"}"
+            }
+          ],
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
@@ -3242,7 +3275,7 @@
   "query": {
     "slug": "winx-club-moonlight-quest-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

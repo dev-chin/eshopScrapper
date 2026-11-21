@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Winx Club - Moonlight Quest para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
@@ -2588,7 +2587,7 @@
             "@type": "Offer",
             "url": "/es-co/store/products/winx-club-moonlight-quest-switch/",
             "priceCurrency": "COP",
-            "price": "89000.00",
+            "price": "75650.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2714,6 +2713,60 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "Product:{\"sku\":\"7500083866\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Reserva",
+            "Próximos lanzamientos"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000083866",
+          "isSalableQty": true,
+          "locale": "es_CO",
+          "name": "Aspecto de transformación Cardix de Bloom",
+          "nsuid": "70050000083866",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "COP",
+            "discounted": false,
+            "regularPrice": 0,
+            "finalPrice": 0,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000083866/11228521d1ec93dec625a08a2ecf2db35852f07501f9b64fdbfaa34f10c3eb39",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-11-30T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500083866",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "bloom-cardix-transformation-skin-70050000083866-switch"
+        },
         "Product:{\"sku\":\"7100126474\"}": {
           "__typename": "Product",
           "compatibility": {
@@ -2738,9 +2791,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "COP",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 89000,
-            "finalPrice": 89000,
+            "finalPrice": 75650,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2764,6 +2817,7 @@
           "applicationId": "010052002750a000",
           "appStoreUrl": null,
           "availability": [
+            "Reserva",
             "Próximos lanzamientos"
           ],
           "baseSoftware": [],
@@ -2792,11 +2846,11 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPreorderable": true,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000126474&v_loggedin=false&v_currency=COP&v_price=75650.00&v_country=CO",
+            "discountPriceEnd": "2026-11-30T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2840,7 +2894,11 @@
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
-          "downloadableContents": [],
+          "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7500083866\"}"
+            }
+          ],
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
@@ -3036,7 +3094,7 @@
   "query": {
     "slug": "winx-club-moonlight-quest-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

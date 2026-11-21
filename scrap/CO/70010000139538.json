@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "File.BMR.01208 para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
@@ -2802,7 +2801,8 @@
           "applicationId": "010019702a96a000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2831,9 +2831,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000139538&v_loggedin=false&v_currency=COP&v_price=6623.00&v_country=CO",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -3073,7 +3073,7 @@
   "query": {
     "slug": "file-bmr-01208-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
