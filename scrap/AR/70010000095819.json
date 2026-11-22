@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Wizard's Fortress para Nintendo Switch - Sitio Oficial de Nintendo para Argentina",
@@ -2601,7 +2600,7 @@
             "@type": "Offer",
             "url": "/es-ar/store/products/wizards-fortress-switch/",
             "priceCurrency": "ARS",
-            "price": "3510.38",
+            "price": "11701.29",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2767,9 +2766,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "ARS",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 11701.29,
-            "finalPrice": 3510.38,
+            "finalPrice": 11701.29,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2841,8 +2840,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000095819&v_loggedin=false&v_currency=ARS&v_price=3510.38&v_country=AR",
-            "discountPriceEnd": "2026-11-16T07:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000095819&v_loggedin=false&v_currency=ARS&v_price=11701.29&v_country=AR",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -3078,7 +3077,7 @@
   "query": {
     "slug": "wizards-fortress-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

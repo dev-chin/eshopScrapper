@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Jaden Industries: Acogedor juego de rompecabezas de automatización para Nintendo Switch 2 - Sitio Oficial de Nintendo para Chile",
@@ -2571,7 +2570,20 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/puzzle-games",
+          "label": "Rompecabezas"
+        },
+        {
+          "url": "/store/games/tags/simulation-games",
+          "label": "Simulación"
+        },
+        {
+          "url": "/store/games/tags/high-score-games",
+          "label": "Rompe récords"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136990/a3586b3c63996969b6ec248d42f516e2c0089e11f5c59867d390b7b80962e68d"
       },
@@ -2766,8 +2778,25 @@
           "url({\"relative\":true})": "/es-cl/store/products/jaden-industries-cozy-automation-puzzler-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Rompe récords"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "PUZZLE",
+                "label": "Rompecabezas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SIMULATION",
+                "label": "Simulación"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3045,7 +3074,7 @@
   "query": {
     "slug": "jaden-industries-cozy-automation-puzzler-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

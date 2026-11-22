@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Funko Fusion Deluxe Edition para Nintendo Switch - Sitio Oficial de Nintendo para Mexico",
@@ -3778,9 +3777,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "MXN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 799,
-            "finalPrice": 799,
+            "finalPrice": 199.75,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3920,7 +3919,7 @@
   "query": {
     "slug": "funko-fusion-deluxe-edition-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

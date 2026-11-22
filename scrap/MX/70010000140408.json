@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Smartopus: IQ Quest para Nintendo Switch - Sitio Oficial de Nintendo para Mexico",
@@ -2571,7 +2570,16 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/informational-games",
+          "label": "Didáctico"
+        },
+        {
+          "url": "/store/games/tags/high-score-games",
+          "label": "Rompe récords"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000140408/ef29fcb5fc902bfd4e2587496d6943fe9908f48c8cf58ea050ed973b5da2c5ef"
       },
@@ -2772,8 +2780,20 @@
           "url({\"relative\":true})": "/es-mx/store/products/smartopus-iq-quest-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "SCORE_ATTACK",
+                "label": "Rompe récords"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "EDUCATION",
+                "label": "Educativo"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3045,7 +3065,7 @@
   "query": {
     "slug": "smartopus-iq-quest-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

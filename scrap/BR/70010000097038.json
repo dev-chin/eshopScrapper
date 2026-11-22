@@ -1758,7 +1758,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "A Bibelot: Tiret sur Will para Nintendo Switch - Site Oficial da Nintendo para Brasil",
@@ -2613,7 +2612,7 @@
             "@type": "Offer",
             "url": "/pt-br/store/products/a-bibelot-tiret-sur-will-switch/",
             "priceCurrency": "BRL",
-            "price": "14.16",
+            "price": "28.32",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2771,9 +2770,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 28.32,
-            "finalPrice": 14.16,
+            "finalPrice": 28.32,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2861,8 +2860,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097038&v_loggedin=false&v_currency=BRL&v_price=14.16&v_country=BR",
-            "discountPriceEnd": "2026-11-17T07:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097038&v_loggedin=false&v_currency=BRL&v_price=28.32&v_country=BR",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -3087,7 +3086,7 @@
   "query": {
     "slug": "a-bibelot-tiret-sur-will-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

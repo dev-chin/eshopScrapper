@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Funko Fusion Deluxe Edition para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -3540,23 +3539,6 @@
                 }
               ],
               "product": {
-                "__ref": "Product:{\"sku\":\"7700025659\"}"
-              }
-            },
-            {
-              "__typename": "ProductVariation",
-              "label": "ROM Bundle",
-              "value": "ROM Bundle",
-              "type": "edition",
-              "attributes": [
-                {
-                  "__typename": "ProductVariationAttribute",
-                  "label": "ROM Bundle",
-                  "type": "edition",
-                  "value": "ROM Bundle"
-                }
-              ],
-              "product": {
                 "__ref": "Product:{\"sku\":\"7700032330\"}"
               }
             },
@@ -3575,6 +3557,23 @@
               ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7700029667\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700025659\"}"
               }
             }
           ],
@@ -3760,44 +3759,6 @@
             "waysToPlay": []
           }
         },
-        "Product:{\"sku\":\"7700025659\"}": {
-          "__typename": "Product",
-          "compatibility": null,
-          "nsuid": "70070000025659",
-          "name": "Funko Fusion & Bob Ross Bundle",
-          "urlKey": "funko-fusion-and-bob-ross-bundle-switch",
-          "upgradeDescription": null,
-          "isSalableQty": true,
-          "isUpgrade": false,
-          "locale": "es_PE",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "PEN",
-            "discounted": false,
-            "regularPrice": 142.48,
-            "finalPrice": 142.48,
-            "pricePerUnit": null
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000025659/4db4f257a22269eb542ae72d86bebe56d2d4ec7dfafe0eb0c0217c7b387c43d5"
-          },
-          "size": null,
-          "soldOutPermanent": null,
-          "sku": "7700025659",
-          "url({\"relative\":true})": "/es-pe/store/products/funko-fusion-and-bob-ross-bundle-switch/",
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          }
-        },
         "Product:{\"sku\":\"7700032330\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -3816,9 +3777,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 160,
-            "finalPrice": 160,
+            "finalPrice": 40,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3874,6 +3835,44 @@
             "waysToPlay": []
           }
         },
+        "Product:{\"sku\":\"7700025659\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000025659",
+          "name": "Funko Fusion & Bob Ross Bundle",
+          "urlKey": "funko-fusion-and-bob-ross-bundle-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_PE",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 142.48,
+            "finalPrice": 142.48,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000025659/4db4f257a22269eb542ae72d86bebe56d2d4ec7dfafe0eb0c0217c7b387c43d5"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700025659",
+          "url({\"relative\":true})": "/es-pe/store/products/funko-fusion-and-bob-ross-bundle-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
         "ContentDescriptor:{\"id\":\"2yLZuBB4hcU7TFOhEj94R2\",\"locale\":\"es_PE\"}": {
           "__typename": "ContentDescriptor",
           "id": "2yLZuBB4hcU7TFOhEj94R2",
@@ -3920,7 +3919,7 @@
   "query": {
     "slug": "funko-fusion-deluxe-edition-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

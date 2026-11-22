@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Jaden Industries: Acogedor juego de rompecabezas de automatización para Nintendo Switch - Sitio Oficial de Nintendo para Chile",
@@ -2571,7 +2570,12 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/puzzle-games",
+          "label": "Rompecabezas"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000139615/a3586b3c63996969b6ec248d42f516e2c0089e11f5c59867d390b7b80962e68d"
       },
@@ -2773,7 +2777,13 @@
           "tags": {
             "__typename": "Tags",
             "features": [],
-            "genres": [],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "PUZZLE",
+                "label": "Rompecabezas"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3051,7 +3061,7 @@
   "query": {
     "slug": "jaden-industries-cozy-automation-puzzler-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

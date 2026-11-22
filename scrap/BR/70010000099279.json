@@ -1758,7 +1758,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Funko Fusion Deluxe Edition para Nintendo Switch - Site Oficial da Nintendo para Brasil",
@@ -3772,9 +3771,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 235,
-            "finalPrice": 235,
+            "finalPrice": 58.75,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3900,7 +3899,7 @@
   "query": {
     "slug": "funko-fusion-deluxe-edition-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

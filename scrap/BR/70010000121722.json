@@ -1758,7 +1758,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "UMAMI para Nintendo Switch - Site Oficial da Nintendo para Brasil",
@@ -2791,7 +2790,8 @@
           "applicationId": "01005f00279c2000",
           "appStoreUrl": null,
           "availability": [
-            "Em breve"
+            "Novos lançamentos",
+            "Já disponivel"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2820,9 +2820,9 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000121722&v_loggedin=false&v_currency=BRL&v_price=24.99&v_country=BR",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -3058,7 +3058,7 @@
   "query": {
     "slug": "umami-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

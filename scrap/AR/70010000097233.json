@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "ABSURDIKA: Rebuild para Nintendo Switch - Sitio Oficial de Nintendo para Argentina",
@@ -2605,7 +2604,7 @@
             "@type": "Offer",
             "url": "/es-ar/store/products/absurdika-rebuild-switch/",
             "priceCurrency": "ARS",
-            "price": "3299.99",
+            "price": "10999.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2763,9 +2762,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "ARS",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 10999.99,
-            "finalPrice": 3299.99,
+            "finalPrice": 10999.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2842,8 +2841,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097233&v_loggedin=false&v_currency=ARS&v_price=3299.99&v_country=AR",
-            "discountPriceEnd": "2026-11-16T07:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097233&v_loggedin=false&v_currency=ARS&v_price=10999.99&v_country=AR",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -3084,7 +3083,7 @@
   "query": {
     "slug": "absurdika-rebuild-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
