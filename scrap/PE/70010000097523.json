@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Girls Squad: Style Wars para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -2605,7 +2604,7 @@
             "@type": "Offer",
             "url": "/es-pe/store/products/girls-squad-style-wars-switch/",
             "priceCurrency": "PEN",
-            "price": "30.19",
+            "price": "54.90",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2771,9 +2770,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 54.9,
-            "finalPrice": 30.19,
+            "finalPrice": 54.9,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2850,8 +2849,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097523&v_loggedin=false&v_currency=PEN&v_price=30.19&v_country=PE",
-            "discountPriceEnd": "2026-11-16T07:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097523&v_loggedin=false&v_currency=PEN&v_price=54.90&v_country=PE",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -3104,7 +3103,7 @@
   "query": {
     "slug": "girls-squad-style-wars-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

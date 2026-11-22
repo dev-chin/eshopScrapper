@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Wizard's Fortress para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -2601,7 +2600,7 @@
             "@type": "Offer",
             "url": "/es-pe/store/products/wizards-fortress-switch/",
             "priceCurrency": "PEN",
-            "price": "10.99",
+            "price": "36.64",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2767,9 +2766,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 36.64,
-            "finalPrice": 10.99,
+            "finalPrice": 36.64,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2841,8 +2840,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000095819&v_loggedin=false&v_currency=PEN&v_price=10.99&v_country=PE",
-            "discountPriceEnd": "2026-11-16T07:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000095819&v_loggedin=false&v_currency=PEN&v_price=36.64&v_country=PE",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -3078,7 +3077,7 @@
   "query": {
     "slug": "wizards-fortress-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

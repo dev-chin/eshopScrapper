@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "The Meating para Nintendo Switch - Sitio Oficial de Nintendo para Mexico",
@@ -2588,7 +2587,7 @@
             "@type": "Offer",
             "url": "/es-mx/store/products/the-meating-switch/",
             "priceCurrency": "MXN",
-            "price": "150.76",
+            "price": "75.38",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2746,9 +2745,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "MXN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 150.76,
-            "finalPrice": 150.76,
+            "finalPrice": 75.38,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2803,8 +2802,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000060559&v_loggedin=false&v_currency=MXN&v_price=150.76&v_country=MX",
-            "discountPriceEnd": null
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000060559&v_loggedin=false&v_currency=MXN&v_price=75.38&v_country=MX",
+            "discountPriceEnd": "2026-12-03T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -3033,7 +3032,7 @@
   "query": {
     "slug": "the-meating-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

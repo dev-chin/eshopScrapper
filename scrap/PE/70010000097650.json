@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Digger Simulator: Gold Rush para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -2593,7 +2592,7 @@
             "@type": "Offer",
             "url": "/es-pe/store/products/digger-simulator-gold-rush-switch/",
             "priceCurrency": "PEN",
-            "price": "29.00",
+            "price": "11.60",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2751,9 +2750,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 29,
-            "finalPrice": 29,
+            "finalPrice": 11.6,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2814,8 +2813,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097650&v_loggedin=false&v_currency=PEN&v_price=29.00&v_country=PE",
-            "discountPriceEnd": null
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097650&v_loggedin=false&v_currency=PEN&v_price=11.60&v_country=PE",
+            "discountPriceEnd": "2026-12-01T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -3034,7 +3033,7 @@
   "query": {
     "slug": "digger-simulator-gold-rush-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

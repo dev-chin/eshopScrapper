@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Cipheur  para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
@@ -3375,7 +3374,7 @@
                 }
               ],
               "product": {
-                "__ref": "Product:{\"sku\":\"7700032306\"}"
+                "__ref": "Product:{\"sku\":\"7700037111\"}"
               }
             },
             {
@@ -3392,7 +3391,7 @@
                 }
               ],
               "product": {
-                "__ref": "Product:{\"sku\":\"7700037111\"}"
+                "__ref": "Product:{\"sku\":\"7700032306\"}"
               }
             },
             {
@@ -3622,9 +3621,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "COP",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 43437,
-            "finalPrice": 21718,
+            "finalPrice": 43437,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3635,6 +3634,44 @@
           "soldOutPermanent": null,
           "sku": "7700036901",
           "url({\"relative\":true})": "/es-co/store/products/cipheur-season-5-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700037111\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000037111",
+          "name": "Cipheur - Season 6",
+          "urlKey": "cipheur-season-6-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "es_CO",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "COP",
+            "discounted": true,
+            "regularPrice": 47507,
+            "finalPrice": 23753,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000037111/78a9c24be907125ea061fe3d0c94d795ed3d149f71ed52d9941ae3b76dc2cab8"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700037111",
+          "url({\"relative\":true})": "/es-co/store/products/cipheur-season-6-switch/",
           "tags": {
             "__typename": "Tags",
             "features": [],
@@ -3673,44 +3710,6 @@
           "soldOutPermanent": null,
           "sku": "7700032306",
           "url({\"relative\":true})": "/es-co/store/products/cipheur-season-3-switch/",
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          }
-        },
-        "Product:{\"sku\":\"7700037111\"}": {
-          "__typename": "Product",
-          "compatibility": null,
-          "nsuid": "70070000037111",
-          "name": "Cipheur - Season 6",
-          "urlKey": "cipheur-season-6-switch",
-          "upgradeDescription": null,
-          "isSalableQty": true,
-          "isUpgrade": false,
-          "locale": "es_CO",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "COP",
-            "discounted": false,
-            "regularPrice": 47507,
-            "finalPrice": 47507,
-            "pricePerUnit": null
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000037111/78a9c24be907125ea061fe3d0c94d795ed3d149f71ed52d9941ae3b76dc2cab8"
-          },
-          "size": null,
-          "soldOutPermanent": null,
-          "sku": "7700037111",
-          "url({\"relative\":true})": "/es-co/store/products/cipheur-season-6-switch/",
           "tags": {
             "__typename": "Tags",
             "features": [],
@@ -3833,7 +3832,7 @@
   "query": {
     "slug": "cipheur-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

@@ -1758,7 +1758,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Pixel Cross Stitch Color by Number Seasons Collection para Nintendo Switch - Site Oficial da Nintendo para Brasil",
@@ -3434,6 +3433,40 @@
                 }
               ],
               "product": {
+                "__ref": "Product:{\"sku\":\"7700037360\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700032303\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
                 "__ref": "Product:{\"sku\":\"7700029113\"}"
               }
             },
@@ -3520,40 +3553,6 @@
               ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7700038523\"}"
-              }
-            },
-            {
-              "__typename": "ProductVariation",
-              "label": "ROM Bundle",
-              "value": "ROM Bundle",
-              "type": "edition",
-              "attributes": [
-                {
-                  "__typename": "ProductVariationAttribute",
-                  "label": "ROM Bundle",
-                  "type": "edition",
-                  "value": "ROM Bundle"
-                }
-              ],
-              "product": {
-                "__ref": "Product:{\"sku\":\"7700037360\"}"
-              }
-            },
-            {
-              "__typename": "ProductVariation",
-              "label": "ROM Bundle",
-              "value": "ROM Bundle",
-              "type": "edition",
-              "attributes": [
-                {
-                  "__typename": "ProductVariationAttribute",
-                  "label": "ROM Bundle",
-                  "type": "edition",
-                  "value": "ROM Bundle"
-                }
-              ],
-              "product": {
-                "__ref": "Product:{\"sku\":\"7700032303\"}"
               }
             },
             {
@@ -3669,6 +3668,82 @@
             "__typename": "TopLevelCategory",
             "code": "GAMES",
             "label": "Jogos"
+          }
+        },
+        "Product:{\"sku\":\"7700037360\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000037360",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 6",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-6-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "pt_BR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": true,
+            "regularPrice": 62.08,
+            "finalPrice": 31.04,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000037360/ba4686cbe3bf69191a78833cc1c7e3e9d87ae41d2674b85d364311486c7d666a"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700037360",
+          "url({\"relative\":true})": "/pt-br/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-6-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700032303\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000032303",
+          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 3",
+          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-3-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "pt_BR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": true,
+            "regularPrice": 52.11,
+            "finalPrice": 26.05,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000032303/5547773f0e047da112757ba081976ab8457dfe5f1c7d655ef8b2a079f9d694c0"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700032303",
+          "url({\"relative\":true})": "/pt-br/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-3-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
           }
         },
         "Product:{\"sku\":\"7700029113\"}": {
@@ -3899,82 +3974,6 @@
             "waysToPlay": []
           }
         },
-        "Product:{\"sku\":\"7700037360\"}": {
-          "__typename": "Product",
-          "compatibility": null,
-          "nsuid": "70070000037360",
-          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 6",
-          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-6-switch",
-          "upgradeDescription": null,
-          "isSalableQty": true,
-          "isUpgrade": false,
-          "locale": "pt_BR",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": true,
-            "regularPrice": 62.08,
-            "finalPrice": 31.04,
-            "pricePerUnit": null
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000037360/ba4686cbe3bf69191a78833cc1c7e3e9d87ae41d2674b85d364311486c7d666a"
-          },
-          "size": null,
-          "soldOutPermanent": null,
-          "sku": "7700037360",
-          "url({\"relative\":true})": "/pt-br/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-6-switch/",
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          }
-        },
-        "Product:{\"sku\":\"7700032303\"}": {
-          "__typename": "Product",
-          "compatibility": null,
-          "nsuid": "70070000032303",
-          "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 3",
-          "urlKey": "pixel-cross-stitch-color-by-number-seasons-collection-season-3-switch",
-          "upgradeDescription": null,
-          "isSalableQty": true,
-          "isUpgrade": false,
-          "locale": "pt_BR",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": true,
-            "regularPrice": 52.11,
-            "finalPrice": 26.05,
-            "pricePerUnit": null
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000032303/5547773f0e047da112757ba081976ab8457dfe5f1c7d655ef8b2a079f9d694c0"
-          },
-          "size": null,
-          "soldOutPermanent": null,
-          "sku": "7700032303",
-          "url({\"relative\":true})": "/pt-br/store/products/pixel-cross-stitch-color-by-number-seasons-collection-season-3-switch/",
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          }
-        },
         "Product:{\"sku\":\"7700041258\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -4038,7 +4037,7 @@
   "query": {
     "slug": "pixel-cross-stitch-color-by-number-seasons-collection-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

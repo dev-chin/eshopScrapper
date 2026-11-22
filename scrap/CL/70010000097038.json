@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "A Bibelot: Tiret sur Will para Nintendo Switch - Sitio Oficial de Nintendo para Chile",
@@ -2613,7 +2612,7 @@
             "@type": "Offer",
             "url": "/es-cl/store/products/a-bibelot-tiret-sur-will-switch/",
             "priceCurrency": "CLP",
-            "price": "2840.00",
+            "price": "5680.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2771,9 +2770,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CLP",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 5680,
-            "finalPrice": 2840,
+            "finalPrice": 5680,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2861,8 +2860,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097038&v_loggedin=false&v_currency=CLP&v_price=2840.00&v_country=CL",
-            "discountPriceEnd": "2026-11-17T07:59:59Z"
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097038&v_loggedin=false&v_currency=CLP&v_price=5680.00&v_country=CL",
+            "discountPriceEnd": null
           },
           "exclusive": null,
           "facets": {
@@ -3098,7 +3097,7 @@
   "query": {
     "slug": "a-bibelot-tiret-sur-will-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

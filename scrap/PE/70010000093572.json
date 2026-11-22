@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Deep Under para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -2593,7 +2592,7 @@
             "@type": "Offer",
             "url": "/es-pe/store/products/deep-under-switch/",
             "priceCurrency": "PEN",
-            "price": "19.99",
+            "price": "9.99",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2759,9 +2758,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 19.99,
-            "finalPrice": 19.99,
+            "finalPrice": 9.99,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2822,8 +2821,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000093572&v_loggedin=false&v_currency=PEN&v_price=19.99&v_country=PE",
-            "discountPriceEnd": null
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000093572&v_loggedin=false&v_currency=PEN&v_price=9.99&v_country=PE",
+            "discountPriceEnd": "2026-12-01T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -3089,7 +3088,7 @@
   "query": {
     "slug": "deep-under-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

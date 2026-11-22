@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Pixel Cross Stitch Color by Number Seasons Collection para Nintendo Switch - Sitio Oficial de Nintendo para Colombia",
@@ -2712,15 +2711,15 @@
         }
       ],
       "initialApolloState": {
-        "Category:nintendo_switch": {
-          "__typename": "Category",
-          "id": "nintendo_switch",
-          "name": "Nintendo Switch"
-        },
         "Category:games": {
           "__typename": "Category",
           "id": "games",
           "name": "Games"
+        },
+        "Category:nintendo_switch": {
+          "__typename": "Category",
+          "id": "nintendo_switch",
+          "name": "Nintendo Switch"
         },
         "Category:nintendo_3ds_family": {
           "__typename": "Category",
@@ -3265,10 +3264,10 @@
           "baseSoftware": [],
           "categories": [
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:games"
             },
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
@@ -4038,7 +4037,7 @@
   "query": {
     "slug": "pixel-cross-stitch-color-by-number-seasons-collection-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

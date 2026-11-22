@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Dungeon of Love: Catch Monsters to Make a Perfect Anime Boyfriend para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -2601,7 +2600,7 @@
             "@type": "Offer",
             "url": "/es-pe/store/products/dungeon-of-love-catch-monsters-to-make-a-perfect-anime-boyfriend-switch/",
             "priceCurrency": "PEN",
-            "price": "74.90",
+            "price": "29.96",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2759,9 +2758,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 74.9,
-            "finalPrice": 74.9,
+            "finalPrice": 29.96,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2833,8 +2832,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000092639&v_loggedin=false&v_currency=PEN&v_price=74.90&v_country=PE",
-            "discountPriceEnd": null
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000092639&v_loggedin=false&v_currency=PEN&v_price=29.96&v_country=PE",
+            "discountPriceEnd": "2026-12-11T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -3088,7 +3087,7 @@
   "query": {
     "slug": "dungeon-of-love-catch-monsters-to-make-a-perfect-anime-boyfriend-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

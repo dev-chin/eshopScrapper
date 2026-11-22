@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Cipheur  para Nintendo Switch - Sitio Oficial de Nintendo para Chile",
@@ -3622,9 +3621,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CLP",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 10416,
-            "finalPrice": 5208,
+            "finalPrice": 10416,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3660,9 +3659,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CLP",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 11279,
-            "finalPrice": 11279,
+            "finalPrice": 5639,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3833,7 +3832,7 @@
   "query": {
     "slug": "cipheur-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

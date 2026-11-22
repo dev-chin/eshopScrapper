@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Cipheur  para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -3622,9 +3621,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 39.9,
-            "finalPrice": 19.95,
+            "finalPrice": 39.9,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3660,9 +3659,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 42.78,
-            "finalPrice": 42.78,
+            "finalPrice": 21.39,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3833,7 +3832,7 @@
   "query": {
     "slug": "cipheur-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

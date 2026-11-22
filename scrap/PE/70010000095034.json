@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Garten of Banban 0 para Nintendo Switch - Sitio Oficial de Nintendo para Peru",
@@ -6345,6 +6344,325 @@
             }
           ]
         },
+        "ContentDescriptor:{\"id\":\"tJACbQjMzqwwY40TBCy1x\",\"locale\":\"es_PE\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "tJACbQjMzqwwY40TBCy1x",
+          "locale": "es_PE",
+          "label": "Travesuras cómicas",
+          "type": "CONTENT_DESCRIPTOR"
+        },
+        "Product:{\"sku\":\"7100065764\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"tJACbQjMzqwwY40TBCy1x\",\"locale\":\"es_PE\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"4rXfJg3rY2e58ECl3iULqU\",\"locale\":\"es_PE\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_PE\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"es_PE\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Nickelodeon All-Star Brawl 2",
+          "nsuid": "70010000065764",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 197,
+            "finalPrice": 197,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000065764/5cb2937c61778f875da8f80adaebf3b856a2dd8d876d616eeaa9e79e4856ecd1",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/f4fbe95d58a04a19b2a0fdaf049442ec_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2023-11-07T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100065764",
+          "softwarePublisher": "Game Mill",
+          "softwareDeveloper": "Fair Play Labs",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "DIFFICULTY_LEVEL",
+                "label": "Elige el nivel de dificultad"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "FIGHTING",
+                "label": "Lucha"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_BATTLE",
+                "label": "Compite en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIEND_MATCHING",
+                "label": "Juega en línea con amigos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "nickelodeon-all-star-brawl-2-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000065764/Video/5fcda967fc50a7f4223eaf3490e9311ba905ed256378f9a311bde5e1170e3eaa",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000065764/602a80a45ca973bf01ea809daca727ad211628881cd9975a4b9a0268f4baa418",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000065764/84b117ff6101fe6fcbac979e0ad83354bc1e25562fa502ee69b42935a2fb9d98",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000065764/5ed4c29327547f05ab842f9cac74280ed743933ff7efa1c0feaec0f3a8e03c55",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000065764/4407b50820b410348353a1dbfcd6c5c1940aef899a75da223e9019914039db9d",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
+        "Product:{\"sku\":\"7100012899\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"es_PE\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3kD4hFXDw4b8IC3rZo2YXs\",\"locale\":\"es_PE\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Bendy and the Ink Machine",
+          "nsuid": "70010000012899",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 53,
+            "finalPrice": 53,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000012899/9381c82bcb85d723252de06ea9f1dda0c62a45ccbabcfaf1e35afa4d27ddadf7",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/1fc8ad1b8600493faa86d55b5b775016_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2026-01-08T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100012899",
+          "softwarePublisher": "Joey Drew Studios",
+          "softwareDeveloper": "Joey Drew Studios Inc.",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Acertijos y deducción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              },
+              {
+                "__typename": "Tag",
+                "code": "SURVIVAL",
+                "label": "Supervivencia"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
+            "waysToPlay": []
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "bendy-and-the-ink-machine-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "/store/software/switch/70010000012899/Video/1bd4a9eeca6d4469fe988361ecaccf55be0a5415261ba42b211938380bba2c7c",
+              "resourceType": "video",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000012899/648477d73649590b8f15c6af54ccbeb29b6764d66d358e40c196fbd60a013492",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000012899/e05eb03224718081e8e43164ce8c575edcbe58c32004f93aff79dee09cc3b605",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000012899/143c68f4428818175abf2dd379ccfc445d144d325b457021ee90cca061de4e60",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000012899/c1d0aa1361e88a7a389127c813327b93d607f525b0811d7c75ad850a7ae97766",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000012899/9092fc7b4462a7d65036fae8df05e6844432c434a34062a0eceb878b15e61e22",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000012899/11bc85c956ce96026508ce12ca2b2db17e8318ce3fab82b0fce0ab300c7f0586",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100119400\"}": {
           "__typename": "Product",
           "availability": [
@@ -6539,325 +6857,6 @@
             {
               "__typename": "CloudinaryAsset",
               "publicId": "store/software/switch2/70010000119400/5f489e1a2f0c51ac6f3e5c2519dffd3dbc2981046c199acfa344584027c97dc7",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "Product:{\"sku\":\"7100012899\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Disponible ya"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"es_PE\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"3kD4hFXDw4b8IC3rZo2YXs\",\"locale\":\"es_PE\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "es_PE",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Bendy and the Ink Machine",
-          "nsuid": "70010000012899",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "PEN",
-            "discounted": false,
-            "regularPrice": 53,
-            "finalPrice": 53,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000012899/9381c82bcb85d723252de06ea9f1dda0c62a45ccbabcfaf1e35afa4d27ddadf7",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/1fc8ad1b8600493faa86d55b5b775016_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2026-01-08T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100012899",
-          "softwarePublisher": "Joey Drew Studios",
-          "softwareDeveloper": "Joey Drew Studios Inc.",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "MYSTERY",
-                "label": "Acertijos y deducción"
-              },
-              {
-                "__typename": "Tag",
-                "code": "CHARACTER_VOICE",
-                "label": "Personajes con voz"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SURVIVAL",
-                "label": "Supervivencia"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "ACTION",
-                "label": "Acción"
-              },
-              {
-                "__typename": "Tag",
-                "code": "ADVENTURE",
-                "label": "Aventura"
-              }
-            ],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Juegos"
-          },
-          "urlKey": "bendy-and-the-ink-machine-switch",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000012899/Video/1bd4a9eeca6d4469fe988361ecaccf55be0a5415261ba42b211938380bba2c7c",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000012899/648477d73649590b8f15c6af54ccbeb29b6764d66d358e40c196fbd60a013492",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000012899/e05eb03224718081e8e43164ce8c575edcbe58c32004f93aff79dee09cc3b605",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000012899/143c68f4428818175abf2dd379ccfc445d144d325b457021ee90cca061de4e60",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000012899/c1d0aa1361e88a7a389127c813327b93d607f525b0811d7c75ad850a7ae97766",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000012899/9092fc7b4462a7d65036fae8df05e6844432c434a34062a0eceb878b15e61e22",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000012899/11bc85c956ce96026508ce12ca2b2db17e8318ce3fab82b0fce0ab300c7f0586",
-              "resourceType": "image",
-              "type": "upload"
-            }
-          ]
-        },
-        "ContentDescriptor:{\"id\":\"tJACbQjMzqwwY40TBCy1x\",\"locale\":\"es_PE\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "tJACbQjMzqwwY40TBCy1x",
-          "locale": "es_PE",
-          "label": "Travesuras cómicas",
-          "type": "CONTENT_DESCRIPTOR"
-        },
-        "Product:{\"sku\":\"7100065764\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Disponible ya"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"tJACbQjMzqwwY40TBCy1x\",\"locale\":\"es_PE\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"4rXfJg3rY2e58ECl3iULqU\",\"locale\":\"es_PE\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_PE\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"es_PE\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-16T07:59:59Z",
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "es_PE",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Nickelodeon All-Star Brawl 2",
-          "nsuid": "70010000065764",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "PEN",
-            "discounted": true,
-            "regularPrice": 197,
-            "finalPrice": 59.1,
-            "pricePerUnit": null,
-            "percentOff": 70,
-            "amountOff": 137.9
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000065764/5cb2937c61778f875da8f80adaebf3b856a2dd8d876d616eeaa9e79e4856ecd1",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/f4fbe95d58a04a19b2a0fdaf049442ec_1024",
-            "resourceType": "image",
-            "type": "fetch"
-          },
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2023-11-07T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": false,
-          "size": null,
-          "showWidely": true,
-          "sku": "7100065764",
-          "softwarePublisher": "Game Mill",
-          "softwareDeveloper": "Fair Play Labs",
-          "tags": {
-            "__typename": "Tags",
-            "features": [
-              {
-                "__typename": "Tag",
-                "code": "DIFFICULTY_LEVEL",
-                "label": "Elige el nivel de dificultad"
-              }
-            ],
-            "genres": [
-              {
-                "__typename": "Tag",
-                "code": "FIGHTING",
-                "label": "Lucha"
-              }
-            ],
-            "waysToPlay": [
-              {
-                "__typename": "Tag",
-                "code": "ONLINE_BATTLE",
-                "label": "Compite en línea"
-              },
-              {
-                "__typename": "Tag",
-                "code": "FRIEND_MATCHING",
-                "label": "Juega en línea con amigos"
-              },
-              {
-                "__typename": "Tag",
-                "code": "SHARING",
-                "label": "Juntos en una consola"
-              },
-              {
-                "__typename": "Tag",
-                "code": "FRIENDS_FAMILY",
-                "label": "Partidas en grupo"
-              }
-            ]
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Juegos"
-          },
-          "urlKey": "nickelodeon-all-star-brawl-2-switch",
-          "visibleInSearch": true,
-          "productGallery": [
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "/store/software/switch/70010000065764/Video/5fcda967fc50a7f4223eaf3490e9311ba905ed256378f9a311bde5e1170e3eaa",
-              "resourceType": "video",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000065764/602a80a45ca973bf01ea809daca727ad211628881cd9975a4b9a0268f4baa418",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000065764/84b117ff6101fe6fcbac979e0ad83354bc1e25562fa502ee69b42935a2fb9d98",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000065764/5ed4c29327547f05ab842f9cac74280ed743933ff7efa1c0feaec0f3a8e03c55",
-              "resourceType": "image",
-              "type": "upload"
-            },
-            {
-              "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000065764/4407b50820b410348353a1dbfcd6c5c1940aef899a75da223e9019914039db9d",
               "resourceType": "image",
               "type": "upload"
             }
@@ -7354,7 +7353,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -7377,12 +7376,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 95,
-            "finalPrice": 95,
+            "finalPrice": 19,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 80,
+            "amountOff": 76
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -7514,7 +7513,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -7537,12 +7536,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 175,
-            "finalPrice": 175,
+            "finalPrice": 43.75,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 75,
+            "amountOff": 131.25
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -8141,6 +8140,170 @@
             }
           ]
         },
+        "Product:{\"sku\":\"7100045649\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Disponible ya"
+          ],
+          "color": null,
+          "contentDescriptors": [
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"6r16wBrvpV4xHMjYdXvGv9\",\"locale\":\"es_PE\"}"
+            },
+            {
+              "__ref": "ContentDescriptor:{\"id\":\"390PoEPj7B3hb5HzJNJpg3\",\"locale\":\"es_PE\"}"
+            }
+          ],
+          "contentRating": {
+            "__ref": "ContentRating:{\"id\":\"3PUsVpTIBTxVxmzL362ZkB\",\"locale\":\"es_PE\"}"
+          },
+          "demoNsuid": null,
+          "dlcType": null,
+          "eshopDetails({\"personalized\":false})": {
+            "__typename": "EshopDetails",
+            "discountPriceEnd": null,
+            "goldPoints": 0,
+            "baseGoldPoints": 0,
+            "goldPointOfferValue": null,
+            "goldPointOfferType": null
+          },
+          "exclusive": null,
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "manufacturer": null,
+          "maxQtyAllowedInCart": null,
+          "name": "Sonic Origins ",
+          "nsuid": "70010000045649",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "platinumPoints": null,
+          "prePurchase": null,
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 109,
+            "finalPrice": 109,
+            "pricePerUnit": null,
+            "percentOff": 0,
+            "amountOff": 0
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70010000045649/bf9665c0d3f4f99954d8faa8f426e63a1e3cd1eec297b4f10d5954d9d188b199",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "productImage({\"shape\":\"square\"})": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/8703d506a1e34e18ac22f2bb9d676705_1024",
+            "resourceType": "image",
+            "type": "fetch"
+          },
+          "qtyAllowedPerCustomer": null,
+          "releaseDate": "2022-06-23T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "requiresLogin": null,
+          "requiresCoupon": null,
+          "requiresSubscription": false,
+          "size": null,
+          "showWidely": true,
+          "sku": "7100045649",
+          "softwarePublisher": "SEGA",
+          "softwareDeveloper": "SEGA",
+          "tags": {
+            "__typename": "Tags",
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ONLINE_RANKING",
+                "label": "Clasificación en línea"
+              },
+              {
+                "__typename": "Tag",
+                "code": "JUMPING",
+                "label": "Plataformas"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TIME_ATTACK",
+                "label": "Rompe récords de tiempo"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              }
+            ],
+            "waysToPlay": [
+              {
+                "__typename": "Tag",
+                "code": "SHARING",
+                "label": "Juntos en una consola"
+              },
+              {
+                "__typename": "Tag",
+                "code": "FRIENDS_FAMILY",
+                "label": "Partidas en grupo"
+              }
+            ]
+          },
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "sonic-origins-switch",
+          "visibleInSearch": true,
+          "productGallery": [
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045649/a9e78059c7a6f88692f30d24dea50eaba2345efe0501dd5e4a3c16d13b5af054",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045649/fcb8961594982bf99e2ae8f74a02d80c5b92099a45642e3fdae8f602f0d96bce",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045649/6218e516c8890882b184f069c2c0672d53984f14a2b06dd846b2fdc32abc4f60",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045649/48e15bfb64ab03ffa3618bfa508f1b9418a4d4030119078745f46b346b7599b4",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045649/78d3ad0944f0005579dc32b9e2dd555daf7f60aec71630fe234a855e49d3f0c6",
+              "resourceType": "image",
+              "type": "upload"
+            },
+            {
+              "__typename": "CloudinaryAsset",
+              "publicId": "store/software/switch/70010000045649/fe726f5e55a7bf8815e64d0a577d93a4ef828f8401d1959b09ea43fe5ba7b567",
+              "resourceType": "image",
+              "type": "upload"
+            }
+          ]
+        },
         "Product:{\"sku\":\"7100002362\"}": {
           "__typename": "Product",
           "availability": [
@@ -8162,7 +8325,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-19T07:59:59Z",
+            "discountPriceEnd": null,
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -8185,12 +8348,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 29.5,
-            "finalPrice": 7.49,
+            "finalPrice": 29.5,
             "pricePerUnit": null,
-            "percentOff": 74.61,
-            "amountOff": 22.01
+            "percentOff": 0,
+            "amountOff": 0
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -8493,7 +8656,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-19T16:59:59Z",
+            "discountPriceEnd": null,
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -8516,12 +8679,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 69.99,
-            "finalPrice": 41.99,
+            "finalPrice": 69.99,
             "pricePerUnit": null,
-            "percentOff": 40.01,
-            "amountOff": 28
+            "percentOff": 0,
+            "amountOff": 0
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -9158,7 +9321,7 @@
             }
           ]
         },
-        "Product:{\"sku\":\"7100053195\"}": {
+        "Product:{\"sku\":\"7100104137\"}": {
           "__typename": "Product",
           "availability": [
             "Disponible ya"
@@ -9190,12 +9353,12 @@
           "locale": "es_PE",
           "manufacturer": null,
           "maxQtyAllowedInCart": null,
-          "name": " Sonic Racing: CrossWorlds",
-          "nsuid": "70010000053195",
+          "name": "Sonic Racing: CrossWorlds - Nintendo Switch™ 2 Edition",
+          "nsuid": "70010000104137",
           "platform": {
             "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
+            "label": "Nintendo Switch 2",
+            "code": "NINTENDO_SWITCH_2"
           },
           "platinumPoints": null,
           "prePurchase": null,
@@ -9211,25 +9374,25 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70010000053195/9c508545b16a9e31382046af9bec58dab9c5c2f8ce9b29052adaf6d19f239a93",
+            "publicId": "store/software/switch2/70010000104137/5156703cdcb74e9d56ea8bfcac1b151dd12eb3b4eebe63375c0b70dbc1d5838a",
             "resourceType": "image",
             "type": "upload"
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/fee31e11d8904e5d95fa4629832f9928_1024",
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/d11c2ed1d5624ce2ae895c92b0afe759_1024",
             "resourceType": "image",
             "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
-          "releaseDate": "2025-09-25T00:00:00.000Z",
+          "releaseDate": "2025-12-03T00:00:00.000Z",
           "releaseDateDisplay": null,
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
           "showWidely": true,
-          "sku": "7100053195",
+          "sku": "7100104137",
           "softwarePublisher": "SEGA",
           "softwareDeveloper": "SONIC TEAM",
           "tags": {
@@ -9296,36 +9459,36 @@
             "code": "GAMES",
             "label": "Juegos"
           },
-          "urlKey": "sonic-racing-crossworlds-switch",
+          "urlKey": "sonic-racing-crossworlds-nintendo-switch-2-edition-switch-2",
           "visibleInSearch": true,
           "productGallery": [
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000053195/956e2089f554c91f6b3c3d71b80d2e36bbef1bfc24fefbaab7e1c0dbe92293b5",
+              "publicId": "store/software/switch2/70010000104137/ec9867d0d683082bc60ebc1df575bc990601e18620433a83ac94a3643db70b28",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000053195/3cc3488082a652835c166006bf066390aac483e8adf1425eebfd514e0d7f6016",
+              "publicId": "store/software/switch2/70010000104137/04bd69cb1e46c9b969a7f0aa3f3e13ef944abba981ec07fc1a5a9020319b2397",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000053195/2bd3847364307540834fc4b2ace0714c40148d2edc1d048218c70e58a998c96a",
+              "publicId": "store/software/switch2/70010000104137/518fb8ade9f158a3bcd5f4e2ddfc6c26e6fbb7744e436829d8ab8d16fa3b6b99",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000053195/fa092d61e686d0257175e7884bb78ec056fc415b02bb701197233583652c4993",
+              "publicId": "store/software/switch2/70010000104137/2c235e38f1fb00dd53f441c9a24c513c0199f8e338ee79ae11b711451b4acb06",
               "resourceType": "image",
               "type": "upload"
             },
             {
               "__typename": "CloudinaryAsset",
-              "publicId": "store/software/switch/70010000053195/a4a32b87e00f072653fbd013e5a46da894ff0b0abcd4913918fdec4bd0559633",
+              "publicId": "store/software/switch2/70010000104137/073c73d6b304b848627a7c04bdee0ef2ef54c96806e88daf19d4947df8f7e875",
               "resourceType": "image",
               "type": "upload"
             }
@@ -9833,13 +9996,13 @@
               "__ref": "Product:{\"sku\":\"7100048963\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100119400\"}"
+              "__ref": "Product:{\"sku\":\"7100065764\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100012899\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100065764\"}"
+              "__ref": "Product:{\"sku\":\"7100119400\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100069917\"}"
@@ -9866,6 +10029,9 @@
               "__ref": "Product:{\"sku\":\"7100072954\"}"
             },
             {
+              "__ref": "Product:{\"sku\":\"7100045649\"}"
+            },
+            {
               "__ref": "Product:{\"sku\":\"7100002362\"}"
             },
             {
@@ -9884,7 +10050,7 @@
               "__ref": "Product:{\"sku\":\"7100094450\"}"
             },
             {
-              "__ref": "Product:{\"sku\":\"7100053195\"}"
+              "__ref": "Product:{\"sku\":\"7100104137\"}"
             },
             {
               "__ref": "Product:{\"sku\":\"7100058468\"}"
@@ -10138,7 +10304,7 @@
   "query": {
     "slug": "garten-of-banban-0-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

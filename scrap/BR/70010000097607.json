@@ -1758,7 +1758,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Cipheur  para Nintendo Switch - Site Oficial da Nintendo para Brasil",
@@ -3324,40 +3323,6 @@
                 }
               ],
               "product": {
-                "__ref": "Product:{\"sku\":\"7700036901\"}"
-              }
-            },
-            {
-              "__typename": "ProductVariation",
-              "label": "ROM Bundle",
-              "value": "ROM Bundle",
-              "type": "edition",
-              "attributes": [
-                {
-                  "__typename": "ProductVariationAttribute",
-                  "label": "ROM Bundle",
-                  "type": "edition",
-                  "value": "ROM Bundle"
-                }
-              ],
-              "product": {
-                "__ref": "Product:{\"sku\":\"7700032306\"}"
-              }
-            },
-            {
-              "__typename": "ProductVariation",
-              "label": "ROM Bundle",
-              "value": "ROM Bundle",
-              "type": "edition",
-              "attributes": [
-                {
-                  "__typename": "ProductVariationAttribute",
-                  "label": "ROM Bundle",
-                  "type": "edition",
-                  "value": "ROM Bundle"
-                }
-              ],
-              "product": {
                 "__ref": "Product:{\"sku\":\"7700030197\"}"
               }
             },
@@ -3376,6 +3341,40 @@
               ],
               "product": {
                 "__ref": "Product:{\"sku\":\"7700033215\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700036901\"}"
+              }
+            },
+            {
+              "__typename": "ProductVariation",
+              "label": "ROM Bundle",
+              "value": "ROM Bundle",
+              "type": "edition",
+              "attributes": [
+                {
+                  "__typename": "ProductVariationAttribute",
+                  "label": "ROM Bundle",
+                  "type": "edition",
+                  "value": "ROM Bundle"
+                }
+              ],
+              "product": {
+                "__ref": "Product:{\"sku\":\"7700032306\"}"
               }
             },
             {
@@ -3525,82 +3524,6 @@
             "label": "Jogos"
           }
         },
-        "Product:{\"sku\":\"7700036901\"}": {
-          "__typename": "Product",
-          "compatibility": null,
-          "nsuid": "70070000036901",
-          "name": "Cipheur - Season 5",
-          "urlKey": "cipheur-season-5-switch",
-          "upgradeDescription": null,
-          "isSalableQty": true,
-          "isUpgrade": false,
-          "locale": "pt_BR",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": true,
-            "regularPrice": 56.91,
-            "finalPrice": 28.45,
-            "pricePerUnit": null
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000036901/4dc7c6683aed6f7f8a05dfadf1fa56d7b23a8f074c51ac79e3054e513e9a7e0d"
-          },
-          "size": null,
-          "soldOutPermanent": null,
-          "sku": "7700036901",
-          "url({\"relative\":true})": "/pt-br/store/products/cipheur-season-5-switch/",
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          }
-        },
-        "Product:{\"sku\":\"7700032306\"}": {
-          "__typename": "Product",
-          "compatibility": null,
-          "nsuid": "70070000032306",
-          "name": "Cipheur - Season 3",
-          "urlKey": "cipheur-season-3-switch",
-          "upgradeDescription": null,
-          "isSalableQty": true,
-          "isUpgrade": false,
-          "locale": "pt_BR",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "BRL",
-            "discounted": false,
-            "regularPrice": 52.7,
-            "finalPrice": 52.7,
-            "pricePerUnit": null
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000032306/cc6f3108e5b16bc19ca0eefb09f3b1fd237a8ddef6bd1bce2891aca5ab8671b4"
-          },
-          "size": null,
-          "soldOutPermanent": null,
-          "sku": "7700032306",
-          "url({\"relative\":true})": "/pt-br/store/products/cipheur-season-3-switch/",
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          }
-        },
         "Product:{\"sku\":\"7700030197\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -3670,6 +3593,82 @@
           "soldOutPermanent": null,
           "sku": "7700033215",
           "url({\"relative\":true})": "/pt-br/store/products/cipheur-season-4-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700036901\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000036901",
+          "name": "Cipheur - Season 5",
+          "urlKey": "cipheur-season-5-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "pt_BR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 56.91,
+            "finalPrice": 56.91,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000036901/4dc7c6683aed6f7f8a05dfadf1fa56d7b23a8f074c51ac79e3054e513e9a7e0d"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700036901",
+          "url({\"relative\":true})": "/pt-br/store/products/cipheur-season-5-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700032306\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000032306",
+          "name": "Cipheur - Season 3",
+          "urlKey": "cipheur-season-3-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "pt_BR",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "BRL",
+            "discounted": false,
+            "regularPrice": 52.7,
+            "finalPrice": 52.7,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000032306/cc6f3108e5b16bc19ca0eefb09f3b1fd237a8ddef6bd1bce2891aca5ab8671b4"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700032306",
+          "url({\"relative\":true})": "/pt-br/store/products/cipheur-season-3-switch/",
           "tags": {
             "__typename": "Tags",
             "features": [],
@@ -3771,9 +3770,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "BRL",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 62.99,
-            "finalPrice": 62.99,
+            "finalPrice": 31.49,
             "pricePerUnit": null
           },
           "productImage": {
@@ -3823,7 +3822,7 @@
   "query": {
     "slug": "cipheur-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

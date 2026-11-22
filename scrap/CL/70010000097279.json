@@ -2516,7 +2516,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Submersed 2 - The Hive para Nintendo Switch - Sitio Oficial de Nintendo para Chile",
@@ -2605,7 +2604,7 @@
             "@type": "Offer",
             "url": "/es-cl/store/products/submersed-2-the-hive-switch/",
             "priceCurrency": "CLP",
-            "price": "18786.00",
+            "price": "7514.00",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2771,9 +2770,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CLP",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 18786,
-            "finalPrice": 18786,
+            "finalPrice": 7514,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2850,8 +2849,8 @@
             "isPreorderable": false,
             "isPurchasable": true,
             "goldPoints": 0,
-            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097279&v_loggedin=false&v_currency=CLP&v_price=18786.00&v_country=CL",
-            "discountPriceEnd": null
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000097279&v_loggedin=false&v_currency=CLP&v_price=7514.00&v_country=CL",
+            "discountPriceEnd": "2026-12-03T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -3135,7 +3134,7 @@
   "query": {
     "slug": "submersed-2-the-hive-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
