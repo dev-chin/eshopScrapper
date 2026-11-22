@@ -170,49 +170,24 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "6o5UFLGstQbUz4dMJXsiQP",
-              "label": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
-              "caption": "Pikmin™ 4 – Nintendo Switch™ 2 Edition + Dandori Academy",
-              "url": "/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
+              "__entryId": "5UKndPHw6XcJmjo6LSR8KS",
+              "label": "My Mario™",
+              "caption": "My Mario™",
+              "url": "/store/merchandise/my-mario-products/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
-                "tags": [
-                  "70050000081248",
-                  "70050000081248-C"
-                ],
+                "url": "http://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
+                "tags": [],
                 "type": "upload",
-                "bytes": 2122019,
+                "bytes": 2970935,
                 "width": 1920,
-                "format": "jpg",
+                "format": "png",
                 "height": 1080,
-                "context": {
-                  "custom": {
-                    "en-CA:70050000081248": "1",
-                    "en-US:70050000081248": "1",
-                    "es-AR:70050000081248": "1",
-                    "es-CL:70050000081248": "1",
-                    "es-CO:70050000081248": "1",
-                    "es-MX:70050000081248": "1",
-                    "es-PE:70050000081248": "1",
-                    "fr-CA:70050000081248": "1",
-                    "pt-BR:70050000081248": "1",
-                    "en-CA:70050000081248-C": "1",
-                    "en-US:70050000081248-C": "1",
-                    "es-AR:70050000081248-C": "1",
-                    "es-CL:70050000081248-C": "1",
-                    "es-CO:70050000081248-C": "1",
-                    "es-MX:70050000081248-C": "1",
-                    "es-PE:70050000081248-C": "1",
-                    "fr-CA:70050000081248-C": "1",
-                    "pt-BR:70050000081248-C": "1"
-                  }
-                },
-                "version": 1788966774,
+                "version": 1770770996,
                 "metadata": {},
-                "public_id": "store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58",
-                "created_at": "2026-09-09T15:12:54Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788966774/store/software/switch2/70050000081248/c5687664c64e87149d31ca6fadc0a3bfe97540316d06ac5aa3ea45b55fc1bf58.jpg",
+                "public_id": "ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1",
+                "created_at": "2026-01-08T01:19:24Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2718,7 +2693,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Funko Fusion Deluxe Edition for Nintendo Switch - Nintendo Official Site",
@@ -3763,7 +3737,7 @@
                 }
               ],
               "product": {
-                "__ref": "Product:{\"sku\":\"7700028286\"}"
+                "__ref": "Product:{\"sku\":\"7700025659\"}"
               }
             },
             {
@@ -3780,7 +3754,7 @@
                 }
               ],
               "product": {
-                "__ref": "Product:{\"sku\":\"7700025659\"}"
+                "__ref": "Product:{\"sku\":\"7700028286\"}"
               }
             }
           ],
@@ -3946,9 +3920,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "USD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 44.99,
-            "finalPrice": 44.99,
+            "finalPrice": 11.24,
             "pricePerUnit": null
           },
           "productImage": {
@@ -4004,44 +3978,6 @@
             "waysToPlay": []
           }
         },
-        "Product:{\"sku\":\"7700028286\"}": {
-          "__typename": "Product",
-          "compatibility": null,
-          "nsuid": "70070000028286",
-          "name": "Funko Fusion and Mega Man Pack Bundle",
-          "urlKey": "funko-fusion-and-mega-man-pack-bundle-switch",
-          "upgradeDescription": null,
-          "isSalableQty": true,
-          "isUpgrade": false,
-          "locale": "en_US",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "USD",
-            "discounted": false,
-            "regularPrice": 44.99,
-            "finalPrice": 44.99,
-            "pricePerUnit": null
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000028286/e9f1fdd3124e1801cc2ab2e0c08ac6c97346a131eb1297e9da16bc93ae6ce1ab"
-          },
-          "size": null,
-          "soldOutPermanent": null,
-          "sku": "7700028286",
-          "url({\"relative\":true})": "/us/store/products/funko-fusion-and-mega-man-pack-bundle-switch/",
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          }
-        },
         "Product:{\"sku\":\"7700025659\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -4073,6 +4009,44 @@
           "soldOutPermanent": null,
           "sku": "7700025659",
           "url({\"relative\":true})": "/us/store/products/funko-fusion-and-bob-ross-bundle-switch/",
+          "tags": {
+            "__typename": "Tags",
+            "features": [],
+            "genres": [],
+            "waysToPlay": []
+          }
+        },
+        "Product:{\"sku\":\"7700028286\"}": {
+          "__typename": "Product",
+          "compatibility": null,
+          "nsuid": "70070000028286",
+          "name": "Funko Fusion and Mega Man Pack Bundle",
+          "urlKey": "funko-fusion-and-mega-man-pack-bundle-switch",
+          "upgradeDescription": null,
+          "isSalableQty": true,
+          "isUpgrade": false,
+          "locale": "en_US",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "USD",
+            "discounted": false,
+            "regularPrice": 44.99,
+            "finalPrice": 44.99,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70070000028286/e9f1fdd3124e1801cc2ab2e0c08ac6c97346a131eb1297e9da16bc93ae6ce1ab"
+          },
+          "size": null,
+          "soldOutPermanent": null,
+          "sku": "7700028286",
+          "url({\"relative\":true})": "/us/store/products/funko-fusion-and-mega-man-pack-bundle-switch/",
           "tags": {
             "__typename": "Tags",
             "features": [],
@@ -4126,7 +4100,7 @@
   "query": {
     "slug": "funko-fusion-deluxe-edition-switch"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
