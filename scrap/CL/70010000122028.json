@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2516,7 +2527,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Pokémon Waves – Nintendo Switch 2 Exclusive - Sitio Oficial de Nintendo para Chile",
@@ -2998,7 +3008,7 @@
   "query": {
     "slug": "pokemon-waves-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
