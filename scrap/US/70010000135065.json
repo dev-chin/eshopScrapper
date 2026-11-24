@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -171,23 +182,23 @@
             {
               "__contentType": "menuItem",
               "__entryId": "5UKndPHw6XcJmjo6LSR8KS",
-              "label": "My Mario™",
-              "caption": "My Mario™",
-              "url": "/store/merchandise/my-mario-products/",
+              "label": "Black Friday savings for Nintendo fans",
+              "caption": "Black Friday savings for Nintendo fans",
+              "url": "/store/showroom/black-friday-cyber-monday/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
+                "url": "http://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
                 "tags": [],
                 "type": "upload",
-                "bytes": 2970935,
+                "bytes": 2119201,
                 "width": 1920,
                 "format": "png",
                 "height": 1080,
-                "version": 1770770996,
+                "version": 1794340206,
                 "metadata": {},
-                "public_id": "ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1",
-                "created_at": "2026-01-08T01:19:24Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
+                "public_id": "ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN",
+                "created_at": "2026-11-10T19:50:06Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2537,7 +2548,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": {
                 "data": {},
                 "content": [
@@ -2565,10 +2576,10 @@
                                   "id": "mqzfxe57488m"
                                 }
                               },
-                              "id": "7Fod1Y3UtU3liRwHPqCEbj",
+                              "id": "6ZWaXuFqtMHtRJf1SELvOM",
                               "type": "Entry",
-                              "createdAt": "2024-12-17T18:05:56.741Z",
-                              "updatedAt": "2024-12-17T18:05:56.741Z",
+                              "createdAt": "2024-11-04T17:18:41.127Z",
+                              "updatedAt": "2026-11-06T00:35:43.989Z",
                               "environment": {
                                 "sys": {
                                   "id": "master",
@@ -2576,8 +2587,8 @@
                                   "linkType": "Environment"
                                 }
                               },
-                              "publishedVersion": 1,
-                              "revision": 1,
+                              "publishedVersion": 7,
+                              "revision": 5,
                               "contentType": {
                                 "sys": {
                                   "type": "Link",
@@ -2588,7 +2599,7 @@
                               "locale": "en-US"
                             },
                             "fields": {
-                              "id": "MyNintendoPointsIcon"
+                              "id": "TShirtIcon"
                             }
                           }
                         },
@@ -2598,7 +2609,7 @@
                       {
                         "data": {},
                         "marks": [],
-                        "value": "Redeem your ",
+                        "value": "Get a ",
                         "nodeType": "text"
                       },
                       {
@@ -2608,24 +2619,24 @@
                             "type": "bold"
                           }
                         ],
-                        "value": "My Nintendo Platinum Points",
+                        "value": "FREE Super Mario Bros.™ 40th Anniversary T-shirt",
                         "nodeType": "text"
                       },
                       {
                         "data": {},
                         "marks": [],
-                        "value": " for ",
+                        "value": " when you spend $100! ",
                         "nodeType": "text"
                       },
                       {
                         "data": {
-                          "uri": "https://www.nintendo.com/us/store/exclusives/rewards/"
+                          "uri": "https://www.nintendo.com/us/store/products/super-mario-bros-40th-black-tshirt-127450-1/"
                         },
                         "content": [
                           {
                             "data": {},
                             "marks": [],
-                            "value": "fun rewards",
+                            "value": "See details",
                             "nodeType": "text"
                           }
                         ],
@@ -2693,7 +2704,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Kirby™ and the World Beyond for Nintendo Switch 2 - Nintendo Official Site",
@@ -3191,7 +3201,7 @@
   "query": {
     "slug": "kirby-and-the-world-beyond-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

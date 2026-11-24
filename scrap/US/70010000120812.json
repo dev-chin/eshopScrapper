@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -170,49 +181,24 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "7B4IA67EO4W0qUvE2ND3v6",
-              "label": "Fire Emblem™: Fortune’s Weave",
-              "caption": "",
-              "url": "/store/products/fire-emblem-fortunes-weave-switch-2/",
+              "__entryId": "5UKndPHw6XcJmjo6LSR8KS",
+              "label": "Black Friday savings for Nintendo fans",
+              "caption": "Black Friday savings for Nintendo fans",
+              "url": "/store/showroom/black-friday-cyber-monday/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1781017488/store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61.jpg",
-                "tags": [
-                  "70010000126929",
-                  "70010000126929-C"
-                ],
+                "url": "http://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
+                "tags": [],
                 "type": "upload",
-                "bytes": 907037,
+                "bytes": 2119201,
                 "width": 1920,
-                "format": "jpg",
+                "format": "png",
                 "height": 1080,
-                "context": {
-                  "custom": {
-                    "en-CA:70010000126929": "1",
-                    "en-US:70010000126929": "1",
-                    "es-AR:70010000126929": "1",
-                    "es-CL:70010000126929": "1",
-                    "es-CO:70010000126929": "1",
-                    "es-MX:70010000126929": "1",
-                    "es-PE:70010000126929": "1",
-                    "fr-CA:70010000126929": "1",
-                    "pt-BR:70010000126929": "1",
-                    "en-CA:70010000126929-C": "1",
-                    "en-US:70010000126929-C": "1",
-                    "es-AR:70010000126929-C": "1",
-                    "es-CL:70010000126929-C": "1",
-                    "es-CO:70010000126929-C": "1",
-                    "es-MX:70010000126929-C": "1",
-                    "es-PE:70010000126929-C": "1",
-                    "fr-CA:70010000126929-C": "1",
-                    "pt-BR:70010000126929-C": "1"
-                  }
-                },
-                "version": 1781017488,
+                "version": 1794340206,
                 "metadata": {},
-                "public_id": "store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61",
-                "created_at": "2026-06-09T15:04:48Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1781017488/store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61.jpg",
+                "public_id": "ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN",
+                "created_at": "2026-11-10T19:50:06Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -1174,26 +1160,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": false,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1452,6 +1418,66 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -2522,7 +2548,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": {
                 "data": {},
                 "content": [
@@ -2550,10 +2576,10 @@
                                   "id": "mqzfxe57488m"
                                 }
                               },
-                              "id": "7Fod1Y3UtU3liRwHPqCEbj",
+                              "id": "6ZWaXuFqtMHtRJf1SELvOM",
                               "type": "Entry",
-                              "createdAt": "2024-12-17T18:05:56.741Z",
-                              "updatedAt": "2024-12-17T18:05:56.741Z",
+                              "createdAt": "2024-11-04T17:18:41.127Z",
+                              "updatedAt": "2026-11-06T00:35:43.989Z",
                               "environment": {
                                 "sys": {
                                   "id": "master",
@@ -2561,8 +2587,8 @@
                                   "linkType": "Environment"
                                 }
                               },
-                              "publishedVersion": 1,
-                              "revision": 1,
+                              "publishedVersion": 7,
+                              "revision": 5,
                               "contentType": {
                                 "sys": {
                                   "type": "Link",
@@ -2573,7 +2599,7 @@
                               "locale": "en-US"
                             },
                             "fields": {
-                              "id": "MyNintendoPointsIcon"
+                              "id": "TShirtIcon"
                             }
                           }
                         },
@@ -2583,7 +2609,7 @@
                       {
                         "data": {},
                         "marks": [],
-                        "value": "Redeem your ",
+                        "value": "Get a ",
                         "nodeType": "text"
                       },
                       {
@@ -2593,24 +2619,24 @@
                             "type": "bold"
                           }
                         ],
-                        "value": "My Nintendo Platinum Points",
+                        "value": "FREE Super Mario Bros.™ 40th Anniversary T-shirt",
                         "nodeType": "text"
                       },
                       {
                         "data": {},
                         "marks": [],
-                        "value": " for ",
+                        "value": " when you spend $100! ",
                         "nodeType": "text"
                       },
                       {
                         "data": {
-                          "uri": "https://www.nintendo.com/us/store/exclusives/rewards/"
+                          "uri": "https://www.nintendo.com/us/store/products/super-mario-bros-40th-black-tshirt-127450-1/"
                         },
                         "content": [
                           {
                             "data": {},
                             "marks": [],
-                            "value": "fun rewards",
+                            "value": "See details",
                             "nodeType": "text"
                           }
                         ],
@@ -2678,7 +2704,7 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "The Wolf Among Us Remastered for Nintendo Switch - Nintendo Official Site",
         "description": "Shop The Wolf Among Us Remastered for Nintendo Switch at Nintendo Store. See game details, editions, and availability.",
@@ -2736,9 +2762,26 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Action"
+        },
+        {
+          "url": "/store/games/tags/story-games",
+          "label": "Narrative adventure"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Puzzle-solving elements"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Voiced characters"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef"
       },
       "linkedData": [
         {
@@ -2794,57 +2837,57 @@
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 0",
             "description": "The Wolf Among Us Remastered gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 1",
             "description": "The Wolf Among Us Remastered gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 2",
             "description": "The Wolf Among Us Remastered gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 3",
             "description": "The Wolf Among Us Remastered gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 4",
             "description": "The Wolf Among Us Remastered gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 5",
             "description": "The Wolf Among Us Remastered gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 6",
             "description": "The Wolf Among Us Remastered gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           }
         ],
         {
@@ -2929,10 +2972,33 @@
           "url({\"relative\":true})": "/us/store/products/the-wolf-among-us-remastered-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Puzzle-solving elements"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Voiced characters"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Action"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TEXT_ADVENTURE",
+                "label": "Narrative adventure"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0100e000276f6000",
           "appStoreUrl": null,
           "availability": [
@@ -2951,7 +3017,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -3034,13 +3100,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "9754902528",
+                "totalRomSize": "10505682944",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "9754902528",
+                "totalRomSize": "10505682944",
                 "platform": "BEE"
               }
             ]
@@ -3170,7 +3236,7 @@
               "type": "upload"
             }
           ],
-          "releaseDate": "2026-10-29T00:00:00.000Z",
+          "releaseDate": "2026-11-29T00:00:00.000Z",
           "releaseDateDisplay": null,
           "softwareContents": [],
           "softwarePublisher": "Telltale",
@@ -3260,7 +3326,7 @@
   "query": {
     "slug": "the-wolf-among-us-remastered-switch"
   },
-  "buildId": "uutBdbCaIHGuTp0bfBbvt",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

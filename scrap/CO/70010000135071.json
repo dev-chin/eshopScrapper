@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2464,7 +2475,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": null
             }
           ],
@@ -2516,7 +2527,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Metroid™ Ravenous para Nintendo Switch 2 - Sitio Oficial de Nintendo para Colombia",
@@ -2590,7 +2600,7 @@
                       "__contentType": "moduleCloudinaryImage",
                       "__entryId": "6nm5huEBo4fDoHREA22JGT",
                       "primary": {
-                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/1280x700.png",
+                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/1280x700",
                         "dimensions": {
                           "width": 1280,
                           "height": 700
@@ -4125,7 +4135,7 @@
                       "__contentType": "moduleCloudinaryImage",
                       "__entryId": "18RIEufEVQqaT2CygCKI8T",
                       "primary": {
-                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/9b-Nintendo-Switch-2-2x.png",
+                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/9b-Nintendo-Switch-2-2x",
                         "dimensions": {
                           "width": 2288,
                           "height": 935
@@ -4356,6 +4366,19 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "NewsArticle:{\"id\":\"4icLfnzvnttPNjSKnOa4tp\",\"locale\":\"es_CO\"}": {
+          "__typename": "NewsArticle",
+          "id": "4icLfnzvnttPNjSKnOa4tp",
+          "locale": "es_CO",
+          "title": "Conoce a la audaz cazarrecompensas, Samus Aran",
+          "url": "https://www.nintendo.com/es-co/whatsnew/conoce-a-la-audaz-cazarrecompensas-samus-aran/",
+          "media": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "ncom/en_US/articles/2026/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/2250x1266_Switch_News_samus",
+            "resourceType": "image"
+          },
+          "publishDate": "2026-11-19T17:00:00.000Z"
+        },
         "Product:{\"sku\":\"7100135071\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -4475,7 +4498,11 @@
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000135071/132aff63415dde9ad264109aa5fbae78390aa3fb9d039e704a91fe0f6c3750de"
           },
           "publisherNotifications({\"html\":true})": null,
-          "relatedArticles": [],
+          "relatedArticles": [
+            {
+              "__ref": "NewsArticle:{\"id\":\"4icLfnzvnttPNjSKnOa4tp\",\"locale\":\"es_CO\"}"
+            }
+          ],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [],
           "requiresLogin": null,
@@ -4684,7 +4711,7 @@
   "query": {
     "slug": "metroid-ravenous-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

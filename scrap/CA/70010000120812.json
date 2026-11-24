@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -170,49 +181,24 @@
             },
             {
               "__contentType": "menuItem",
-              "__entryId": "7B4IA67EO4W0qUvE2ND3v6",
-              "label": "Fire Emblem™: Fortune’s Weave",
-              "caption": "",
-              "url": "/store/products/fire-emblem-fortunes-weave-switch-2/",
+              "__entryId": "5UKndPHw6XcJmjo6LSR8KS",
+              "label": "Black Friday savings for Nintendo fans",
+              "caption": "Black Friday savings for Nintendo fans",
+              "url": "/store/showroom/black-friday-cyber-monday/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1781017488/store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61.jpg",
-                "tags": [
-                  "70010000126929",
-                  "70010000126929-C"
-                ],
+                "url": "http://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
+                "tags": [],
                 "type": "upload",
-                "bytes": 907037,
+                "bytes": 2119201,
                 "width": 1920,
-                "format": "jpg",
+                "format": "png",
                 "height": 1080,
-                "context": {
-                  "custom": {
-                    "en-CA:70010000126929": "1",
-                    "en-US:70010000126929": "1",
-                    "es-AR:70010000126929": "1",
-                    "es-CL:70010000126929": "1",
-                    "es-CO:70010000126929": "1",
-                    "es-MX:70010000126929": "1",
-                    "es-PE:70010000126929": "1",
-                    "fr-CA:70010000126929": "1",
-                    "pt-BR:70010000126929": "1",
-                    "en-CA:70010000126929-C": "1",
-                    "en-US:70010000126929-C": "1",
-                    "es-AR:70010000126929-C": "1",
-                    "es-CL:70010000126929-C": "1",
-                    "es-CO:70010000126929-C": "1",
-                    "es-MX:70010000126929-C": "1",
-                    "es-PE:70010000126929-C": "1",
-                    "fr-CA:70010000126929-C": "1",
-                    "pt-BR:70010000126929-C": "1"
-                  }
-                },
-                "version": 1781017488,
+                "version": 1794340206,
                 "metadata": {},
-                "public_id": "store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61",
-                "created_at": "2026-06-09T15:04:48Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1781017488/store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61.jpg",
+                "public_id": "ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN",
+                "created_at": "2026-11-10T19:50:06Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -1174,26 +1160,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1452,6 +1418,66 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": false,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "Holiday Gift Guide",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -2522,7 +2548,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": {
                 "nodeType": "document",
                 "data": {},
@@ -2553,10 +2579,10 @@
                                   "id": "mqzfxe57488m"
                                 }
                               },
-                              "id": "7Fod1Y3UtU3liRwHPqCEbj",
+                              "id": "6ZWaXuFqtMHtRJf1SELvOM",
                               "type": "Entry",
-                              "createdAt": "2024-12-17T18:05:56.741Z",
-                              "updatedAt": "2024-12-17T18:05:56.741Z",
+                              "createdAt": "2024-11-04T17:18:41.127Z",
+                              "updatedAt": "2026-11-06T00:35:43.989Z",
                               "environment": {
                                 "sys": {
                                   "id": "master",
@@ -2564,8 +2590,8 @@
                                   "linkType": "Environment"
                                 }
                               },
-                              "publishedVersion": 1,
-                              "revision": 1,
+                              "publishedVersion": 7,
+                              "revision": 5,
                               "contentType": {
                                 "sys": {
                                   "type": "Link",
@@ -2576,7 +2602,7 @@
                               "locale": "en-CA"
                             },
                             "fields": {
-                              "id": "MyNintendoPointsIcon"
+                              "id": "TShirtIcon"
                             }
                           }
                         },
@@ -2584,13 +2610,13 @@
                       },
                       {
                         "nodeType": "text",
-                        "value": "Redeem your ",
+                        "value": "Get a ",
                         "marks": [],
                         "data": {}
                       },
                       {
                         "nodeType": "text",
-                        "value": "My Nintendo Platinum Points",
+                        "value": "FREE Super Mario Bros.™ 40th Anniversary T-shirt",
                         "marks": [
                           {
                             "type": "bold"
@@ -2600,19 +2626,19 @@
                       },
                       {
                         "nodeType": "text",
-                        "value": " for ",
+                        "value": " when you spend $140! ",
                         "marks": [],
                         "data": {}
                       },
                       {
                         "nodeType": "hyperlink",
                         "data": {
-                          "uri": "https://www.nintendo.com/en-ca/store/exclusives/rewards/"
+                          "uri": "https://www.nintendo.com/en-ca/store/products/super-mario-bros-40th-black-tshirt-127450-1/"
                         },
                         "content": [
                           {
                             "nodeType": "text",
-                            "value": "fun rewards",
+                            "value": "See details",
                             "marks": [],
                             "data": {}
                           }
@@ -2678,7 +2704,7 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "The Wolf Among Us Remastered for Nintendo Switch - Nintendo Official Site for Canada",
         "description": "Shop The Wolf Among Us Remastered for Nintendo Switch at Nintendo Store. See game details, editions, and availability.",
@@ -2700,9 +2726,9 @@
           "__typename": "Product",
           "backgroundColor": "102226",
           "categories": [
+            "Nintendo 3DS Family",
             "Games",
-            "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Nintendo Switch"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -2894,7 +2920,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/90bf20908eb54b008b932f99bb607a02_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/90bf20908eb54b008b932f99bb607a02_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2023-11-14T00:00:00.000Z",
@@ -2903,6 +2931,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100014724",
                 "softwarePublisher": "WB Games",
                 "softwareDeveloper": "Avalanche Software",
@@ -3014,7 +3043,7 @@
                 },
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-01T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -3037,12 +3066,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 89.99,
-                  "finalPrice": 89.99,
+                  "finalPrice": 8.99,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 90.01,
+                  "amountOff": 81
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -3058,6 +3087,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
+                "showWidely": true,
                 "sku": "7700019147",
                 "softwarePublisher": "WB Games",
                 "softwareDeveloper": null,
@@ -3167,7 +3197,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/90bf20908eb54b008b932f99bb607a02_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/90bf20908eb54b008b932f99bb607a02_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2023-11-14T00:00:00.000Z",
@@ -3176,6 +3208,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100014724",
           "softwarePublisher": "WB Games",
           "softwareDeveloper": "Avalanche Software",
@@ -3190,6 +3223,7 @@
           "artPath": "store/software/switch/70010000014724/72ce0a17215521a167c3da579db4cc48a2f7a52eacc81ad985ba20fd6817fdc2",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Adventure"
@@ -3202,6 +3236,11 @@
           "graphCategories": [
             {
               "__typename": "Category",
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
               "id": "games",
               "name": "Games"
             },
@@ -3209,11 +3248,6 @@
               "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
-            },
-            {
-              "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
             }
           ],
           "genres": [],
@@ -3480,7 +3514,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000128692/5e2cfe5c38b7143530e3d70b3333da41159969a4580972956860081eb288a50d"
+                  "publicId": "store/software/switch2/70010000128692/5e2cfe5c38b7143530e3d70b3333da41159969a4580972956860081eb288a50d",
+                  "resourceType": "image",
+                  "type": "upload"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -3489,6 +3525,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100128692",
                 "softwarePublisher": "CD PROJEKT RED",
                 "softwareDeveloper": "CD PROJEKT RED S.A.",
@@ -3649,7 +3686,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000128692/5e2cfe5c38b7143530e3d70b3333da41159969a4580972956860081eb288a50d"
+            "publicId": "store/software/switch2/70010000128692/5e2cfe5c38b7143530e3d70b3333da41159969a4580972956860081eb288a50d",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -3658,6 +3697,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100128692",
           "softwarePublisher": "CD PROJEKT RED",
           "softwareDeveloper": "CD PROJEKT RED S.A.",
@@ -3672,6 +3712,7 @@
           "artPath": "store/software/switch2/70010000128692/da1a51c79e918768af5d1556e7416c0bc906665606fd273622ecbbd5cc8cfa26",
           "fullNamePlatform": "Nintendo Switch 2",
           "platformCode": "NINTENDO_SWITCH_2",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Role playing"
@@ -3942,7 +3983,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000110905/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20"
+                  "publicId": "store/software/switch2/70010000110905/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20",
+                  "resourceType": "image",
+                  "type": "upload"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -3951,6 +3994,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100110905",
                 "softwarePublisher": "Mojang",
                 "softwareDeveloper": "Mojang Studios",
@@ -4095,6 +4139,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
+                "showWidely": true,
                 "sku": "7700036386",
                 "softwarePublisher": "Mojang",
                 "softwareDeveloper": null,
@@ -4189,6 +4234,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
+                "showWidely": true,
                 "sku": "128088",
                 "softwarePublisher": "Mojang",
                 "softwareDeveloper": "Mojang Studios",
@@ -4277,7 +4323,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000110905/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20"
+            "publicId": "store/software/switch2/70010000110905/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -4286,6 +4334,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100110905",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": "Mojang Studios",
@@ -4300,6 +4349,7 @@
           "artPath": "store/software/switch2/70010000110905/943ac82193671174ecae54dabc8c85897b561153d830d86ac288476d3a9d02e4",
           "fullNamePlatform": "Nintendo Switch 2",
           "platformCode": "NINTENDO_SWITCH_2",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Role playing"
@@ -4382,9 +4432,9 @@
           "__typename": "Product",
           "backgroundColor": "0588f8",
           "categories": [
+            "Nintendo 3DS Family",
             "Nintendo Switch",
-            "Games",
-            "Nintendo 3DS Family"
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -4585,8 +4635,8 @@
                   "__typename": "Prices",
                   "currency": "CAD",
                   "discounted": false,
-                  "regularPrice": 29.99,
-                  "finalPrice": 29.99,
+                  "regularPrice": 41.99,
+                  "finalPrice": 41.99,
                   "pricePerUnit": null,
                   "percentOff": 0,
                   "amountOff": 0
@@ -4599,7 +4649,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2018-06-20T00:00:00.000Z",
@@ -4608,6 +4660,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100000964",
                 "softwarePublisher": "Mojang",
                 "softwareDeveloper": null,
@@ -4691,116 +4744,6 @@
             },
             {
               "__typename": "ProductVariation",
-              "label": "ROM Bundle",
-              "value": "ROM Bundle",
-              "product": {
-                "__typename": "Product",
-                "availability": [
-                  "Available now"
-                ],
-                "color": null,
-                "contentDescriptors": [
-                  {
-                    "__typename": "ContentDescriptor",
-                    "id": "4rXfJg3rY2e58ECl3iULqU",
-                    "locale": "en_CA",
-                    "label": "Fantasy Violence",
-                    "type": "CONTENT_DESCRIPTOR"
-                  },
-                  {
-                    "__typename": "ContentDescriptor",
-                    "id": "2H42pedF52REwu7cDmv8uN",
-                    "locale": "en_CA",
-                    "label": "Music Downloads Not Rated by the ESRB.",
-                    "type": "CONTENT_DESCRIPTOR"
-                  },
-                  {
-                    "__typename": "ContentDescriptor",
-                    "id": "PuUlZqXPrK4WzWD2LWYLV",
-                    "locale": "en_CA",
-                    "label": "Users Interact",
-                    "type": "INTERACTIVE_ELEMENT"
-                  }
-                ],
-                "contentRating": {
-                  "__typename": "ContentRating",
-                  "id": "4QzesqRbAOTJ05zgLM8Yce",
-                  "locale": "en_CA",
-                  "code": "e10",
-                  "label": "Everyone 10+",
-                  "requiresAgeGate": false,
-                  "system": "ESRB",
-                  "order": 10,
-                  "highestRating": null
-                },
-                "demoNsuid": null,
-                "dlcType": null,
-                "eshopDetails": {
-                  "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
-                  "goldPoints": 0,
-                  "baseGoldPoints": 0,
-                  "goldPointOfferValue": null,
-                  "goldPointOfferType": null
-                },
-                "exclusive": null,
-                "isSalableQty": true,
-                "locale": "en_CA",
-                "manufacturer": null,
-                "maxQtyAllowedInCart": null,
-                "name": "Minecraft Deluxe Collection",
-                "nsuid": "70070000016597",
-                "platform": {
-                  "__typename": "Platform",
-                  "label": "Nintendo Switch",
-                  "code": "NINTENDO_SWITCH"
-                },
-                "platinumPoints": null,
-                "prePurchase": null,
-                "prices": {
-                  "__typename": "Prices",
-                  "currency": "CAD",
-                  "discounted": false,
-                  "regularPrice": 49.99,
-                  "finalPrice": 49.99,
-                  "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
-                },
-                "productImage": {
-                  "__typename": "CloudinaryAsset",
-                  "publicId": "store/software/switch/70070000016597/0a33bcaba879403460afe2ff2aafaaefeede964e0fc11a430f71077867cc87f1",
-                  "resourceType": "image",
-                  "type": "upload"
-                },
-                "productImageSquare": null,
-                "qtyAllowedPerCustomer": null,
-                "releaseDate": "2023-01-31T00:00:00.000Z",
-                "releaseDateDisplay": null,
-                "requiresLogin": null,
-                "requiresCoupon": null,
-                "requiresSubscription": null,
-                "size": null,
-                "sku": "7700016597",
-                "softwarePublisher": "Mojang",
-                "softwareDeveloper": null,
-                "tags": {
-                  "__typename": "Tags",
-                  "features": [],
-                  "genres": [],
-                  "waysToPlay": []
-                },
-                "topLevelCategory": {
-                  "__typename": "TopLevelCategory",
-                  "code": "GAMES",
-                  "label": "Games"
-                },
-                "urlKey": "minecraft-deluxe-collection-switch",
-                "visibleInSearch": true
-              }
-            },
-            {
-              "__typename": "ProductVariation",
               "label": "Physical Edition - Canada",
               "value": "Physical Edition - Canada",
               "product": {
@@ -4876,7 +4819,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2018-06-20T00:00:00.000Z",
@@ -4885,6 +4830,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "106680",
                 "softwarePublisher": "Mojang",
                 "softwareDeveloper": null,
@@ -5029,8 +4975,8 @@
             "__typename": "Prices",
             "currency": "CAD",
             "discounted": false,
-            "regularPrice": 29.99,
-            "finalPrice": 29.99,
+            "regularPrice": 41.99,
+            "finalPrice": 41.99,
             "pricePerUnit": null,
             "percentOff": 0,
             "amountOff": 0
@@ -5043,7 +4989,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2018-06-20T00:00:00.000Z",
@@ -5052,6 +5000,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100000964",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": null,
@@ -5066,6 +5015,7 @@
           "artPath": "store/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Simulation"
@@ -5079,6 +5029,11 @@
           "graphCategories": [
             {
               "__typename": "Category",
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
             },
@@ -5086,11 +5041,6 @@
               "__typename": "Category",
               "id": "games",
               "name": "Games"
-            },
-            {
-              "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
             }
           ],
           "genres": [],
@@ -5098,9 +5048,9 @@
           "apparelType": null,
           "baseColors": [],
           "collectibleType": null,
-          "collectionPriceRange": "$20 - $39.99",
+          "collectionPriceRange": "$40 - $59.99",
           "collectionPriceRangeFilter": [
-            "$20 - $39.99"
+            "$40 - $59.99"
           ],
           "controllerType": null,
           "corePlatforms": [
@@ -5123,9 +5073,9 @@
           "playerCount": "4+",
           "playerCountDescription": null,
           "plushType": null,
-          "priceRange": "$20 - $39.99",
+          "priceRange": "$40+",
           "priceRangeFilter": [
-            "$20 - $39.99"
+            "$40+"
           ],
           "productType": [
             "Games"
@@ -5134,7 +5084,7 @@
           "topLevelFilters": [],
           "toyType": [],
           "sortdiscountPriceEnd": null,
-          "sortFinalPrice": 29.99,
+          "sortFinalPrice": 41.99,
           "sortAmountOff": 0,
           "sortPercentOff": 0,
           "waysToPlayLabels": [
@@ -5151,9 +5101,9 @@
           "__typename": "Product",
           "backgroundColor": "d1d3cf",
           "categories": [
-            "Nintendo Switch",
             "Nintendo 3DS Family",
-            "Games"
+            "Games",
+            "Nintendo Switch"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -5302,7 +5252,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d470e5de78774607b1e472a61881fc3a_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/d470e5de78774607b1e472a61881fc3a_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2022-02-17T00:00:00.000Z",
@@ -5311,6 +5263,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100038691",
                 "softwarePublisher": "Ubisoft",
                 "softwareDeveloper": null,
@@ -5440,7 +5393,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d470e5de78774607b1e472a61881fc3a_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/d470e5de78774607b1e472a61881fc3a_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2022-02-17T00:00:00.000Z",
@@ -5449,6 +5404,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100038691",
           "softwarePublisher": "Ubisoft",
           "softwareDeveloper": null,
@@ -5463,6 +5419,7 @@
           "artPath": "store/software/switch/70010000038691/b6a394cabf523eb87c6dcae28d51dbea67991aee95e8de35de15a2b85af59500",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Adventure"
@@ -5475,11 +5432,6 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
-            },
-            {
-              "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
             },
@@ -5487,6 +5439,11 @@
               "__typename": "Category",
               "id": "games",
               "name": "Games"
+            },
+            {
+              "__typename": "Category",
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             }
           ],
           "genres": [],
@@ -5752,7 +5709,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8"
+                  "publicId": "store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8",
+                  "resourceType": "image",
+                  "type": "upload"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-09-17T00:00:00.000Z",
@@ -5761,6 +5720,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100126929",
                 "softwarePublisher": "Nintendo",
                 "softwareDeveloper": null,
@@ -5818,7 +5778,6 @@
               "product": {
                 "__typename": "Product",
                 "availability": [
-                  "New releases",
                   "Available now"
                 ],
                 "color": null,
@@ -5922,6 +5881,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
+                "showWidely": true,
                 "sku": "7700041192",
                 "softwarePublisher": "Nintendo",
                 "softwareDeveloper": null,
@@ -6031,7 +5991,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8"
+                  "publicId": "store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8",
+                  "resourceType": "image",
+                  "type": "upload"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-09-17T00:00:00.000Z",
@@ -6040,6 +6002,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "125689",
                 "softwarePublisher": "Nintendo",
                 "softwareDeveloper": "Intelligent Systems",
@@ -6181,7 +6144,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8"
+                  "publicId": "store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8",
+                  "resourceType": "image",
+                  "type": "upload"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-09-17T00:00:00.000Z",
@@ -6190,6 +6155,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "128777",
                 "softwarePublisher": "Nintendo",
                 "softwareDeveloper": "Intelligent Systems",
@@ -6331,7 +6297,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8"
+            "publicId": "store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-17T00:00:00.000Z",
@@ -6340,6 +6308,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100126929",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": null,
@@ -6354,6 +6323,7 @@
           "artPath": "store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61",
           "fullNamePlatform": "Nintendo Switch 2",
           "platformCode": "NINTENDO_SWITCH_2",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Role playing",
             "Strategy"
@@ -6400,7 +6370,8 @@
           "editions": [
             "Digital",
             "Physical",
-            "Special edition"
+            "Special edition",
+            "Games with DLC"
           ],
           "franchises": [],
           "hardwareType": null,
@@ -6419,7 +6390,9 @@
             "Games"
           ],
           "replacementPart": null,
-          "topLevelFilters": [],
+          "topLevelFilters": [
+            "Games with DLC"
+          ],
           "toyType": [],
           "sortdiscountPriceEnd": null,
           "sortFinalPrice": 99.99,
@@ -6604,7 +6577,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5a6fa995612649b2a5fea4af92909f94_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a6fa995612649b2a5fea4af92909f94_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-02-27T00:00:00.000Z",
@@ -6613,6 +6588,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100118613",
                 "softwarePublisher": "Nintendo",
                 "softwareDeveloper": null,
@@ -6738,7 +6714,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0794345a8c214e17abc2202711ce5f3e_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/0794345a8c214e17abc2202711ce5f3e_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-02-27T00:00:00.000Z",
@@ -6747,6 +6725,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100118623",
                 "softwarePublisher": "Nintendo",
                 "softwareDeveloper": null,
@@ -6872,7 +6851,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/9b1bba7221cc4307bc48ac4736d4756e_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/9b1bba7221cc4307bc48ac4736d4756e_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-02-27T00:00:00.000Z",
@@ -6881,6 +6862,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100118629",
                 "softwarePublisher": "Nintendo",
                 "softwareDeveloper": null,
@@ -6997,7 +6979,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5a6fa995612649b2a5fea4af92909f94_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a6fa995612649b2a5fea4af92909f94_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-02-27T00:00:00.000Z",
@@ -7006,6 +6990,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100118613",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": null,
@@ -7020,6 +7005,7 @@
           "artPath": "store/software/switch/70010000118613/86f3c6d4e129d185cbbc441169856733dea45ff231446a4edf5fec4624041849",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Role playing"
           ],
@@ -7266,7 +7252,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/32b359a88aff49bba2f5747fe96dd4b8_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/32b359a88aff49bba2f5747fe96dd4b8_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2021-10-05T00:00:00.000Z",
@@ -7275,6 +7263,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100025461",
                 "softwarePublisher": "WB Games",
                 "softwareDeveloper": null,
@@ -7389,7 +7378,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/32b359a88aff49bba2f5747fe96dd4b8_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/32b359a88aff49bba2f5747fe96dd4b8_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2021-10-05T00:00:00.000Z",
@@ -7398,6 +7389,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100025461",
           "softwarePublisher": "WB Games",
           "softwareDeveloper": null,
@@ -7412,6 +7404,7 @@
           "artPath": "store/software/switch/70010000025461/8a87b6c21c03139337dccc2b7b89c15278c52997e65bdd088e52ba7006d0e3de",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Adventure"
@@ -7685,7 +7678,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000067526/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20"
+                  "publicId": "store/software/switch/70010000067526/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20",
+                  "resourceType": "image",
+                  "type": "upload"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -7694,6 +7689,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100067526",
                 "softwarePublisher": "Mojang",
                 "softwareDeveloper": "Mojang Studios",
@@ -7844,6 +7840,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
+                "showWidely": true,
                 "sku": "7700036387",
                 "softwarePublisher": "Mojang",
                 "softwareDeveloper": null,
@@ -7932,7 +7929,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000067526/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20"
+            "publicId": "store/software/switch/70010000067526/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -7941,6 +7940,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100067526",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": "Mojang Studios",
@@ -7955,6 +7955,7 @@
           "artPath": "store/software/switch/70010000067526/943ac82193671174ecae54dabc8c85897b561153d830d86ac288476d3a9d02e4",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Adventure"
@@ -8150,23 +8151,16 @@
                 "contentDescriptors": [
                   {
                     "__typename": "ContentDescriptor",
-                    "id": "2yLZuBB4hcU7TFOhEj94R2",
+                    "id": "EtRBzZVPYLgAyYmSYBbmk",
                     "locale": "en_CA",
-                    "label": "Blood",
+                    "label": "Blood and Gore",
                     "type": "CONTENT_DESCRIPTOR"
                   },
                   {
                     "__typename": "ContentDescriptor",
-                    "id": "6RezkugFhAJHnhyZD8LjKn",
+                    "id": "2GZMRQCZ24aNymMfFGspZE",
                     "locale": "en_CA",
-                    "label": "Use of Drugs",
-                    "type": "CONTENT_DESCRIPTOR"
-                  },
-                  {
-                    "__typename": "ContentDescriptor",
-                    "id": "3Gud6CWa1ofpx3C7HlLLSp",
-                    "locale": "en_CA",
-                    "label": "Violence",
+                    "label": "Intense Violence",
                     "type": "CONTENT_DESCRIPTOR"
                   }
                 ],
@@ -8223,7 +8217,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000131244/e624e07ea416f251b83865aafb02b5fdadde9e93724c68b27d891896da0d2df3"
+                  "publicId": "store/software/switch2/70010000131244/e624e07ea416f251b83865aafb02b5fdadde9e93724c68b27d891896da0d2df3",
+                  "resourceType": "image",
+                  "type": "upload"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2026-09-30T00:00:00.000Z",
@@ -8232,6 +8228,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100131244",
                 "softwarePublisher": "Aspyr",
                 "softwareDeveloper": null,
@@ -8290,23 +8287,16 @@
           "contentDescriptors": [
             {
               "__typename": "ContentDescriptor",
-              "id": "2yLZuBB4hcU7TFOhEj94R2",
+              "id": "EtRBzZVPYLgAyYmSYBbmk",
               "locale": "en_CA",
-              "label": "Blood",
+              "label": "Blood and Gore",
               "type": "CONTENT_DESCRIPTOR"
             },
             {
               "__typename": "ContentDescriptor",
-              "id": "6RezkugFhAJHnhyZD8LjKn",
+              "id": "2GZMRQCZ24aNymMfFGspZE",
               "locale": "en_CA",
-              "label": "Use of Drugs",
-              "type": "CONTENT_DESCRIPTOR"
-            },
-            {
-              "__typename": "ContentDescriptor",
-              "id": "3Gud6CWa1ofpx3C7HlLLSp",
-              "locale": "en_CA",
-              "label": "Violence",
+              "label": "Intense Violence",
               "type": "CONTENT_DESCRIPTOR"
             }
           ],
@@ -8359,7 +8349,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000131244/e624e07ea416f251b83865aafb02b5fdadde9e93724c68b27d891896da0d2df3"
+            "publicId": "store/software/switch2/70010000131244/e624e07ea416f251b83865aafb02b5fdadde9e93724c68b27d891896da0d2df3",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-30T00:00:00.000Z",
@@ -8368,6 +8360,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100131244",
           "softwarePublisher": "Aspyr",
           "softwareDeveloper": null,
@@ -8382,6 +8375,7 @@
           "artPath": "store/software/switch2/70010000131244/e1cee27abac1f6e16e9f7454fa1413fb2742e2dbe96f343ab2ed1b423ceccfb4",
           "fullNamePlatform": "Nintendo Switch 2",
           "platformCode": "NINTENDO_SWITCH_2",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Shooting"
@@ -8458,8 +8452,8 @@
           "__typename": "Product",
           "backgroundColor": "1e1311",
           "categories": [
-            "Nintendo 3DS Family",
             "Nintendo Switch",
+            "Nintendo 3DS Family",
             "Games"
           ],
           "edition": "Standard Edition",
@@ -8607,7 +8601,7 @@
                 "dlcType": null,
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-07T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -8630,12 +8624,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 33.49,
-                  "finalPrice": 33.49,
+                  "finalPrice": 23.44,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 30.01,
+                  "amountOff": 10.05
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -8645,7 +8639,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7ef42bdec6a64dbe81beeed4c8a43572_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ef42bdec6a64dbe81beeed4c8a43572_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2024-08-27T00:00:00.000Z",
@@ -8654,6 +8650,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100065729",
                 "softwarePublisher": "KONAMI",
                 "softwareDeveloper": null,
@@ -8749,7 +8746,7 @@
           "dlcType": null,
           "eshopDetails": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-07T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -8768,12 +8765,12 @@
           "prices": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 33.49,
-            "finalPrice": 33.49,
+            "finalPrice": 23.44,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 30.01,
+            "amountOff": 10.05
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -8783,7 +8780,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7ef42bdec6a64dbe81beeed4c8a43572_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ef42bdec6a64dbe81beeed4c8a43572_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2024-08-27T00:00:00.000Z",
@@ -8792,6 +8791,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100065729",
           "softwarePublisher": "KONAMI",
           "softwareDeveloper": null,
@@ -8806,6 +8806,7 @@
           "artPath": "store/software/switch/70010000065729/03971f9d9efecca6b16e7f9701bc866fd9c05375987697097ea0c401d02bcc7d",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Role playing"
@@ -8818,13 +8819,13 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
             },
             {
               "__typename": "Category",
@@ -8839,6 +8840,7 @@
           "collectibleType": null,
           "collectionPriceRange": "$20 - $39.99",
           "collectionPriceRangeFilter": [
+            "On sale",
             "$20 - $39.99"
           ],
           "controllerType": null,
@@ -8862,18 +8864,21 @@
           "plushType": null,
           "priceRange": "$20 - $39.99",
           "priceRangeFilter": [
+            "On sale",
             "$20 - $39.99"
           ],
           "productType": [
             "Games"
           ],
           "replacementPart": null,
-          "topLevelFilters": [],
+          "topLevelFilters": [
+            "Deals"
+          ],
           "toyType": [],
-          "sortdiscountPriceEnd": null,
-          "sortFinalPrice": 33.49,
-          "sortAmountOff": 0,
-          "sortPercentOff": 0,
+          "sortdiscountPriceEnd": "2026-12-07T07:59:59Z",
+          "sortFinalPrice": 23.44,
+          "sortAmountOff": 10.05,
+          "sortPercentOff": 30.01,
           "waysToPlayLabels": []
         },
         {
@@ -8881,9 +8886,9 @@
           "__typename": "Product",
           "backgroundColor": "081f3c",
           "categories": [
+            "Nintendo 3DS Family",
             "Games",
-            "Nintendo Switch",
-            "Nintendo 3DS Family"
+            "Nintendo Switch"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -9006,7 +9011,7 @@
                 "dlcType": null,
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-01T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -9029,12 +9034,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 39.99,
-                  "finalPrice": 39.99,
+                  "finalPrice": 7.99,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 80.02,
+                  "amountOff": 32
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -9044,7 +9049,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/a75ba30b11564c84814aadb565bad116_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/a75ba30b11564c84814aadb565bad116_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2018-10-30T00:00:00.000Z",
@@ -9053,6 +9060,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100013536",
                 "softwarePublisher": "WB Games",
                 "softwareDeveloper": "TT Games",
@@ -9124,7 +9132,7 @@
           "dlcType": null,
           "eshopDetails": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-01T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -9143,12 +9151,12 @@
           "prices": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 39.99,
-            "finalPrice": 39.99,
+            "finalPrice": 7.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 80.02,
+            "amountOff": 32
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -9158,7 +9166,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/a75ba30b11564c84814aadb565bad116_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/a75ba30b11564c84814aadb565bad116_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2018-10-30T00:00:00.000Z",
@@ -9167,6 +9177,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100013536",
           "softwarePublisher": "WB Games",
           "softwareDeveloper": "TT Games",
@@ -9181,6 +9192,7 @@
           "artPath": "store/software/switch/70010000013536/16692d987f2984b4b32b81859e1448f3e3abfcf1d8d644c73b74c8921ef32975",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Adventure"
@@ -9191,6 +9203,11 @@
           "graphCategories": [
             {
               "__typename": "Category",
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
               "id": "games",
               "name": "Games"
             },
@@ -9198,11 +9215,6 @@
               "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
-            },
-            {
-              "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
             }
           ],
           "genres": [],
@@ -9210,9 +9222,10 @@
           "apparelType": null,
           "baseColors": [],
           "collectibleType": null,
-          "collectionPriceRange": "$20 - $39.99",
+          "collectionPriceRange": "$0 - $9.99",
           "collectionPriceRangeFilter": [
-            "$20 - $39.99"
+            "On sale",
+            "$0 - $9.99"
           ],
           "controllerType": null,
           "corePlatforms": [
@@ -9233,20 +9246,23 @@
           "playerCount": "2+",
           "playerCountDescription": null,
           "plushType": null,
-          "priceRange": "$20 - $39.99",
+          "priceRange": "$5 - $9.99",
           "priceRangeFilter": [
-            "$20 - $39.99"
+            "On sale",
+            "$5 - $9.99"
           ],
           "productType": [
             "Games"
           ],
           "replacementPart": null,
-          "topLevelFilters": [],
+          "topLevelFilters": [
+            "Deals"
+          ],
           "toyType": [],
-          "sortdiscountPriceEnd": null,
-          "sortFinalPrice": 39.99,
-          "sortAmountOff": 0,
-          "sortPercentOff": 0,
+          "sortdiscountPriceEnd": "2026-12-01T07:59:59Z",
+          "sortFinalPrice": 7.99,
+          "sortAmountOff": 32,
+          "sortPercentOff": 80.02,
           "waysToPlayLabels": []
         },
         {
@@ -9402,7 +9418,7 @@
                 "dlcType": null,
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-03T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -9425,12 +9441,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 79.99,
-                  "finalPrice": 79.99,
+                  "finalPrice": 19.99,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 75.01,
+                  "amountOff": 60
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -9440,7 +9456,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5764317d6d6e4b7ca80be4ba62a6d322_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/5764317d6d6e4b7ca80be4ba62a6d322_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2022-10-20T00:00:00.000Z",
@@ -9449,6 +9467,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100035797",
                 "softwarePublisher": "Ubisoft",
                 "softwareDeveloper": null,
@@ -9578,6 +9597,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
+                "showWidely": true,
                 "sku": "7700014384",
                 "softwarePublisher": "Ubisoft",
                 "softwareDeveloper": null,
@@ -9641,7 +9661,7 @@
                 },
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-03T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -9664,12 +9684,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 89.99,
-                  "finalPrice": 89.99,
+                  "finalPrice": 22.49,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 75.01,
+                  "amountOff": 67.5
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -9685,6 +9705,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
+                "showWidely": true,
                 "sku": "7700018644",
                 "softwarePublisher": "Ubisoft",
                 "softwareDeveloper": null,
@@ -9739,7 +9760,7 @@
           "dlcType": null,
           "eshopDetails": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -9758,12 +9779,12 @@
           "prices": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 79.99,
-            "finalPrice": 79.99,
+            "finalPrice": 19.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 75.01,
+            "amountOff": 60
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -9773,7 +9794,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5764317d6d6e4b7ca80be4ba62a6d322_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/5764317d6d6e4b7ca80be4ba62a6d322_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2022-10-20T00:00:00.000Z",
@@ -9782,6 +9805,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100035797",
           "softwarePublisher": "Ubisoft",
           "softwareDeveloper": null,
@@ -9796,6 +9820,7 @@
           "artPath": "store/software/switch/70010000035797/f3dc6aa2e25ab6d713ac5da17e90ce676dfadf6a0b8fefb37b8b5159d89fc36c",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Adventure",
             "Strategy"
@@ -9826,9 +9851,10 @@
           "apparelType": null,
           "baseColors": [],
           "collectibleType": null,
-          "collectionPriceRange": "$60+",
+          "collectionPriceRange": "$10 - $19.99",
           "collectionPriceRangeFilter": [
-            "$60+"
+            "On sale",
+            "$10 - $19.99"
           ],
           "controllerType": null,
           "corePlatforms": [
@@ -9851,23 +9877,25 @@
           "playerCount": "Single player",
           "playerCountDescription": null,
           "plushType": null,
-          "priceRange": "$40+",
+          "priceRange": "$10 - $19.99",
           "priceRangeFilter": [
-            "$40+"
+            "On sale",
+            "$10 - $19.99"
           ],
           "productType": [
             "Games"
           ],
           "replacementPart": null,
           "topLevelFilters": [
+            "Deals",
             "Demo available",
             "Games with DLC"
           ],
           "toyType": [],
-          "sortdiscountPriceEnd": null,
-          "sortFinalPrice": 79.99,
-          "sortAmountOff": 0,
-          "sortPercentOff": 0,
+          "sortdiscountPriceEnd": "2026-12-03T07:59:59Z",
+          "sortFinalPrice": 19.99,
+          "sortAmountOff": 60,
+          "sortPercentOff": 75.01,
           "waysToPlayLabels": []
         },
         {
@@ -9875,8 +9903,8 @@
           "__typename": "Product",
           "backgroundColor": "e6d8d8",
           "categories": [
-            "Nintendo Switch",
             "Games",
+            "Nintendo Switch",
             "Nintendo 3DS Family"
           ],
           "edition": "Standard Edition",
@@ -10052,7 +10080,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6e9fdcb4528f4a9aad4d3dfabc5b19e4_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/6e9fdcb4528f4a9aad4d3dfabc5b19e4_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2021-10-07T00:00:00.000Z",
@@ -10061,6 +10091,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100033942",
                 "softwarePublisher": "Boneloaf",
                 "softwareDeveloper": null,
@@ -10185,7 +10216,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6e9fdcb4528f4a9aad4d3dfabc5b19e4_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/6e9fdcb4528f4a9aad4d3dfabc5b19e4_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2021-10-07T00:00:00.000Z",
@@ -10194,6 +10227,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100033942",
           "softwarePublisher": "Boneloaf",
           "softwareDeveloper": null,
@@ -10208,6 +10242,7 @@
           "artPath": "store/software/switch/70010000033942/04e13ca17a27aad6c8fe171aca4bcd9731cf04121542958fa4d09d2b49c4c154",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Party"
@@ -10218,13 +10253,13 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "games",
+              "name": "Games"
             },
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
@@ -10437,7 +10472,7 @@
                 "dlcType": null,
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-07T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -10460,12 +10495,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 24.99,
-                  "finalPrice": 24.99,
+                  "finalPrice": 12.49,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 50.02,
+                  "amountOff": 12.5
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -10475,7 +10510,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d6b63e226ba749079eed420e31ccd82c_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/d6b63e226ba749079eed420e31ccd82c_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2021-09-23T00:00:00.000Z",
@@ -10484,6 +10521,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100044378",
                 "softwarePublisher": "KONAMI",
                 "softwareDeveloper": null,
@@ -10579,7 +10617,7 @@
           "dlcType": null,
           "eshopDetails": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-07T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -10598,12 +10636,12 @@
           "prices": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 24.99,
-            "finalPrice": 24.99,
+            "finalPrice": 12.49,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 50.02,
+            "amountOff": 12.5
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -10613,7 +10651,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d6b63e226ba749079eed420e31ccd82c_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/d6b63e226ba749079eed420e31ccd82c_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2021-09-23T00:00:00.000Z",
@@ -10622,6 +10662,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100044378",
           "softwarePublisher": "KONAMI",
           "softwareDeveloper": null,
@@ -10636,6 +10677,7 @@
           "artPath": "store/software/switch/70010000044378/03c4e9784040739ec19d279331dd2951da967f8f20478f665b9408418fa9d552",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Role playing"
@@ -10667,9 +10709,10 @@
           "apparelType": null,
           "baseColors": [],
           "collectibleType": null,
-          "collectionPriceRange": "$20 - $39.99",
+          "collectionPriceRange": "$10 - $19.99",
           "collectionPriceRangeFilter": [
-            "$20 - $39.99"
+            "On sale",
+            "$10 - $19.99"
           ],
           "controllerType": null,
           "corePlatforms": [
@@ -10690,20 +10733,23 @@
           "playerCount": "Single player",
           "playerCountDescription": null,
           "plushType": null,
-          "priceRange": "$20 - $39.99",
+          "priceRange": "$10 - $19.99",
           "priceRangeFilter": [
-            "$20 - $39.99"
+            "On sale",
+            "$10 - $19.99"
           ],
           "productType": [
             "Games"
           ],
           "replacementPart": null,
-          "topLevelFilters": [],
+          "topLevelFilters": [
+            "Deals"
+          ],
           "toyType": [],
-          "sortdiscountPriceEnd": null,
-          "sortFinalPrice": 24.99,
-          "sortAmountOff": 0,
-          "sortPercentOff": 0,
+          "sortdiscountPriceEnd": "2026-12-07T07:59:59Z",
+          "sortFinalPrice": 12.49,
+          "sortAmountOff": 12.5,
+          "sortPercentOff": 50.02,
           "waysToPlayLabels": []
         },
         {
@@ -10711,9 +10757,9 @@
           "__typename": "Product",
           "backgroundColor": "d6f0fa",
           "categories": [
+            "Nintendo 3DS Family",
             "Nintendo Switch",
-            "Games",
-            "Nintendo 3DS Family"
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -10946,7 +10992,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4c6f0e9a7a7e4f108d16e84bdc6dca0c_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/4c6f0e9a7a7e4f108d16e84bdc6dca0c_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2017-10-05T00:00:00.000Z",
@@ -10955,6 +11003,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100001801",
                 "softwarePublisher": "ConcernedApe",
                 "softwareDeveloper": "ConcernedApe",
@@ -11133,7 +11182,9 @@
                 },
                 "productImageSquare": {
                   "__typename": "CloudinaryAsset",
-                  "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3caaea2a70ba49b4aaca38c656c7a674_1024"
+                  "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/3caaea2a70ba49b4aaca38c656c7a674_1024",
+                  "resourceType": "image",
+                  "type": "fetch"
                 },
                 "qtyAllowedPerCustomer": null,
                 "releaseDate": "2025-12-25T00:00:00.000Z",
@@ -11142,6 +11193,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": false,
                 "size": null,
+                "showWidely": true,
                 "sku": "7100105384",
                 "softwarePublisher": "ConcernedApe",
                 "softwareDeveloper": "ConcernedApe",
@@ -11214,7 +11266,11 @@
                     }
                   ]
                 },
-                "topLevelCategory": null,
+                "topLevelCategory": {
+                  "__typename": "TopLevelCategory",
+                  "code": "GAMES",
+                  "label": "Games"
+                },
                 "urlKey": "stardew-valley-nintendo-switch-2-edition-switch-2",
                 "visibleInSearch": true
               }
@@ -11332,6 +11388,7 @@
                 "requiresCoupon": null,
                 "requiresSubscription": null,
                 "size": null,
+                "showWidely": true,
                 "sku": "7500061921",
                 "softwarePublisher": "ConcernedApe",
                 "softwareDeveloper": null,
@@ -11455,7 +11512,9 @@
           },
           "productImageSquare": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4c6f0e9a7a7e4f108d16e84bdc6dca0c_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/4c6f0e9a7a7e4f108d16e84bdc6dca0c_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2017-10-05T00:00:00.000Z",
@@ -11464,6 +11523,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100001801",
           "softwarePublisher": "ConcernedApe",
           "softwareDeveloper": "ConcernedApe",
@@ -11478,6 +11538,7 @@
           "artPath": "store/software/switch/70010000001801/7aa9c6cf5e7d4cecf481f18b1d7a9d79e7aab85045b22203effb2dda409bc5b7",
           "fullNamePlatform": "Nintendo Switch",
           "platformCode": "NINTENDO_SWITCH",
+          "gameAccessibilityTagLabels": [],
           "gameGenreLabels": [
             "Action",
             "Simulation"
@@ -11491,6 +11552,11 @@
           "graphCategories": [
             {
               "__typename": "Category",
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
+            },
+            {
+              "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
             },
@@ -11498,11 +11564,6 @@
               "__typename": "Category",
               "id": "games",
               "name": "Games"
-            },
-            {
-              "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
             }
           ],
           "genres": [],
@@ -11593,9 +11654,26 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Action"
+        },
+        {
+          "url": "/store/games/tags/story-games",
+          "label": "Narrative adventure"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Puzzle-solving elements"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Voiced characters"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef"
       },
       "linkedData": [
         {
@@ -11651,57 +11729,57 @@
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 0",
             "description": "The Wolf Among Us Remastered gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 1",
             "description": "The Wolf Among Us Remastered gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 2",
             "description": "The Wolf Among Us Remastered gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 3",
             "description": "The Wolf Among Us Remastered gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 4",
             "description": "The Wolf Among Us Remastered gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 5",
             "description": "The Wolf Among Us Remastered gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 6",
             "description": "The Wolf Among Us Remastered gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           }
         ],
         {
@@ -11786,10 +11864,33 @@
           "url({\"relative\":true})": "/en-ca/store/products/the-wolf-among-us-remastered-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Puzzle-solving elements"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Voiced characters"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Action"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TEXT_ADVENTURE",
+                "label": "Narrative adventure"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0100e000276f6000",
           "appStoreUrl": null,
           "availability": [
@@ -11808,7 +11909,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -11891,13 +11992,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "9754902528",
+                "totalRomSize": "10505682944",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "9754902528",
+                "totalRomSize": "10505682944",
                 "platform": "BEE"
               }
             ]
@@ -12027,7 +12128,7 @@
               "type": "upload"
             }
           ],
-          "releaseDate": "2026-10-29T00:00:00.000Z",
+          "releaseDate": "2026-11-29T00:00:00.000Z",
           "releaseDateDisplay": null,
           "softwareContents": [],
           "softwarePublisher": "Telltale",
@@ -12273,7 +12374,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/90bf20908eb54b008b932f99bb607a02_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/90bf20908eb54b008b932f99bb607a02_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2023-11-14T00:00:00.000Z",
@@ -12282,6 +12385,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100014724",
           "softwarePublisher": "WB Games",
           "softwareDeveloper": "Avalanche Software",
@@ -12328,13 +12432,13 @@
           "backgroundColor": "102226",
           "categories": [
             {
+              "__ref": "Category:nintendo_3ds_family"
+            },
+            {
               "__ref": "Category:games"
             },
             {
               "__ref": "Category:nintendo_switch"
-            },
-            {
-              "__ref": "Category:nintendo_3ds_family"
             }
           ],
           "edition": "Standard Edition",
@@ -12491,7 +12595,7 @@
           },
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-01T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -12514,12 +12618,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 89.99,
-            "finalPrice": 89.99,
+            "finalPrice": 8.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 90.01,
+            "amountOff": 81
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -12535,6 +12639,7 @@
           "requiresCoupon": null,
           "requiresSubscription": null,
           "size": null,
+          "showWidely": true,
           "sku": "7700019147",
           "softwarePublisher": "WB Games",
           "softwareDeveloper": null,
@@ -12640,7 +12745,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000128692/5e2cfe5c38b7143530e3d70b3333da41159969a4580972956860081eb288a50d"
+            "publicId": "store/software/switch2/70010000128692/5e2cfe5c38b7143530e3d70b3333da41159969a4580972956860081eb288a50d",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -12649,6 +12756,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100128692",
           "softwarePublisher": "CD PROJEKT RED",
           "softwareDeveloper": "CD PROJEKT RED S.A.",
@@ -12890,7 +12998,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000110905/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20"
+            "publicId": "store/software/switch2/70010000110905/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -12899,6 +13009,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100110905",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": "Mojang Studios",
@@ -13174,6 +13285,7 @@
           "requiresCoupon": null,
           "requiresSubscription": null,
           "size": null,
+          "showWidely": true,
           "sku": "7700036386",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": null,
@@ -13247,6 +13359,7 @@
           "requiresCoupon": null,
           "requiresSubscription": null,
           "size": null,
+          "showWidely": true,
           "sku": "128088",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": "Mojang Studios",
@@ -13326,8 +13439,8 @@
             "__typename": "Prices",
             "currency": "CAD",
             "discounted": false,
-            "regularPrice": 29.99,
-            "finalPrice": 29.99,
+            "regularPrice": 41.99,
+            "finalPrice": 41.99,
             "pricePerUnit": null,
             "percentOff": 0,
             "amountOff": 0
@@ -13340,7 +13453,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2018-06-20T00:00:00.000Z",
@@ -13349,6 +13464,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100000964",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": null,
@@ -13431,13 +13547,13 @@
           "backgroundColor": "0588f8",
           "categories": [
             {
+              "__ref": "Category:nintendo_3ds_family"
+            },
+            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:games"
-            },
-            {
-              "__ref": "Category:nintendo_3ds_family"
             }
           ],
           "edition": "Standard Edition",
@@ -13447,9 +13563,9 @@
             "apparel": null,
             "baseColors": [],
             "collectible": null,
-            "priceRange({\"type\":\"ALL\"})": "$20 - $39.99",
+            "priceRange({\"type\":\"ALL\"})": "$40 - $59.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
-              "$20 - $39.99"
+              "$40 - $59.99"
             ],
             "controller": null,
             "corePlatforms": [
@@ -13470,9 +13586,9 @@
               "Save Data Cloud"
             ],
             "plush": null,
-            "priceRange": "$20 - $39.99",
+            "priceRange": "$40+",
             "priceRangeFilter": [
-              "$20 - $39.99"
+              "$40+"
             ],
             "productType": [
               "Games"
@@ -13556,14 +13672,6 @@
             },
             {
               "__typename": "ProductVariation",
-              "label": "ROM Bundle",
-              "value": "ROM Bundle",
-              "product": {
-                "__ref": "Product:{\"sku\":\"7700016597\"}"
-              }
-            },
-            {
-              "__typename": "ProductVariation",
               "label": "Physical Edition - Canada",
               "value": "Physical Edition - Canada",
               "product": {
@@ -13571,91 +13679,6 @@
               }
             }
           ]
-        },
-        "Product:{\"sku\":\"7700016597\"}": {
-          "__typename": "Product",
-          "availability": [
-            "Available now"
-          ],
-          "color": null,
-          "contentDescriptors": [
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"4rXfJg3rY2e58ECl3iULqU\",\"locale\":\"en_CA\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"2H42pedF52REwu7cDmv8uN\",\"locale\":\"en_CA\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"PuUlZqXPrK4WzWD2LWYLV\",\"locale\":\"en_CA\"}"
-            }
-          ],
-          "contentRating": {
-            "__ref": "ContentRating:{\"id\":\"4QzesqRbAOTJ05zgLM8Yce\",\"locale\":\"en_CA\"}"
-          },
-          "demoNsuid": null,
-          "dlcType": null,
-          "eshopDetails({\"personalized\":false})": {
-            "__typename": "EshopDetails",
-            "discountPriceEnd": null,
-            "goldPoints": 0,
-            "baseGoldPoints": 0,
-            "goldPointOfferValue": null,
-            "goldPointOfferType": null
-          },
-          "exclusive": null,
-          "isSalableQty": true,
-          "locale": "en_CA",
-          "manufacturer": null,
-          "maxQtyAllowedInCart": null,
-          "name": "Minecraft Deluxe Collection",
-          "nsuid": "70070000016597",
-          "platform": {
-            "__typename": "Platform",
-            "label": "Nintendo Switch",
-            "code": "NINTENDO_SWITCH"
-          },
-          "platinumPoints": null,
-          "prePurchase": null,
-          "prices({\"personalized\":false})": {
-            "__typename": "Prices",
-            "currency": "CAD",
-            "discounted": false,
-            "regularPrice": 49.99,
-            "finalPrice": 49.99,
-            "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
-          },
-          "productImage": {
-            "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch/70070000016597/0a33bcaba879403460afe2ff2aafaaefeede964e0fc11a430f71077867cc87f1",
-            "resourceType": "image",
-            "type": "upload"
-          },
-          "productImage({\"shape\":\"square\"})": null,
-          "qtyAllowedPerCustomer": null,
-          "releaseDate": "2023-01-31T00:00:00.000Z",
-          "releaseDateDisplay": null,
-          "requiresLogin": null,
-          "requiresCoupon": null,
-          "requiresSubscription": null,
-          "size": null,
-          "sku": "7700016597",
-          "softwarePublisher": "Mojang",
-          "softwareDeveloper": null,
-          "tags": {
-            "__typename": "Tags",
-            "features": [],
-            "genres": [],
-            "waysToPlay": []
-          },
-          "topLevelCategory": {
-            "__typename": "TopLevelCategory",
-            "code": "GAMES",
-            "label": "Games"
-          },
-          "urlKey": "minecraft-deluxe-collection-switch",
-          "visibleInSearch": true
         },
         "ContentDescriptor:{\"id\":\"3aakoa4Ll8ESFbnkiCLdGw\",\"locale\":\"en_CA\"}": {
           "__typename": "ContentDescriptor",
@@ -13717,7 +13740,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/812fa3bf75f340d0ae81161cf6e1d639_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2018-06-20T00:00:00.000Z",
@@ -13726,6 +13751,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "106680",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": null,
@@ -13878,7 +13904,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d470e5de78774607b1e472a61881fc3a_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/d470e5de78774607b1e472a61881fc3a_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2022-02-17T00:00:00.000Z",
@@ -13887,6 +13915,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100038691",
           "softwarePublisher": "Ubisoft",
           "softwareDeveloper": null,
@@ -13933,13 +13962,13 @@
           "backgroundColor": "d1d3cf",
           "categories": [
             {
-              "__ref": "Category:nintendo_switch"
-            },
-            {
               "__ref": "Category:nintendo_3ds_family"
             },
             {
               "__ref": "Category:games"
+            },
+            {
+              "__ref": "Category:nintendo_switch"
             }
           ],
           "edition": "Standard Edition",
@@ -14093,7 +14122,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8"
+            "publicId": "store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-17T00:00:00.000Z",
@@ -14102,6 +14133,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100126929",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": null,
@@ -14183,7 +14215,8 @@
             "editions": [
               "Digital",
               "Physical",
-              "Special edition"
+              "Special edition",
+              "Games with DLC"
             ],
             "franchises": [],
             "hardwareType": null,
@@ -14200,7 +14233,9 @@
               "Games"
             ],
             "replacementPart": null,
-            "topLevelFilters": [],
+            "topLevelFilters": [
+              "Games with DLC"
+            ],
             "toy": []
           },
           "franchise": null,
@@ -14312,7 +14347,6 @@
         "Product:{\"sku\":\"7700041192\"}": {
           "__typename": "Product",
           "availability": [
-            "New releases",
             "Available now"
           ],
           "color": null,
@@ -14388,6 +14422,7 @@
           "requiresCoupon": null,
           "requiresSubscription": null,
           "size": null,
+          "showWidely": true,
           "sku": "7700041192",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": null,
@@ -14464,7 +14499,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8"
+            "publicId": "store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-17T00:00:00.000Z",
@@ -14473,6 +14510,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "125689",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": "Intelligent Systems",
@@ -14581,7 +14619,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8"
+            "publicId": "store/software/switch2/70010000126929/37057736254d84396dd8140240fd6ec07713d11fd6ac72c8ff9780a12b4e1be8",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-17T00:00:00.000Z",
@@ -14590,6 +14630,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "128777",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": "Intelligent Systems",
@@ -14712,7 +14753,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5a6fa995612649b2a5fea4af92909f94_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a6fa995612649b2a5fea4af92909f94_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-02-27T00:00:00.000Z",
@@ -14721,6 +14764,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100118613",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": null,
@@ -14953,7 +14997,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0794345a8c214e17abc2202711ce5f3e_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/0794345a8c214e17abc2202711ce5f3e_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-02-27T00:00:00.000Z",
@@ -14962,6 +15008,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100118623",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": null,
@@ -15066,7 +15113,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/9b1bba7221cc4307bc48ac4736d4756e_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/9b1bba7221cc4307bc48ac4736d4756e_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-02-27T00:00:00.000Z",
@@ -15075,6 +15124,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100118629",
           "softwarePublisher": "Nintendo",
           "softwareDeveloper": null,
@@ -15183,7 +15233,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/32b359a88aff49bba2f5747fe96dd4b8_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/32b359a88aff49bba2f5747fe96dd4b8_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2021-10-05T00:00:00.000Z",
@@ -15192,6 +15244,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100025461",
           "softwarePublisher": "WB Games",
           "softwareDeveloper": null,
@@ -15421,7 +15474,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000067526/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20"
+            "publicId": "store/software/switch/70010000067526/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-29T00:00:00.000Z",
@@ -15430,6 +15485,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100067526",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": "Mojang Studios",
@@ -15702,6 +15758,7 @@
           "requiresCoupon": null,
           "requiresSubscription": null,
           "size": null,
+          "showWidely": true,
           "sku": "7700036387",
           "softwarePublisher": "Mojang",
           "softwareDeveloper": null,
@@ -15719,20 +15776,6 @@
           "urlKey": "minecraft-dungeons-ii-deluxe-edition-switch",
           "visibleInSearch": true
         },
-        "ContentDescriptor:{\"id\":\"6RezkugFhAJHnhyZD8LjKn\",\"locale\":\"en_CA\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "6RezkugFhAJHnhyZD8LjKn",
-          "locale": "en_CA",
-          "label": "Use of Drugs",
-          "type": "CONTENT_DESCRIPTOR"
-        },
-        "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"en_CA\"}": {
-          "__typename": "ContentDescriptor",
-          "id": "3Gud6CWa1ofpx3C7HlLLSp",
-          "locale": "en_CA",
-          "label": "Violence",
-          "type": "CONTENT_DESCRIPTOR"
-        },
         "Product:{\"sku\":\"7100131244\"}": {
           "__typename": "Product",
           "availability": [
@@ -15741,13 +15784,10 @@
           "color": null,
           "contentDescriptors": [
             {
-              "__ref": "ContentDescriptor:{\"id\":\"2yLZuBB4hcU7TFOhEj94R2\",\"locale\":\"en_CA\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"EtRBzZVPYLgAyYmSYBbmk\",\"locale\":\"en_CA\"}"
             },
             {
-              "__ref": "ContentDescriptor:{\"id\":\"6RezkugFhAJHnhyZD8LjKn\",\"locale\":\"en_CA\"}"
-            },
-            {
-              "__ref": "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"en_CA\"}"
+              "__ref": "ContentDescriptor:{\"id\":\"2GZMRQCZ24aNymMfFGspZE\",\"locale\":\"en_CA\"}"
             }
           ],
           "contentRating": {
@@ -15795,7 +15835,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000131244/e624e07ea416f251b83865aafb02b5fdadde9e93724c68b27d891896da0d2df3"
+            "publicId": "store/software/switch2/70010000131244/e624e07ea416f251b83865aafb02b5fdadde9e93724c68b27d891896da0d2df3",
+            "resourceType": "image",
+            "type": "upload"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2026-09-30T00:00:00.000Z",
@@ -15804,6 +15846,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100131244",
           "softwarePublisher": "Aspyr",
           "softwareDeveloper": null,
@@ -15973,6 +16016,13 @@
             }
           ]
         },
+        "ContentDescriptor:{\"id\":\"3Gud6CWa1ofpx3C7HlLLSp\",\"locale\":\"en_CA\"}": {
+          "__typename": "ContentDescriptor",
+          "id": "3Gud6CWa1ofpx3C7HlLLSp",
+          "locale": "en_CA",
+          "label": "Violence",
+          "type": "CONTENT_DESCRIPTOR"
+        },
         "Product:{\"sku\":\"7100065729\"}": {
           "__typename": "Product",
           "availability": [
@@ -16000,7 +16050,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-07T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16023,12 +16073,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 33.49,
-            "finalPrice": 33.49,
+            "finalPrice": 23.44,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 30.01,
+            "amountOff": 10.05
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -16038,7 +16088,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7ef42bdec6a64dbe81beeed4c8a43572_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ef42bdec6a64dbe81beeed4c8a43572_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2024-08-27T00:00:00.000Z",
@@ -16047,6 +16099,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100065729",
           "softwarePublisher": "KONAMI",
           "softwareDeveloper": null,
@@ -16093,10 +16146,10 @@
           "backgroundColor": "1e1311",
           "categories": [
             {
-              "__ref": "Category:nintendo_3ds_family"
+              "__ref": "Category:nintendo_switch"
             },
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:nintendo_3ds_family"
             },
             {
               "__ref": "Category:games"
@@ -16111,6 +16164,7 @@
             "collectible": null,
             "priceRange({\"type\":\"ALL\"})": "$20 - $39.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
+              "On sale",
               "$20 - $39.99"
             ],
             "controller": null,
@@ -16132,13 +16186,16 @@
             "plush": null,
             "priceRange": "$20 - $39.99",
             "priceRangeFilter": [
+              "On sale",
               "$20 - $39.99"
             ],
             "productType": [
               "Games"
             ],
             "replacementPart": null,
-            "topLevelFilters": [],
+            "topLevelFilters": [
+              "Deals"
+            ],
             "toy": []
           },
           "franchise": null,
@@ -16239,7 +16296,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-01T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16262,12 +16319,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 39.99,
-            "finalPrice": 39.99,
+            "finalPrice": 7.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 80.02,
+            "amountOff": 32
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -16277,7 +16334,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/a75ba30b11564c84814aadb565bad116_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/a75ba30b11564c84814aadb565bad116_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2018-10-30T00:00:00.000Z",
@@ -16286,6 +16345,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100013536",
           "softwarePublisher": "WB Games",
           "softwareDeveloper": "TT Games",
@@ -16322,13 +16382,13 @@
           "backgroundColor": "081f3c",
           "categories": [
             {
+              "__ref": "Category:nintendo_3ds_family"
+            },
+            {
               "__ref": "Category:games"
             },
             {
               "__ref": "Category:nintendo_switch"
-            },
-            {
-              "__ref": "Category:nintendo_3ds_family"
             }
           ],
           "edition": "Standard Edition",
@@ -16338,9 +16398,10 @@
             "apparel": null,
             "baseColors": [],
             "collectible": null,
-            "priceRange({\"type\":\"ALL\"})": "$20 - $39.99",
+            "priceRange({\"type\":\"ALL\"})": "$0 - $9.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
-              "$20 - $39.99"
+              "On sale",
+              "$0 - $9.99"
             ],
             "controller": null,
             "corePlatforms": [
@@ -16359,15 +16420,18 @@
               "Save Data Cloud"
             ],
             "plush": null,
-            "priceRange": "$20 - $39.99",
+            "priceRange": "$5 - $9.99",
             "priceRangeFilter": [
-              "$20 - $39.99"
+              "On sale",
+              "$5 - $9.99"
             ],
             "productType": [
               "Games"
             ],
             "replacementPart": null,
-            "topLevelFilters": [],
+            "topLevelFilters": [
+              "Deals"
+            ],
             "toy": []
           },
           "franchise": null,
@@ -16461,7 +16525,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16484,12 +16548,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 79.99,
-            "finalPrice": 79.99,
+            "finalPrice": 19.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 75.01,
+            "amountOff": 60
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -16499,7 +16563,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5764317d6d6e4b7ca80be4ba62a6d322_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/5764317d6d6e4b7ca80be4ba62a6d322_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2022-10-20T00:00:00.000Z",
@@ -16508,6 +16574,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100035797",
           "softwarePublisher": "Ubisoft",
           "softwareDeveloper": null,
@@ -16565,9 +16632,10 @@
             "apparel": null,
             "baseColors": [],
             "collectible": null,
-            "priceRange({\"type\":\"ALL\"})": "$60+",
+            "priceRange({\"type\":\"ALL\"})": "$10 - $19.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
-              "$60+"
+              "On sale",
+              "$10 - $19.99"
             ],
             "controller": null,
             "corePlatforms": [
@@ -16588,15 +16656,17 @@
               "Save Data Cloud"
             ],
             "plush": null,
-            "priceRange": "$40+",
+            "priceRange": "$10 - $19.99",
             "priceRangeFilter": [
-              "$40+"
+              "On sale",
+              "$10 - $19.99"
             ],
             "productType": [
               "Games"
             ],
             "replacementPart": null,
             "topLevelFilters": [
+              "Deals",
               "Demo available",
               "Games with DLC"
             ],
@@ -16775,6 +16845,7 @@
           "requiresCoupon": null,
           "requiresSubscription": null,
           "size": null,
+          "showWidely": true,
           "sku": "7700014384",
           "softwarePublisher": "Ubisoft",
           "softwareDeveloper": null,
@@ -16817,7 +16888,7 @@
           },
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16840,12 +16911,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 89.99,
-            "finalPrice": 89.99,
+            "finalPrice": 22.49,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 75.01,
+            "amountOff": 67.5
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -16861,6 +16932,7 @@
           "requiresCoupon": null,
           "requiresSubscription": null,
           "size": null,
+          "showWidely": true,
           "sku": "7700018644",
           "softwarePublisher": "Ubisoft",
           "softwareDeveloper": null,
@@ -16934,7 +17006,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6e9fdcb4528f4a9aad4d3dfabc5b19e4_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/6e9fdcb4528f4a9aad4d3dfabc5b19e4_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2021-10-07T00:00:00.000Z",
@@ -16943,6 +17017,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100033942",
           "softwarePublisher": "Boneloaf",
           "softwareDeveloper": null,
@@ -17005,10 +17080,10 @@
           "backgroundColor": "e6d8d8",
           "categories": [
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:games"
             },
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
@@ -17150,7 +17225,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-07T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -17173,12 +17248,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 24.99,
-            "finalPrice": 24.99,
+            "finalPrice": 12.49,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 50.02,
+            "amountOff": 12.5
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -17188,7 +17263,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d6b63e226ba749079eed420e31ccd82c_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/d6b63e226ba749079eed420e31ccd82c_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2021-09-23T00:00:00.000Z",
@@ -17197,6 +17274,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100044378",
           "softwarePublisher": "KONAMI",
           "softwareDeveloper": null,
@@ -17259,9 +17337,10 @@
             "apparel": null,
             "baseColors": [],
             "collectible": null,
-            "priceRange({\"type\":\"ALL\"})": "$20 - $39.99",
+            "priceRange({\"type\":\"ALL\"})": "$10 - $19.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
-              "$20 - $39.99"
+              "On sale",
+              "$10 - $19.99"
             ],
             "controller": null,
             "corePlatforms": [
@@ -17280,15 +17359,18 @@
               "Save Data Cloud"
             ],
             "plush": null,
-            "priceRange": "$20 - $39.99",
+            "priceRange": "$10 - $19.99",
             "priceRangeFilter": [
-              "$20 - $39.99"
+              "On sale",
+              "$10 - $19.99"
             ],
             "productType": [
               "Games"
             ],
             "replacementPart": null,
-            "topLevelFilters": [],
+            "topLevelFilters": [
+              "Deals"
+            ],
             "toy": []
           },
           "franchise": null,
@@ -17442,7 +17524,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4c6f0e9a7a7e4f108d16e84bdc6dca0c_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/4c6f0e9a7a7e4f108d16e84bdc6dca0c_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2017-10-05T00:00:00.000Z",
@@ -17451,6 +17535,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100001801",
           "softwarePublisher": "ConcernedApe",
           "softwareDeveloper": "ConcernedApe",
@@ -17523,13 +17608,13 @@
           "backgroundColor": "d6f0fa",
           "categories": [
             {
+              "__ref": "Category:nintendo_3ds_family"
+            },
+            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:games"
-            },
-            {
-              "__ref": "Category:nintendo_3ds_family"
             }
           ],
           "edition": "Standard Edition",
@@ -17741,7 +17826,9 @@
           },
           "productImage({\"shape\":\"square\"})": {
             "__typename": "CloudinaryAsset",
-            "url": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3caaea2a70ba49b4aaca38c656c7a674_1024"
+            "publicId": "https://atum-img-lp1.cdn.nintendo.net/i/c/3caaea2a70ba49b4aaca38c656c7a674_1024",
+            "resourceType": "image",
+            "type": "fetch"
           },
           "qtyAllowedPerCustomer": null,
           "releaseDate": "2025-12-25T00:00:00.000Z",
@@ -17750,6 +17837,7 @@
           "requiresCoupon": null,
           "requiresSubscription": false,
           "size": null,
+          "showWidely": true,
           "sku": "7100105384",
           "softwarePublisher": "ConcernedApe",
           "softwareDeveloper": "ConcernedApe",
@@ -17822,7 +17910,11 @@
               }
             ]
           },
-          "topLevelCategory": null,
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Games"
+          },
           "urlKey": "stardew-valley-nintendo-switch-2-edition-switch-2",
           "visibleInSearch": true
         },
@@ -17903,6 +17995,7 @@
           "requiresCoupon": null,
           "requiresSubscription": null,
           "size": null,
+          "showWidely": true,
           "sku": "7500061921",
           "softwarePublisher": "ConcernedApe",
           "softwareDeveloper": null,
@@ -17928,7 +18021,7 @@
   "query": {
     "slug": "the-wolf-among-us-remastered-switch"
   },
-  "buildId": "uutBdbCaIHGuTp0bfBbvt",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

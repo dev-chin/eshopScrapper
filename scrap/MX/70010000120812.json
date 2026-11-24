@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -1174,26 +1185,6 @@
                   "hideOnLocale": true,
                   "characterColor": "#484848",
                   "background": null
-                },
-                {
-                  "__contentType": "menuItem",
-                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
-                  "label": "My Mario",
-                  "caption": "",
-                  "url": "/my-mario/",
-                  "icon": {
-                    "__contentType": "icon",
-                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
-                    "id": "MyMarioLogoIcon"
-                  },
-                  "image": null,
-                  "hideOn": null,
-                  "subItems": [],
-                  "activeMatch": "",
-                  "id": null,
-                  "hideOnLocale": true,
-                  "characterColor": null,
-                  "background": null
                 }
               ],
               "activeMatch": "",
@@ -1452,6 +1443,66 @@
                   },
                   "image": null,
                   "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "5qlcQTGuWVO9IlkgqTRBei",
+                  "label": "My Mario",
+                  "caption": "",
+                  "url": "/store/merchandise/my-mario-products/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "nyEH0EPa3f2s44ytAIT7y",
+                    "id": "MyMarioLogoIcon"
+                  },
+                  "image": null,
+                  "hideOn": null,
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1ZADEc8Fu4p5BuJzAHazjm",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Mobile",
+                  "subItems": [],
+                  "activeMatch": "",
+                  "id": null,
+                  "hideOnLocale": true,
+                  "characterColor": null,
+                  "background": null
+                },
+                {
+                  "__contentType": "menuItem",
+                  "__entryId": "1Onn8q8W2PPe8KT2dYgzpG",
+                  "label": "",
+                  "caption": "",
+                  "url": "/store/holiday-gifts/",
+                  "icon": {
+                    "__contentType": "icon",
+                    "__entryId": "3Waz7zSwto3PGdrzKVoyl7",
+                    "id": "SnowflakeIcon"
+                  },
+                  "image": null,
+                  "hideOn": "Desktop",
                   "subItems": [],
                   "activeMatch": "",
                   "id": null,
@@ -2424,7 +2475,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": null
             }
           ],
@@ -2476,7 +2527,7 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
+      "w9876Feature": false,
       "meta": {
         "title": "The Wolf Among Us Remastered para Nintendo Switch - Sitio Oficial de Nintendo para Mexico",
         "description": "Compra The Wolf Among Us Remastered para Nintendo Switch en Nintendo Store. Consulta detalles del juego, ediciones y disponibilidad.",
@@ -2530,9 +2581,26 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/story-games",
+          "label": "Aventura narrativa"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Acertijos y deducción"
+        },
+        {
+          "url": "/store/games/tags/voiced-characters-games",
+          "label": "Personajes con voz"
+        }
+      ],
       "openGraph": {
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef"
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef"
       },
       "linkedData": [
         {
@@ -2588,57 +2656,57 @@
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 0",
             "description": "The Wolf Among Us Remastered gallery item 0",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/84e05353295b0120368a8de086d2bee37630d302fc4f20daf2c4d6dd1adc00ef",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 1",
             "description": "The Wolf Among Us Remastered gallery item 1",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/4b26830627e6e7ac37779a262a9580b5dc49d5c3603092053e7c65882b015018",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 2",
             "description": "The Wolf Among Us Remastered gallery item 2",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/7a3c9ed965787565dc3afad5aa3abb20d75c5812a769fd33a7393bf95976175b",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 3",
             "description": "The Wolf Among Us Remastered gallery item 3",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/ffa798f0ebdae2715e7257cec21370abe7a52847555a177399e03b0cca64eb58",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 4",
             "description": "The Wolf Among Us Remastered gallery item 4",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/0cf6621f9bab1638c5a0cc3ec6add529af1f5b58d4550cbf3252e432d0b3df68",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 5",
             "description": "The Wolf Among Us Remastered gallery item 5",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/f1193b381cf5d75d6b98aed04983b0e03e66f3255127c9ae42ed704b0b61d89d",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           },
           {
             "@type": "ImageObject",
             "name": "The Wolf Among Us Remastered gallery item 6",
             "description": "The Wolf Among Us Remastered gallery item 6",
-            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
-            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
-            "uploadDate": "2026-10-29T00:00:00.000Z"
+            "contentUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
+            "thumbnailUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70010000120812/b0e331226b5dc6238e32f2f595ba4bb74a0ef6f776e972f796ad5b3d800b01d6",
+            "uploadDate": "2026-11-29T00:00:00.000Z"
           }
         ],
         {
@@ -2723,10 +2791,33 @@
           "url({\"relative\":true})": "/es-mx/store/products/the-wolf-among-us-remastered-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Acertijos y deducción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "CHARACTER_VOICE",
+                "label": "Personajes con voz"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "TEXT_ADVENTURE",
+                "label": "Aventura narrativa"
+              }
+            ],
             "waysToPlay": []
           },
+          "accessibilityTags": null,
           "applicationId": "0100e000276f6000",
           "appStoreUrl": null,
           "availability": [
@@ -2745,7 +2836,7 @@
             }
           ],
           "capacity": null,
-          "containsBattery": null,
+          "containsEmbeddedBattery": false,
           "crossSellProducts": null,
           "countryOfOrigin": null,
           "demoNsuid": null,
@@ -2828,13 +2919,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "9754902528",
+                "totalRomSize": "10505682944",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "9754902528",
+                "totalRomSize": "10505682944",
                 "platform": "BEE"
               }
             ]
@@ -2964,7 +3055,7 @@
               "type": "upload"
             }
           ],
-          "releaseDate": "2026-10-29T00:00:00.000Z",
+          "releaseDate": "2026-11-29T00:00:00.000Z",
           "releaseDateDisplay": null,
           "softwareContents": [],
           "softwarePublisher": "Telltale",
@@ -3054,7 +3145,7 @@
   "query": {
     "slug": "the-wolf-among-us-remastered-switch"
   },
-  "buildId": "uutBdbCaIHGuTp0bfBbvt",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

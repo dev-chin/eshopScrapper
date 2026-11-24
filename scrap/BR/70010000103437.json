@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -1758,7 +1769,7 @@
             {
               "__contentType": "menuItem",
               "__entryId": "Rq5tKcZCeWvs1lREiXcV8",
-              "label": "Sobre a Nintendo  (en inglés)",
+              "label": "Sobre a Nintendo  (em inglês)",
               "caption": "",
               "url": "/about/",
               "icon": null,
@@ -2464,7 +2475,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": null
             }
           ],
@@ -2516,7 +2527,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Call of Duty® para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
@@ -2791,7 +2801,6 @@
         "Product:{\"sku\":\"7500081615\"}": {
           "__typename": "Product",
           "availability": [
-            "Novos lançamentos",
             "Já disponivel"
           ],
           "demoNsuid": null,
@@ -3991,13 +4000,13 @@
             "__typename": "Prices",
             "currency": "BRL",
             "discounted": false,
-            "regularPrice": 479.9,
-            "finalPrice": 479.9,
+            "regularPrice": 407.92,
+            "finalPrice": 407.92,
             "pricePerUnit": null
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70070000038712/200d0bd1e0a40cf2d7799013a03b385d50d2e3bfa34fbdc08148ae619ad3ca57"
+            "publicId": "store/software/switch2/70070000038712/0f45176d5f99f75626817217d6c4372fa74b9145ced11e775c191c36c108c3bf"
           },
           "size": null,
           "soldOutPermanent": null,
@@ -4029,13 +4038,13 @@
             "__typename": "Prices",
             "currency": "BRL",
             "discounted": false,
-            "regularPrice": 349.9,
-            "finalPrice": 349.9,
+            "regularPrice": 297.42,
+            "finalPrice": 297.42,
             "pricePerUnit": null
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70070000038823/cd5297ceff4255500c2e7f7b3099b481fb4fb5e56d109c1437c8f667ad6d77c2"
+            "publicId": "store/software/switch2/70070000038823/ef2f03233551374fc5100f8441140802be14f200196d42d55c118531c771e4e6"
           },
           "size": null,
           "soldOutPermanent": null,
@@ -4108,7 +4117,7 @@
   "query": {
     "slug": "call-of-duty-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

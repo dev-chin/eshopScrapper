@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2464,7 +2475,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": null
             }
           ],
@@ -2516,7 +2527,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Romancing SaGa 3: Destinies United para Nintendo Switch 2 - Sitio Oficial de Nintendo para Chile",
@@ -2715,6 +2725,11 @@
         }
       ],
       "initialApolloState": {
+        "Category:nintendo_3ds_family": {
+          "__typename": "Category",
+          "id": "nintendo_3ds_family",
+          "name": "Nintendo 3DS Family"
+        },
         "Category:games": {
           "__typename": "Category",
           "id": "games",
@@ -2724,11 +2739,6 @@
           "__typename": "Category",
           "id": "nintendo_switch",
           "name": "Nintendo Switch"
-        },
-        "Category:nintendo_3ds_family": {
-          "__typename": "Category",
-          "id": "nintendo_3ds_family",
-          "name": "Nintendo 3DS Family"
         },
         "Product:{\"sku\":\"7500077485\"}": {
           "__typename": "Product",
@@ -2820,18 +2830,19 @@
           "applicationId": "040053602666e000",
           "appStoreUrl": null,
           "availability": [
+            "Reserva",
             "Próximos lanzamientos"
           ],
           "baseSoftware": [],
           "categories": [
             {
+              "__ref": "Category:nintendo_3ds_family"
+            },
+            {
               "__ref": "Category:games"
             },
             {
               "__ref": "Category:nintendo_switch"
-            },
-            {
-              "__ref": "Category:nintendo_3ds_family"
             }
           ],
           "capacity": null,
@@ -2848,10 +2859,10 @@
           "enableRetailCrawler": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
+            "isPreorderable": true,
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000114053&v_loggedin=false&v_currency=CLP&v_price=55300.00&v_country=CL",
             "discountPriceEnd": null
           },
           "exclusive": null,
@@ -2893,7 +2904,7 @@
             "__typename": "CloudinaryAsset",
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000114053/461953d171f9d87747cb5c2ec87112f70c1ba45d5f1b1a16315acdb1ab860132"
           },
-          "publisherNotifications({\"html\":true})": "<p>* Este juego solo es compatible con Nintendo Switch™ 2. Ten en cuenta que no se puede jugar en Nintendo Switch™.<br>* También hay una versión para Nintendo Switch™ del juego. Selecciona cuidadosamente la versión que necesites. <br>* No es posible transferir los datos guardados de la versión de Nintendo Switch™ 2 a la versión de Nintendo Switch™.<br>La fecha de lanzamiento de Romancing SaGa 3: Destinies United cambió del 16 de febrero de 2027 al 4 de febrero de 2027.</p>",
+          "publisherNotifications({\"html\":true})": "<p>Quienes compren el juego antes del 15 de febrero de 2027 a las 23:59 (EST) podrán conseguir este equipo de un cofre del tesoro en Loanne o en el puerto de Myules luego de iniciar el juego.<br><br>■Contenido<br>・Tatyana's Piggy Bank<br>Una alcancía especial de la hija menor de una familia de mercaderes. Aumenta en un 10 % los aurum obtenidos en la batalla con el rango de Renombre 2 o inferior.<br><br>・\"How to be a Hero\" by Robin<br>Un manual sobre cómo ser un héroe, escrito por Robin el Notable. Aumenta en un 10 % los puntos de técnica obtenidos en la batalla con el rango de Renombre 2 o inferior.<br><br>19/11/2026: Las condiciones del contenido de bonificación se actualizaron según la nueva fecha de lanzamiento.<br>* Este juego solo es compatible con Nintendo Switch™ 2. Ten en cuenta que no se puede jugar en Nintendo Switch™.<br>* También hay una versión para Nintendo Switch™ del juego. Selecciona cuidadosamente la versión que necesites. <br>* No es posible transferir los datos guardados de la versión de Nintendo Switch™ 2 a la versión de Nintendo Switch™.<br>La fecha de lanzamiento de Romancing SaGa 3: Destinies United cambió del 16 de febrero de 2027 al 4 de febrero de 2027.</p>",
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [
@@ -3184,7 +3195,7 @@
   "query": {
     "slug": "romancing-saga-3-destinies-united-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

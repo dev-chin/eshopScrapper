@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 811138,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795221012,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649",
+                "created_at": "2026-11-21T00:30:12Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795221012/store/software/switch2/70010000130792/eff1dfc15477f29c7536f1f454eaa6a83c72c6f14c707aabf490805679157649.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -171,23 +182,23 @@
             {
               "__contentType": "menuItem",
               "__entryId": "5UKndPHw6XcJmjo6LSR8KS",
-              "label": "My Mario™",
-              "caption": "My Mario™",
-              "url": "/store/merchandise/my-mario-products/",
+              "label": "Black Friday savings for Nintendo fans",
+              "caption": "Black Friday savings for Nintendo fans",
+              "url": "/store/showroom/black-friday-cyber-monday/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
+                "url": "http://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
                 "tags": [],
                 "type": "upload",
-                "bytes": 2970935,
+                "bytes": 2119201,
                 "width": 1920,
                 "format": "png",
                 "height": 1080,
-                "version": 1770770996,
+                "version": 1794340206,
                 "metadata": {},
-                "public_id": "ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1",
-                "created_at": "2026-01-08T01:19:24Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
+                "public_id": "ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN",
+                "created_at": "2026-11-10T19:50:06Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2537,7 +2548,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": {
                 "data": {},
                 "content": [
@@ -2565,10 +2576,10 @@
                                   "id": "mqzfxe57488m"
                                 }
                               },
-                              "id": "7Fod1Y3UtU3liRwHPqCEbj",
+                              "id": "6ZWaXuFqtMHtRJf1SELvOM",
                               "type": "Entry",
-                              "createdAt": "2024-12-17T18:05:56.741Z",
-                              "updatedAt": "2024-12-17T18:05:56.741Z",
+                              "createdAt": "2024-11-04T17:18:41.127Z",
+                              "updatedAt": "2026-11-06T00:35:43.989Z",
                               "environment": {
                                 "sys": {
                                   "id": "master",
@@ -2576,8 +2587,8 @@
                                   "linkType": "Environment"
                                 }
                               },
-                              "publishedVersion": 1,
-                              "revision": 1,
+                              "publishedVersion": 7,
+                              "revision": 5,
                               "contentType": {
                                 "sys": {
                                   "type": "Link",
@@ -2588,7 +2599,7 @@
                               "locale": "en-US"
                             },
                             "fields": {
-                              "id": "MyNintendoPointsIcon"
+                              "id": "TShirtIcon"
                             }
                           }
                         },
@@ -2598,7 +2609,7 @@
                       {
                         "data": {},
                         "marks": [],
-                        "value": "Redeem your ",
+                        "value": "Get a ",
                         "nodeType": "text"
                       },
                       {
@@ -2608,24 +2619,24 @@
                             "type": "bold"
                           }
                         ],
-                        "value": "My Nintendo Platinum Points",
+                        "value": "FREE Super Mario Bros.™ 40th Anniversary T-shirt",
                         "nodeType": "text"
                       },
                       {
                         "data": {},
                         "marks": [],
-                        "value": " for ",
+                        "value": " when you spend $100! ",
                         "nodeType": "text"
                       },
                       {
                         "data": {
-                          "uri": "https://www.nintendo.com/us/store/exclusives/rewards/"
+                          "uri": "https://www.nintendo.com/us/store/products/super-mario-bros-40th-black-tshirt-127450-1/"
                         },
                         "content": [
                           {
                             "data": {},
                             "marks": [],
-                            "value": "fun rewards",
+                            "value": "See details",
                             "nodeType": "text"
                           }
                         ],
@@ -2693,7 +2704,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Metroid™ Ravenous for Nintendo Switch 2 - Nintendo Official Site",
@@ -2771,7 +2781,7 @@
                       "__contentType": "moduleCloudinaryImage",
                       "__entryId": "6nm5huEBo4fDoHREA22JGT",
                       "primary": {
-                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/1280x700.png",
+                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/1280x700",
                         "dimensions": {
                           "width": 1280,
                           "height": 700
@@ -4265,7 +4275,7 @@
                   "__contentType": "moduleCloudinaryImage",
                   "__entryId": "5UQTi9Dz4Qf6tRfyuGGTFT",
                   "primary": {
-                    "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/7-Special-edition.jpg",
+                    "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/7-Special-edition",
                     "dimensions": {
                       "width": 2880,
                       "height": 1188
@@ -4338,7 +4348,7 @@
                       "__contentType": "moduleCloudinaryImage",
                       "__entryId": "1r5K8E3hvjQvAjD6gprn6h",
                       "primary": {
-                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/8-Characters.jpg",
+                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/8-Characters",
                         "dimensions": {
                           "width": 2880,
                           "height": 1619
@@ -4544,7 +4554,7 @@
                       "__contentType": "moduleCloudinaryImage",
                       "__entryId": "18RIEufEVQqaT2CygCKI8T",
                       "primary": {
-                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/9b-Nintendo-Switch-2-2x.png",
+                        "assetPath": "ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/9b-Nintendo-Switch-2-2x",
                         "dimensions": {
                           "width": 2288,
                           "height": 935
@@ -4775,6 +4785,19 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "NewsArticle:{\"id\":\"4icLfnzvnttPNjSKnOa4tp\",\"locale\":\"en_US\"}": {
+          "__typename": "NewsArticle",
+          "id": "4icLfnzvnttPNjSKnOa4tp",
+          "locale": "en_US",
+          "title": "Get to know fearless bounty hunter Samus Aran with these games",
+          "url": "https://www.nintendo.com/us/whatsnew/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/",
+          "media": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "ncom/en_US/articles/2026/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/2250x1266_Switch_News_samus",
+            "resourceType": "image"
+          },
+          "publishDate": "2026-11-19T17:00:00.000Z"
+        },
         "Product:{\"sku\":\"7100135071\"}": {
           "__typename": "Product",
           "compatibility": null,
@@ -4894,7 +4917,11 @@
             "url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000135071/132aff63415dde9ad264109aa5fbae78390aa3fb9d039e704a91fe0f6c3750de"
           },
           "publisherNotifications({\"html\":true})": null,
-          "relatedArticles": [],
+          "relatedArticles": [
+            {
+              "__ref": "NewsArticle:{\"id\":\"4icLfnzvnttPNjSKnOa4tp\",\"locale\":\"en_US\"}"
+            }
+          ],
           "qtyAllowedPerCustomer": null,
           "downloadableContents": [],
           "requiresLogin": null,
@@ -5213,7 +5240,7 @@
   "query": {
     "slug": "metroid-ravenous-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
