@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795462901/store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 802243,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795462901,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940",
+                "created_at": "2026-11-23T19:41:41Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795462901/store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -171,23 +182,23 @@
             {
               "__contentType": "menuItem",
               "__entryId": "5UKndPHw6XcJmjo6LSR8KS",
-              "label": "My Mario™",
-              "caption": "My Mario™",
-              "url": "/store/merchandise/my-mario-products/",
+              "label": "Black Friday savings for Nintendo fans",
+              "caption": "Black Friday savings for Nintendo fans",
+              "url": "/store/showroom/black-friday-cyber-monday/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
+                "url": "http://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
                 "tags": [],
                 "type": "upload",
-                "bytes": 2970935,
+                "bytes": 2119201,
                 "width": 1920,
                 "format": "png",
                 "height": 1080,
-                "version": 1770770996,
+                "version": 1794340206,
                 "metadata": {},
-                "public_id": "ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1",
-                "created_at": "2026-01-08T01:19:24Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1770770996/ncom/en_US/articles/2026/nintendo-launches-my-mario-product-line-in-the-united-states/My_Mario_Image_1.png",
+                "public_id": "ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN",
+                "created_at": "2026-11-10T19:50:06Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1794340206/ncom/en_US/articles/2026/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/1920x1080_Black_Friday_EN.png",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2537,7 +2548,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": {
                 "nodeType": "document",
                 "data": {},
@@ -2568,10 +2579,10 @@
                                   "id": "mqzfxe57488m"
                                 }
                               },
-                              "id": "7Fod1Y3UtU3liRwHPqCEbj",
+                              "id": "6ZWaXuFqtMHtRJf1SELvOM",
                               "type": "Entry",
-                              "createdAt": "2024-12-17T18:05:56.741Z",
-                              "updatedAt": "2024-12-17T18:05:56.741Z",
+                              "createdAt": "2024-11-04T17:18:41.127Z",
+                              "updatedAt": "2026-11-06T00:35:43.989Z",
                               "environment": {
                                 "sys": {
                                   "id": "master",
@@ -2579,8 +2590,8 @@
                                   "linkType": "Environment"
                                 }
                               },
-                              "publishedVersion": 1,
-                              "revision": 1,
+                              "publishedVersion": 7,
+                              "revision": 5,
                               "contentType": {
                                 "sys": {
                                   "type": "Link",
@@ -2591,7 +2602,7 @@
                               "locale": "en-CA"
                             },
                             "fields": {
-                              "id": "MyNintendoPointsIcon"
+                              "id": "TShirtIcon"
                             }
                           }
                         },
@@ -2599,13 +2610,13 @@
                       },
                       {
                         "nodeType": "text",
-                        "value": "Redeem your ",
+                        "value": "Get a ",
                         "marks": [],
                         "data": {}
                       },
                       {
                         "nodeType": "text",
-                        "value": "My Nintendo Platinum Points",
+                        "value": "FREE Super Mario Bros.™ 40th Anniversary T-shirt",
                         "marks": [
                           {
                             "type": "bold"
@@ -2615,19 +2626,19 @@
                       },
                       {
                         "nodeType": "text",
-                        "value": " for ",
+                        "value": " when you spend $140! ",
                         "marks": [],
                         "data": {}
                       },
                       {
                         "nodeType": "hyperlink",
                         "data": {
-                          "uri": "https://www.nintendo.com/en-ca/store/exclusives/rewards/"
+                          "uri": "https://www.nintendo.com/en-ca/store/products/super-mario-bros-40th-black-tshirt-127450-1/"
                         },
                         "content": [
                           {
                             "nodeType": "text",
-                            "value": "fun rewards",
+                            "value": "See details",
                             "marks": [],
                             "data": {}
                           }
@@ -2693,7 +2704,6 @@
           "/switch/choose-your-joy-con-color"
         ]
       },
-      "w9303Feature": true,
       "w9876Feature": false,
       "meta": {
         "title": "Coral Island for Nintendo Switch 2 - Nintendo Official Site for Canada",
@@ -4422,8 +4432,8 @@
           "__typename": "Product",
           "backgroundColor": "0588f8",
           "categories": [
-            "Nintendo Switch",
             "Nintendo 3DS Family",
+            "Nintendo Switch",
             "Games"
           ],
           "edition": "Standard Edition",
@@ -5019,13 +5029,13 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
             },
             {
               "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
@@ -5091,8 +5101,8 @@
           "__typename": "Product",
           "backgroundColor": "d1d3cf",
           "categories": [
-            "Games",
             "Nintendo 3DS Family",
+            "Games",
             "Nintendo Switch"
           ],
           "edition": "Standard Edition",
@@ -5422,13 +5432,13 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
             },
             {
               "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
+              "id": "games",
+              "name": "Games"
             },
             {
               "__typename": "Category",
@@ -5486,7 +5496,7 @@
         {
           "CONTENT_TYPE": "storeProduct",
           "__typename": "Product",
-          "backgroundColor": "4e4739",
+          "backgroundColor": "472924",
           "categories": [
             "Games",
             "Nintendo Switch",
@@ -5693,7 +5703,7 @@
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
-                  "publicId": "store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61",
+                  "publicId": "store/software/switch2/70010000126929/1fb53e61dee987ed817afb1ba5380f730dc1eae2f194d7cba8ada00b530d1db6",
                   "resourceType": "image",
                   "type": "upload"
                 },
@@ -6281,7 +6291,7 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61",
+            "publicId": "store/software/switch2/70010000126929/1fb53e61dee987ed817afb1ba5380f730dc1eae2f194d7cba8ada00b530d1db6",
             "resourceType": "image",
             "type": "upload"
           },
@@ -6310,7 +6320,7 @@
           "urlKey": "fire-emblem-fortunes-weave-switch-2",
           "visibleInSearch": true,
           "contentRatingCode": "T",
-          "artPath": "store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61",
+          "artPath": "store/software/switch2/70010000126929/1fb53e61dee987ed817afb1ba5380f730dc1eae2f194d7cba8ada00b530d1db6",
           "fullNamePlatform": "Nintendo Switch 2",
           "platformCode": "NINTENDO_SWITCH_2",
           "gameAccessibilityTagLabels": [],
@@ -7070,8 +7080,8 @@
           "__typename": "Product",
           "backgroundColor": "80879c",
           "categories": [
-            "Nintendo 3DS Family",
             "Nintendo Switch",
+            "Nintendo 3DS Family",
             "Games"
           ],
           "edition": "Standard Edition",
@@ -7406,13 +7416,13 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
             },
             {
               "__typename": "Category",
@@ -8442,9 +8452,9 @@
           "__typename": "Product",
           "backgroundColor": "1e1311",
           "categories": [
+            "Games",
             "Nintendo Switch",
-            "Nintendo 3DS Family",
-            "Games"
+            "Nintendo 3DS Family"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -8809,6 +8819,11 @@
           "graphCategories": [
             {
               "__typename": "Category",
+              "id": "games",
+              "name": "Games"
+            },
+            {
+              "__typename": "Category",
               "id": "nintendo_switch",
               "name": "Nintendo Switch"
             },
@@ -8816,11 +8831,6 @@
               "__typename": "Category",
               "id": "nintendo_3ds_family",
               "name": "Nintendo 3DS Family"
-            },
-            {
-              "__typename": "Category",
-              "id": "games",
-              "name": "Games"
             }
           ],
           "genres": [],
@@ -9408,7 +9418,7 @@
                 "dlcType": null,
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-03T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -9431,12 +9441,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 79.99,
-                  "finalPrice": 79.99,
+                  "finalPrice": 19.99,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 75.01,
+                  "amountOff": 60
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -9543,7 +9553,7 @@
                 },
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": null,
+                  "discountPriceEnd": "2026-12-03T07:59:59Z",
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -9566,12 +9576,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": false,
+                  "discounted": true,
                   "regularPrice": 89.99,
-                  "finalPrice": 89.99,
+                  "finalPrice": 22.49,
                   "pricePerUnit": null,
-                  "percentOff": 0,
-                  "amountOff": 0
+                  "percentOff": 75.01,
+                  "amountOff": 67.5
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -9750,7 +9760,7 @@
           "dlcType": null,
           "eshopDetails": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -9769,12 +9779,12 @@
           "prices": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 79.99,
-            "finalPrice": 79.99,
+            "finalPrice": 19.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 75.01,
+            "amountOff": 60
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -9841,9 +9851,10 @@
           "apparelType": null,
           "baseColors": [],
           "collectibleType": null,
-          "collectionPriceRange": "$60+",
+          "collectionPriceRange": "$10 - $19.99",
           "collectionPriceRangeFilter": [
-            "$60+"
+            "On sale",
+            "$10 - $19.99"
           ],
           "controllerType": null,
           "corePlatforms": [
@@ -9866,23 +9877,25 @@
           "playerCount": "Single player",
           "playerCountDescription": null,
           "plushType": null,
-          "priceRange": "$40+",
+          "priceRange": "$10 - $19.99",
           "priceRangeFilter": [
-            "$40+"
+            "On sale",
+            "$10 - $19.99"
           ],
           "productType": [
             "Games"
           ],
           "replacementPart": null,
           "topLevelFilters": [
+            "Deals",
             "Demo available",
             "Games with DLC"
           ],
           "toyType": [],
-          "sortdiscountPriceEnd": null,
-          "sortFinalPrice": 79.99,
-          "sortAmountOff": 0,
-          "sortPercentOff": 0,
+          "sortdiscountPriceEnd": "2026-12-03T07:59:59Z",
+          "sortFinalPrice": 19.99,
+          "sortAmountOff": 60,
+          "sortPercentOff": 75.01,
           "waysToPlayLabels": []
         },
         {
@@ -10029,7 +10042,7 @@
                 "dlcType": null,
                 "eshopDetails": {
                   "__typename": "EshopDetails",
-                  "discountPriceEnd": "2026-11-22T23:59:59Z",
+                  "discountPriceEnd": null,
                   "goldPoints": 0,
                   "baseGoldPoints": 0,
                   "goldPointOfferValue": null,
@@ -10052,12 +10065,12 @@
                 "prices": {
                   "__typename": "Prices",
                   "currency": "CAD",
-                  "discounted": true,
+                  "discounted": false,
                   "regularPrice": 34.99,
-                  "finalPrice": 13.99,
+                  "finalPrice": 34.99,
                   "pricePerUnit": null,
-                  "percentOff": 60.02,
-                  "amountOff": 21
+                  "percentOff": 0,
+                  "amountOff": 0
                 },
                 "productImage": {
                   "__typename": "CloudinaryAsset",
@@ -10169,7 +10182,7 @@
           "dlcType": null,
           "eshopDetails": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-22T23:59:59Z",
+            "discountPriceEnd": null,
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -10188,12 +10201,12 @@
           "prices": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 34.99,
-            "finalPrice": 13.99,
+            "finalPrice": 34.99,
             "pricePerUnit": null,
-            "percentOff": 60.02,
-            "amountOff": 21
+            "percentOff": 0,
+            "amountOff": 0
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -10259,10 +10272,9 @@
           "apparelType": null,
           "baseColors": [],
           "collectibleType": null,
-          "collectionPriceRange": "$10 - $19.99",
+          "collectionPriceRange": "$20 - $39.99",
           "collectionPriceRangeFilter": [
-            "On sale",
-            "$10 - $19.99"
+            "$20 - $39.99"
           ],
           "controllerType": null,
           "corePlatforms": [
@@ -10284,23 +10296,20 @@
           "playerCount": "4+",
           "playerCountDescription": null,
           "plushType": null,
-          "priceRange": "$10 - $19.99",
+          "priceRange": "$20 - $39.99",
           "priceRangeFilter": [
-            "On sale",
-            "$10 - $19.99"
+            "$20 - $39.99"
           ],
           "productType": [
             "Games"
           ],
           "replacementPart": null,
-          "topLevelFilters": [
-            "Deals"
-          ],
+          "topLevelFilters": [],
           "toyType": [],
-          "sortdiscountPriceEnd": "2026-11-22T23:59:59Z",
-          "sortFinalPrice": 13.99,
-          "sortAmountOff": 21,
-          "sortPercentOff": 60.02,
+          "sortdiscountPriceEnd": null,
+          "sortFinalPrice": 34.99,
+          "sortAmountOff": 0,
+          "sortPercentOff": 0,
           "waysToPlayLabels": [
             "Compete online",
             "Meet up and play together",
@@ -10315,8 +10324,8 @@
           "backgroundColor": "030304",
           "categories": [
             "Nintendo 3DS Family",
-            "Games",
-            "Nintendo Switch"
+            "Nintendo Switch",
+            "Games"
           ],
           "edition": "Standard Edition",
           "franchise": null,
@@ -10686,13 +10695,13 @@
             },
             {
               "__typename": "Category",
-              "id": "games",
-              "name": "Games"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "games",
+              "name": "Games"
             }
           ],
           "genres": [],
@@ -10748,8 +10757,8 @@
           "__typename": "Product",
           "backgroundColor": "d6f0fa",
           "categories": [
-            "Nintendo Switch",
             "Nintendo 3DS Family",
+            "Nintendo Switch",
             "Games"
           ],
           "edition": "Standard Edition",
@@ -11543,13 +11552,13 @@
           "graphCategories": [
             {
               "__typename": "Category",
-              "id": "nintendo_switch",
-              "name": "Nintendo Switch"
+              "id": "nintendo_3ds_family",
+              "name": "Nintendo 3DS Family"
             },
             {
               "__typename": "Category",
-              "id": "nintendo_3ds_family",
-              "name": "Nintendo 3DS Family"
+              "id": "nintendo_switch",
+              "name": "Nintendo Switch"
             },
             {
               "__typename": "Category",
@@ -11957,7 +11966,7 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": "14050918400",
-                "totalRomSize": "14343471104",
+                "totalRomSize": "17929601024",
                 "platform": "BEE"
               }
             ]
@@ -13496,10 +13505,10 @@
           "backgroundColor": "0588f8",
           "categories": [
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:nintendo_3ds_family"
             },
             {
-              "__ref": "Category:nintendo_3ds_family"
+              "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:games"
@@ -13911,10 +13920,10 @@
           "backgroundColor": "d1d3cf",
           "categories": [
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_3ds_family"
             },
             {
-              "__ref": "Category:nintendo_3ds_family"
+              "__ref": "Category:games"
             },
             {
               "__ref": "Category:nintendo_switch"
@@ -14065,7 +14074,7 @@
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
-            "publicId": "store/software/switch2/70010000126929/721a919e1256af6b1b011854ccaa69f6112c87d9541f1749dd470794d0207d61",
+            "publicId": "store/software/switch2/70010000126929/1fb53e61dee987ed817afb1ba5380f730dc1eae2f194d7cba8ada00b530d1db6",
             "resourceType": "image",
             "type": "upload"
           },
@@ -14131,7 +14140,7 @@
           },
           "urlKey": "fire-emblem-fortunes-weave-switch-2",
           "visibleInSearch": true,
-          "backgroundColor": "4e4739",
+          "backgroundColor": "472924",
           "categories": [
             {
               "__ref": "Category:games"
@@ -15246,10 +15255,10 @@
           "backgroundColor": "80879c",
           "categories": [
             {
-              "__ref": "Category:nintendo_3ds_family"
+              "__ref": "Category:nintendo_switch"
             },
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:nintendo_3ds_family"
             },
             {
               "__ref": "Category:games"
@@ -16102,13 +16111,13 @@
           "backgroundColor": "1e1311",
           "categories": [
             {
+              "__ref": "Category:games"
+            },
+            {
               "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:nintendo_3ds_family"
-            },
-            {
-              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -16481,7 +16490,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16504,12 +16513,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 79.99,
-            "finalPrice": 79.99,
+            "finalPrice": 19.99,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 75.01,
+            "amountOff": 60
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -16588,9 +16597,10 @@
             "apparel": null,
             "baseColors": [],
             "collectible": null,
-            "priceRange({\"type\":\"ALL\"})": "$60+",
+            "priceRange({\"type\":\"ALL\"})": "$10 - $19.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
-              "$60+"
+              "On sale",
+              "$10 - $19.99"
             ],
             "controller": null,
             "corePlatforms": [
@@ -16611,15 +16621,17 @@
               "Save Data Cloud"
             ],
             "plush": null,
-            "priceRange": "$40+",
+            "priceRange": "$10 - $19.99",
             "priceRangeFilter": [
-              "$40+"
+              "On sale",
+              "$10 - $19.99"
             ],
             "productType": [
               "Games"
             ],
             "replacementPart": null,
             "topLevelFilters": [
+              "Deals",
               "Demo available",
               "Games with DLC"
             ],
@@ -16754,7 +16766,7 @@
           },
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": null,
+            "discountPriceEnd": "2026-12-03T07:59:59Z",
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16777,12 +16789,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 89.99,
-            "finalPrice": 89.99,
+            "finalPrice": 22.49,
             "pricePerUnit": null,
-            "percentOff": 0,
-            "amountOff": 0
+            "percentOff": 75.01,
+            "amountOff": 67.5
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -16921,7 +16933,7 @@
           "dlcType": null,
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
-            "discountPriceEnd": "2026-11-22T23:59:59Z",
+            "discountPriceEnd": null,
             "goldPoints": 0,
             "baseGoldPoints": 0,
             "goldPointOfferValue": null,
@@ -16944,12 +16956,12 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "CAD",
-            "discounted": true,
+            "discounted": false,
             "regularPrice": 34.99,
-            "finalPrice": 13.99,
+            "finalPrice": 34.99,
             "pricePerUnit": null,
-            "percentOff": 60.02,
-            "amountOff": 21
+            "percentOff": 0,
+            "amountOff": 0
           },
           "productImage": {
             "__typename": "CloudinaryAsset",
@@ -17049,10 +17061,9 @@
             "apparel": null,
             "baseColors": [],
             "collectible": null,
-            "priceRange({\"type\":\"ALL\"})": "$10 - $19.99",
+            "priceRange({\"type\":\"ALL\"})": "$20 - $39.99",
             "priceRangeFilter({\"type\":\"ALL\"})": [
-              "On sale",
-              "$10 - $19.99"
+              "$20 - $39.99"
             ],
             "controller": null,
             "corePlatforms": [
@@ -17072,18 +17083,15 @@
               "Save Data Cloud"
             ],
             "plush": null,
-            "priceRange": "$10 - $19.99",
+            "priceRange": "$20 - $39.99",
             "priceRangeFilter": [
-              "On sale",
-              "$10 - $19.99"
+              "$20 - $39.99"
             ],
             "productType": [
               "Games"
             ],
             "replacementPart": null,
-            "topLevelFilters": [
-              "Deals"
-            ],
+            "topLevelFilters": [],
             "toy": []
           },
           "franchise": null,
@@ -17281,10 +17289,10 @@
               "__ref": "Category:nintendo_3ds_family"
             },
             {
-              "__ref": "Category:games"
+              "__ref": "Category:nintendo_switch"
             },
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:games"
             }
           ],
           "edition": "Standard Edition",
@@ -17572,10 +17580,10 @@
           "backgroundColor": "d6f0fa",
           "categories": [
             {
-              "__ref": "Category:nintendo_switch"
+              "__ref": "Category:nintendo_3ds_family"
             },
             {
-              "__ref": "Category:nintendo_3ds_family"
+              "__ref": "Category:nintendo_switch"
             },
             {
               "__ref": "Category:games"
@@ -17985,7 +17993,7 @@
   "query": {
     "slug": "coral-island-switch-2"
   },
-  "buildId": "cC8aJ885DEifwyKjZlyft",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
