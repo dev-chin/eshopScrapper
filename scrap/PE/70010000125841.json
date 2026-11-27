@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795462901/store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 802243,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795462901,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940",
+                "created_at": "2026-11-23T19:41:41Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795462901/store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2464,7 +2475,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": null
             }
           ],
@@ -2600,7 +2611,7 @@
             "@type": "Offer",
             "url": "/es-pe/store/products/gt-racing-pro-switch/",
             "priceCurrency": "PEN",
-            "price": "188.15",
+            "price": "10.05",
             "seller": {
               "@type": "Organization",
               "@id": "https://www.nintendo.com/us#organization",
@@ -2734,6 +2745,222 @@
           "id": "nintendo_3ds_family",
           "name": "Nintendo 3DS Family"
         },
+        "Product:{\"sku\":\"7500084264\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Nuevos lanzamientos",
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000084264",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "GT Racing Pro Expansion Pack #1",
+          "nsuid": "70050000084264",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 3.75,
+            "finalPrice": 3.75,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000084264/3e5a77a2d965e9f2eed51ecbd4fbb6c0dbcec94d56f01900817c5765793301a4",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-11-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500084264",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "gt-racing-pro-expansion-pack-1-70050000084264-switch"
+        },
+        "Product:{\"sku\":\"7500084265\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Nuevos lanzamientos",
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000084265",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "GT Racing Pro Expansion Pack #2",
+          "nsuid": "70050000084265",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 3.75,
+            "finalPrice": 3.75,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000084265/b01df7c412df5cce20bcfd00f3b3802d6cb93fb1aa892e0d75f443d6d154a7b3",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-11-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500084265",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "gt-racing-pro-expansion-pack-2-70050000084265-switch"
+        },
+        "Product:{\"sku\":\"7500084266\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Nuevos lanzamientos",
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000084266",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "GT Racing Pro Expansion Pack #3",
+          "nsuid": "70050000084266",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 3.75,
+            "finalPrice": 3.75,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000084266/b6510e2fd7dc99438b0c3e7e551d4e3253904eb1014154818eb66f7de1c3fbcc",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-11-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500084266",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "gt-racing-pro-expansion-pack-3-70050000084266-switch"
+        },
+        "Product:{\"sku\":\"7500084267\"}": {
+          "__typename": "Product",
+          "availability": [
+            "Nuevos lanzamientos",
+            "Disponible ya"
+          ],
+          "demoNsuid": null,
+          "dlcType": {
+            "__typename": "DlcType",
+            "label": "Individual",
+            "code": "INDIVIDUAL"
+          },
+          "exclusive": null,
+          "facets": {
+            "__typename": "Facets",
+            "corePlatforms": [
+              "Nintendo Switch"
+            ]
+          },
+          "id": "70050000084267",
+          "isSalableQty": true,
+          "locale": "es_PE",
+          "name": "GT Racing Pro Expansion Pack #4",
+          "nsuid": "70050000084267",
+          "platform": {
+            "__typename": "Platform",
+            "label": "Nintendo Switch",
+            "code": "NINTENDO_SWITCH"
+          },
+          "prices({\"personalized\":false})": {
+            "__typename": "Prices",
+            "currency": "PEN",
+            "discounted": false,
+            "regularPrice": 3.75,
+            "finalPrice": 3.75,
+            "pricePerUnit": null
+          },
+          "productImage": {
+            "__typename": "CloudinaryAsset",
+            "publicId": "store/software/switch/70050000084267/5e0ff6c5b4e23d59c5d6aad7b8670585b70739ac55b827ff684b1ef17e2bb87b",
+            "resourceType": "image",
+            "type": "upload"
+          },
+          "releaseDate": "2026-11-27T00:00:00.000Z",
+          "releaseDateDisplay": null,
+          "showWidely": true,
+          "sku": "7500084267",
+          "topLevelCategory": {
+            "__typename": "TopLevelCategory",
+            "code": "GAMES",
+            "label": "Juegos"
+          },
+          "urlKey": "gt-racing-pro-expansion-pack-4-70050000084267-switch"
+        },
         "Product:{\"sku\":\"7100125841\"}": {
           "__typename": "Product",
           "compatibility": {
@@ -2758,9 +2985,9 @@
           "prices({\"personalized\":false})": {
             "__typename": "Prices",
             "currency": "PEN",
-            "discounted": false,
+            "discounted": true,
             "regularPrice": 188.15,
-            "finalPrice": 188.15,
+            "finalPrice": 10.05,
             "pricePerUnit": null
           },
           "productImage": {
@@ -2801,7 +3028,8 @@
           "applicationId": "01005e7028566000",
           "appStoreUrl": null,
           "availability": [
-            "Próximos lanzamientos"
+            "Nuevos lanzamientos",
+            "Disponible ya"
           ],
           "baseSoftware": [],
           "categories": [
@@ -2830,10 +3058,10 @@
           "eshopDetails({\"personalized\":false})": {
             "__typename": "EshopDetails",
             "isPreorderable": false,
-            "isPurchasable": false,
-            "goldPoints": null,
-            "purchaseUrl": null,
-            "discountPriceEnd": null
+            "isPurchasable": true,
+            "goldPoints": 0,
+            "purchaseUrl": "https://ec.nintendo.com/title_purchase_confirm?title=70010000125841&v_loggedin=false&v_currency=PEN&v_price=10.05&v_country=PE",
+            "discountPriceEnd": "2026-12-19T07:59:59Z"
           },
           "exclusive": null,
           "facets": {
@@ -2877,7 +3105,20 @@
           "publisherNotifications({\"html\":true})": null,
           "relatedArticles": [],
           "qtyAllowedPerCustomer": null,
-          "downloadableContents": [],
+          "downloadableContents": [
+            {
+              "__ref": "Product:{\"sku\":\"7500084264\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500084265\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500084266\"}"
+            },
+            {
+              "__ref": "Product:{\"sku\":\"7500084267\"}"
+            }
+          ],
           "requiresLogin": null,
           "requiresCoupon": null,
           "requiresSubscription": false,
@@ -2899,13 +3140,13 @@
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "4572839936",
+                "totalRomSize": "4888461312",
                 "platform": "HAC"
               },
               {
                 "__typename": "RomSize",
                 "estimatedRomSize": null,
-                "totalRomSize": "4572839936",
+                "totalRomSize": "4888461312",
                 "platform": "BEE"
               }
             ]
