@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795462901/store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 802243,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795462901,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940",
+                "created_at": "2026-11-23T19:41:41Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795462901/store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2464,7 +2475,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": null
             }
           ],
@@ -2570,7 +2581,28 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/role-playing-games",
+          "label": "Juego de rol"
+        },
+        {
+          "url": "/store/games/tags/pixel-art-games",
+          "label": "Arte pixelado"
+        },
+        {
+          "url": "/store/games/tags/raise-your-stats-games",
+          "label": "Mejora tus atributos"
+        },
+        {
+          "url": "/store/games/tags/roguelike-games",
+          "label": "Niveles y mapas aleatorios"
+        },
+        {
+          "url": "/store/games/tags/games-with-random-maps-levels",
+          "label": "Recomenzar de cero tras las derrotas"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000133272/b7247045ce7690387107e803846b70cbadf84797d60220767516cedd14894e6f"
       },
@@ -2763,8 +2795,35 @@
           "url({\"relative\":true})": "/es-mx/store/products/thysiastery-switch/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "PIXEL_ART",
+                "label": "Arte pixelado"
+              },
+              {
+                "__typename": "Tag",
+                "code": "GROWTH",
+                "label": "Mejora tus atributos"
+              },
+              {
+                "__typename": "Tag",
+                "code": "REPLAYABLE_MAP",
+                "label": "Niveles y mapas aleatorios"
+              },
+              {
+                "__typename": "Tag",
+                "code": "STARTING_OVER",
+                "label": "Recomenzar de cero tras las derrotas"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ROLE_PLAYING",
+                "label": "Juego de rol"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3049,7 +3108,7 @@
   "query": {
     "slug": "thysiastery-switch"
   },
-  "buildId": "SHybWvCxiwOikeT8hv1KP",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,

@@ -146,18 +146,29 @@
               "url": "/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
               "icon": null,
               "image": {
-                "url": "http://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
-                "tags": [],
+                "url": "http://assets.nintendo.com/image/upload/v1795462901/store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940.jpg",
+                "tags": [
+                  "70010000130792",
+                  "70010000130792-C"
+                ],
                 "type": "upload",
-                "bytes": 960941,
+                "bytes": 802243,
                 "width": 1920,
                 "format": "jpg",
                 "height": 1080,
-                "version": 1788887970,
+                "version": 1795462901,
                 "metadata": {},
-                "public_id": "ncom/en_US/merchandising/feature-banner/2026/Zelda 40th Anniversary/Ocarina_of_Time",
-                "created_at": "2026-09-08T17:19:30Z",
-                "secure_url": "https://assets.nintendo.com/image/upload/v1788887970/ncom/en_US/merchandising/feature-banner/2026/Zelda%2040th%20Anniversary/Ocarina_of_Time.jpg",
+                "context": {
+                  "custom": {
+                    "en-CA:70010000130792": "1",
+                    "en-CA:70010000130792-C": "1",
+                    "en-US:70010000130792": "1",
+                    "en-US:70010000130792-C": "1"
+                  }
+                },
+                "public_id": "store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940",
+                "created_at": "2026-11-23T19:41:41Z",
+                "secure_url": "https://assets.nintendo.com/image/upload/v1795462901/store/software/switch2/70010000130792/b7e880a0e35b13823754e660a362e6b56b5a9a16dcb74f54abc0a2a3142de940.jpg",
                 "resource_type": "image"
               },
               "hideOn": null,
@@ -2464,7 +2475,7 @@
             },
             {
               "__contentType": "moduleRichText",
-              "__entryId": "3YVISk8XezYDkd7UI5hy3q",
+              "__entryId": "3dJHNqpT9yVhZv86VhYXhw",
               "richText": null
             }
           ],
@@ -2570,7 +2581,24 @@
       "campaigns": [],
       "isEcApp": false,
       "merchBanner": null,
-      "customProductTags": [],
+      "customProductTags": [
+        {
+          "url": "/store/games/tags/action-games",
+          "label": "Acción"
+        },
+        {
+          "url": "/store/games/tags/adventure-games",
+          "label": "Aventura"
+        },
+        {
+          "url": "/store/games/tags/games-with-puzzle-solving-elements",
+          "label": "Acertijos y deducción"
+        },
+        {
+          "url": "/store/games/tags/stealth-games",
+          "label": "Sigilo"
+        }
+      ],
       "openGraph": {
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000138505/1ed5219291c9890c9204e01b0cec7c026d06d8b3108a420c3271274082ec6c0f"
       },
@@ -2757,8 +2785,30 @@
           "url({\"relative\":true})": "/es-pe/store/products/eriksholm-the-stolen-dream-switch-2/",
           "tags": {
             "__typename": "Tags",
-            "features": [],
-            "genres": [],
+            "features": [
+              {
+                "__typename": "Tag",
+                "code": "MYSTERY",
+                "label": "Acertijos y deducción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "STEALTH",
+                "label": "Sigilo"
+              }
+            ],
+            "genres": [
+              {
+                "__typename": "Tag",
+                "code": "ACTION",
+                "label": "Acción"
+              },
+              {
+                "__typename": "Tag",
+                "code": "ADVENTURE",
+                "label": "Aventura"
+              }
+            ],
             "waysToPlay": []
           },
           "accessibilityTags": null,
@@ -3053,7 +3103,7 @@
   "query": {
     "slug": "eriksholm-the-stolen-dream-switch-2"
   },
-  "buildId": "SHybWvCxiwOikeT8hv1KP",
+  "buildId": "kA0Pp1aBoNTf8C30vqL6F",
   "assetPrefix": "/us",
   "isFallback": false,
   "isExperimentalCompile": false,
